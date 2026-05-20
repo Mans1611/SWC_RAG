@@ -1,0 +1,3439 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم في الفيديو ده ان شاء الله",
+        "start": 0.199,
+        "end": 7.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 1,
+        "text": "هنكمل في سلسله الانفنات سيرس وهنكمل برضو",
+        "start": 2.919,
+        "end": 10.4,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 2,
+        "text": "هنرجع تاني للتست بتاعه الانف سيرس",
+        "start": 7.16,
+        "end": 13.879999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 3,
+        "text": "وهنتكلم في الفيديو ده عن الروت تست",
+        "start": 10.4,
+        "end": 15.799,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 4,
+        "text": "الاختبارات اللي احنا كنا اخدناها قبل كده",
+        "start": 13.88,
+        "end": 19.560000000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 5,
+        "text": "كانت اختبارات عباره انها بتقيس مدى تقارب",
+        "start": 15.799,
+        "end": 21.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 6,
+        "text": "الانفانيت سيرس اللي احنا كنا بنبقى",
+        "start": 19.56,
+        "end": 24.799999999999997,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 7,
+        "text": "واخدينها سواء كانت انفانيت سيرس بتتقارب",
+        "start": 21.279,
+        "end": 27.84,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 8,
+        "text": "او بتتباعد كان كل هم في السيرس اللي",
+        "start": 24.8,
+        "end": 29.759,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 9,
+        "text": "بيبقى مديها لي اللي هي كانت بتبقى بقى",
+        "start": 27.84,
+        "end": 33.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 10,
+        "text": "انفاينايت كان كل ان انا اكتشف هل هي",
+        "start": 29.759,
+        "end": 35.84,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 11,
+        "text": "بتتقارب ولا بتتباعد كنا اخدنا الانتجرال",
+        "start": 33.0,
+        "end": 38.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 12,
+        "text": "تست وكنا اخدنا الريشيو تست في الفيديو ده",
+        "start": 35.84,
+        "end": 41.559000000000005,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 13,
+        "text": "برض هناخد هناخد الروت تست اختبار اسمه",
+        "start": 38.04,
+        "end": 44.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 14,
+        "text": "الروت تست او اختبار",
+        "start": 41.559,
+        "end": 46.76,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 15,
+        "text": "الجذر يعني وكده فانت عندك انفنايت سيريز",
+        "start": 44.039,
+        "end": 48.68,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 16,
+        "text": "بالشكل ده كده زي ما هي موجوده هو طالب",
+        "start": 46.76,
+        "end": 50.879,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 17,
+        "text": "منك بكل بساطه او زي ما احنا عارفين او زي",
+        "start": 48.68,
+        "end": 53.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 18,
+        "text": "ما احنا متعودين عايزك تعرف الانفاينيت",
+        "start": 50.879,
+        "end": 56.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 19,
+        "text": "سيريز دي هل بتتقارب ولا بتتباعد ا مش",
+        "start": 53.0,
+        "end": 59.28,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 20,
+        "text": "طالب منك انك تكون شفت",
+        "start": 56.92,
+        "end": 62.28,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 21,
+        "text": "التستس اللي فات او الاختبارات اللي فاتت",
+        "start": 59.28,
+        "end": 64.32000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 22,
+        "text": "بس لو انت شفتها هيكون افضل وهيسهل عليك",
+        "start": 62.28,
+        "end": 66.6,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 23,
+        "text": "جدا من فهم الحاجات دي يعني بس هو ما",
+        "start": 64.32,
+        "end": 69.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 24,
+        "text": "بيعتمدش على الاختبارات اللي فاتت فلو",
+        "start": 66.6,
+        "end": 71.39999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 25,
+        "text": "احنا جينا للانفينيت سيرس او لو احنا",
+        "start": 69.88,
+        "end": 73.96,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 26,
+        "text": "خلينا بقى نشوف الروت تست بيتكلم في ايه",
+        "start": 71.4,
+        "end": 76.24000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 27,
+        "text": "او بيقوللك ايه بيقوللك اول حاجه ان انا",
+        "start": 73.96,
+        "end": 78.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 28,
+        "text": "عندي ان بكل بساطه انا عندي دي هي عباره",
+        "start": 76.24,
+        "end": 82.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 29,
+        "text": "ان هي دي الفورمولا بتاع الترمز بتاعتي",
+        "start": 78.88,
+        "end": 83.83999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 30,
+        "text": "ودي عندي هي عباره عن ان هي علامه السمشن",
+        "start": 82.24,
+        "end": 85.67999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 31,
+        "text": "زي ما احنا عارفين ودي انا بقوللك هنا ان",
+        "start": 83.84,
+        "end": 88.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 32,
+        "text": "السيريز بتاعتي رايحه للانفينتي فانا بقول",
+        "start": 85.68,
+        "end": 91.64,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 33,
+        "text": "لك ان عشان اعرف الانفاينايت سيريز دي هي",
+        "start": 88.92,
+        "end": 93.799,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 34,
+        "text": "رايحه للانفينتي ولا لا انا باخد",
+        "start": 91.64,
+        "end": 97.159,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 35,
+        "text": "الفورمولا بتاعه الترم دي تمام وبحطها تحت",
+        "start": 93.799,
+        "end": 99.84,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 36,
+        "text": "الروت طب تحت الروت بقى هل الجذر التربيعي",
+        "start": 97.159,
+        "end": 101.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 37,
+        "text": "ولا التكعيب يعني هنا الرتبه بتاعه الحد",
+        "start": 99.84,
+        "end": 104.24000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 38,
+        "text": "هتكون ايه قال لك الرتبه بتاعه الحد هتكون",
+        "start": 101.92,
+        "end": 107.159,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 39,
+        "text": "ان يعني هي عباره انها فانكشن اوف ان فانا",
+        "start": 104.24,
+        "end": 109.67999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 40,
+        "text": "عندي هنا ان دي بتمثل لي رتبه الحد الحد",
+        "start": 107.159,
+        "end": 112.24000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 41,
+        "text": "الاولاني الحد الثاني الحد الثالث انا هنا",
+        "start": 109.68,
+        "end": 115.159,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 42,
+        "text": "بقى بقول لك ان الجذر بتاعي هيبقى الرتبه",
+        "start": 112.24,
+        "end": 117.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 43,
+        "text": "بتاعه الجذر بتاعتي هتبقى عباره عن ان هي",
+        "start": 115.159,
+        "end": 120.47900000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 44,
+        "text": "باور ان يعني هتبقى عباره انها ان او لو",
+        "start": 117.56,
+        "end": 122.71900000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 45,
+        "text": "احنا ممكن نكتبها بشكل هي هتبقى عباره ان",
+        "start": 120.479,
+        "end": 126.64,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 46,
+        "text": "هي باور واحد على ان بالشكل ده تمام ايه",
+        "start": 122.719,
+        "end": 129.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 47,
+        "text": "المطلوب بقى مني بعد كده المطلوب مني بعد",
+        "start": 126.64,
+        "end": 132.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 48,
+        "text": "كده زي ما انا كنت بحل مسائل التست قبل",
+        "start": 129.039,
+        "end": 134.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 49,
+        "text": "كده كنا احنا بنقوم واخدين ليمت وكنت بقول",
+        "start": 132.36,
+        "end": 137.4,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 50,
+        "text": "له ان بقى دي اللي هي رتبه الحد بتاعتي لو",
+        "start": 134.44,
+        "end": 139.959,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 51,
+        "text": "هي رايحه للانفينتي ليه بقى لان انا عندي",
+        "start": 137.4,
+        "end": 142.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 52,
+        "text": "دي هي ال ان بتاعتي وعندي دي كانت هي ايه",
+        "start": 139.959,
+        "end": 145.64000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 53,
+        "text": "دي كان عندي هي قيمه الحد فانا بقول لك",
+        "start": 142.72,
+        "end": 148.239,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 54,
+        "text": "طول ما ان عندي هنا رايحه للانفينتي",
+        "start": 145.64,
+        "end": 150.55999999999997,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 55,
+        "text": "بالشكل ده انا عايزك تشوف لي هل هي",
+        "start": 148.239,
+        "end": 152.31900000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 56,
+        "text": "بتكونفرجنس في الشكل اللي هو اللون",
+        "start": 150.56,
+        "end": 154.4,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 57,
+        "text": "البرتقاني ده ساعتها هي بتكونفرج او",
+        "start": 152.319,
+        "end": 157.35999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 58,
+        "text": "بتتقارب من قيمه معينه ولا هل هي",
+        "start": 154.4,
+        "end": 159.959,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 59,
+        "text": "بالدايفرجنس بالشكل ده كده طول ما ان عندي",
+        "start": 157.36,
+        "end": 163.239,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 60,
+        "text": "بتزيد طول ما القيمه بتاعه السميشن عندي",
+        "start": 159.959,
+        "end": 166.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 61,
+        "text": "عماله هي كمان تزيد فهو ده كل اللي انا",
+        "start": 163.239,
+        "end": 168.28,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 62,
+        "text": "طالبه منك فكل اللي انت هتعمله ان انت",
+        "start": 166.04,
+        "end": 171.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 63,
+        "text": "هتاخد الاي اوف ان ده اللي هي الفورمولا",
+        "start": 168.28,
+        "end": 174.879,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 64,
+        "text": "بتاعه السيريز وهتحطها تحت هتحطها تحت",
+        "start": 171.72,
+        "end": 177.68,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 65,
+        "text": "الروت وهتكون عندك رتبه الروت عندك هتبقى",
+        "start": 174.879,
+        "end": 180.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 66,
+        "text": "هي عباره ان هو هي عباره ان هي فانكشن اوف",
+        "start": 177.68,
+        "end": 183.08,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 67,
+        "text": "ايه فانكشن اوف ال ان بالشكل ده كده",
+        "start": 180.44,
+        "end": 185.319,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 68,
+        "text": "وهتقوم قايل بقى لو كانت عندي هنا ان ايه",
+        "start": 183.08,
+        "end": 188.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 69,
+        "text": "ان هنا لو كانت عندي بالشكل ده ان لو كانت",
+        "start": 185.319,
+        "end": 191.2,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 70,
+        "text": "رايحه للانفينتي زي ما قلت لك قبل كده ده",
+        "start": 188.12,
+        "end": 195.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 71,
+        "text": "شكل تاني من شكل الفورمولا وخلي بالك ان",
+        "start": 191.2,
+        "end": 196.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 72,
+        "text": "الليمت ده في الاخر هيطلع لك قيمه يعني",
+        "start": 195.12,
+        "end": 199.64000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 73,
+        "text": "سواء كان هيطلع لك رقم خمسه سته قيمه",
+        "start": 196.56,
+        "end": 202.76,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 74,
+        "text": "معينه فاحنا هنرمز للقيمه دي هنرمز لها",
+        "start": 199.64,
+        "end": 206.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 75,
+        "text": "انها تكون برمز ال بالشكل ده فالخر هي",
+        "start": 202.76,
+        "end": 209.439,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 76,
+        "text": "عباره ان هي بتعبر لي عن انها رقم طيب انا",
+        "start": 206.48,
+        "end": 212.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 77,
+        "text": "بقى خلاص انا عملت التست وطلعت قيمه ال",
+        "start": 209.439,
+        "end": 215.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 78,
+        "text": "انا بقى دلوقتي عايز اعرف هل الانفاينايت",
+        "start": 212.0,
+        "end": 218.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 79,
+        "text": "سيريز بتاعتي دي هل هي بتتقارب ولا",
+        "start": 215.48,
+        "end": 222.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 80,
+        "text": "بتتباعد قاللك في حاله ان ال اللي معاك دي",
+        "start": 218.56,
+        "end": 224.92000000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 81,
+        "text": "كانت اكبر من الواحد فساعتها انت تقدر",
+        "start": 222.04,
+        "end": 228.519,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 82,
+        "text": "تقول على دي انها بتدايفرج في حاله ان ال",
+        "start": 224.92,
+        "end": 231.23899999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 83,
+        "text": "دي كانت اقل من الواحد فانت الانفايت",
+        "start": 228.519,
+        "end": 233.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 84,
+        "text": "سيريز بتاعك زي ما احنا كنا اخدنا في",
+        "start": 231.239,
+        "end": 235.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 85,
+        "text": "الريشي تست الفاينايت سيريز بتاعك هتكون",
+        "start": 233.04,
+        "end": 238.07899999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 86,
+        "text": "عباره عن انها ايه انها بتكونفرج طيب في",
+        "start": 235.0,
+        "end": 241.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 87,
+        "text": "حاله بقى ان هي كانت طلعت بقى لسوق حظك",
+        "start": 238.079,
+        "end": 243.68,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 88,
+        "text": "انها طلعت بواحد فالتست ده برض هيكون",
+        "start": 241.04,
+        "end": 246.67999999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 89,
+        "text": "بيفيل وانت ممكن ان انت تروح لتست تاني",
+        "start": 243.68,
+        "end": 248.4,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 90,
+        "text": "طبعا هنا ال لو كانت واحد فهو بيقول لك",
+        "start": 246.68,
+        "end": 251.20000000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 91,
+        "text": "انها ممكن انها تكون بتاسليوت كونفرج يعني",
+        "start": 248.4,
+        "end": 255.28,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 92,
+        "text": "هل هي كونفيرج فعلا على الاستيرز كلها ولا",
+        "start": 251.2,
+        "end": 257.239,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 93,
+        "text": "بتبقى ريلتيفلي",
+        "start": 255.28,
+        "end": 259.68,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 94,
+        "text": "كونفرج والى اخره بس انت لو عندك ثلاث",
+        "start": 257.239,
+        "end": 261.75899999999996,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 95,
+        "text": "بواحد فانت بالنسبه لك خلاص انت التست ده",
+        "start": 259.68,
+        "end": 266.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 96,
+        "text": "فشل وحاول ان انت تشوف تستاني غير غير",
+        "start": 261.759,
+        "end": 268.759,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 97,
+        "text": "الروت تست طبعا واحد يقول لي طب لو لو انا",
+        "start": 266.0,
+        "end": 271.4,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 98,
+        "text": "وصلت للكيس دي لو انا وصلت عندي ان كانت",
+        "start": 268.759,
+        "end": 274.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 99,
+        "text": "ال فعلا عندي هنا طلعت بواحد انا هروح انا",
+        "start": 271.4,
+        "end": 277.35999999999996,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 100,
+        "text": "هروح فين؟ انا هروح للريشيو تست احب اقول",
+        "start": 274.36,
+        "end": 279.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 101,
+        "text": "لك ان الريشيو تست القيمه اللي بتطلع لك",
+        "start": 277.36,
+        "end": 281.91900000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 102,
+        "text": "من ال هنا ال اللي هتطلع لك من هنا هتكون",
+        "start": 279.36,
+        "end": 285.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 103,
+        "text": "هي نفسها نفس الال اللي هتطلع لك في",
+        "start": 281.919,
+        "end": 288.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 104,
+        "text": "الريشيو تست يعني انا بختصر عليك بقول لك",
+        "start": 285.0,
+        "end": 290.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 105,
+        "text": "لو التست ده فشل ما تروحش ليه الريشيو تست",
+        "start": 288.44,
+        "end": 293.28,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 106,
+        "text": "طبعا هنا هي اسمها ريشيو مش ريشيو ماشي",
+        "start": 290.88,
+        "end": 296.08,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 107,
+        "text": "طيب انا عندي ده هو المثال الاولاني اللي",
+        "start": 293.28,
+        "end": 298.59999999999997,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 108,
+        "text": "موجود معايا بيقول لي هنا انا عايز",
+        "start": 296.08,
+        "end": 300.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 109,
+        "text": "الانفاينايت سيريز بالشكل ده كده وكانت",
+        "start": 298.6,
+        "end": 303.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 110,
+        "text": "عندي هنا ان رايحه بواحد بنسبه كبيره في",
+        "start": 300.639,
+        "end": 304.96000000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 111,
+        "text": "المسائل الانفاينات سيريز لما انا احب",
+        "start": 303.24,
+        "end": 308.919,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 112,
+        "text": "اديك التست ا بالشكل ده انت ما تكونش اصلا",
+        "start": 304.96,
+        "end": 311.08,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 113,
+        "text": "تفرق معاك قيمه ان اللي بتبدا من عندها",
+        "start": 308.919,
+        "end": 312.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 114,
+        "text": "يعني انت ما بتفرقش معاك هي بدات من ان",
+        "start": 311.08,
+        "end": 315.15999999999997,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 115,
+        "text": "بتساوي سته ولا سبعه ما تفرقش معاك تمام",
+        "start": 312.639,
+        "end": 318.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 116,
+        "text": "في المسائل دي هنا طالب منك طبعا بيقول لك",
+        "start": 315.16,
+        "end": 320.319,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 117,
+        "text": "ايه بيقول لك شوف لي التست دي او شوف لي",
+        "start": 318.039,
+        "end": 322.31899999999996,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 118,
+        "text": "عفوا الانفاينايت سيريز دي هل هي",
+        "start": 320.319,
+        "end": 324.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 119,
+        "text": "بتكونفيرج ولا بتدايف",
+        "start": 322.319,
+        "end": 326.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 120,
+        "text": "طبعا احنا القانون عندنا كان بيقوللك ايه؟",
+        "start": 324.36,
+        "end": 328.52000000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 121,
+        "text": "كان بيقوللك اصلا انا دي كلها عندي دي",
+        "start": 326.24,
+        "end": 331.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 122,
+        "text": "كلها بتمثل لي ايه؟ دي كلها هي عباره ان",
+        "start": 328.52,
+        "end": 333.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 123,
+        "text": "هي اي باور ان طب القانون كان بيقول لي",
+        "start": 331.24,
+        "end": 335.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 124,
+        "text": "ايه؟ القانون كان بيقول لي ان ال اللي هي",
+        "start": 333.44,
+        "end": 338.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 125,
+        "text": "عباره ان هي الرقم هي عباره ان هي الليت",
+        "start": 335.88,
+        "end": 341.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 126,
+        "text": "لو كانت عندي هنا ان طبعا رايحه للانفينتي",
+        "start": 338.88,
+        "end": 343.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 127,
+        "text": "لان دي انفاينايت سيريز وانا ان عندي",
+        "start": 341.56,
+        "end": 346.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 128,
+        "text": "بتكون رايحه للانفايت رايحه الى ما لا",
+        "start": 343.8,
+        "end": 349.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 129,
+        "text": "نهايه واقوم قال لك انا عندي بقى قيمه الا",
+        "start": 346.36,
+        "end": 352.47900000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 130,
+        "text": "ان نفسها قيمه الا ان بالشكل ده وهتبقى هي",
+        "start": 349.039,
+        "end": 356.479,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 131,
+        "text": "عباره الا ان كلها تحت او باور واحد على",
+        "start": 352.479,
+        "end": 359.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 132,
+        "text": "ان او لو انت هتو هتقوم ق هي عباره هنا",
+        "start": 356.479,
+        "end": 361.59999999999997,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 133,
+        "text": "انها ايه؟ عباره انها الروت بالشكل ده",
+        "start": 359.12,
+        "end": 364.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 134,
+        "text": "تبقى هي عباره انها الروت بالشكل ده بس",
+        "start": 361.6,
+        "end": 366.319,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 135,
+        "text": "انا بحب اكتبها ايه اكتبها واحد على ان",
+        "start": 364.039,
+        "end": 368.71999999999997,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 136,
+        "text": "بالشكل ده طيب انا عايز اوفر على نفسي",
+        "start": 366.319,
+        "end": 371.08000000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 137,
+        "text": "وعايز ارجع في الخطوات شويه هقوم كاتب بقى",
+        "start": 368.72,
+        "end": 373.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 138,
+        "text": "قيمه هنا الاي ان كلها يعني هقوم ناقب دي",
+        "start": 371.08,
+        "end": 376.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 139,
+        "text": "كده كلها دي عباره دي كلها عن انها الاي",
+        "start": 373.639,
+        "end": 378.199,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 140,
+        "text": "ان فاناقوم قايل هنا قيمه الا ان هي عباره",
+        "start": 376.24,
+        "end": 379.919,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 141,
+        "text": "عنها ايه فهتبقى عندي الا ان هي عباره",
+        "start": 378.199,
+        "end": 383.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 142,
+        "text": "عنها ان باور ان وعندي تحت في المقام",
+        "start": 379.919,
+        "end": 388.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 143,
+        "text": "3 باور واحد زائد اين باور ان بالشكل ده",
+        "start": 383.24,
+        "end": 391.40000000000003,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 144,
+        "text": "تمام دي كلها بقى الجزء ده كده كله اسمه",
+        "start": 388.039,
+        "end": 393.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 145,
+        "text": "الاي ان طب انا قايل لك ايه في القانون",
+        "start": 391.4,
+        "end": 395.75899999999996,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 146,
+        "text": "بتاعك انا كنت قايل لك ان هي عباره انها",
+        "start": 393.24,
+        "end": 397.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 147,
+        "text": "الاي ان باور واحده خلينا احنا نكتب",
+        "start": 395.759,
+        "end": 399.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 148,
+        "text": "القانون عشان ايه ما نتلخبطش يعني عباره",
+        "start": 397.72,
+        "end": 401.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 149,
+        "text": "ان هي الليت لو كانت عندك هنا ان رايحه",
+        "start": 399.72,
+        "end": 404.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 150,
+        "text": "للانفينتي وعندي هنا عباره انها الاي ان",
+        "start": 401.8,
+        "end": 407.479,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 151,
+        "text": "بالشكل ده باور واحد على ان تمام هو ده",
+        "start": 404.36,
+        "end": 411.52000000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 152,
+        "text": "القانون بتاع الروت تست تمام طيب احنا بقى",
+        "start": 407.479,
+        "end": 413.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 153,
+        "text": "نقوم قايلين هنا ايه الجزء الجديد علينا",
+        "start": 411.52,
+        "end": 415.479,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 154,
+        "text": "اللي هو الجزء ده فهو قال هنا ان هي عباره",
+        "start": 413.56,
+        "end": 418.479,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 155,
+        "text": "انها واحد على ان بالشكل ده كده كل",
+        "start": 415.479,
+        "end": 421.4,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 156,
+        "text": "المطلوب بقى منك بعد كده ان انت تحل",
+        "start": 418.479,
+        "end": 424.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 157,
+        "text": "الليمت ده وتشوف الليمت ده هيطلع لك بايه",
+        "start": 421.4,
+        "end": 426.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 158,
+        "text": "طيب ايه اللي انا ممكن اعمله اللي انا",
+        "start": 424.12,
+        "end": 429.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 159,
+        "text": "ممكن اعمله ان انا ابسط المقدار ده ابسط",
+        "start": 426.039,
+        "end": 431.08,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 160,
+        "text": "المقدار ده ازاي انا عندي دي عباره هنا",
+        "start": 429.16,
+        "end": 433.47900000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 161,
+        "text": "انها واحد على ان وعندي هنا بسط ومقام انا",
+        "start": 431.08,
+        "end": 435.96,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 162,
+        "text": "ممكن اعمل ايه انا ممكن اقوم موزع دي كده",
+        "start": 433.479,
+        "end": 439.199,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 163,
+        "text": "واقوم موزع دي تحت هنا في المقام فهتبقى",
+        "start": 435.96,
+        "end": 441.08,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 164,
+        "text": "عندي المساله عندي هي عباره عن انها ايه",
+        "start": 439.199,
+        "end": 443.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 165,
+        "text": "ان عندي هنا ال هي عباره هنا ان هي ليمت",
+        "start": 441.08,
+        "end": 445.75899999999996,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 166,
+        "text": "لو كانت عندي هنا ان رايحه للانفينتي",
+        "start": 443.639,
+        "end": 447.759,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 167,
+        "text": "بالشكل ده واقوم قايل ان انا عندي هي",
+        "start": 445.759,
+        "end": 450.96000000000004,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 168,
+        "text": "عباره هنا انها ان باور بقى كام باور هي",
+        "start": 447.759,
+        "end": 453.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 169,
+        "text": "عباره هنا انها كانت عندي فوق هنا ان على",
+        "start": 450.96,
+        "end": 455.84,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 170,
+        "text": "ان لان الاسات هنا تتضرب في بعض فهتبقى",
+        "start": 453.8,
+        "end": 459.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 171,
+        "text": "عندك هنا دي طبعا تبسيط مقادير جبريه بعد",
+        "start": 455.84,
+        "end": 461.19899999999996,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 172,
+        "text": "كده هقوم قايل هنا انها هتبقى عندي تحت",
+        "start": 459.12,
+        "end": 465.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 173,
+        "text": "هتبقى عندي على تحت الجزء ده كده 3لاه",
+        "start": 461.199,
+        "end": 468.28000000000003,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 174,
+        "text": "باور الواحد زائد ال 2نين ان بالشكل ده",
+        "start": 465.639,
+        "end": 471.599,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 175,
+        "text": "كده وهتبقى هنا مقسومه كام مقسومه هنا على",
+        "start": 468.28,
+        "end": 474.84,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 176,
+        "text": "ال ان فانت اكنك انت وزعت الباور ده اللي",
+        "start": 471.599,
+        "end": 478.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 177,
+        "text": "هو واحد على ان وزعته هنا والاثنين",
+        "start": 474.84,
+        "end": 480.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 178,
+        "text": "هيطيروا مع بعض يعني ازاي هطيروا مع بعض",
+        "start": 478.039,
+        "end": 482.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 179,
+        "text": "يعني انت عندك هنا ال ان هتروح هنا مع ال",
+        "start": 480.44,
+        "end": 484.52,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 180,
+        "text": "ان هنا وهتقوم مدخل بقى ال ان يعني انت دي",
+        "start": 482.039,
+        "end": 487.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 181,
+        "text": "عباره الجزء ده طبعا معلش هي دي تبسيط",
+        "start": 484.52,
+        "end": 489.08,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 182,
+        "text": "مقادير جبريه بس دي هتبقى عباره هنا انها",
+        "start": 487.12,
+        "end": 492.919,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 183,
+        "text": "1 + ا ان على ايه على ان كل ده اللي هو",
+        "start": 489.08,
+        "end": 495.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 184,
+        "text": "الحته دي كده انا بس حبيت ان انا ابسطها",
+        "start": 492.919,
+        "end": 497.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 185,
+        "text": "له فتبقى دي عندك عباره هنا انها ايه",
+        "start": 495.24,
+        "end": 499.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 186,
+        "text": "عباره هنا انها واحد على ان بالشكل ده",
+        "start": 497.12,
+        "end": 502.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 187,
+        "text": "زائد اين على ان على ان هتبقى عباره هنا",
+        "start": 499.72,
+        "end": 504.68,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 188,
+        "text": "انها اثنين لان هتبقى عندك دي كده مع بعض",
+        "start": 502.24,
+        "end": 506.68,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 189,
+        "text": "فهتبقى عباره هنا انها اثنين ده كله بقى",
+        "start": 504.68,
+        "end": 508.84000000000003,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 190,
+        "text": "هتحطه فين؟ هتحطه في الجزئيه دي كده يعني",
+        "start": 506.68,
+        "end": 511.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 191,
+        "text": "هتبقى هي دي الحته اللي موجوده عندك هنا",
+        "start": 508.84,
+        "end": 513.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 192,
+        "text": "بالشكل ده كده طيب لما انا احب اكتب بقى",
+        "start": 511.12,
+        "end": 514.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 193,
+        "text": "المساله في الاخر هتبقى عندي عباره هنا",
+        "start": 513.039,
+        "end": 516.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 194,
+        "text": "انها ازاي هتبقى عندي المساله تبقى عندي",
+        "start": 514.44,
+        "end": 519.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 195,
+        "text": "عباره هنا انها ليمت بالشكل ده كده ان",
+        "start": 516.88,
+        "end": 521.8389999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 196,
+        "text": "عندي هنا رايحه للانفينتي وهتبقى عندي",
+        "start": 519.44,
+        "end": 524.7600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 197,
+        "text": "انها ان باور ان على ان فهتبقى عندي عباره",
+        "start": 521.839,
+        "end": 527.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 198,
+        "text": "هنا انها كام انها ان باور واحد ادي كده",
+        "start": 524.76,
+        "end": 530.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 199,
+        "text": "عندي تحت عباره انها لاثه باور الجزء ده",
+        "start": 527.24,
+        "end": 531.9590000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 200,
+        "text": "اللي اللي هي الحته دي كده فهو قايل هنا",
+        "start": 530.12,
+        "end": 536.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 201,
+        "text": "ان هتبقى عباره عن انها واحد على ان زائد",
+        "start": 531.959,
+        "end": 538.959,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 202,
+        "text": "الاثنين بالشكل ده كده وهتبقى هقوم بقى",
+        "start": 536.24,
+        "end": 541.5600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 203,
+        "text": "اقفل القوس بتاعي واشوف بقى الليمت بتاعي",
+        "start": 538.959,
+        "end": 544.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 204,
+        "text": "لما تكون عندي هنا لما تكون ان عندي هنا",
+        "start": 541.56,
+        "end": 546.8389999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 205,
+        "text": "رايح للانفينتي هتكون عباره عن انها ايه",
+        "start": 544.04,
+        "end": 549.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 206,
+        "text": "اعوض بقى بشكل مباشر لما اكون عندي هنا ان",
+        "start": 546.839,
+        "end": 551.1600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 207,
+        "text": "رايحه للانفينتي واشوف النتيجه اللي طلع",
+        "start": 549.04,
+        "end": 554.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 208,
+        "text": "لي هتكون عامله ازاي طبعا هنا لما انا اجي",
+        "start": 551.16,
+        "end": 556.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 209,
+        "text": "اعوض بانفينتي هتبقى عندي فوق في المقام",
+        "start": 554.04,
+        "end": 558.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 210,
+        "text": "انفينتي لان عندك هنا بقول لك ان ان عندك",
+        "start": 556.04,
+        "end": 560.3199999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 211,
+        "text": "هنا بانفينتي فهتبقى عباره هنا انهافينتي",
+        "start": 558.16,
+        "end": 564.1999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 212,
+        "text": "وهقوم قايل هنا ان انا عندي لاه باور باور",
+        "start": 560.32,
+        "end": 566.839,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 213,
+        "text": "عندي هنا كام باور الواحد على الانفينتي",
+        "start": 564.2,
+        "end": 568.9590000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 214,
+        "text": "فتبقى عندي هنا انها واحد على انفينتي",
+        "start": 566.839,
+        "end": 571.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 215,
+        "text": "زائد الاتنين طبعا بما ان دي كونستنت",
+        "start": 568.959,
+        "end": 573.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 216,
+        "text": "وعندك في الليمت فهتبقى هي يعني الكونستنت",
+        "start": 571.24,
+        "end": 576.519,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 217,
+        "text": "في الليمت بيبقى هو انت عندك واحد على",
+        "start": 573.88,
+        "end": 578.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 218,
+        "text": "انفينتي لما انت تحب تاخد له الليمت بتاعه",
+        "start": 576.519,
+        "end": 581.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 219,
+        "text": "فبيطلع لك بكام واحد على انفينتي بيطلع لك",
+        "start": 578.92,
+        "end": 583.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 220,
+        "text": "لما انت تاخد له الليمت لان الليمت اصلا",
+        "start": 581.24,
+        "end": 586.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 221,
+        "text": "يعني خلي بالك ان الليمت هيخش هنا في",
+        "start": 583.8,
+        "end": 589.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 222,
+        "text": "المقام وهيخش كمان جوه الاس فانا بقول لك",
+        "start": 586.12,
+        "end": 592.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 223,
+        "text": "لما تكون لاه باور واحد على انفينتي طب",
+        "start": 589.16,
+        "end": 594.6,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 224,
+        "text": "انت اصلا الواحد على انفينتي هو رايح لكام",
+        "start": 592.48,
+        "end": 596.64,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 225,
+        "text": "يعني خدها حاول ان انت في الليمت ان انت",
+        "start": 594.6,
+        "end": 599.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 226,
+        "text": "تجزا المساله فبقوللك ان الواحد على",
+        "start": 596.64,
+        "end": 601.8389999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 227,
+        "text": "الانفينتي لما انت تاخد الليمت بتاعها",
+        "start": 599.36,
+        "end": 603.8000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 228,
+        "text": "فتبقى واحد على انفينتي فهي اصلا بتكون",
+        "start": 601.839,
+        "end": 606.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 229,
+        "text": "رايحه على واحد على الانفينتي فهكون انها",
+        "start": 603.8,
+        "end": 608.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 230,
+        "text": "بتساوي زو يعني كل دي اصلا انا ممكن ان",
+        "start": 606.32,
+        "end": 611.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 231,
+        "text": "انا اشيلها واقوم معوض مكانها ان دي اصلا",
+        "start": 608.92,
+        "end": 614.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 232,
+        "text": "هتطلع لي بزيرو فالمساله عندك هتبقى عباره",
+        "start": 611.44,
+        "end": 616.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 233,
+        "text": "عن انها ايه بقى المساله عندك هتبقى عباره",
+        "start": 614.0,
+        "end": 621.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 234,
+        "text": "عن انها انفينتي على لاه باور باور 0 زائد",
+        "start": 616.24,
+        "end": 623.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 235,
+        "text": "اين فهتبقى عندك انها لاه باور انين",
+        "start": 621.0,
+        "end": 625.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 236,
+        "text": "فهتبقى عندك في الاخر انها انفينتي على",
+        "start": 623.16,
+        "end": 627.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 237,
+        "text": "3لاه باور انين فهتبقى عباره هنا انها",
+        "start": 625.36,
+        "end": 630.839,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 238,
+        "text": "انفينتي على ت ودي في الاخر انا بقوللك",
+        "start": 627.48,
+        "end": 633.6800000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 239,
+        "text": "رقم كبير جدا جدا الليها الانفينتي",
+        "start": 630.839,
+        "end": 636.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 240,
+        "text": "انفينتي على بس تسعه فهي هتساوي كام",
+        "start": 633.68,
+        "end": 639.2399999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 241,
+        "text": "هتساوي انها انفينتي فال هنا دي قيمه ايه",
+        "start": 636.0,
+        "end": 641.2,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 242,
+        "text": "كل ده احنا كنا بنحسب قيمه الل فانا عندي",
+        "start": 639.24,
+        "end": 643.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 243,
+        "text": "هنا ال هتطلع لي في الاخر بايه ال هتطلع",
+        "start": 641.2,
+        "end": 646.1600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 244,
+        "text": "لي هنا انها ساعتها هتبقى اكبر من الواحد",
+        "start": 643.32,
+        "end": 649.1600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 245,
+        "text": "انا ممكن اقوم قايل عليها ان هي بالدايفرج",
+        "start": 646.16,
+        "end": 651.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 246,
+        "text": "ليه؟ لان انا عندي هنا قيمه الل في الحاله",
+        "start": 649.16,
+        "end": 655.4399999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 247,
+        "text": "دي طلعت لي انها اكبر من الواحد. المساله",
+        "start": 651.8,
+        "end": 657.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 248,
+        "text": "اللي بعد كده مش عايزين نطول فيها هو نفس",
+        "start": 655.44,
+        "end": 660.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 249,
+        "text": "المثال بالضبط وطالب مني هي بتكونفرج ولا",
+        "start": 657.92,
+        "end": 662.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 250,
+        "text": "بتدايفرجي وخلي بالك ان انت عندك هنا ان",
+        "start": 660.0,
+        "end": 665.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 251,
+        "text": "كانت بتساوي 0 وهي مش هتفرق معايا وهي",
+        "start": 662.279,
+        "end": 668.079,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 252,
+        "text": "برضو هي انفاينايت سيريز بالشكل ده الجزء",
+        "start": 665.24,
+        "end": 671.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 253,
+        "text": "ده كده كله ده كله هو يعتبر ايه الحته دي",
+        "start": 668.079,
+        "end": 674.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 254,
+        "text": "كلها هي تعتبر انها اي باور ان طب القانون",
+        "start": 671.36,
+        "end": 675.6,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 255,
+        "text": "كان بيقول ايه القانون كان بيقول لي ان",
+        "start": 674.279,
+        "end": 677.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 256,
+        "text": "انا باخد الليمت لو ان عندي هنا رايحه",
+        "start": 675.6,
+        "end": 680.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 257,
+        "text": "للانفينتي بقوم قايل الاي ان بالشكل ده",
+        "start": 677.72,
+        "end": 682.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 258,
+        "text": "كده وخلي بالك ان احنا كل مره بننساها",
+        "start": 680.36,
+        "end": 685.5600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 259,
+        "text": "بننسى نحط هنا الابسليوت الابسوت فو للاي",
+        "start": 682.639,
+        "end": 688.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 260,
+        "text": "باور ان او للاي ان يعني وبعد كده بقوم",
+        "start": 685.56,
+        "end": 689.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 261,
+        "text": "قايل بقى الحته بتاعه القانون بتاعي او",
+        "start": 688.0,
+        "end": 692.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 262,
+        "text": "الحته الجديده اللي هي واحد على ان بالشكل",
+        "start": 689.88,
+        "end": 694.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 263,
+        "text": "ده طيب المطلوب بقى مني ايه المطلوب ان",
+        "start": 692.04,
+        "end": 696.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 264,
+        "text": "انا اعوض في القانون ده اقوم قايل عندي",
+        "start": 694.16,
+        "end": 699.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 265,
+        "text": "هنا ان ال هتساوي كام ال هتساوي الليت",
+        "start": 696.399,
+        "end": 701.6,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 266,
+        "text": "بتاعي بالشكل ده كده لو كانت عندي هنا ان",
+        "start": 699.279,
+        "end": 704.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 267,
+        "text": "رايحه للانفينتي بعد كده هقوم بقى معوض",
+        "start": 701.6,
+        "end": 707.0790000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 268,
+        "text": "بقيمه ال ان او بقيمه الاي باور ان انا",
+        "start": 704.56,
+        "end": 709.079,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 269,
+        "text": "عندي الجزء ده كده زي ما اللي انا محدد لك",
+        "start": 707.079,
+        "end": 711.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 270,
+        "text": "عليه بالاصفر ده كله هو الاي باور ان",
+        "start": 709.079,
+        "end": 712.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 271,
+        "text": "بالشكل ده ومره تانيه هيمشي اي باور ان بس",
+        "start": 711.0,
+        "end": 715.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 272,
+        "text": "انا كل مره بطل بخبط وبقولها هنا فما تخدش",
+        "start": 712.88,
+        "end": 718.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 273,
+        "text": "على كلام قوي فهي هنا عندي هنا ان هي الا",
+        "start": 715.32,
+        "end": 720.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 274,
+        "text": "a ا الاي ان فقوم قايل هنا انها هتبقى",
+        "start": 718.0,
+        "end": 722.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 275,
+        "text": "عباره انها ايه تبقى عباره هنا انها 5 ان",
+        "start": 720.72,
+        "end": 728.9200000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 276,
+        "text": "بالشكل ده ناقص 3 ان باور لا على 7 ان",
+        "start": 722.88,
+        "end": 733.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 277,
+        "text": "باور 3 زائد الاتنين كل ده كل ده باور ان",
+        "start": 728.92,
+        "end": 735.8389999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 278,
+        "text": "بالشكل ده بعد كده هقوم قايل لك بقى ايه",
+        "start": 733.72,
+        "end": 737.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 279,
+        "text": "دي الحته بقى بتاعه القانون هقوم ضايف",
+        "start": 735.839,
+        "end": 740.9590000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 280,
+        "text": "الابسليوت بالشكل ده كده وهقوم قايل الجزء",
+        "start": 737.88,
+        "end": 743.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 281,
+        "text": "ده كله انا عايز اخد له ايه انا عايز اخد",
+        "start": 740.959,
+        "end": 746.7199999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 282,
+        "text": "خد له الروت باور واحد على ان دي كلها",
+        "start": 743.32,
+        "end": 748.519,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 283,
+        "text": "الباور واحد على ان دي بتاعه ايه؟ دي",
+        "start": 746.72,
+        "end": 750.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 284,
+        "text": "بتاعه القانون نفس ما هي موجوده هنا نفس",
+        "start": 748.519,
+        "end": 753.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 285,
+        "text": "ما هي موجوده هنا ونفس الجزء ده بتاع",
+        "start": 750.639,
+        "end": 755.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 286,
+        "text": "الجزء ده كده اللي هو بتاع الاي باور ان",
+        "start": 753.92,
+        "end": 758.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 287,
+        "text": "هو ده بالظبط الاي باور ان بالشكل ده كده",
+        "start": 755.72,
+        "end": 761.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 288,
+        "text": "هي المساله بتاعتي لحسن حظي او مش لحسن",
+        "start": 758.399,
+        "end": 764.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 289,
+        "text": "حظي يعني محسن الصدف وربنا شاء ان انا",
+        "start": 761.639,
+        "end": 767.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 290,
+        "text": "عندي هنا ال ان في المساله دي كده فلما",
+        "start": 764.72,
+        "end": 771.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 291,
+        "text": "الباور دي تخش هنا هتطير ال ان يعني انا",
+        "start": 767.639,
+        "end": 773.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 292,
+        "text": "كانت عندي ال ان الباور ان دي موجوده على",
+        "start": 771.399,
+        "end": 777.76,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 293,
+        "text": "القوس كله فلما باور واحد على ان تخش جوه",
+        "start": 773.72,
+        "end": 780.0790000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 294,
+        "text": "ف الاثنين هيطيروا بعض فهتبقى عندي",
+        "start": 777.76,
+        "end": 782.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 295,
+        "text": "المساله ان هي عباره ان هي ليمت لو ان",
+        "start": 780.079,
+        "end": 785.76,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 296,
+        "text": "عندي هنا رايحه للانفينتي الجزء ده هيطير",
+        "start": 782.88,
+        "end": 788.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 297,
+        "text": "الجزء ده كده فهتبقى عندي المساله هي بقت",
+        "start": 785.76,
+        "end": 791.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 298,
+        "text": "عباره عن انها خسه باور ان ناقص ال ان",
+        "start": 788.32,
+        "end": 796.5600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 299,
+        "text": "باور لا على السبعه باور السبعه ان باور",
+        "start": 791.88,
+        "end": 798.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 300,
+        "text": "لاه زائد الاتنين بالشكل ده كده طب انا",
+        "start": 796.56,
+        "end": 800.4399999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 301,
+        "text": "كان عندي هنا في ان هقول لك لا ما هي ال",
+        "start": 798.8,
+        "end": 803.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 302,
+        "text": "ان دي الباور واحد على ان تيار وبعد كده",
+        "start": 800.44,
+        "end": 806.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 303,
+        "text": "بقى انا عايزك ايه؟ عايزك تعوض لي بقى في",
+        "start": 803.399,
+        "end": 808.959,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 304,
+        "text": "المساله دي احنا كنا خدنا قبل كده في",
+        "start": 806.24,
+        "end": 811.92,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 305,
+        "text": "الليمت كنا خدنا لما تبقى عندي هنا في",
+        "start": 808.959,
+        "end": 814.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 306,
+        "text": "بولينوميال انا عندي دي تعتبر ان دي",
+        "start": 811.92,
+        "end": 816.5999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 307,
+        "text": "بولينوميال عندي والمقام برض عندي هي",
+        "start": 814.0,
+        "end": 818.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 308,
+        "text": "تعتبر انها بولينوميال يعني ايه",
+        "start": 816.6,
+        "end": 821.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 309,
+        "text": "بولينوميال يعني كثيره حدود طيب انا عندي",
+        "start": 818.12,
+        "end": 824.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 310,
+        "text": "هنا كانت ان رايحه لانفينتي وكنت قلتلك",
+        "start": 821.399,
+        "end": 826.839,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 311,
+        "text": "بالضبط لما تكون ان رايحه بانفينتي وعندي",
+        "start": 824.44,
+        "end": 830.6,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 312,
+        "text": "هنا بولينوميال وعندي فوق بولينوميال وتحت",
+        "start": 826.839,
+        "end": 832.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 313,
+        "text": "في المقام بولينوميال",
+        "start": 830.6,
+        "end": 835.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 314,
+        "text": "فانت هتشوف رتبه الاس بتاعه اعلى باور",
+        "start": 832.44,
+        "end": 837.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 315,
+        "text": "عندك يعني ايه؟ يعني انا عندي دي",
+        "start": 835.72,
+        "end": 840.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 316,
+        "text": "بولينوميال اعلى اس كام؟ اعلى اس فيها",
+        "start": 837.48,
+        "end": 842.5600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 317,
+        "text": "لاثه طب روح على المقام المقام عندك",
+        "start": 840.279,
+        "end": 845.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 318,
+        "text": "بولينوميال؟ اه بولينوميال اعلى اس كام؟",
+        "start": 842.56,
+        "end": 848.2399999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 319,
+        "text": "اعلى اس لاثه بما ان اعلى اس في المقام",
+        "start": 845.0,
+        "end": 852.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 320,
+        "text": "يساوي اعلى اس في البسط فساعتها انت بتاخد",
+        "start": 848.24,
+        "end": 854.9590000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 321,
+        "text": "ايه؟ قال لك ان انت في الحاله دي انت",
+        "start": 852.639,
+        "end": 859.759,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 322,
+        "text": "بتاخد بتاخد المعاملات بتاعه اعلى اعلى",
+        "start": 854.959,
+        "end": 861.7199999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 323,
+        "text": "باور يعني انت عندك هنا الثلاثه دي هي",
+        "start": 859.759,
+        "end": 863.5600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 324,
+        "text": "اعلى باور وعندك الثلاثه دي اعلى باور",
+        "start": 861.72,
+        "end": 867.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 325,
+        "text": "فقال لك انت ساعتها هتاخد المعامل بتاع ال",
+        "start": 863.56,
+        "end": 869.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 326,
+        "text": "ان باور لاه وعندك هنا في المقام هتاخد",
+        "start": 867.0,
+        "end": 873.199,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 327,
+        "text": "برده المعامل بتاع ال ان باور لاه فانت",
+        "start": 869.399,
+        "end": 876.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 328,
+        "text": "كان عندك هنا المعامل بتاع ال ان باور لاه",
+        "start": 873.199,
+        "end": 879.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 329,
+        "text": "كان عندك هنا هو بيساوي الثلاثه والمعامل",
+        "start": 876.72,
+        "end": 882.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 330,
+        "text": "بتاع المقام بتاع ال ان باور لاه بيساوي",
+        "start": 879.639,
+        "end": 884.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 331,
+        "text": "السبعه بس في غلطه انا نسيتها او في",
+        "start": 882.36,
+        "end": 886.6800000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 332,
+        "text": "غلطتين انا عملتهم اول حاجه المعامل بتاع",
+        "start": 884.04,
+        "end": 889.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 333,
+        "text": "الثلاثه هو مش المعامل بتاع ال n باور لاه",
+        "start": 886.68,
+        "end": 893.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 334,
+        "text": "مش الثلاثه هو نيجتيف الثلاثه فهتبقى عندي",
+        "start": 889.88,
+        "end": 896.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 335,
+        "text": "هنا اول حاجه في اشاره نيجتيف دي اول غلطه",
+        "start": 893.0,
+        "end": 898.959,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 336,
+        "text": "الغلطه التانيه ان احنا برض هنا بننسى",
+        "start": 896.32,
+        "end": 900.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 337,
+        "text": "الابسليوت او انا هي مش غلطه انا قصد ان",
+        "start": 898.959,
+        "end": 903.3599999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 338,
+        "text": "انا اعملها بس هنا في ابسليوت فالو فانت",
+        "start": 900.88,
+        "end": 905.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 339,
+        "text": "هنا هتبقى عندك هنا في ابسليوت وهتبقى",
+        "start": 903.36,
+        "end": 907.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 340,
+        "text": "عندك هنا في ابسليوت بالشكل ده فهتبقى",
+        "start": 905.24,
+        "end": 909.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 341,
+        "text": "عندك في الاخر النتيجه اللي هتطلع لك",
+        "start": 907.639,
+        "end": 912.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 342,
+        "text": "هتبقى عباره هنا انها 3 على س بالشكل ده",
+        "start": 909.279,
+        "end": 915.4399999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 343,
+        "text": "طيب دي ايه دي قيمه الل انت هنا بقى لو",
+        "start": 912.16,
+        "end": 917.16,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 344,
+        "text": "انت عايز تمشي قانون انا هنا حليت لك",
+        "start": 915.44,
+        "end": 919.5600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 345,
+        "text": "المساله دي بسرعه انت لو انت عايز تمشي",
+        "start": 917.16,
+        "end": 922.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 346,
+        "text": "قانوني انت بقى ممكن ان انت تبتدي تعوض",
+        "start": 919.56,
+        "end": 925.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 347,
+        "text": "هنا بان بتساوي خمسه او انت هنا ممكن تقسم",
+        "start": 922.0,
+        "end": 927.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 348,
+        "text": "بقى على ان هتحلها مساله ليمت بشكل عادي",
+        "start": 925.279,
+        "end": 931.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 349,
+        "text": "جدا ان انت تقسم على اعلى باور عندك اللي",
+        "start": 927.8,
+        "end": 933.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 350,
+        "text": "هتقسم المساله كلها على ان باور لاه بس",
+        "start": 931.04,
+        "end": 935.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 351,
+        "text": "انا بقول لك ان بما ان اللي فوق",
+        "start": 933.399,
+        "end": 937.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 352,
+        "text": "بولينوميال واللي تحت كمان بولينوميال",
+        "start": 935.0,
+        "end": 941.759,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 353,
+        "text": "تمام فشوف درجه درجه اعلى اللي هي اعلى اس",
+        "start": 937.56,
+        "end": 943.7199999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 354,
+        "text": "عندك في البسط واعلى اس عندك في المقام",
+        "start": 941.759,
+        "end": 946.5600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 355,
+        "text": "واقسم على المعاملات بتاعتهم ده في حاله",
+        "start": 943.72,
+        "end": 948.9590000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 356,
+        "text": "في حاله ان كانوا هم الاثنين نفس الدرجه",
+        "start": 946.56,
+        "end": 951.4399999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 357,
+        "text": "يعني درجه البسط هنا بثلاثه درجه المقام",
+        "start": 948.959,
+        "end": 953.68,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 358,
+        "text": "هنا برده بثلاثه فانا قلت لك ايه اقسم لي",
+        "start": 951.44,
+        "end": 956.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 359,
+        "text": "على المعاملات بتاعتهم وخلاص هتبقى هي دي",
+        "start": 953.68,
+        "end": 958.5999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 360,
+        "text": "الناتج خلي بالك ان انت بتقسم على معاملات",
+        "start": 956.0,
+        "end": 960.959,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 361,
+        "text": "اعلى باور بس ما بتاخدش كمان الخمسه لان",
+        "start": 958.6,
+        "end": 963.1990000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 362,
+        "text": "الخمسه دي هنا باور ان باور واحد عفوا",
+        "start": 960.959,
+        "end": 965.8389999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 363,
+        "text": "فانت هنا الخمسه مش هتاخدها انت بتاخد بس",
+        "start": 963.199,
+        "end": 968.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 364,
+        "text": "اعلى باور عندك فهنا في الاخر مساله طلعت",
+        "start": 965.839,
+        "end": 970.9590000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 365,
+        "text": "لي انها 3 على 7 ف 3 على 7 بالشكل ده كده",
+        "start": 968.04,
+        "end": 974.279,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 366,
+        "text": "هي قيمه الل وساعتها هنا قيمه الل هي هنا",
+        "start": 970.959,
+        "end": 977.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 367,
+        "text": "اقل من الواحد لان ال 3 على 7 هي اقل من",
+        "start": 974.279,
+        "end": 979.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 368,
+        "text": "الواحد فدي معناته ان المساله",
+        "start": 977.56,
+        "end": 981.7199999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 369,
+        "text": "بتكونفرج بالشكل ده كده المساله دي",
+        "start": 979.56,
+        "end": 984.7589999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 370,
+        "text": "بتتقارب او الانفاينات سيرز دي بتتقارب",
+        "start": 981.72,
+        "end": 986.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 371,
+        "text": "طيب المساله اللي بعد كده مديني",
+        "start": 984.759,
+        "end": 988.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 372,
+        "text": "الانفاينات سيريز دي وطالب مني برض نفس",
+        "start": 986.48,
+        "end": 990.9590000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 373,
+        "text": "الحاجه انا عايزك تعرف لي السيرز دي",
+        "start": 988.88,
+        "end": 994.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 374,
+        "text": "بتكونفرج ولا بتدايفرج طبعا دي كلها زي ما",
+        "start": 990.959,
+        "end": 996.04,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 375,
+        "text": "احنا عارفين دي كلها عباره ان هي الاي",
+        "start": 994.0,
+        "end": 998.519,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 376,
+        "text": "باور ان والقانون بتاعي زي ما احنا خلاص",
+        "start": 996.04,
+        "end": 1001.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 377,
+        "text": "حفظناه هو عباره ان هو ان ال عندي هنا هي",
+        "start": 998.519,
+        "end": 1004.399,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 378,
+        "text": "عباره هنا لها ليمت لو كانت عندي هنا ان",
+        "start": 1001.48,
+        "end": 1007.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 379,
+        "text": "رايحه للانفينتي للاي ان كلها لازم تكون",
+        "start": 1004.399,
+        "end": 1009.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 380,
+        "text": "تحت الابسليوت لان الكيسز اللي فاتت",
+        "start": 1007.639,
+        "end": 1011.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 381,
+        "text": "قابلتنا فيها نيجتيف فمهم جدا ان انا ما",
+        "start": 1009.48,
+        "end": 1014.639,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 382,
+        "text": "انساش الاشاره بتاعه الابسليوت كل ده عندي",
+        "start": 1011.88,
+        "end": 1016.8,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 383,
+        "text": "طبعا بيبقى عباره ان هو ايه كل ده عندي",
+        "start": 1014.639,
+        "end": 1019.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 384,
+        "text": "بيبقى عباره ان هي باور واحد على ان عشان",
+        "start": 1016.8,
+        "end": 1021.56,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 385,
+        "text": "كده هي اسمها روت تست يعني بنحب نعيد",
+        "start": 1019.24,
+        "end": 1024.079,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 386,
+        "text": "ونزيد يعني معلش يعني فلو انا عندي هنا",
+        "start": 1021.56,
+        "end": 1026.9589999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 387,
+        "text": "قمت انا قايل ان انا عندي هنا ان ال بقى",
+        "start": 1024.079,
+        "end": 1029.1599999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 388,
+        "text": "خلينا احنا نعوض بقى ونحل المساله قمت انا",
+        "start": 1026.959,
+        "end": 1031.079,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 389,
+        "text": "قايل ان انا عندي هنا الليت لو ان هنا",
+        "start": 1029.16,
+        "end": 1033.8390000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 390,
+        "text": "عندي كانت رايحه للانفينتي طب انا عندي",
+        "start": 1031.079,
+        "end": 1037.3999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 391,
+        "text": "فين بقى الجزء بتاع الجزء بتاع الاي ان",
+        "start": 1033.839,
+        "end": 1040.1599999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 392,
+        "text": "الاي ان عندي هنا بتقول ان هي عباره انها",
+        "start": 1037.4,
+        "end": 1043.8390000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 393,
+        "text": "- 12 بالشكل ده كده باور ان وبعد كده عندي",
+        "start": 1040.16,
+        "end": 1047.28,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 394,
+        "text": "تحت في المقام عندي هنا هي في في المقام",
+        "start": 1043.839,
+        "end": 1050.3999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 395,
+        "text": "ان تمام ما انساش بقى ان انا عندي هنا ان",
+        "start": 1047.28,
+        "end": 1052.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 396,
+        "text": "القانون بتاعي بيقول لي ان انت بعد ما",
+        "start": 1050.4,
+        "end": 1055.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 397,
+        "text": "تخلص تكتب لي ان هتبقى عندك هنا ان في",
+        "start": 1052.32,
+        "end": 1058.2,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 398,
+        "text": "باور هي الواحد على ان او الروت يعني بكل",
+        "start": 1055.48,
+        "end": 1060.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 399,
+        "text": "اختصار طيب ايه المطلوب بقى منك بعد كده",
+        "start": 1058.2,
+        "end": 1062.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 400,
+        "text": "المطلوب منك زي ما انت عارف خلاص ان انت",
+        "start": 1060.24,
+        "end": 1064.919,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 401,
+        "text": "هتبسط المقدار ده وبعد كده تبتدي تحسب",
+        "start": 1062.0,
+        "end": 1066.919,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 402,
+        "text": "الليت فلو احنا جينا هنا قمنا قايلين ان",
+        "start": 1064.919,
+        "end": 1069.039,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 403,
+        "text": "انا عندي هنا ان ال هتساوي خلينا نمسح",
+        "start": 1066.919,
+        "end": 1071.5590000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 404,
+        "text": "النقطه دي عندي هنا ال هي عباره هنا ان هي",
+        "start": 1069.039,
+        "end": 1073.8799999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 405,
+        "text": "برض الليت لو ان عندي هنا كانت رايحه",
+        "start": 1071.559,
+        "end": 1076.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 406,
+        "text": "للانفينتي انزل هنا درجه تحت لو ان هنا",
+        "start": 1073.88,
+        "end": 1079.6000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 407,
+        "text": "كانت رايحه للانفينتي بالشكل ده وهبتدي",
+        "start": 1076.72,
+        "end": 1082.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 408,
+        "text": "بقى بعد كده ان انا هعمل ايه هبتدي ان انا",
+        "start": 1079.6,
+        "end": 1083.9599999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 409,
+        "text": "عندي هنا الواحد على ال هبتدي ان انا",
+        "start": 1082.32,
+        "end": 1086.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 410,
+        "text": "ادخلها في المقام في البسط فوق وابتدي ان",
+        "start": 1083.96,
+        "end": 1089.159,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 411,
+        "text": "انا برده ادخلها تحت في المقام عندي وهشوف",
+        "start": 1086.36,
+        "end": 1090.4799999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 412,
+        "text": "النتيجه اللي هتطلع لي في الاخر هتكون",
+        "start": 1089.159,
+        "end": 1092.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 413,
+        "text": "عباره عن انها ايه لو انا حبيت ان انا",
+        "start": 1090.48,
+        "end": 1094.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 414,
+        "text": "ادخل واحد على ان طبعا الواحد على ان",
+        "start": 1092.72,
+        "end": 1096.64,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 415,
+        "text": "هتتضرب هنا في ال n فالاثنين هيتغيروا بعض",
+        "start": 1094.44,
+        "end": 1098.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 416,
+        "text": "فهتبقى عندي فوق هي عباره عن ان هي ناقص",
+        "start": 1096.64,
+        "end": 1100.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 417,
+        "text": "12 وما نساش برض ان انا كان عندي هنا في",
+        "start": 1098.48,
+        "end": 1103.2,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 418,
+        "text": "ايه؟ في الابسليوت فالو اللي هي هنا دي",
+        "start": 1100.88,
+        "end": 1104.919,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 419,
+        "text": "اللي هي اصلا بتاعه القانون انا هي ما",
+        "start": 1103.2,
+        "end": 1107.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 420,
+        "text": "اخترعتش او هي اصلا دي بتاعه القانون نفسه",
+        "start": 1104.919,
+        "end": 1111.0800000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 421,
+        "text": "ف الابسليوت دي بتاعه القانون وعندي تحت",
+        "start": 1107.72,
+        "end": 1113.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 422,
+        "text": "انا عندي تحت ايه عندي هي عباره ان هي ان",
+        "start": 1111.08,
+        "end": 1116.8799999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 423,
+        "text": "باور باور ايه باور الواحد على ان بالشكل",
+        "start": 1113.72,
+        "end": 1120.52,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 424,
+        "text": "ده كده تمام واشوف بقى ال ان بتاعتي هتكون",
+        "start": 1116.88,
+        "end": 1122.96,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 425,
+        "text": "عباره عنها ايه لما تكون رايحه للانفينتي",
+        "start": 1120.52,
+        "end": 1125.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 426,
+        "text": "وانا بحسب الليت ليه طبعا الليمت لما انت",
+        "start": 1122.96,
+        "end": 1127.679,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 427,
+        "text": "تيجي تحسبه ليه رقم لو احنا بقى خلينا",
+        "start": 1125.44,
+        "end": 1129.52,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 428,
+        "text": "نشوف الليمت هيكون عندي هنا ازاي فانت",
+        "start": 1127.679,
+        "end": 1131.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 429,
+        "text": "عارف طبعا من قوانين الليمت ان انا عندي",
+        "start": 1129.52,
+        "end": 1134.4,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 430,
+        "text": "هنا الليمت اصلا بيتوزع على البسط وعندي",
+        "start": 1131.72,
+        "end": 1136.64,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 431,
+        "text": "هنا مقام فهو هيتوزع على الاثنين هيروح",
+        "start": 1134.4,
+        "end": 1139.96,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 432,
+        "text": "هنا مره هيروح مره على البسط بالشكل ده",
+        "start": 1136.64,
+        "end": 1142.6000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 433,
+        "text": "كده وهيروح هنا عندي على المقام طب انا",
+        "start": 1139.96,
+        "end": 1145.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 434,
+        "text": "عندي هنا لما انا اجي احسب الليمت بتحسبه",
+        "start": 1142.6,
+        "end": 1147.12,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 435,
+        "text": "لانهي يابل انت بتحسبه الفاريابل اللي",
+        "start": 1145.32,
+        "end": 1149.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 436,
+        "text": "اسمه ان طب انت عندك هنا اصلا فوق في",
+        "start": 1147.12,
+        "end": 1151.3999999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 437,
+        "text": "البسط انا عندي هنا هي رقم فتبقى عندي",
+        "start": 1149.32,
+        "end": 1153.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 438,
+        "text": "الليمت للجزء ده كده كله هو عباره ان هو",
+        "start": 1151.4,
+        "end": 1156.0800000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 439,
+        "text": "كام ناقص 12 وما انساش ان انا عندي هنا",
+        "start": 1153.48,
+        "end": 1159.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 440,
+        "text": "ايه ابسليوت طب انا عندي هنا الجزء بقى",
+        "start": 1156.08,
+        "end": 1160.9189999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 441,
+        "text": "الصعب او مش الصعب ان شاء الله سهل يعني",
+        "start": 1159.0,
+        "end": 1162.96,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 442,
+        "text": "انا عندي هنا الليت للجزء ده انا بقول لك",
+        "start": 1160.919,
+        "end": 1166.1200000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 443,
+        "text": "ايه انا عايز احسب الليت ان باور واحد على",
+        "start": 1162.96,
+        "end": 1168.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 444,
+        "text": "ان انا عندي هنا ان باور الواحد على ان طب",
+        "start": 1166.12,
+        "end": 1170.4399999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 445,
+        "text": "الواحد على ان دي احنا لسه كنا واخدينها",
+        "start": 1168.72,
+        "end": 1172.2,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 446,
+        "text": "قبل كده كنا قايلين الواحد على ان طب ما",
+        "start": 1170.44,
+        "end": 1174.3200000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 447,
+        "text": "هي ان دي اصلا موجوده عندي هنا وانا بقول",
+        "start": 1172.2,
+        "end": 1176.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 448,
+        "text": "لك ان ان اصلا رايح الانفينتي يعني رايح",
+        "start": 1174.32,
+        "end": 1178.6789999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 449,
+        "text": "الى ما لا نهايه يعني انا لما اجي اقول لك",
+        "start": 1176.88,
+        "end": 1181.1200000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 450,
+        "text": "هنا انا عندي هنا واحد على الانفينتي دي",
+        "start": 1178.679,
+        "end": 1183.159,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 451,
+        "text": "تعتبر ايه دي تعتبر اكني بقول لك ان دي",
+        "start": 1181.12,
+        "end": 1185.32,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 452,
+        "text": "عباره انها زيرو بالظبط خلاص انا بقول لك",
+        "start": 1183.159,
+        "end": 1188.0390000000002,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 453,
+        "text": "دلوقتي خلاص ان انا عندي هنا ان الواحد",
+        "start": 1185.32,
+        "end": 1190.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 454,
+        "text": "على ان دي هي عباره هنا انها واحد على",
+        "start": 1188.039,
+        "end": 1192.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 455,
+        "text": "انفينتي وهي عباره هنا انها بتساوي ز فانا",
+        "start": 1190.0,
+        "end": 1194.96,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 456,
+        "text": "هقوم شايل بقى ايه هقوم شايل الجزء ده انا",
+        "start": 1192.48,
+        "end": 1197.3600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 457,
+        "text": "بس حبيت ان احل لك المساله بكل بساطه يعني",
+        "start": 1194.96,
+        "end": 1199.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 458,
+        "text": "هقوم شايل لك الجزء ده كده وهقوم قال لك",
+        "start": 1197.36,
+        "end": 1201.84,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 459,
+        "text": "هي عباره تعال نشيلها ماشي بجد يعني",
+        "start": 1199.24,
+        "end": 1204.799,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 460,
+        "text": "وهنقلين ان دي عباره هنا انها باور الزيرو",
+        "start": 1201.84,
+        "end": 1207.72,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 461,
+        "text": "خلاص طب انت عندك هنا ان باور 0 ان باور 0",
+        "start": 1204.799,
+        "end": 1209.8799999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 462,
+        "text": "دي هتساوي كام هتساوي في الاخر انها واحد",
+        "start": 1207.72,
+        "end": 1211.919,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 463,
+        "text": "فهتبقى عندي هنا انها ناقص 12 حبيت ان انا",
+        "start": 1209.88,
+        "end": 1215.6000000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 464,
+        "text": "احللها لك برض بس انت ممكن ترجع للمتس",
+        "start": 1211.919,
+        "end": 1217.96,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 465,
+        "text": "وتستفيض فيها اكتر عشان تفهم هي جت ازاي",
+        "start": 1215.6,
+        "end": 1220.8799999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 466,
+        "text": "بس انا برض هنا حللتها لك يعني فان هنا",
+        "start": 1217.96,
+        "end": 1223.3600000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 467,
+        "text": "عندي باور زيرو الجزء ده كده ان باور 0 هي",
+        "start": 1220.88,
+        "end": 1225.159,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 468,
+        "text": "عباره هنا انها كام هي عباره هنا انها",
+        "start": 1223.36,
+        "end": 1227.4399999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 469,
+        "text": "واحد وما نساش الابسليوت انا كده خلاص انا",
+        "start": 1225.159,
+        "end": 1230.0,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 470,
+        "text": "خلصت الليمت بس كان فاضل عندي الابسليوت",
+        "start": 1227.44,
+        "end": 1232.44,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 471,
+        "text": "خلصت الليمت يعني مش يعني انا بس انا قصدي",
+        "start": 1230.0,
+        "end": 1235.52,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 472,
+        "text": "خلصت المت انا حليت المساله بالنسبه لليمت",
+        "start": 1232.44,
+        "end": 1238.2,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 473,
+        "text": "يعني تمام فانا عندي هنا - 12 علىوا هتطلع",
+        "start": 1235.52,
+        "end": 1240.2,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 474,
+        "text": "لي انها - 12 وما نساش ان انا عندي هنا",
+        "start": 1238.2,
+        "end": 1242.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 475,
+        "text": "الابسليوت ففي الاخر المساله هتطلع لي",
+        "start": 1240.2,
+        "end": 1245.1200000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 476,
+        "text": "بايه هتطلع لي انها ب 12 طبعا دي كانت",
+        "start": 1242.24,
+        "end": 1247.48,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 477,
+        "text": "قيمه ايه؟ دي كانت قيمه ال احنا كل ده كنا",
+        "start": 1245.12,
+        "end": 1250.84,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 478,
+        "text": "بنحسب قيمه الل فانا عندي هنا ال ال هنا",
+        "start": 1247.48,
+        "end": 1253.52,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 479,
+        "text": "طلعت لي اكبر من الواحد ليه؟ لان انا عندي",
+        "start": 1250.84,
+        "end": 1257.36,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 480,
+        "text": "هنا اصلا ان ال 12 هي اكبر من الواحد فده",
+        "start": 1253.52,
+        "end": 1259.6399999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 481,
+        "text": "معناته ايه؟ معناته ان الانفينيت سيرس",
+        "start": 1257.36,
+        "end": 1262.4399999999998,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 482,
+        "text": "اللي هو مديه لي هي بتدايفرج المساله دي",
+        "start": 1259.64,
+        "end": 1266.159,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 483,
+        "text": "بتتباعد الانفنات سيريز دي بتتباعد وبس ده",
+        "start": 1262.44,
+        "end": 1270.8400000000001,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 484,
+        "text": "كان شرح الروت تست هو مشابه جدا للريشيو",
+        "start": 1266.159,
+        "end": 1273.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 485,
+        "text": "تست مشابه جدا في الفكره بتاعته مشابه جدا",
+        "start": 1270.84,
+        "end": 1276.1589999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 486,
+        "text": "في الكونديشن بتاعته كل عليك بس ان انت",
+        "start": 1273.24,
+        "end": 1278.08,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 487,
+        "text": "هتستخدم القانون او هتبص على القانون اللي",
+        "start": 1276.159,
+        "end": 1281.88,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 488,
+        "text": "هو مديهولك وهتبتدي ان انت تعوض بيه اتمنى",
+        "start": 1278.08,
+        "end": 1284.1589999999999,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 489,
+        "text": "ان شرح الفيديو ده كان بسيط ومفيد وشكرا",
+        "start": 1281.88,
+        "end": 1288.24,
+        "video_title": "شرح Root Test"
+    },
+    {
+        "chunk_id": 490,
+        "text": "جداكم وسلام لكم",
+        "start": 1284.159,
+        "end": 1288.24,
+        "video_title": "شرح Root Test"
+    }
+]

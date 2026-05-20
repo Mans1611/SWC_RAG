@@ -1,0 +1,4307 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم في الفيديو ده ان شاء الله",
+        "start": 0.68,
+        "end": 5.359,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 1,
+        "text": "عايزين نتكلم عن الباور سيريس طبعا بقنا",
+        "start": 2.919,
+        "end": 7.960000000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 2,
+        "text": "كتير قوي ماتكلمناش عن السيريس ففي",
+        "start": 5.359,
+        "end": 9.04,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 3,
+        "text": "الفيديو ده ان شاء الله احنا راجعين ان",
+        "start": 7.96,
+        "end": 12.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 4,
+        "text": "احنا نتكلم عن الانفايت سيريز وعنوان",
+        "start": 9.04,
+        "end": 14.879,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 5,
+        "text": "الفيديو ده عن الباور سيريز خلينا في",
+        "start": 12.519,
+        "end": 16.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 6,
+        "text": "البدايه ان احنا اصلا عايزين نشوف ايه هي",
+        "start": 14.879,
+        "end": 20.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 7,
+        "text": "الفورمولا بتاعه الباور سيرز الفورمولا",
+        "start": 16.8,
+        "end": 23.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 8,
+        "text": "بتاعه الباور سيرز عاده بتبقى حاجه بالشكل",
+        "start": 20.279,
+        "end": 25.92,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 9,
+        "text": "ده انا مش مهم عندي ان انت تفهم الفورمولا",
+        "start": 23.76,
+        "end": 28.880000000000003,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 10,
+        "text": "ومش مهم عندي ان انت يعني تكون حافظ الشكل",
+        "start": 25.92,
+        "end": 31.359,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 11,
+        "text": "بتاع الفورمولا دي انا المهم بالنسبه لي",
+        "start": 28.88,
+        "end": 33.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 12,
+        "text": "بس ان انا عايزك تاخد بالك من حاجتين في",
+        "start": 31.359,
+        "end": 35.480000000000004,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 13,
+        "text": "الفورمولا اللي موجوده قدامي دي اول حاجه",
+        "start": 33.559,
+        "end": 37.919999999999995,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 14,
+        "text": "طبعا ا يعني انت اكيد واخد بالك او احنا",
+        "start": 35.48,
+        "end": 40.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 15,
+        "text": "بقنا بقىنا فيديوهات كتيره جدا بنتكلم عن",
+        "start": 37.92,
+        "end": 43.079,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 16,
+        "text": "انفينيت سيريز فهي انفايت سيريز دي اول",
+        "start": 40.36,
+        "end": 46.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 17,
+        "text": "حاجه الحاجه برض الثانيه المهمه ان انا",
+        "start": 43.079,
+        "end": 47.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 18,
+        "text": "عندي هنا كانت الانفانات سيريز كانت عباره",
+        "start": 46.0,
+        "end": 50.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 19,
+        "text": "ان هي بيبقى في عندي هنا تيرم اسمه ان في",
+        "start": 47.76,
+        "end": 53.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 20,
+        "text": "عندي هنا تيرم جديد اسمه الاكس",
+        "start": 50.16,
+        "end": 55.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 21,
+        "text": "وهنا عندي السيريز اللي قدامي دي هي عباره",
+        "start": 53.12,
+        "end": 57.879,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 22,
+        "text": "ان هي فانكشن اوف اكس يعني هي بقى فيها",
+        "start": 55.44,
+        "end": 61.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 23,
+        "text": "كمان يابل جديد اسمه اسمه الاكس وانا عاده",
+        "start": 57.879,
+        "end": 63.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 24,
+        "text": "في الانفينيت سيريز انا بتكون عندي حاجتين",
+        "start": 61.32,
+        "end": 66.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 25,
+        "text": "يعني انا في في الانفينيت سيرس بكون عايز",
+        "start": 63.559,
+        "end": 69.759,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 26,
+        "text": "اعرف هي بتكونفرج ولا بتدايفرج ففي",
+        "start": 66.0,
+        "end": 71.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 27,
+        "text": "السيريس اللي موجوده قدامي دي لو كان فيها",
+        "start": 69.759,
+        "end": 74.759,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 28,
+        "text": "اكس واكس ده هو يابل معنى ان هو يابل معنى",
+        "start": 71.68,
+        "end": 77.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 29,
+        "text": "ان هو ممكن ياخد اي قيمه هي ممكن تكون",
+        "start": 74.759,
+        "end": 80.28,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 30,
+        "text": "موجوده فده معناته ان السيرز اما انها",
+        "start": 77.4,
+        "end": 84.32000000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 31,
+        "text": "تكون بتكونفرج او بتدايفرج بناء على ايه",
+        "start": 80.28,
+        "end": 87.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 32,
+        "text": "بناء على قيمه الاكس اللي موجوده قدامي في",
+        "start": 84.32,
+        "end": 89.079,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 33,
+        "text": "الفيديوهات اللي قبل كده لما احنا كنا",
+        "start": 87.6,
+        "end": 91.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 34,
+        "text": "بناخد الانفانيت سيريز كانت بتبقى كنت",
+        "start": 89.079,
+        "end": 93.55999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 35,
+        "text": "بديك الانفانيت سيريس وكنت بقول لك قو لي",
+        "start": 91.72,
+        "end": 96.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 36,
+        "text": "هي بتكونفرج ولا بتدايفرج ا في الفيديوهات",
+        "start": 93.56,
+        "end": 98.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 37,
+        "text": "او في المسائل اللي جايه ان شاء الله انا",
+        "start": 96.32,
+        "end": 101.119,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 38,
+        "text": "هديك السيريس واقول لك قو لي هي بتكونفرج",
+        "start": 98.799,
+        "end": 103.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 39,
+        "text": "امتى وبتدايفرج امتى ليه لان انا عندي هنا",
+        "start": 101.119,
+        "end": 106.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 40,
+        "text": "في اريابل في حاجه اسمها اكس تمام فبناء",
+        "start": 103.68,
+        "end": 109.88000000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 41,
+        "text": "على القيمه اللي اكس هتاخدها دي هتتحدد",
+        "start": 106.799,
+        "end": 113.24000000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 42,
+        "text": "بقى هل السيريز دي بتكونفرج ولا بتدايفرج",
+        "start": 109.88,
+        "end": 115.03999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 43,
+        "text": "الحاجه اللي بعد كده اللي انا برض عايزك",
+        "start": 113.24,
+        "end": 117.79899999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 44,
+        "text": "تاخد بالك منها كنوتس ان هي اسمها باور",
+        "start": 115.04,
+        "end": 120.119,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 45,
+        "text": "سيريز عشان برض هنا عندي الترم بتاع ان",
+        "start": 117.799,
+        "end": 123.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 46,
+        "text": "اللي هو تبع السيريز هو موجود كباور موجود",
+        "start": 120.119,
+        "end": 126.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 47,
+        "text": "كباور للفانكشن بتاعتي او للكومبوننت او",
+        "start": 123.159,
+        "end": 129.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 48,
+        "text": "الجزء اللي موجود جوه هنا ده فده معناته",
+        "start": 126.64,
+        "end": 132.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 49,
+        "text": "ان هي او عشان كده هي اسمها الباور سيرس",
+        "start": 129.08,
+        "end": 135.28,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 50,
+        "text": "طبعا الحاجات اللي بره دي زي الترم ده",
+        "start": 132.56,
+        "end": 137.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 51,
+        "text": "مثلا اللي هو سي ان واي دي عباره ان هي",
+        "start": 135.28,
+        "end": 140.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 52,
+        "text": "كوفيشنت او معاملات ممكن هي تاخد اي رقم",
+        "start": 137.76,
+        "end": 142.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 53,
+        "text": "عادي يعني ممكن السي ان دي ممكن تكونها",
+        "start": 140.44,
+        "end": 144.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 54,
+        "text": "واحد اين اي رقم عادي جدا بس طبعا اكيد ما",
+        "start": 142.48,
+        "end": 146.67999999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 55,
+        "text": "ينفعش انها تبقى زيرو لان لو زيرو الترم",
+        "start": 144.72,
+        "end": 149.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 56,
+        "text": "ده كله هيطير الحاجه اللي بعد كده ان انا",
+        "start": 146.68,
+        "end": 150.87900000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 57,
+        "text": "عندي هنا الترم اي ده برض عباره ان هو",
+        "start": 149.12,
+        "end": 153.48000000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 58,
+        "text": "كوفيشنت معامل اي رقم برض ممكن ان هو يكون",
+        "start": 150.879,
+        "end": 155.959,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 59,
+        "text": "اي رقم ممكن يكون لاثه ممكن على فكره ممكن",
+        "start": 153.48,
+        "end": 158.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 60,
+        "text": "تكون مره انها اكس ناقص 3 بالشكل ده كده",
+        "start": 155.959,
+        "end": 160.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 61,
+        "text": "وهي عباره ان هي باور ان فالاي ده هو",
+        "start": 158.44,
+        "end": 162.959,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 62,
+        "text": "اختصار او يعني هو عباره عن نوع كوفيشنتين",
+        "start": 160.68,
+        "end": 165.239,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 63,
+        "text": "زي ما قلت لك هو اي ارقام ده طبعا النوتس",
+        "start": 162.959,
+        "end": 166.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 64,
+        "text": "اللي احنا كنا قلنا عليها يعني النوتس",
+        "start": 165.239,
+        "end": 168.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 65,
+        "text": "اللي انا كنت قلك عليها ان الفورملا اللي",
+        "start": 166.72,
+        "end": 171.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 66,
+        "text": "فوق دي هي عباره ان هي فانكشن اوف اكس",
+        "start": 168.76,
+        "end": 174.35999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 67,
+        "text": "والاكس دي تحدد لي هل الانفايت سيرس",
+        "start": 171.0,
+        "end": 176.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 68,
+        "text": "بتاعتي دي بتكونفرج ولا بتدايفرج تاني",
+        "start": 174.36,
+        "end": 178.28,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 69,
+        "text": "حاجه ان انت عندك هنا ان لازم تكون موجوده",
+        "start": 176.36,
+        "end": 180.87900000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 70,
+        "text": "في السيرس اللي فوق على انها باور على",
+        "start": 178.28,
+        "end": 184.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 71,
+        "text": "انها اس موجوده هنا كده عشان يكون اسمها",
+        "start": 180.879,
+        "end": 187.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 72,
+        "text": "الباور سيرز طيب نروح للجزء المهم اللي",
+        "start": 184.68,
+        "end": 191.20000000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 73,
+        "text": "بعد كده في الفيديو هو الحاجه اللي اسمها",
+        "start": 187.64,
+        "end": 194.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 74,
+        "text": "الريديس اوف الكونفرجنس طبعا انا كنت قلت",
+        "start": 191.2,
+        "end": 196.35999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 75,
+        "text": "لك قبل كده ان الانفنايت سيريز عندي هي",
+        "start": 194.48,
+        "end": 198.79899999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 76,
+        "text": "عباره ان هي من ان بتساوي واحد لحد",
+        "start": 196.36,
+        "end": 200.959,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 77,
+        "text": "انفينتي وعندي قمت قيل لك ان الفورمولا",
+        "start": 198.799,
+        "end": 202.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 78,
+        "text": "بتاعه الباور سيريز هي عباره ان هي سي ان",
+        "start": 200.959,
+        "end": 205.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 79,
+        "text": "وسي ان دي هي اي كوفيشنت انا مش مهتم بكل",
+        "start": 202.68,
+        "end": 208.48000000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 80,
+        "text": "ده مهتم جدا ق لك انها في اكس ناقص اي",
+        "start": 205.48,
+        "end": 211.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 81,
+        "text": "كوفيشنت باور ان دي الفورمولا بتاعه",
+        "start": 208.48,
+        "end": 215.39999999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 82,
+        "text": "الباور سيرز طيب انا قمت قايل لك ان بناء",
+        "start": 211.56,
+        "end": 218.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 83,
+        "text": "على قيمه اكس فهي هتكون بتكونفرج ولا",
+        "start": 215.4,
+        "end": 220.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 84,
+        "text": "بتدايفرج طب انا عايز اشوف الفانكشن اللي",
+        "start": 218.159,
+        "end": 222.92,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 85,
+        "text": "موجوده قدامي دي او السيريز اللي موجوده",
+        "start": 220.68,
+        "end": 225.43900000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 86,
+        "text": "قدامي دي هي بتكونفرج ولا بتدايفرج طيب",
+        "start": 222.92,
+        "end": 227.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 87,
+        "text": "ايه الحاجات اللي انا كنت بقدر اعرف بيه",
+        "start": 225.439,
+        "end": 230.07999999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 88,
+        "text": "السيريز اللي موجوده قدامي دي هي بتكونفرج",
+        "start": 227.64,
+        "end": 233.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 89,
+        "text": "ولا بتدايفرج انا كنت بقدر اعمل كده",
+        "start": 230.08,
+        "end": 234.87900000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 90,
+        "text": "بالتست اللي احنا كنا اخدناها في",
+        "start": 233.159,
+        "end": 237.879,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 91,
+        "text": "الفيديوهات اللي قبل كده الفيديو اللي فات",
+        "start": 234.879,
+        "end": 240.07899999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 92,
+        "text": "ا بالظبط او تقريبا يعني الفيديو اللي فات",
+        "start": 237.879,
+        "end": 243.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 93,
+        "text": "كان اخدنا حاجه اسمها الريشيو الريشيو تست",
+        "start": 240.079,
+        "end": 245.04000000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 94,
+        "text": "الريشيو تست ده كانت فكرته ازاي كانت",
+        "start": 243.159,
+        "end": 248.239,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 95,
+        "text": "فكرته ان انت عشان تختبر السيريس بتاعتك",
+        "start": 245.04,
+        "end": 250.84,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 96,
+        "text": "هي بتكونفرج ولا بتدايفرج كنت انت عندك",
+        "start": 248.239,
+        "end": 252.92000000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 97,
+        "text": "اصلا ان السيريس هي عباره عن ان هي ايه هي",
+        "start": 250.84,
+        "end": 255.31900000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 98,
+        "text": "عباره ان هي عباره ان هي اي واحد وعندي",
+        "start": 252.92,
+        "end": 258.359,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 99,
+        "text": "هنا اي انين وعندي هنا اي لاه لحد بقى",
+        "start": 255.319,
+        "end": 260.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 100,
+        "text": "التانيها هي انفينيت سيريز ف لحد مثلا",
+        "start": 258.359,
+        "end": 263.75899999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 101,
+        "text": "انها اي وان لحد اي ان اللي هو الترم بتاع",
+        "start": 260.4,
+        "end": 265.479,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 102,
+        "text": "ان وطبعا انت هتانيك ماشي كده لحد لحد",
+        "start": 263.759,
+        "end": 268.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 103,
+        "text": "ايه؟ لحد الانفينتي فكانت فكره الريشيو",
+        "start": 265.479,
+        "end": 270.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 104,
+        "text": "تست بتقول لك ان هو عباره عن ان هو ريشيو",
+        "start": 268.88,
+        "end": 274.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 105,
+        "text": "نسبه ماشي بجيب بسط ومقام فبقوم قلك هنا",
+        "start": 270.88,
+        "end": 278.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 106,
+        "text": "ان الاي في ان + على الترم اللي قبله يعني",
+        "start": 274.639,
+        "end": 281.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 107,
+        "text": "انا باخد الاي اوف ان زائد واح الترم",
+        "start": 278.36,
+        "end": 284.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 108,
+        "text": "المستقبلي على الترم اللي قبله بالظبط",
+        "start": 281.639,
+        "end": 287.199,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 109,
+        "text": "وبشوف بقى النتيجه اللي هتطلع لي لو",
+        "start": 284.36,
+        "end": 289.91900000000004,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 110,
+        "text": "النتيجه اللي طلعت لي هنا لو النتيجه اللي",
+        "start": 287.199,
+        "end": 292.199,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 111,
+        "text": "طلعت لي كانت يعني نفترض مثلا ان دي",
+        "start": 289.919,
+        "end": 294.52,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 112,
+        "text": "قيمتها ال وخلي بالك هنا ان انا كانت عندي",
+        "start": 292.199,
+        "end": 298.039,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 113,
+        "text": "ان الليت للحته دي كانت لما",
+        "start": 294.52,
+        "end": 300.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 114,
+        "text": "ان تكون رايحه للانفينتي يعني انا هنا",
+        "start": 298.039,
+        "end": 302.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 115,
+        "text": "رايح للانفينتي ليه رايحه للانفينتي لان",
+        "start": 300.12,
+        "end": 305.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 116,
+        "text": "انا عندي هي اسمها انفايت سيريز فعشان كده",
+        "start": 302.36,
+        "end": 309.96000000000004,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 117,
+        "text": "ان رايحه للانفينتي تمام فلو كانت ال بقى",
+        "start": 305.72,
+        "end": 312.44000000000005,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 118,
+        "text": "هي اقل من الواحد ساعتها كنت اقول عليها",
+        "start": 309.96,
+        "end": 316.19899999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 119,
+        "text": "انها بتكونفرج لو كانت ال اكبر من الواحد",
+        "start": 312.44,
+        "end": 318.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 120,
+        "text": "ساعتها كنت بقول عليها ان السيريز دي",
+        "start": 316.199,
+        "end": 320.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 121,
+        "text": "بالدايفرج لان انا عندي هنا دي طلعت لي",
+        "start": 318.4,
+        "end": 322.63899999999995,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 122,
+        "text": "بتسعه ودي طلعت لي بثمانيه فالترم اللي",
+        "start": 320.639,
+        "end": 324.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 123,
+        "text": "بعدي جاي اكبر من الترم اللي قبلي فهو",
+        "start": 322.639,
+        "end": 327.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 124,
+        "text": "واضح جدا ان السيريز دي بتدايفرج عكس بقى",
+        "start": 324.72,
+        "end": 330.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 125,
+        "text": "كده لو كانت دي لاثه لو كانت دي لاثه",
+        "start": 327.44,
+        "end": 332.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 126,
+        "text": "والترم اللي قبلها كان بيساوي مانيه فده",
+        "start": 330.12,
+        "end": 334.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 127,
+        "text": "معناته ان السيريس عندي لو احنا جينا",
+        "start": 332.24,
+        "end": 337.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 128,
+        "text": "نرسمها كده هي ت كونفرج بالشكل ده كده",
+        "start": 334.4,
+        "end": 340.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 129,
+        "text": "فانا هنا براجع لك على الريشيو تست فلو",
+        "start": 337.24,
+        "end": 343.319,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 130,
+        "text": "كانت هنا ال اكبر من الواحد فساعتها",
+        "start": 340.4,
+        "end": 345.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 131,
+        "text": "السيريز دي بتدايفرج وقلنا ان كانت في كيس",
+        "start": 343.319,
+        "end": 349.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 132,
+        "text": "لو كانت ال بقى بتساوي الواحد فساعتها ان",
+        "start": 345.96,
+        "end": 352.31899999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 133,
+        "text": "الريشيو تست ده بيكون ان هو ايه بيفيل",
+        "start": 349.12,
+        "end": 355.84000000000003,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 134,
+        "text": "بيفيل كده بالشكل ده فهي هي دي مراجعه",
+        "start": 352.319,
+        "end": 359.199,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 135,
+        "text": "بسيطه جدا على الريش تست انا بكل بساطه",
+        "start": 355.84,
+        "end": 362.59999999999997,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 136,
+        "text": "انا هعوض بالفانكشن دي كده هعوض بيها هنا",
+        "start": 359.199,
+        "end": 366.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 137,
+        "text": "وهشوف الفالو اللي اكس عندها اللي اكس",
+        "start": 362.6,
+        "end": 369.28000000000003,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 138,
+        "text": "عندها بيساوي الواحد طب ليه اشمعنى انا",
+        "start": 366.44,
+        "end": 372.479,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 139,
+        "text": "اخترت ان الاكس بيساوي الواحد انا اخترت",
+        "start": 369.28,
+        "end": 375.19899999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 140,
+        "text": "ان الاكس عندي هنا بيساوي الواحد لان هو",
+        "start": 372.479,
+        "end": 377.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 141,
+        "text": "الحد الفاصل ما بين اللاين ده كده يعني",
+        "start": 375.199,
+        "end": 380.319,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 142,
+        "text": "انا لو عندي هنا ده انا عندي ده التايم",
+        "start": 377.639,
+        "end": 382.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 143,
+        "text": "لاين وعندي انا عندي هنا الواحد لو كنت",
+        "start": 380.319,
+        "end": 385.52000000000004,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 144,
+        "text": "انت اقل من الواحد واحد بالشكل ده فساعتها",
+        "start": 382.88,
+        "end": 389.479,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 145,
+        "text": "انت بتكونفرج بالشكل ده كده لو كانت قيمه",
+        "start": 385.52,
+        "end": 392.35999999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 146,
+        "text": "الل عندي هنا اكبر من الواحد لو هي اكبر",
+        "start": 389.479,
+        "end": 394.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 147,
+        "text": "من واحد فساعتها هي بتدايفرج فانا اللي",
+        "start": 392.36,
+        "end": 396.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 148,
+        "text": "هعمله بكل بساطه ان انا عندي ايه بما ان",
+        "start": 394.68,
+        "end": 399.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 149,
+        "text": "انا عندي فيابل فانا هقوم معوض بالليمت",
+        "start": 396.8,
+        "end": 402.199,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 150,
+        "text": "بتاعتي واقوم قايل لو كانت عندي هنا ان",
+        "start": 399.24,
+        "end": 404.96000000000004,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 151,
+        "text": "رايحه او تقول او جوز تو انفينتي واقوم",
+        "start": 402.199,
+        "end": 407.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 152,
+        "text": "قايل انها عندي اي ان زائد واح نفس",
+        "start": 404.96,
+        "end": 410.23999999999995,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 153,
+        "text": "القانون بتاعي على الاي اوف ان وهقوم قايل",
+        "start": 407.44,
+        "end": 413.71999999999997,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 154,
+        "text": "هي هنا بتساوي الواحد واطلع بقى قيمه قيمه",
+        "start": 410.24,
+        "end": 415.759,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 155,
+        "text": "الاكس اللي هتطلع لي هتكون بكام؟ طب قيمه",
+        "start": 413.72,
+        "end": 417.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 156,
+        "text": "الاكس ازاي يا ابن الحلال؟ ما هو انت عندك",
+        "start": 415.759,
+        "end": 420.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 157,
+        "text": "الفورمولا هنا فيها اكس انت هتساوي القيمه",
+        "start": 417.639,
+        "end": 422.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 158,
+        "text": "دي بواحد وهتشوف بقى ايه النتيجه اللي",
+        "start": 420.56,
+        "end": 425.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 159,
+        "text": "هتطلع لك هتقوم قايل بقى لو انا كانت عندي",
+        "start": 422.68,
+        "end": 427.599,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 160,
+        "text": "بما ان انا سويتها بواحد لو كنت انت رحت",
+        "start": 425.0,
+        "end": 430.52,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 161,
+        "text": "اقل من الواحد فساعتها السيريز او",
+        "start": 427.599,
+        "end": 432.84,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 162,
+        "text": "الانفاينايت سيريز دي هتكون بتكونفرج لو",
+        "start": 430.52,
+        "end": 436.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 163,
+        "text": "كانت قيمه اكس بتساوي كذا والسيرس برضو",
+        "start": 432.84,
+        "end": 439.75899999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 164,
+        "text": "بتدايفرج لو كانت قيمه اكس اكبر من اكبر",
+        "start": 436.08,
+        "end": 441.87899999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 165,
+        "text": "من قيمه معينه خلينا ان احنا نشوف بامثله",
+        "start": 439.759,
+        "end": 443.84000000000003,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 166,
+        "text": "افضل عشان ان احنا نقدر نقدر نفهم",
+        "start": 441.879,
+        "end": 446.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 167,
+        "text": "الكونسبت ده السؤال الاولاني هنا معايا او",
+        "start": 443.84,
+        "end": 449.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 168,
+        "text": "الاكزامبل الاولاني وهو عباره ان هو باور",
+        "start": 446.639,
+        "end": 451.96000000000004,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 169,
+        "text": "سيرز خلينا احنا نراجع برض على شويه حاجات",
+        "start": 449.56,
+        "end": 454.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 170,
+        "text": "مهمه برضو كنا احنا اخدنا ان لما يكون",
+        "start": 451.96,
+        "end": 456.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 171,
+        "text": "عندي نيجتيف واحد باور ان بالشكل ده كده",
+        "start": 454.36,
+        "end": 459.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 172,
+        "text": "كنا قلنا ان احنا دي عباره ان هي اولتن",
+        "start": 456.96,
+        "end": 462.15999999999997,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 173,
+        "text": "سيريز يعني ايه اولتين سيريز يعني متردده",
+        "start": 459.68,
+        "end": 465.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 174,
+        "text": "وكنا قلنا قبل كده برض ان الحته بتاعه",
+        "start": 462.16,
+        "end": 468.08000000000004,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 175,
+        "text": "النيجتيف واحد ومرفوعه باور باور فدي كلها",
+        "start": 465.08,
+        "end": 471.599,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 176,
+        "text": "بس هي بتتحكم في اشاره الترم بتاعي يعني",
+        "start": 468.08,
+        "end": 474.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 177,
+        "text": "دي بتلعب لي مره مره بتكون موجب مره بتكون",
+        "start": 471.599,
+        "end": 476.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 178,
+        "text": "سالب مره بتكون موجب مره بتكون سالب دي",
+        "start": 474.0,
+        "end": 478.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 179,
+        "text": "اول حاجه الحاجه التانيه هنا برض ان انا",
+        "start": 476.4,
+        "end": 480.79999999999995,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 180,
+        "text": "عندي هنا قيمه ان انا عندي هنا في يابل",
+        "start": 478.36,
+        "end": 483.28000000000003,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 181,
+        "text": "اسمه اكس تمام فده معناته ان انا هنا",
+        "start": 480.8,
+        "end": 486.199,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 182,
+        "text": "عايشوف الريديس بتاع الكونفرجنس بتاعي",
+        "start": 483.28,
+        "end": 490.599,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 183,
+        "text": "عايشوف الليت او الاريا اللي فيها",
+        "start": 486.199,
+        "end": 493.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 184,
+        "text": "السيريز او الانفنات سيريز دي بتكونفرج",
+        "start": 490.599,
+        "end": 495.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 185,
+        "text": "وعندي هنا برضو ان التيرم ده كده مرفوعه",
+        "start": 493.159,
+        "end": 498.479,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 186,
+        "text": "باور ان وهي هنا ان تيرمز اوف ان فده",
+        "start": 495.68,
+        "end": 501.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 187,
+        "text": "معناته ان هي باور سيرز هنا طالب مني ان",
+        "start": 498.479,
+        "end": 503.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 188,
+        "text": "انا اجيب الريت",
+        "start": 501.24,
+        "end": 506.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 189,
+        "text": "يعني عايز اجيب المحيط او القطر بتاع",
+        "start": 503.4,
+        "end": 509.19899999999996,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 190,
+        "text": "الكونفرج بتاعي بتاع التقارب بتاع الانف",
+        "start": 506.56,
+        "end": 511.919,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 191,
+        "text": "سير خلينا ان احنا نستخدم الريش تست في حل",
+        "start": 509.199,
+        "end": 514.039,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 192,
+        "text": "السؤال ده وكنا قلنا ان احنا هنقوم قايلين",
+        "start": 511.919,
+        "end": 516.4789999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 193,
+        "text": "ان هو عباره ان هو ليمت لو كانت عندي هنا",
+        "start": 514.039,
+        "end": 519.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 194,
+        "text": "ان تؤول الى انفينتي واحنا كنا قايلين ان",
+        "start": 516.479,
+        "end": 522.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 195,
+        "text": "هي عباره عن هي اي اوف ان زائد واحد على",
+        "start": 519.279,
+        "end": 524.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 196,
+        "text": "الاي اوف ان وهقوم قايل ان كل ده في الاخر",
+        "start": 522.12,
+        "end": 527.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 197,
+        "text": "بيساوي واحد طب تعالى بما ان انا كتبت",
+        "start": 524.56,
+        "end": 529.7199999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 198,
+        "text": "القانون هستغل المكان وهقوم قايل هي الا a",
+        "start": 527.08,
+        "end": 531.9590000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 199,
+        "text": "اوف ان عندي هقوم قايل ان انا عندي دي هي",
+        "start": 529.72,
+        "end": 534.1600000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 200,
+        "text": "عباره ان هي ايه؟ عباره انها اي اوف ان طب",
+        "start": 531.959,
+        "end": 536.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 201,
+        "text": "انا عايز اجيب اي اوف ان + هتعمل ايه",
+        "start": 534.16,
+        "end": 540.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 202,
+        "text": "هتقوم شايل كل ان وهتعوض مكانها ب + طيب",
+        "start": 536.8,
+        "end": 542.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 203,
+        "text": "تعال نشوف الترم ده الاولاني اللي هو الا",
+        "start": 540.64,
+        "end": 544.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 204,
+        "text": "a اوف ان + انا هكتب اول حاجه الا a اوف",
+        "start": 542.56,
+        "end": 547.5999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 205,
+        "text": "ان + تبقى عباره هنا ان هي ناقص واح وهشيل",
+        "start": 544.64,
+        "end": 550.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 206,
+        "text": "ال n واحط مكانها ايه ان + بالشكل ده كده",
+        "start": 547.6,
+        "end": 552.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 207,
+        "text": "بعد ادي كده اقوم قايل انا عندي تحت على",
+        "start": 550.56,
+        "end": 555.5999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 208,
+        "text": "اربعه ان باور ان فهتبقى عندي هنا هي ان +",
+        "start": 552.279,
+        "end": 558.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 209,
+        "text": "بالشكل ده بعد كده كل ده لسه في الترم",
+        "start": 555.6,
+        "end": 560.6800000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 210,
+        "text": "الاولاني اللي هو ايه اللي هو الا aي اوف",
+        "start": 558.88,
+        "end": 564.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 211,
+        "text": "ان زائ واح على الاي اوف ان تمام بعد كده",
+        "start": 560.68,
+        "end": 568.4399999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 212,
+        "text": "مضروبه في الاكس زائد 3 باور ان زائد",
+        "start": 564.0,
+        "end": 571.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 213,
+        "text": "بالشكل ده طيب انا كده كتبت ايه انا كده",
+        "start": 568.44,
+        "end": 573.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 214,
+        "text": "كتبت الترم الاولاني اللي هو ايه اللي هو",
+        "start": 571.24,
+        "end": 576.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 215,
+        "text": "ده الاي اوف ان زائد واحد عايز بعد كده",
+        "start": 573.399,
+        "end": 579.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 216,
+        "text": "اعمل ايه عايز بعد كده اكتب الترم اللي هو",
+        "start": 576.88,
+        "end": 582.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 217,
+        "text": "الا a اوف ان ده طب اكتبه ازاي بما ان هو",
+        "start": 579.399,
+        "end": 586.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 218,
+        "text": "في في المقام تحت هنا ومقام وهنا لو هو",
+        "start": 582.24,
+        "end": 588.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 219,
+        "text": "عندي هنا في المقام فانا ممكن ان انا احول",
+        "start": 586.0,
+        "end": 590.839,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 220,
+        "text": "او العمليه دي اصلا تعتبر انها قسمه لان",
+        "start": 588.519,
+        "end": 592.9590000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 221,
+        "text": "دي البسط والمقام هو عباره عن ان هو البسط",
+        "start": 590.839,
+        "end": 595.1600000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 222,
+        "text": "مقسوم على المقام فانا ممكن احولها لضرب",
+        "start": 592.959,
+        "end": 598.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 223,
+        "text": "واقوم واخد او اقلب المقدار اللي موجود",
+        "start": 595.16,
+        "end": 600.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 224,
+        "text": "قدامي ده اللي هو اللي هو الا aي اوف ان",
+        "start": 598.16,
+        "end": 602.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 225,
+        "text": "طب هنا هعمله ازاي هقلب اخلي كل اللي في",
+        "start": 600.24,
+        "end": 604.6800000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 226,
+        "text": "البسط مقام واخلي اللي في المقام بسط",
+        "start": 602.519,
+        "end": 607.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 227,
+        "text": "فهتبقى عندي الترم ده هو عباره ان هي",
+        "start": 604.68,
+        "end": 610.079,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 228,
+        "text": "اربعه باور ان بالشكل ده كده وفي المقام",
+        "start": 607.16,
+        "end": 612.3199999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 229,
+        "text": "تحت هحط كل اللي كان موجود في البسط هنا",
+        "start": 610.079,
+        "end": 614.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 230,
+        "text": "خلي بالك برض ان ده يعتبر هو موجود في",
+        "start": 612.32,
+        "end": 616.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 231,
+        "text": "البسط فتبقى عندي هنا عباره ان هي ناقص",
+        "start": 614.279,
+        "end": 618.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 232,
+        "text": "واحد باور ان بالشكل ده كده مضروبه في",
+        "start": 616.24,
+        "end": 621.04,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 233,
+        "text": "الايه في الاكس زائد الثلاثه",
+        "start": 618.76,
+        "end": 623.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 234,
+        "text": "باور ان وخلي بالك ان انا عندي هنا في",
+        "start": 621.04,
+        "end": 625.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 235,
+        "text": "ابسليوت ولازم كل ده في الاخر ان هو",
+        "start": 623.12,
+        "end": 628.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 236,
+        "text": "بيساوي الواحد في الاخر ايه المطلوب بقى",
+        "start": 625.519,
+        "end": 631.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 237,
+        "text": "مني بعد كل ده المطلوب مني في الحاله دي",
+        "start": 628.64,
+        "end": 633.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 238,
+        "text": "كلها بما انها معادله وبتساوي واحد",
+        "start": 631.72,
+        "end": 636.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 239,
+        "text": "فالمطلوب ان انا اطلع قيمه الاكس وهو ده",
+        "start": 633.72,
+        "end": 639.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 240,
+        "text": "الريديس اوف الكونفرجنس وتقريبا احنا كنا",
+        "start": 636.6,
+        "end": 642.0400000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 241,
+        "text": "اخدنا سؤال عليه بالضبط في الحلقه اللي",
+        "start": 639.399,
+        "end": 644.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 242,
+        "text": "فاتت في اخر الريشيو تست كنا قلنا ان",
+        "start": 642.04,
+        "end": 647.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 243,
+        "text": "الريشيو تست بيستخدم في حل المسائل اللي",
+        "start": 644.519,
+        "end": 649.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 244,
+        "text": "زي دي تعالى ان احنا نبسط الشكل اللي",
+        "start": 647.24,
+        "end": 651.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 245,
+        "text": "موجود قدام قدامنا ده انا عندي هنا ان دي",
+        "start": 649.6,
+        "end": 652.9200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 246,
+        "text": "في الاخر هي دي بتساوي واحد وعندي دي",
+        "start": 651.079,
+        "end": 655.2399999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 247,
+        "text": "هتعتبر انها ليمت وهقوم قايل هنا ان انا",
+        "start": 652.92,
+        "end": 658.92,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 248,
+        "text": "عندي هنا ناقص واحد باور ان + طب انا هنا",
+        "start": 655.24,
+        "end": 661.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 249,
+        "text": "الباور ان + دي انا ممكن افكها ازاي ممكن",
+        "start": 658.92,
+        "end": 663.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 250,
+        "text": "اقوم قايل انها ناقص واح باور ان مضروبه",
+        "start": 661.279,
+        "end": 666.079,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 251,
+        "text": "في ايه مضروبه في ناقص واحد بالشكل ده كده",
+        "start": 663.68,
+        "end": 668.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 252,
+        "text": "لو انت بسطت المقدار ده كده هتطلع لك نفس",
+        "start": 666.079,
+        "end": 671.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 253,
+        "text": "الحته اللي فوق دي بس انا فكيتها بالشكل",
+        "start": 668.8,
+        "end": 674.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 254,
+        "text": "ده عشان هتساعدني ان انا اطير الترمات",
+        "start": 671.519,
+        "end": 676.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 255,
+        "text": "اللي مع بعض بعد كده هقوم قايل برده نفس",
+        "start": 674.0,
+        "end": 678.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 256,
+        "text": "اللي حصل هنا فوق انا هقوم عامل الجزء ده",
+        "start": 676.16,
+        "end": 681.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 257,
+        "text": "كده هتبقى عندي انها اربعه باور ان مضروبه",
+        "start": 678.2,
+        "end": 683.1600000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 258,
+        "text": "هنا في اربعه وخلي بالك ان الاربعه دي هي",
+        "start": 681.12,
+        "end": 686.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 259,
+        "text": "عباره ان هي رقم عادي جدا اربعه قيمه",
+        "start": 683.16,
+        "end": 688.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 260,
+        "text": "الاربعه بس دي اربعه باور ان بعد كده",
+        "start": 686.0,
+        "end": 692.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 261,
+        "text": "مضروبه هنا برض في الاكس زائد اللاه باور",
+        "start": 688.68,
+        "end": 696.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 262,
+        "text": "ان ومضروبه هنا في الاكس زائد الثلاثه",
+        "start": 692.519,
+        "end": 698.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 263,
+        "text": "بالشكل ده كده فدي عندي انها اكس + 3 باور",
+        "start": 696.12,
+        "end": 701.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 264,
+        "text": "ان ودي عندي اكس زئ 3 لو انت ا يعني",
+        "start": 698.8,
+        "end": 703.1999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 265,
+        "text": "ضربتهم في بعض هيطلع لك نفس الترم اللي",
+        "start": 701.24,
+        "end": 706.04,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 266,
+        "text": "موجود هنا ده بعد كده هو قايل بقى الترم",
+        "start": 703.2,
+        "end": 709.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 267,
+        "text": "الثاني اللي عندي هنا هيبقى عندي ان هي دي",
+        "start": 706.04,
+        "end": 711.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 268,
+        "text": "هتبقى عندي دي اربعه باور ان انا هنا ده",
+        "start": 709.079,
+        "end": 713.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 269,
+        "text": "الترم ده كده هو عباره ان هو واحد على",
+        "start": 711.399,
+        "end": 715.839,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 270,
+        "text": "الاي اوف ان اللي هو كان موجود هنا ده",
+        "start": 713.399,
+        "end": 718.56,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 271,
+        "text": "تمام ا فهتبقى عندي هنا انها ناقص واحد",
+        "start": 715.839,
+        "end": 722.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 272,
+        "text": "باور ان ومضروبه هنا في الاكس زائد 3 باور",
+        "start": 718.56,
+        "end": 723.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 273,
+        "text": "ان بالشكل ده طب ايه اللي عليا ان انا",
+        "start": 722.079,
+        "end": 726.4799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 274,
+        "text": "اعمله ان انا بقى اطير الترمات وخلي بالك",
+        "start": 723.88,
+        "end": 728.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 275,
+        "text": "ان انت عندك هنا في ابسليوت يعني اللي هي",
+        "start": 726.48,
+        "end": 731.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 276,
+        "text": "العلامه المطلقه اللي هي بتطير السالب",
+        "start": 728.6,
+        "end": 732.9200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 277,
+        "text": "الناقصوا باور ان هتروح هنا مع الناقص",
+        "start": 731.079,
+        "end": 735.199,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 278,
+        "text": "واحد الاربعه باور ان هتروح هنا مع",
+        "start": 732.92,
+        "end": 738.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 279,
+        "text": "الاربعه باور ان الاكس زائد 3 باور ان",
+        "start": 735.199,
+        "end": 740.7199999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 280,
+        "text": "هتروح تروح مع الاكس زئ 3 باور ان بالشكل",
+        "start": 738.36,
+        "end": 743.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 281,
+        "text": "ده كده ايه الترمت اللي هتبقى لك هيتبقى",
+        "start": 740.72,
+        "end": 745.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 282,
+        "text": "لك الترم ده بالظبط هيبقى قال لك ان انت",
+        "start": 743.32,
+        "end": 746.9200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 283,
+        "text": "عندك هنا الواحد اللي هي المعادله او اللي",
+        "start": 745.079,
+        "end": 749.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 284,
+        "text": "هي كانت الليفت هاند سايد من المعادله دي",
+        "start": 746.92,
+        "end": 751.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 285,
+        "text": "وعندي هنا الليمت وما نساش ان الليمت ده",
+        "start": 749.12,
+        "end": 753.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 286,
+        "text": "لو كانت ان تؤول الى الانفينتي لان انا",
+        "start": 751.279,
+        "end": 755.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 287,
+        "text": "عندي هنا الفرييابل اللي موجود هنا اللي",
+        "start": 753.88,
+        "end": 757.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 288,
+        "text": "هو ان بتساوي او تؤول الى الانفينتي انا",
+        "start": 755.6,
+        "end": 760.0400000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 289,
+        "text": "بدرس لو ان رايح للانفينتي وعندي هنا",
+        "start": 757.8,
+        "end": 762.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 290,
+        "text": "الابسليوت ما انساهاش عندي هنا ناقص واح",
+        "start": 760.04,
+        "end": 765.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 291,
+        "text": "بالشكل ده كده وعندي هنا مضروبه في الاكس",
+        "start": 762.88,
+        "end": 769.04,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 292,
+        "text": "زائد 3 على تحت على تحت موجود ايه على تحت",
+        "start": 765.639,
+        "end": 770.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 293,
+        "text": "ما بقاش حاجه غير الاربعه اللي موجوده",
+        "start": 769.04,
+        "end": 773.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 294,
+        "text": "معايا هنا دي فهتبقى عندي دي الاربعه انا",
+        "start": 770.88,
+        "end": 776.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 295,
+        "text": "ممكن بما ان دول عندي هم عباره ان هم يابل",
+        "start": 773.36,
+        "end": 779.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 296,
+        "text": "او عباره عفوا ان هم ارقام عندي دي ناقص",
+        "start": 776.6,
+        "end": 781.9200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 297,
+        "text": "واحد والاربعه لو انا حبيت ان انا اطلعها",
+        "start": 779.079,
+        "end": 783.959,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 298,
+        "text": "هتبقى بالضبط هي عندي هي عباره عن ايه",
+        "start": 781.92,
+        "end": 785.4799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 299,
+        "text": "ناقص واحد دي لو خدت الابسليوت هتبقى",
+        "start": 783.959,
+        "end": 788.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 300,
+        "text": "عباره ان هي واحد وعندي تحت هي على",
+        "start": 785.48,
+        "end": 790.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 301,
+        "text": "الاربعه طلع الاربعه لان الابسليوت بتاع",
+        "start": 788.16,
+        "end": 792.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 302,
+        "text": "الاربعه هو الاربعه ومضروبه هنا في",
+        "start": 790.079,
+        "end": 795.959,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 303,
+        "text": "الابسليوت بقى بتاع مين بتاع الاكس زائد 3",
+        "start": 792.6,
+        "end": 798.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 304,
+        "text": "بالشكل ده كده وكل ده المفروض في الاخر ان",
+        "start": 795.959,
+        "end": 801.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 305,
+        "text": "هو بيساوي الواحد اللي كان موجود هنا انا",
+        "start": 798.24,
+        "end": 803.199,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 306,
+        "text": "كنت بقول لك حته مهمه جدا ممكن تكون",
+        "start": 801.279,
+        "end": 805.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 307,
+        "text": "فاتتني ان انا عندي هنا ان رايحه",
+        "start": 803.199,
+        "end": 807.4799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 308,
+        "text": "للانفينتي طيب هنا انا ما عنديش اصلا في",
+        "start": 805.0,
+        "end": 809.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 309,
+        "text": "اريابل اسمه ان فخلاص دي اكن اللمت ده",
+        "start": 807.48,
+        "end": 811.9200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 310,
+        "text": "مالوش اي لازمه لان انا هنا اصلا مافيش",
+        "start": 809.8,
+        "end": 814.92,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 311,
+        "text": "اريابل اسمه ان فدي تعتبر الاكس زائد 3",
+        "start": 811.92,
+        "end": 817.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 312,
+        "text": "اللي انا كنت بقول لك عليها يابل بالنسبه",
+        "start": 814.92,
+        "end": 819.4399999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 313,
+        "text": "للمساله دي بما ان هي فانكشن اوف ان",
+        "start": 817.24,
+        "end": 822.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 314,
+        "text": "فالاكس زئ 3 دي هتعتبر ان هي فهتبقى عندي",
+        "start": 819.44,
+        "end": 826.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 315,
+        "text": "عباره ان هي 1 على ا في الاكس زائد 3",
+        "start": 822.6,
+        "end": 828.6800000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 316,
+        "text": "بالشكل ده كده وكل ده في الاخر هي بتساوي",
+        "start": 826.32,
+        "end": 831.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 317,
+        "text": "الواحد اضرب المعادله دي في اربعه واضرب",
+        "start": 828.68,
+        "end": 833.079,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 318,
+        "text": "المعادله دي في اربعه عشان تخلص من الربع",
+        "start": 831.24,
+        "end": 836.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 319,
+        "text": "هتطلع لك هنا انها الابسليوت بتاع اكس + 3",
+        "start": 833.079,
+        "end": 838.6389999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 320,
+        "text": "بالشكل ده كده هتساوي في الاخر هنا انها",
+        "start": 836.16,
+        "end": 841.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 321,
+        "text": "اربعه طيب لو احنا جينا وحبينا ان احنا",
+        "start": 838.639,
+        "end": 843.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 322,
+        "text": "نحل المعادله دي فتتوم قايل لي ان انا",
+        "start": 841.36,
+        "end": 846.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 323,
+        "text": "عندي هنا اكس + 3 بالشكل ده هتساوي",
+        "start": 843.24,
+        "end": 848.04,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 324,
+        "text": "الاربعه لو وديت الثلاثه الناحيه الثانيه",
+        "start": 846.12,
+        "end": 851.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 325,
+        "text": "هتبقى عندي انها اكس في الاخر بتساوي واحد",
+        "start": 848.04,
+        "end": 853.8389999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 326,
+        "text": "فهيبقى عندك بعد كده ان الريتيس عندك او",
+        "start": 851.68,
+        "end": 856.4799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 327,
+        "text": "الاكس عندك طلعت هنا بتساوي واحد بس خلي",
+        "start": 853.839,
+        "end": 859.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 328,
+        "text": "بالك ان دي مش اكس لوحدها لان لو انت جربت",
+        "start": 856.48,
+        "end": 862.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 329,
+        "text": "او ده مش الحل الوحيد يعني في حل كمان لان",
+        "start": 859.639,
+        "end": 865.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 330,
+        "text": "لو انت جربت وقمت حاطط ان الاكس عندك هنا",
+        "start": 862.12,
+        "end": 867.759,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 331,
+        "text": "بتساوي واحد ومت انها 1 + 3 هطلع لك فيها",
+        "start": 865.12,
+        "end": 870.04,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 332,
+        "text": "انها باربعه بس في قيمه كمان ممكن انها",
+        "start": 867.759,
+        "end": 873.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 333,
+        "text": "تطلع لك الاربعه دي الا وهي الناقص سبعه",
+        "start": 870.04,
+        "end": 875.3199999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 334,
+        "text": "ليه بقى لان انت عندك هنا في حاجه اسمها",
+        "start": 873.279,
+        "end": 879.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 335,
+        "text": "ابسليوت طب جرب كده حط الناقص س - س + 3",
+        "start": 875.32,
+        "end": 882.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 336,
+        "text": "طلع لك نا ا تحت الابسليوت هيطلع لك انها",
+        "start": 879.279,
+        "end": 885.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 337,
+        "text": "باربعه فعندك هنا في قيمه كمان او فالو",
+        "start": 882.44,
+        "end": 887.8000000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 338,
+        "text": "كمان للاكس اللي اللي هي بتساوي الناقص",
+        "start": 885.6,
+        "end": 889.9590000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 339,
+        "text": "سبعه طب انا ازاي بقى اقدر ان انا اريح",
+        "start": 887.8,
+        "end": 891.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 340,
+        "text": "دماغي انا مش هقعد بقى ان انا ايه تكون",
+        "start": 889.959,
+        "end": 894.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 341,
+        "text": "عندي الفهلوه بتاعه بتاعه المصريين دي",
+        "start": 891.68,
+        "end": 896.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 342,
+        "text": "يعني بحيث ان انا كل مره اطلع الجواب",
+        "start": 894.68,
+        "end": 899.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 343,
+        "text": "بالشكل ده قال لك ان بما ان عندك انها اكس",
+        "start": 896.519,
+        "end": 903.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 344,
+        "text": "زائد 3 بالشكل ده كده في الابسليوت بتساوي",
+        "start": 899.68,
+        "end": 906.8,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 345,
+        "text": "اربعه فمره هتكون عندك انها اكس + 3",
+        "start": 903.399,
+        "end": 911.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 346,
+        "text": "بالشكل ده بتساوي الاربعه وده عشان تطلع",
+        "start": 906.8,
+        "end": 913.4399999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 347,
+        "text": "القيمه الاولانيه لاكس الحل الثاني بقى",
+        "start": 911.12,
+        "end": 916.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 348,
+        "text": "عشان تطلعه ان انت تقوم ضارب المقدار ده",
+        "start": 913.44,
+        "end": 919.519,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 349,
+        "text": "كله في نيجتيف فتبقى عندك انها ناقص اكس",
+        "start": 916.639,
+        "end": 922.839,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 350,
+        "text": "ناقص اللاه في بتساوي في الاخر انها اربعه",
+        "start": 919.519,
+        "end": 924.92,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 351,
+        "text": "جرب ان انت تنقل ان الناقص 3لاه دي",
+        "start": 922.839,
+        "end": 927.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 352,
+        "text": "الناحيه الثانيه تبقى عندك انها ناقص اكس",
+        "start": 924.92,
+        "end": 931.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 353,
+        "text": "بتساوي انها السبعه اضرب في نيجتيف اضرب",
+        "start": 927.6,
+        "end": 932.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 354,
+        "text": "في نيجتيف يطلع لك في الاخر ان اكس بتساوي",
+        "start": 931.12,
+        "end": 935.759,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 355,
+        "text": "كام بتساوي ناقص س فطلعت لي هنا ان قيمه",
+        "start": 932.72,
+        "end": 938.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 356,
+        "text": "الاكس الاولانيه بتساوي واحد قيمه الاكس",
+        "start": 935.759,
+        "end": 941.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 357,
+        "text": "الثانيه بتساوي انها ناقص س لو انا جربت",
+        "start": 938.0,
+        "end": 943.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 358,
+        "text": "ان انا عايز ارسم على خط الاعداد بالشكل",
+        "start": 941.16,
+        "end": 947.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 359,
+        "text": "ده كده قيمه الاكس عندي هنا واحده بناقص",
+        "start": 943.72,
+        "end": 950.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 360,
+        "text": "سبعه بالشكل ده كده وعندي هنا القيمه",
+        "start": 947.16,
+        "end": 952.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 361,
+        "text": "الثانيه اللي هي عند اكس بتساوي كام؟ عند",
+        "start": 950.24,
+        "end": 955.759,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 362,
+        "text": "اكس بتساوي واحد وخلي بالك ان احنا كنا",
+        "start": 952.279,
+        "end": 959.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 363,
+        "text": "بنحل المعادله لو كانت ال بتساوي واحد",
+        "start": 955.759,
+        "end": 962.0790000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 364,
+        "text": "وطلعت لي وقتها ان قيمه اكس هتساوي لي",
+        "start": 959.48,
+        "end": 965.5600000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 365,
+        "text": "واحد وعند برض قيمه عند اكس بتساوي ناقص س",
+        "start": 962.079,
+        "end": 968.079,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 366,
+        "text": "فده معناته لو انا عوضت هنا باكس بتساوي",
+        "start": 965.56,
+        "end": 970.319,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 367,
+        "text": "واحد في السيرس اللي قدامي دي لو انا خلاص",
+        "start": 968.079,
+        "end": 972.7589999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 368,
+        "text": "بقى قمت شايل قيمه الاكس دي وقمت خلاص انا",
+        "start": 970.319,
+        "end": 975.68,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 369,
+        "text": "هحط هنا بواحد يعني هحط هنا بواحد او",
+        "start": 972.759,
+        "end": 978.6800000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 370,
+        "text": "بناقص سبعه فساعتها ساعتها هتطلع لي قيمه",
+        "start": 975.68,
+        "end": 981.079,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 371,
+        "text": "الليمت بتاع ريشي تست هتطلع لي بواحد",
+        "start": 978.68,
+        "end": 983.2399999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 372,
+        "text": "واحنا كنا قايلين قبل كده ان قيمه الواحد",
+        "start": 981.079,
+        "end": 985.92,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 373,
+        "text": "دي معناته هنا ان التست ده بيفيل معناته",
+        "start": 983.24,
+        "end": 989.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 374,
+        "text": "ان هو لا بيكونفرج ولا بالدايفرج تمام",
+        "start": 985.92,
+        "end": 991.92,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 375,
+        "text": "فمعناته بما ان هو بيكونفرج ولا بيدافرج",
+        "start": 989.24,
+        "end": 995.04,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 376,
+        "text": "فمعناته ان الريديس بتاع الكونفرجنس بتاعي",
+        "start": 991.92,
+        "end": 997.959,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 377,
+        "text": "مش هياخد الفالو دي لان الناقص سبعه مش",
+        "start": 995.04,
+        "end": 1000.639,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 378,
+        "text": "هتكون متضمنه معايا وبرده الواحد مش هتكون",
+        "start": 997.959,
+        "end": 1003.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 379,
+        "text": "متضمنه معايا لان لو انا زي ما قلت لك مره",
+        "start": 1000.639,
+        "end": 1006.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 380,
+        "text": "ثانيه لو انا عوضت بيها في الانفايت سيريز",
+        "start": 1003.16,
+        "end": 1008.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 381,
+        "text": "وجيت استخدمت الريشيو تست ده هيطلع لي",
+        "start": 1006.12,
+        "end": 1010.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 382,
+        "text": "قيمه الل في الاخر بتاعه الليمت ده في",
+        "start": 1008.36,
+        "end": 1014.1990000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 383,
+        "text": "الاخر هطلع لي بواحد تمام فانا كنت بستخدم",
+        "start": 1010.36,
+        "end": 1017.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 384,
+        "text": "الواحد دي عشان نحل المعادله فمره تانيه",
+        "start": 1014.199,
+        "end": 1020.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 385,
+        "text": "الناقص واحد والنيجتيف سبعه مش من ضمن",
+        "start": 1017.279,
+        "end": 1023.4399999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 386,
+        "text": "الكونفرجنس اريا او الريديس بتاعي فهتلاحظ",
+        "start": 1020.12,
+        "end": 1026.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 387,
+        "text": "هنا برضو ان الريديس بتاع الكونفرجس بتاعي",
+        "start": 1023.44,
+        "end": 1029.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 388,
+        "text": "هيكون متضمن الجزء ده كده بالشكل ده كده",
+        "start": 1026.48,
+        "end": 1032.16,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 389,
+        "text": "لو انا حبيت اكتبها بشكل ماثماتيكلي يعني",
+        "start": 1029.72,
+        "end": 1035.839,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 390,
+        "text": "هتبقى عباره ان هي ناقص سبعه ولازم اكس",
+        "start": 1032.16,
+        "end": 1039.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 391,
+        "text": "تكون اكبر منها لحد الواحد فدي هي الريديس",
+        "start": 1035.839,
+        "end": 1042.28,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 392,
+        "text": "بتاعه الكونفرجنس بتاع على الانترفال دي",
+        "start": 1039.0,
+        "end": 1045.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 393,
+        "text": "لو احنا برض عايزين نكتبها بالشكل التاني",
+        "start": 1042.28,
+        "end": 1047.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 394,
+        "text": "هنقوم قايلين ان هي عباره ان هي ايه ان هي",
+        "start": 1045.24,
+        "end": 1049.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 395,
+        "text": "ناقص سبعه بالشكل ده كده لحد الواحد",
+        "start": 1047.48,
+        "end": 1052.84,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 396,
+        "text": "بالشكل ده كده وهي دي الريديس اوف",
+        "start": 1049.799,
+        "end": 1056.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 397,
+        "text": "الكونفرجنس دي هي الريديس اوف الكونفرجنس",
+        "start": 1052.84,
+        "end": 1059.039,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 398,
+        "text": "السؤال اللي بعد كده برض نفس الفكره",
+        "start": 1056.96,
+        "end": 1061.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 399,
+        "text": "بالظبط مديك هنا",
+        "start": 1059.039,
+        "end": 1064.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 400,
+        "text": "مديك هنا الانفانايت سيريز دي انفنايت اهي",
+        "start": 1061.76,
+        "end": 1066.679,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 401,
+        "text": "بالشكل لان هي راح الانفانات وبرده هي",
+        "start": 1064.08,
+        "end": 1069.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 402,
+        "text": "باور سيرس لان هنا في باور وهنا مديك يابل",
+        "start": 1066.679,
+        "end": 1072.1200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 403,
+        "text": "اسمه اكس وعايزك تطلع لي قيمه الاكس معلش",
+        "start": 1069.24,
+        "end": 1074.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 404,
+        "text": "نرجع للسؤال التاني هنا لو انا هنا دي",
+        "start": 1072.12,
+        "end": 1077.4799999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 405,
+        "text": "قيمه كان الخط بتاع اكس ولو انا قمت هنا",
+        "start": 1074.88,
+        "end": 1080.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 406,
+        "text": "مثلا ولتكن اكس هنا افترضت انها بصفر فلو",
+        "start": 1077.48,
+        "end": 1082.84,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 407,
+        "text": "انت هنا عوضت بالصفر هتبقى عندك شكل",
+        "start": 1080.4,
+        "end": 1085.5590000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 408,
+        "text": "السيرس بالشكل ده كده اتمنى انا اكون كنت",
+        "start": 1082.84,
+        "end": 1088.1999999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 409,
+        "text": "فاكرها ان هي كانت ناقص واحد باور ان على",
+        "start": 1085.559,
+        "end": 1091.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 410,
+        "text": "هنا الاربعه ومتال كانت عندي هنا اكس زائد",
+        "start": 1088.2,
+        "end": 1093.679,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 411,
+        "text": "الواحد بالشكل ده كده باور ان فانت خلاص",
+        "start": 1091.36,
+        "end": 1095.7199999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 412,
+        "text": "انت هتشيل قيمه الاكس اللي موجوده عندك",
+        "start": 1093.679,
+        "end": 1098.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 413,
+        "text": "هنا دي وهتعوض بكام؟ هتقوم قايل انها بصفر",
+        "start": 1095.72,
+        "end": 1100.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 414,
+        "text": "زائد الواحد بالشكل ده كده باور ان السيرز",
+        "start": 1098.48,
+        "end": 1102.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 415,
+        "text": "دي كده لو كانت هنا رايحه بان بتساوي واحد",
+        "start": 1100.72,
+        "end": 1105.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 416,
+        "text": "لحد الانفاينات السيرز دي بتكونفرج يعني",
+        "start": 1102.76,
+        "end": 1108.039,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 417,
+        "text": "دي خلاص دي بتكونفرج ليه؟ لان الصفر اللي",
+        "start": 1105.24,
+        "end": 1110.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 418,
+        "text": "انتيابل اللي كان موجود هنا ده هو موجود",
+        "start": 1108.039,
+        "end": 1114.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 419,
+        "text": "جوه الكونفرجنس ريديس موجود هو جوه ايه؟",
+        "start": 1110.76,
+        "end": 1117.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 420,
+        "text": "جوه القطر بتاع التقارب فدي معناته ان اي",
+        "start": 1114.08,
+        "end": 1120.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 421,
+        "text": "اكس اي فالو للاكس هتاخدها جوه القيمه دي",
+        "start": 1117.799,
+        "end": 1123.1589999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 422,
+        "text": "كده هتكون الانفينيت سيريز بتاعتي",
+        "start": 1120.799,
+        "end": 1126.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 423,
+        "text": "بتكونفرج نرجع بقى للسؤال اللي بعد كده",
+        "start": 1123.159,
+        "end": 1128.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 424,
+        "text": "فانا هنا عايز يجيب مني ايه او عايزني",
+        "start": 1126.36,
+        "end": 1130.1589999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 425,
+        "text": "اجيب له ايه عايز اجيب له الكونفرجنس",
+        "start": 1128.2,
+        "end": 1132.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 426,
+        "text": "ريديس نفس السؤال اللي فات بالظبط استخدم",
+        "start": 1130.159,
+        "end": 1134.679,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 427,
+        "text": "معاه برض",
+        "start": 1132.559,
+        "end": 1137.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 428,
+        "text": "الريشيو او الريشيو تست اللي هي لو كانت",
+        "start": 1134.679,
+        "end": 1139.8400000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 429,
+        "text": "عندي هنا ان رايحه للانفينتي وه قالوا هنا",
+        "start": 1137.48,
+        "end": 1142.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 430,
+        "text": "ان عندي هنا ان زائد واحد على هنا ايه على",
+        "start": 1139.84,
+        "end": 1145.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 431,
+        "text": "هنا ال ان بالشكل ده كده ومستني اشوف",
+        "start": 1142.96,
+        "end": 1147.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 432,
+        "text": "النتيجه هتطلع لي وهقوم قايل له هنا انها",
+        "start": 1145.559,
+        "end": 1149.9189999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 433,
+        "text": "بتساوي بتساوي هنا ال او هنا هقوم قيل",
+        "start": 1147.08,
+        "end": 1152.84,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 434,
+        "text": "انها بتساوي الواحد فهقوم قايل هنا ان انا",
+        "start": 1149.919,
+        "end": 1155.5200000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 435,
+        "text": "عندي هنا ان الليمت لو كانت عندي هنا ان",
+        "start": 1152.84,
+        "end": 1157.84,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 436,
+        "text": "رايحه للانفينتي بالشكل ده كده وعندي هنا",
+        "start": 1155.52,
+        "end": 1160.28,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 437,
+        "text": "الواحد وهقوم قايل هنا لو انا كنت عندي",
+        "start": 1157.84,
+        "end": 1163.1589999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 438,
+        "text": "بقى انا عايز اجيب بقى الترم بتاع ان +",
+        "start": 1160.28,
+        "end": 1166.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 439,
+        "text": "فهقوم قايل ان انا عندي هنا ان + هشيل كل",
+        "start": 1163.159,
+        "end": 1168.919,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 440,
+        "text": "valو ال ان واحط مكانها ان + بالمضروب",
+        "start": 1166.36,
+        "end": 1170.8799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 441,
+        "text": "بالشكل ده كده بعد كده اقوم قايل ان انا",
+        "start": 1168.919,
+        "end": 1174.1200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 442,
+        "text": "عندي هنا انين في اكس + خلي بالك هنا ان",
+        "start": 1170.88,
+        "end": 1176.7990000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 443,
+        "text": "انت عندك ما فيش لا بسط ولا مقام يعني",
+        "start": 1174.12,
+        "end": 1178.7199999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 444,
+        "text": "قصدي هنا ما فيش مقام حاجه مقسومه عليها",
+        "start": 1176.799,
+        "end": 1181.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 445,
+        "text": "فدي حاجه مش مبشره بالخير قوي يعني بعد",
+        "start": 1178.72,
+        "end": 1183.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 446,
+        "text": "كده اقوم قايل هنا انها باور ان زائد",
+        "start": 1181.72,
+        "end": 1186.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 447,
+        "text": "الواحد بعد كده هي هنا مضروبه بقى في",
+        "start": 1183.96,
+        "end": 1189.8400000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 448,
+        "text": "الايه؟ مضروبه في المقلوب بتاع الواحد على",
+        "start": 1186.96,
+        "end": 1192.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 449,
+        "text": "ان او خلينا نقول انها مقسومه على الاي",
+        "start": 1189.84,
+        "end": 1195.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 450,
+        "text": "باور ان فهنا الاي باور ان هنا عشان مافيش",
+        "start": 1192.559,
+        "end": 1197.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 451,
+        "text": "بسط مقام فهنا العمليه هتكون ابسط الشويه",
+        "start": 1195.0,
+        "end": 1200.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 452,
+        "text": "طب انت عندك دي اصلا دي تعتبر انها ايه دي",
+        "start": 1197.799,
+        "end": 1202.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 453,
+        "text": "تعتبر انها الاي باور ان يعني الجزء ده",
+        "start": 1200.24,
+        "end": 1204.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 454,
+        "text": "كده يعتبر ان هو الاي باور ان بالشكل ده",
+        "start": 1202.44,
+        "end": 1206.919,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 455,
+        "text": "كده فناخد الجزء ده بالظبط واقوم معوض بيه",
+        "start": 1204.4,
+        "end": 1209.2800000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 456,
+        "text": "هنا يعني في في المقام بتاعتي فهتبقى عندي",
+        "start": 1206.919,
+        "end": 1211.0800000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 457,
+        "text": "هي عباره انها ايه هي عباره هنا انها ال",
+        "start": 1209.28,
+        "end": 1213.1589999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 458,
+        "text": "ان مضروب بالشكل بالشكل ده كده مضروبه في",
+        "start": 1211.08,
+        "end": 1216.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 459,
+        "text": "الاثنين اكس زائد الواحد باور ان نفس اللي",
+        "start": 1213.159,
+        "end": 1219.7990000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 460,
+        "text": "عملته بالظبط في في السؤال اللي فاتحاول",
+        "start": 1216.559,
+        "end": 1221.8799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 461,
+        "text": "ان انا افك الترمات دي شويه بحيث ان انا",
+        "start": 1219.799,
+        "end": 1224.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 462,
+        "text": "ايه بحيث ان انا اقدر ان انا اطير ترمات",
+        "start": 1221.88,
+        "end": 1226.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 463,
+        "text": "مع بعض هنا طبعا عندي هنا بتساوي واحد",
+        "start": 1224.24,
+        "end": 1230.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 464,
+        "text": "عندي هنا الليت الجزء ده كده هنا ان +",
+        "start": 1226.48,
+        "end": 1232.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 465,
+        "text": "مضروب ممكن ان انت تفكها ازاي هتقوم قال",
+        "start": 1230.44,
+        "end": 1235.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 466,
+        "text": "هي عباره عن انها ايه هي عباره انها ان +",
+        "start": 1232.76,
+        "end": 1239.28,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 467,
+        "text": "مضروبه في الايه مضروبه في ال n وهنا عندك",
+        "start": 1235.64,
+        "end": 1242.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 468,
+        "text": "المضروب بتاعها هي طبعا هي ان مضروبه في",
+        "start": 1239.28,
+        "end": 1244.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 469,
+        "text": "ان ناقص هتنك بقى مكمل بس انا استخدمت هنا",
+        "start": 1242.2,
+        "end": 1248.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 470,
+        "text": "ايه انها ال n مضروبه عشان مش عايز اكمل",
+        "start": 1244.559,
+        "end": 1250.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 471,
+        "text": "مش عايز اكمل السيريز يعني بتاعتها او مش",
+        "start": 1248.2,
+        "end": 1252.6000000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 472,
+        "text": "عايز اكمل السيكوس بتاعها بعد كده هنا برض",
+        "start": 1250.0,
+        "end": 1255.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 473,
+        "text": "خلينا نستخدم لون تاني هنستخدم او هنعمل",
+        "start": 1252.6,
+        "end": 1258.28,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 474,
+        "text": "الترم ده هنا اين في اكس +",
+        "start": 1255.24,
+        "end": 1262.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 475,
+        "text": "ا باور ان + قايل هنا انها دي باور واحد",
+        "start": 1258.28,
+        "end": 1264.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 476,
+        "text": "بالشكل ده كده بس انا طبعا مش هكتبها",
+        "start": 1262.32,
+        "end": 1266.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 477,
+        "text": "مضروبه هنا في الاتنين في اكس زائد واح",
+        "start": 1264.12,
+        "end": 1268.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 478,
+        "text": "باور ان لو انت ضربت الترمين دول في بعض",
+        "start": 1266.799,
+        "end": 1271.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 479,
+        "text": "هيدوك ايه هيدوك الترم اللي فوق ده تمام ا",
+        "start": 1268.76,
+        "end": 1273.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 480,
+        "text": "فهو قايل بعد كده ان انا عندي طبعا بقى",
+        "start": 1271.799,
+        "end": 1276.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 481,
+        "text": "الجزء بتاع المقام عندي هنا ال ان مضروب",
+        "start": 1273.799,
+        "end": 1278.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 482,
+        "text": "خليني اعمله بلون ثاني هنا ان مضروب",
+        "start": 1276.08,
+        "end": 1280.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 483,
+        "text": "بالشكل ده كده بعد كده انا عندي هنا",
+        "start": 1278.279,
+        "end": 1283.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 484,
+        "text": "الاثنين في اكس زائد الواحد بالشكل ده كده",
+        "start": 1280.279,
+        "end": 1285.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 485,
+        "text": "باور ان اطير بقى الترمات مع بعض اشوف ايه",
+        "start": 1283.0,
+        "end": 1288.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 486,
+        "text": "الترمات اللي هيطيروا مع بعض عندي هنا ال",
+        "start": 1285.72,
+        "end": 1291.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 487,
+        "text": "ان ا مضروب هتروح هنا مع ال ان مضروب",
+        "start": 1288.44,
+        "end": 1294.1200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 488,
+        "text": "بالشكل ده كده وبعد كده عندي هنا الاتنين",
+        "start": 1291.44,
+        "end": 1296.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 489,
+        "text": "في اكس + واح باور ان هتروح هنا مع",
+        "start": 1294.12,
+        "end": 1300.8799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 490,
+        "text": "الاتنين في اكس + واح باور ان وهيبقى خلي",
+        "start": 1296.48,
+        "end": 1302.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 491,
+        "text": "بالك هنا ان انا كانت عندي هنا دي رايح",
+        "start": 1300.88,
+        "end": 1304.7990000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 492,
+        "text": "لانفينتي وعندي هنا دي بتساوي واحد هنا",
+        "start": 1302.44,
+        "end": 1307.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 493,
+        "text": "انا عندي هنا الليت اول مره اكتب الليت",
+        "start": 1304.799,
+        "end": 1310.6399999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 494,
+        "text": "بالستايل ده هنا رايحه للانفينتي وهندي",
+        "start": 1307.4,
+        "end": 1312.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 495,
+        "text": "هنا بقى ان زائد واحد في الترم اللي فات",
+        "start": 1310.64,
+        "end": 1315.919,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 496,
+        "text": "او في السؤال اللي فات كان لما احنا طيرنا",
+        "start": 1312.96,
+        "end": 1318.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 497,
+        "text": "الترمات كان طلع لي بعد ما بسطاني ماكانش",
+        "start": 1315.919,
+        "end": 1321.8400000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 498,
+        "text": "طل فيه ان بس هنا انا هنا عندي ان يعني",
+        "start": 1318.96,
+        "end": 1324.3600000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 499,
+        "text": "وعندي هنا ان زائد بالشكل ده كده مضروبه",
+        "start": 1321.84,
+        "end": 1326.4399999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 500,
+        "text": "في الترم اللي اتبقى من فوق اللي هو الترم",
+        "start": 1324.36,
+        "end": 1329.52,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 501,
+        "text": "ده كده فعندي دي عباره عن 2 في اكس زائد",
+        "start": 1326.44,
+        "end": 1332.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 502,
+        "text": "واحد اشوف بقى ايه النتيجه اللي هتطلع لي",
+        "start": 1329.52,
+        "end": 1334.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 503,
+        "text": "زي ما احنا كنا فاكرين قبل كده احنا كنا",
+        "start": 1332.76,
+        "end": 1336.679,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 504,
+        "text": "قلنا على الترم ده ان هو يعتبر ان انا",
+        "start": 1334.44,
+        "end": 1340.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 505,
+        "text": "عندي ان الليمت دي هي انا بعملها از",
+        "start": 1336.679,
+        "end": 1342.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 506,
+        "text": "فانكشن اوف ان فانا عندي بالنسبه لي انا",
+        "start": 1340.159,
+        "end": 1345.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 507,
+        "text": "هعامل بقى الجزء ده كده هعامل الجزء ده",
+        "start": 1342.799,
+        "end": 1347.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 508,
+        "text": "على انه كونستنت لان انا انت بالنسبه لي",
+        "start": 1345.24,
+        "end": 1349.52,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 509,
+        "text": "انت مش الفرييابل بتاعي انا مش مهتم بيك",
+        "start": 1347.36,
+        "end": 1352.1589999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 510,
+        "text": "من الاخر انت مش تبعي فانا هنا انا مهتم",
+        "start": 1349.52,
+        "end": 1354.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 511,
+        "text": "بالان فانا هتم بالجزء ده انما الاتنين في",
+        "start": 1352.159,
+        "end": 1358.5200000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 512,
+        "text": "اكس زائد واح انا هطيرها او هطلعها برده",
+        "start": 1354.96,
+        "end": 1360.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 513,
+        "text": "فهتبقى يبقى عندي هنا ان المعادله دي هنا",
+        "start": 1358.52,
+        "end": 1362.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 514,
+        "text": "بتساوي واحد وعندي هنا ان الاتنين في اكس",
+        "start": 1360.08,
+        "end": 1364.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 515,
+        "text": "زائد واحد وما انساش ان انا كانت عندي هنا",
+        "start": 1362.799,
+        "end": 1367.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 516,
+        "text": "في ابسليوت فهتبقى عندي هنا في ابسليوت",
+        "start": 1364.72,
+        "end": 1370.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 517,
+        "text": "فالو للقيمه دي ومضروبه هنا في الليمت بقى",
+        "start": 1367.2,
+        "end": 1374.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 518,
+        "text": "بتاع ال n + بالشكل ده كده لو كانت عندي",
+        "start": 1370.559,
+        "end": 1376.3999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 519,
+        "text": "هنا ان رايحه بالانفينتي انسى الجزء ده",
+        "start": 1374.2,
+        "end": 1378.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 520,
+        "text": "خالص مش هركز معانا عايز احل اللي الكارثه",
+        "start": 1376.4,
+        "end": 1381.039,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 521,
+        "text": "اللي موجوده معايا هنا دي اعملها ازاي",
+        "start": 1378.88,
+        "end": 1383.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 522,
+        "text": "هقوم قايل هنا بقى ان انا عندي هنا الليت",
+        "start": 1381.039,
+        "end": 1385.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 523,
+        "text": "وعندي هنا ان + واح فهتتحلل المساله دي",
+        "start": 1383.0,
+        "end": 1388.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 524,
+        "text": "ازاي هتقوم قايل والله عوض يعني انت عندك",
+        "start": 1385.96,
+        "end": 1390.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 525,
+        "text": "هنا ان زائد واح وعندك هنا انت بتقول لي",
+        "start": 1388.44,
+        "end": 1392.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 526,
+        "text": "ان رايح لانفينتي شوف لي انا عايز اشوف",
+        "start": 1390.279,
+        "end": 1394.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 527,
+        "text": "الفالو بتاعه الجزء ده كده هيساوي لي كام",
+        "start": 1392.64,
+        "end": 1397.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 528,
+        "text": "فقوم قايل والله عوض بشكل مباشر تقوم ق لي",
+        "start": 1394.72,
+        "end": 1399.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 529,
+        "text": "والله انفينتي زائد الواحد بالشكل ده كده",
+        "start": 1397.0,
+        "end": 1401.52,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 530,
+        "text": "عوضت مكان ال ان بالانفينتي هيطلع لي",
+        "start": 1399.48,
+        "end": 1403.919,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 531,
+        "text": "والله انفينتي زائد الواحد انفينتي رقم",
+        "start": 1401.52,
+        "end": 1406.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 532,
+        "text": "كبير جدا جدا زودت عليه واحد هيكون رقم",
+        "start": 1403.919,
+        "end": 1408.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 533,
+        "text": "اكبر واكبر فهتبقى عندي هنا دي انفينتي",
+        "start": 1406.08,
+        "end": 1410.3999999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 534,
+        "text": "فالقيمه بتاعه الفالو ده كله في الاخر",
+        "start": 1408.2,
+        "end": 1412.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 535,
+        "text": "هتختزل انها تكون عباره انها ايه انها",
+        "start": 1410.4,
+        "end": 1414.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 536,
+        "text": "تكون عباره انها انفينتي وخلي بالك ان انت",
+        "start": 1412.559,
+        "end": 1417.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 537,
+        "text": "عندك لسه في فالو بره هي عباره انها اين",
+        "start": 1414.76,
+        "end": 1419.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 538,
+        "text": "في اكس زائد الواحد بالشكل ده كده مضروبه",
+        "start": 1417.279,
+        "end": 1422.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 539,
+        "text": "في الانفينتي فده معناته من الاخر ايه؟ ده",
+        "start": 1419.44,
+        "end": 1425.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 540,
+        "text": "معناته ان في الاخر القيمه دي هتطلع لي او",
+        "start": 1422.32,
+        "end": 1426.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 541,
+        "text": "انا عايز كل ده في الاخر المعادله دي",
+        "start": 1425.159,
+        "end": 1430.3200000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 542,
+        "text": "اساويها بكام؟ اساويها بالواحد فالحل او",
+        "start": 1426.76,
+        "end": 1434.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 543,
+        "text": "المعادله دي للاسف للاسف مالهاش مالهاش",
+        "start": 1430.32,
+        "end": 1437.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 544,
+        "text": "ريديس اوف الكونفرجنس بس هنا فم حاجه يعني",
+        "start": 1434.2,
+        "end": 1441.4,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 545,
+        "text": "من الاخر ليه بقى؟ لان انت هنا في قيمه في",
+        "start": 1437.799,
+        "end": 1444.9189999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 546,
+        "text": "قيمه ممكن تصفر لك الترم ده كله يعني ممكن",
+        "start": 1441.4,
+        "end": 1447.6000000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 547,
+        "text": "الترم ده كله بيصفر طب معلش هو مكان",
+        "start": 1444.919,
+        "end": 1449.3600000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 548,
+        "text": "الواحد واحد ده كان موجود ايه؟ كان موجود",
+        "start": 1447.6,
+        "end": 1452.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 549,
+        "text": "حاجه اسمها ال طب انا كنت قايل لك ان لو",
+        "start": 1449.36,
+        "end": 1455.6789999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 550,
+        "text": "ال طلعت اكبر من الواحد تمام يبقى دي",
+        "start": 1452.12,
+        "end": 1458.279,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 551,
+        "text": "بتكونفرج ولا بتدايفرج هي بتكونفرج طب انت",
+        "start": 1455.679,
+        "end": 1460.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 552,
+        "text": "هنا كنت قايل لي ليه ال بتساوي واحد والله",
+        "start": 1458.279,
+        "end": 1463.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 553,
+        "text": "قيل لك ان ال بتساوي واحد لان هو ده الحد",
+        "start": 1460.48,
+        "end": 1466.039,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 554,
+        "text": "الفاصل ما بين الكونفرجنس والدايفرجنس طب",
+        "start": 1463.12,
+        "end": 1469.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 555,
+        "text": "هل انت ممكن تخلي لي قيمه القيمه دي كلها",
+        "start": 1466.039,
+        "end": 1472.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 556,
+        "text": "بما انها بانفينتي لو اي قيمه خدتها اكس",
+        "start": 1469.559,
+        "end": 1474.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 557,
+        "text": "القيمه هتطلع لي بانفينتي جرب كده خد",
+        "start": 1472.64,
+        "end": 1478.5200000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 558,
+        "text": "الواحد 2× 1 + هتبقى لا 3لاه في انفينتي",
+        "start": 1474.72,
+        "end": 1481.88,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 559,
+        "text": "انفينتي اي قيمه اي قيمه هتحطها هنا الاكس",
+        "start": 1478.52,
+        "end": 1485.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 560,
+        "text": "هطلع لك بانفينتي الا قيمه واحده بس ممكن",
+        "start": 1481.88,
+        "end": 1487.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 561,
+        "text": "انها تخلي لك قيمه المقدار ده كله بيساوي",
+        "start": 1485.12,
+        "end": 1491.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 562,
+        "text": "صفر ساعتها لو انت ضربت صفر في الانفينتي",
+        "start": 1487.96,
+        "end": 1493.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 563,
+        "text": "ساعتها القيمه بتاعه المقدار ده هيطلع لك",
+        "start": 1491.12,
+        "end": 1496.4799999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 564,
+        "text": "بصفر وساعتها ال هتطلع لك بصفر ولو ال",
+        "start": 1493.2,
+        "end": 1500.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 565,
+        "text": "كانت بصفر فهي ال اقل من الواحد وساعتها",
+        "start": 1496.48,
+        "end": 1503.76,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 566,
+        "text": "هي بتكونفرج فهنا انا عايز اشوف بقى ايه",
+        "start": 1500.159,
+        "end": 1506.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 567,
+        "text": "الفالو اللي ممكن انين اكس + بالشكل ده",
+        "start": 1503.76,
+        "end": 1510.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 568,
+        "text": "كده ممكن انها بتساوي الصفر هقوم قايل اول",
+        "start": 1506.96,
+        "end": 1514.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 569,
+        "text": "حاجه انا عندي هنا ان 2× اكس + بالشكل ده",
+        "start": 1510.96,
+        "end": 1516.64,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 570,
+        "text": "بتساوي صفر هتبقى عندي هنا ان قيمه الاكس",
+        "start": 1514.44,
+        "end": 1518.0800000000002,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 571,
+        "text": "في الاخر هنا اللون ده اعتقد ان هو مش",
+        "start": 1516.64,
+        "end": 1520.1200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 572,
+        "text": "واضح فه قال انها في الاخر هتساوي كام",
+        "start": 1518.08,
+        "end": 1522.559,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 573,
+        "text": "هتساوي انها ناقص واحد على الاثنين بالشكل",
+        "start": 1520.12,
+        "end": 1524.7199999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 574,
+        "text": "ده كده فانا عندي هنا قيمه الاكس هتبقى",
+        "start": 1522.559,
+        "end": 1528.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 575,
+        "text": "عندي هنا ان هي كام ان هي بناقص نص القيمه",
+        "start": 1524.72,
+        "end": 1530.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 576,
+        "text": "الثانيه عندي هنا زي ما قلت لك لو كان",
+        "start": 1528.799,
+        "end": 1532.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 577,
+        "text": "عندك في ابسليوت بالشكل ده كده فممكن ان",
+        "start": 1530.24,
+        "end": 1534.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 578,
+        "text": "هو يطلع لك جوابين فقوم قايل بما ان ده",
+        "start": 1532.24,
+        "end": 1536.3990000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 579,
+        "text": "الجواب الاولاني الجواب الثاني بقى لو",
+        "start": 1534.96,
+        "end": 1538.3990000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 580,
+        "text": "حكايه هنا ان انت هتقوم ضارب المقدار ده",
+        "start": 1536.399,
+        "end": 1540.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 581,
+        "text": "كله في النيجتيف فهتبقى عندك هنا انها",
+        "start": 1538.399,
+        "end": 1543.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 582,
+        "text": "ناقص اين اكس ناقص الواحد بتساوي صفر انقل",
+        "start": 1540.08,
+        "end": 1544.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 583,
+        "text": "الناقص واحد الناحيه الثانيه فهتبقى عندك",
+        "start": 1543.0,
+        "end": 1546.799,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 584,
+        "text": "في الاخر ان الاكس برض هيطلع لك ان هي",
+        "start": 1544.799,
+        "end": 1549.08,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 585,
+        "text": "بناقص نص بالشكل ده كده فهم الاثنين",
+        "start": 1546.799,
+        "end": 1551.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 586,
+        "text": "هيبقوا نفس الحاجه بالظبط يعني فهيطلع لك",
+        "start": 1549.08,
+        "end": 1554.12,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 587,
+        "text": "هنا في الاخر ان اكس عندك هنا بتساوي ان",
+        "start": 1551.96,
+        "end": 1557.0,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 588,
+        "text": "هي بناقص نص لو انت بقى انا عايزك تجربو",
+        "start": 1554.12,
+        "end": 1560.2399999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 589,
+        "text": "هنا بناقص نص بالشكل ده كده فالناقص نص لو",
+        "start": 1557.0,
+        "end": 1563.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 590,
+        "text": "انت جيت تعوض بيها مضروبه في الاثنين زائد",
+        "start": 1560.24,
+        "end": 1565.84,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 591,
+        "text": "الواحد بالشكل ده هيطلع لك الترم ده في",
+        "start": 1563.399,
+        "end": 1568.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 592,
+        "text": "الاخر بيساوي صفر مضروبه في الانفينتي ففي",
+        "start": 1565.84,
+        "end": 1570.6,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 593,
+        "text": "الاخر القيمه دي في الاخر اطلع لك ان هي",
+        "start": 1568.32,
+        "end": 1574.52,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 594,
+        "text": "بصفر فالانفنايت سيريز دي هي بتكونفيرج هي",
+        "start": 1570.6,
+        "end": 1579.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 595,
+        "text": "بتكونفيرج ات لو كانت قيمه اكس بتساوي بس",
+        "start": 1574.52,
+        "end": 1582.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 596,
+        "text": "لو كانت عند قيمه اكس بتساوي انها ناقص نص",
+        "start": 1579.32,
+        "end": 1585.8799999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 597,
+        "text": "بالشكل ده كده غير كده غير كده هي هتكون",
+        "start": 1582.32,
+        "end": 1589.36,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 598,
+        "text": "انها دايما بتدايفرج فانت هنا بكل اختصار",
+        "start": 1585.88,
+        "end": 1592.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 599,
+        "text": "انت عندك هنا الكونفرجنس ريديس بتاعتك هي",
+        "start": 1589.36,
+        "end": 1595.24,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 600,
+        "text": "مش عباره عن انها كانت انترفال زي ما احنا",
+        "start": 1592.44,
+        "end": 1597.2,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 601,
+        "text": "كنا كنا اخدنا في السؤال اللي فات هي هنا",
+        "start": 1595.24,
+        "end": 1600.1200000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 602,
+        "text": "عباره عن ان هي نقطه يعني هي هتبقى عندي",
+        "start": 1597.2,
+        "end": 1603.44,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 603,
+        "text": "هنا هي نقطه بالشكل ده كده ماشي عندي كام",
+        "start": 1600.12,
+        "end": 1607.399,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 604,
+        "text": "عندي هنا الناقص نص بالشكل ده كده غير كده",
+        "start": 1603.44,
+        "end": 1610.48,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 605,
+        "text": "بره الحته دي كده وبره الحته دي كده هي",
+        "start": 1607.399,
+        "end": 1613.1999999999998,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 606,
+        "text": "هنا بالدايفرج وبره الحته دي هي هنا",
+        "start": 1610.48,
+        "end": 1615.96,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 607,
+        "text": "بالدايفرج وعند النقطه دي بس عند النقطه",
+        "start": 1613.2,
+        "end": 1618.159,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 608,
+        "text": "الاستاند الون دي كده اللي هي الناقص نص",
+        "start": 1615.96,
+        "end": 1621.32,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 609,
+        "text": "هي هنا ايه هي هنا بيت كونفرج بس في الحته",
+        "start": 1618.159,
+        "end": 1625.8400000000001,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 610,
+        "text": "دي بس كده وبس ده كان شرح الباور",
+        "start": 1621.32,
+        "end": 1629.52,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 611,
+        "text": "وازاي ان احنا نحل الكونفرج ريديس وازاي",
+        "start": 1625.84,
+        "end": 1632.6789999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 612,
+        "text": "ان احنا نحل ريديست",
+        "start": 1629.52,
+        "end": 1635.1589999999999,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 613,
+        "text": "اتمنى ان شرح الفيديو ده كان بسيط ومفيد",
+        "start": 1632.679,
+        "end": 1639.72,
+        "video_title": "شرح Power Series"
+    },
+    {
+        "chunk_id": 614,
+        "text": "وشكرا جداكم والسلام كم",
+        "start": 1635.159,
+        "end": 1639.72,
+        "video_title": "شرح Power Series"
+    }
+]

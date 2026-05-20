@@ -1,0 +1,4979 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم في الفيديو ده ان شاء الله",
+        "start": 0.24,
+        "end": 5.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 1,
+        "text": "هنتكلم عن التريبل انتجريشن التكامل",
+        "start": 2.48,
+        "end": 8.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 2,
+        "text": "الثلاثي قبل ما نبتدي ان احنا نتكلم عن",
+        "start": 5.799,
+        "end": 11.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 3,
+        "text": "التربل انتجريشن خلينا نراجع على شويه",
+        "start": 8.679,
+        "end": 14.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 4,
+        "text": "حاجات كده في في الانتجريشن عامه بدايه",
+        "start": 11.4,
+        "end": 17.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 5,
+        "text": "بالسينجل الانجريشن بعد كده الدبل بعد كده",
+        "start": 14.639,
+        "end": 21.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 6,
+        "text": "هنخش هنا انتجريشن ونشرح الفكره بتاعته",
+        "start": 17.48,
+        "end": 22.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 7,
+        "text": "السينجل انتجريشن كان بيبقى عباره ان انا",
+        "start": 21.0,
+        "end": 24.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 8,
+        "text": "عندي فانكشن",
+        "start": 22.519,
+        "end": 26.358999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 9,
+        "text": "بما ان احنا بنتكلم عن السينجل فالفانكشن",
+        "start": 24.4,
+        "end": 29.919999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 10,
+        "text": "عندي هنا كانت بتبقى وان يابل يعني فيها",
+        "start": 26.359,
+        "end": 32.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 11,
+        "text": "واحد بس سواء كان اكس او واي بس كان بيبقى",
+        "start": 29.92,
+        "end": 35.559000000000005,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 12,
+        "text": "لو اكس هيبقى اكس بس لو واي هتبقى واي بس",
+        "start": 32.399,
+        "end": 37.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 13,
+        "text": "يعني فاحنا هنا خلينا نعتبر ان هي فانكشن",
+        "start": 35.559,
+        "end": 39.839999999999996,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 14,
+        "text": "اوف اكس بس فلما كنت باجي اكاملها بقى كنت",
+        "start": 37.52,
+        "end": 41.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 15,
+        "text": "بقوم قايل ان هي عباره عن هي فانكشن اوف",
+        "start": 39.84,
+        "end": 44.800000000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 16,
+        "text": "اكس بالشكل ده كده وبكاملها بالنسبه لدي",
+        "start": 41.32,
+        "end": 48.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 17,
+        "text": "اكس وكنا احنا قايلين يعني ان كان التكامل",
+        "start": 44.8,
+        "end": 51.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 18,
+        "text": "ده ا كنت عباره ان انا باخد شريحه صغيره",
+        "start": 48.28,
+        "end": 55.719,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 19,
+        "text": "جدا جدا اا من طول او يعني من عرض اللي هو",
+        "start": 51.0,
+        "end": 58.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 20,
+        "text": "الحته بتاعه الاكس ده فكنت بسميها بما ان",
+        "start": 55.719,
+        "end": 60.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 21,
+        "text": "انا واخدها من اكس فكانت بتبقى عباره انها",
+        "start": 58.64,
+        "end": 63.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 22,
+        "text": "دي اكس وكنت قايل انها دي اكس عشان الحته",
+        "start": 60.28,
+        "end": 65.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 23,
+        "text": "دي صغيره جدا جدا فكانت عشان كده كنت",
+        "start": 63.0,
+        "end": 67.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 24,
+        "text": "بسميه اكس لاحظ هنا ان انت عندك البعد",
+        "start": 65.799,
+        "end": 69.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 25,
+        "text": "عندك هنا كان عباره ان هو كام كان عباره",
+        "start": 67.759,
+        "end": 73.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 26,
+        "text": "عندك هنا ان هو 1 دي يعني فعشان كده دي",
+        "start": 69.759,
+        "end": 76.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 27,
+        "text": "كان اسمها السينجل انتجريشن او الانجريشن",
+        "start": 73.24,
+        "end": 79.39999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 28,
+        "text": "العادي اللي احنا متعودين عليه وكانت عندك",
+        "start": 76.36,
+        "end": 82.03999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 29,
+        "text": "الحته او الدي اكس دي بتتحرك من هنا مثلا",
+        "start": 79.4,
+        "end": 85.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 30,
+        "text": "من a بي بالشكل ده وهنفترض ان الحته دي",
+        "start": 82.04,
+        "end": 87.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 31,
+        "text": "كانت عند اكس بتساوي ايه وعند الحته دي",
+        "start": 85.28,
+        "end": 89.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 32,
+        "text": "كده انا بقى عايزكمان ولا لحد الحته دي",
+        "start": 87.92,
+        "end": 93.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 33,
+        "text": "كانت لحد فكانت اكس بتتانيها ماشيه من a",
+        "start": 89.72,
+        "end": 97.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 34,
+        "text": "لحد b بالشكل ده كده بتتحرك ا بالشكل ده",
+        "start": 93.159,
+        "end": 100.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 35,
+        "text": "تمام يعني هي بتتحرك في بعد واحد بس بعد",
+        "start": 97.24,
+        "end": 102.79899999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 36,
+        "text": "كده الموضوع اطور معايا وابتدى بقى ان انا",
+        "start": 100.159,
+        "end": 107.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 37,
+        "text": "بقى عندي ايه بقى عندي تو دي في الدبل",
+        "start": 102.799,
+        "end": 109.88000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 38,
+        "text": "انتجرال بقى عندي الموضوع هنا بقى في التو",
+        "start": 107.399,
+        "end": 113.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 39,
+        "text": "دي فبقت عندي هي بالشكل ده كده بدل ما",
+        "start": 109.88,
+        "end": 115.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 40,
+        "text": "كانت عندي هنا دي اكس الشريحه الصغيره دي",
+        "start": 113.24,
+        "end": 117.439,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 41,
+        "text": "بدل ما كانت في بعد واحد لا الشريحه",
+        "start": 115.28,
+        "end": 120.43900000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 42,
+        "text": "الصغيره دي بقت عندي هنا هي تعتبر انها في",
+        "start": 117.439,
+        "end": 123.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 43,
+        "text": "بعدين وخليني هنا ان انا عايز ارسمها عايز",
+        "start": 120.439,
+        "end": 126.19999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 44,
+        "text": "هنا ان انا اخليها ا بالشكل ده كده في",
+        "start": 123.6,
+        "end": 128.79999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 45,
+        "text": "النص فبقت عندي هنا دي بدل دي اكس بقت",
+        "start": 126.2,
+        "end": 132.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 46,
+        "text": "عباره هنا انها دي اي بالشكل ده كده فدي",
+        "start": 128.8,
+        "end": 135.31900000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 47,
+        "text": "اي دلوقتي بقت عباره ان هي هنا حته صغيره",
+        "start": 132.0,
+        "end": 138.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 48,
+        "text": "جدا من دي اكس مضروبه في حته صغيره جدا في",
+        "start": 135.319,
+        "end": 141.39999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 49,
+        "text": "دي واي فانت ما بقتش هنا تتحرك في بعد",
+        "start": 138.48,
+        "end": 144.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 50,
+        "text": "واحد انت بقيت تتحرك على يمين وشمال",
+        "start": 141.4,
+        "end": 146.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 51,
+        "text": "بالشكل ده كده اللي هو بالنسبه لدي اكس",
+        "start": 144.44,
+        "end": 149.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 52,
+        "text": "وبقيت برده تطلع وتنزل زل تحت بالشكل ده",
+        "start": 146.4,
+        "end": 152.20000000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 53,
+        "text": "فعشان كده عشان كده بقت عندك ان",
+        "start": 149.72,
+        "end": 154.879,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 54,
+        "text": "الانتجريشن بتاعك بقى عندك ان الانتجريشن",
+        "start": 152.2,
+        "end": 157.319,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 55,
+        "text": "هو عباره ان هو الحركه بتاعتك سواء كانت",
+        "start": 154.879,
+        "end": 159.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 56,
+        "text": "يمين او شمال فهتبقى عندك هنا الفانكشن",
+        "start": 157.319,
+        "end": 161.35999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 57,
+        "text": "وهنقول الفانكشن دي عباره ان هي فانكشن",
+        "start": 159.64,
+        "end": 163.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 58,
+        "text": "اوف توي يابل ماشي لان انا بقى عندي هنا",
+        "start": 161.36,
+        "end": 167.48000000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 59,
+        "text": "فانكشن اوف تويابل وكانت الحركه بتاعتك",
+        "start": 163.92,
+        "end": 169.879,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 60,
+        "text": "يمين او شمال فكانت دي بالنسبه لدي اكس",
+        "start": 167.48,
+        "end": 171.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 61,
+        "text": "وبما ان انت برده قلت لي ان انا بقيت",
+        "start": 169.879,
+        "end": 173.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 62,
+        "text": "اتحرك بما ان انت قلت لي ان انا بقيت برده",
+        "start": 171.64,
+        "end": 177.27999999999997,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 63,
+        "text": "بطلع يمين ا بطلع فوق وبنزل تحت فبقت عندي",
+        "start": 173.959,
+        "end": 179.599,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 64,
+        "text": "هنا برده في حركه راسيه بالشكل ده كده",
+        "start": 177.28,
+        "end": 183.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 65,
+        "text": "فبقت عندي هنا ان هي موجوده هنا في دي واي",
+        "start": 179.599,
+        "end": 185.35999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 66,
+        "text": "دي اكس اللي هي الشريحه الصغيره جدا من",
+        "start": 183.159,
+        "end": 187.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 67,
+        "text": "الاكس والشريحه الصغيره جدا من واي لما",
+        "start": 185.36,
+        "end": 190.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 68,
+        "text": "يتضربوا كده مع بعض بيطلعوا لي في الاخر",
+        "start": 187.959,
+        "end": 192.92000000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 69,
+        "text": "بيطلعوا لي الدي اريا اللي موجوده معايا",
+        "start": 190.519,
+        "end": 195.59900000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 70,
+        "text": "هنا فهنا الدي اريا هي عباره انها دي اكس",
+        "start": 192.92,
+        "end": 198.23899999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 71,
+        "text": "في دي واي اختلف بقى الترتيب دي واي كات",
+        "start": 195.599,
+        "end": 200.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 72,
+        "text": "الاول دي اكس بقت راحت هي في الاخر مش",
+        "start": 198.239,
+        "end": 203.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 73,
+        "text": "هتفرق المهم عندي هنا ان احنا نكون فاهمين",
+        "start": 200.76,
+        "end": 206.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 74,
+        "text": "الكونسبت بتاع ان الدبل انتجريشن بيبقى",
+        "start": 203.44,
+        "end": 208.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 75,
+        "text": "اسقاط الشكل عندي في التو دي بيبقى بالشكل",
+        "start": 206.28,
+        "end": 211.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 76,
+        "text": "ده كده والشريحه الصغيره دي بتبقى عباره",
+        "start": 208.28,
+        "end": 214.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 77,
+        "text": "عن ان هي اريا في 2 دي في بعدين مش في بعد",
+        "start": 211.12,
+        "end": 217.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 78,
+        "text": "واحد وبتتحرك يمين شمال وبتتحرك برده فوق",
+        "start": 214.0,
+        "end": 220.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 79,
+        "text": "وتحت نفس الكونسبت لو انت جيت بقى وطبقته",
+        "start": 217.56,
+        "end": 224.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 80,
+        "text": "على التريبل انتجريشن هتلاحظ ان الجزء",
+        "start": 220.959,
+        "end": 227.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 81,
+        "text": "الاسقاط بتاعه هيكون هنا موجود في ال 3ري",
+        "start": 224.56,
+        "end": 230.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 82,
+        "text": "دي بالشكل ده كده وهتلاحظ ان هي مثلا",
+        "start": 227.2,
+        "end": 232.51899999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 83,
+        "text": "بتبقى عندي هي عباره ان هي بدل بقى ما",
+        "start": 230.12,
+        "end": 235.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 84,
+        "text": "كانت هنا شريحه صغيره جدا من الاريا هتبقى",
+        "start": 232.519,
+        "end": 238.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 85,
+        "text": "الشريحه صغيره من الفوليوم بالشكل خلينا",
+        "start": 235.68,
+        "end": 241.48000000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 86,
+        "text": "نرسمها على انها هي مكعب بالشكل ده فهتبقى",
+        "start": 238.519,
+        "end": 244.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 87,
+        "text": "هي عباره عندي هنا انها مكعب بالشكل ده",
+        "start": 241.48,
+        "end": 246.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 88,
+        "text": "كده وهتبقى عندي ان انا عندي هنا في حاجه",
+        "start": 244.159,
+        "end": 249.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 89,
+        "text": "مثلا ولتكن ان دي اكس وعندي برض في حاجه",
+        "start": 246.76,
+        "end": 253.35999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 90,
+        "text": "اسمها هي دي واي وعندي برض هنا حاجه ولتكن",
+        "start": 249.56,
+        "end": 256.239,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 91,
+        "text": "بالشكل ده كده دي هتكون دي زد فانا عندي",
+        "start": 253.36,
+        "end": 259.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 92,
+        "text": "الثلاث ابعاد موجودين بيشاركوا معايا هنا",
+        "start": 256.239,
+        "end": 261.71999999999997,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 93,
+        "text": "فلو انا جيت بقى حبيت ان انا اسقط الموضوع",
+        "start": 259.199,
+        "end": 265.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 94,
+        "text": "ده في الترابل انتجريشن هلاحظ ان هي هتبقى",
+        "start": 261.72,
+        "end": 268.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 95,
+        "text": "عندي فانكشن الفانكشن دي هي لثلاثه يابل",
+        "start": 265.12,
+        "end": 271.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 96,
+        "text": "واي وزد مش توي يابل بس ولو انا حبيت ان",
+        "start": 268.639,
+        "end": 273.96000000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 97,
+        "text": "انا اول حاجه ان انا اكامل فانا هكامل",
+        "start": 271.56,
+        "end": 275.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 98,
+        "text": "مثلا على حركتها على الاكس فهتبقى هنا",
+        "start": 273.96,
+        "end": 278.79999999999995,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 99,
+        "text": "بالنسبه لدي اكس بعد كده انا عايز اكاملها",
+        "start": 275.96,
+        "end": 281.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 100,
+        "text": "على حركتها على الحركه بتاعتها على الواي",
+        "start": 278.8,
+        "end": 283.96000000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 101,
+        "text": "فيبقى عندي هنا التكامل بالنسبه هنا لدي",
+        "start": 281.44,
+        "end": 286.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 102,
+        "text": "واي بعد كده انا برده عايز اكاملها ما انا",
+        "start": 283.96,
+        "end": 287.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 103,
+        "text": "عندي في ثلاث ابعاد فانا هكملها برده على",
+        "start": 286.199,
+        "end": 290.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 104,
+        "text": "ايه على الزد فتبقى الحركه بتاعتها هنا",
+        "start": 287.96,
+        "end": 292.79999999999995,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 105,
+        "text": "بالنسبه لدي زد زي ما احنا عملنا هنا في",
+        "start": 290.12,
+        "end": 294.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 106,
+        "text": "الاريا وقمت قيل لك ان الدي اكس في دي واي",
+        "start": 292.8,
+        "end": 297.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 107,
+        "text": "هي بتساوي الدي اي فانا فانا عندي هنا برض",
+        "start": 294.759,
+        "end": 300.40000000000003,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 108,
+        "text": "احنا ممكن نقوم قايلين ان الدي في الحجم",
+        "start": 297.12,
+        "end": 303.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 109,
+        "text": "لان الاكس في الواي في زد بيطلع لك الحجم",
+        "start": 300.4,
+        "end": 306.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 110,
+        "text": "فالدي في هي عباره عندي هنا انها الدي اكس",
+        "start": 303.16,
+        "end": 309.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 111,
+        "text": "في الدي واي في الدي زد بالشكل ده كده",
+        "start": 306.0,
+        "end": 311.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 112,
+        "text": "وهتلاحظ برض بما ان احنا عملنا التريبل",
+        "start": 309.759,
+        "end": 313.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 113,
+        "text": "انتجريشن بالشكل ده ده هو التريبل",
+        "start": 311.96,
+        "end": 317.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 114,
+        "text": "انتجريشن فهي بتتحرك في الاكس بالشكل ده",
+        "start": 313.68,
+        "end": 320.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 115,
+        "text": "كده يمين وشمال وبتتحرك في الواي بالشكل",
+        "start": 317.52,
+        "end": 322.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 116,
+        "text": "ده كده برض وبتتحرك في اتجاه الزد في",
+        "start": 320.039,
+        "end": 325.15999999999997,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 117,
+        "text": "الثلاث الاتجاهات هنا كانت بتحرك في",
+        "start": 322.84,
+        "end": 328.19899999999996,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 118,
+        "text": "اتجاهين بس هنا بتتحرك في اتجاه واحد بس",
+        "start": 325.16,
+        "end": 330.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 119,
+        "text": "على الاكس هنا بتتحرك ا على الاكس والواي",
+        "start": 328.199,
+        "end": 334.08000000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 120,
+        "text": "هنا بتتحرك على الاكس والواي والزد فهو ده",
+        "start": 330.639,
+        "end": 337.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 121,
+        "text": "بكل اختصار هو التريبل انتجريشن او هو ده",
+        "start": 334.08,
+        "end": 341.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 122,
+        "text": "برض مراجعه على السينجل والدبل انتجريشن",
+        "start": 337.36,
+        "end": 344.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 123,
+        "text": "وال والتريبل انتجريشن طيب بالنسبه لاول",
+        "start": 341.08,
+        "end": 347.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 124,
+        "text": "سؤال موجود معايا هنا في التريبل انتجريشن",
+        "start": 344.0,
+        "end": 350.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 125,
+        "text": "مديني المساله دي وهي برض هنا عباره عن هي",
+        "start": 347.24,
+        "end": 352.40000000000003,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 126,
+        "text": "فانكشن اوف لاثه يابل زي ما هي موجوده",
+        "start": 350.24,
+        "end": 355.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 127,
+        "text": "معايا هنا وطالب مني ومديني هنا برده خلي",
+        "start": 352.4,
+        "end": 359.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 128,
+        "text": "بالك ان هي في الدي في وبيقول لي ان الحجم",
+        "start": 355.68,
+        "end": 360.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 129,
+        "text": "بقى هنا خلي بالك لما احنا كنا في الدبل",
+        "start": 359.039,
+        "end": 363.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 130,
+        "text": "انتجريشن كنت بقول لك ان المساحه اسقاط",
+        "start": 360.6,
+        "end": 365.96000000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 131,
+        "text": "المساحه هنا بقى ممكن تعتبر دي ان هي",
+        "start": 363.0,
+        "end": 368.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 132,
+        "text": "اسقاط الحجم بقى اسقاط الحجم هو مديهوللك",
+        "start": 365.96,
+        "end": 372.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 133,
+        "text": "بالشكل ده كده وبيقول لك ان اي هي بتتصف",
+        "start": 368.88,
+        "end": 374.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 134,
+        "text": "بالاشكال دي فاول حاجه بيقول لك ان اي هنا",
+        "start": 372.52,
+        "end": 376.75899999999996,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 135,
+        "text": "خلي بالك هنا هي موجوده عندي هنا في",
+        "start": 374.68,
+        "end": 380.479,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 136,
+        "text": "فانكشن اوف لاثه يابل اكس وواي وزد يعني",
+        "start": 376.759,
+        "end": 382.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 137,
+        "text": "انا بس بحاول اشرح لك الرمز ده وغالبا",
+        "start": 380.479,
+        "end": 384.31899999999996,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 138,
+        "text": "الرمز ده لما انت تشوفه هو بيبقى مكتوب في",
+        "start": 382.68,
+        "end": 386.479,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 139,
+        "text": "سطر واحد بس ان انا حبيت ان انا اكتب لك",
+        "start": 384.319,
+        "end": 389.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 140,
+        "text": "الاكس في سطر الواي في سطر والزد في سطر",
+        "start": 386.479,
+        "end": 392.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 141,
+        "text": "وحدها بحيث ان شكلها يكون نوعا ما ا منظم",
+        "start": 389.12,
+        "end": 394.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 142,
+        "text": "بالنسبه لك بحيث ان انت تقدر تاخد بالك",
+        "start": 392.639,
+        "end": 397.599,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 143,
+        "text": "يعني ما تلخبطش في الرموز او شكلها يعني",
+        "start": 394.639,
+        "end": 399.96000000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 144,
+        "text": "يكون متعب ليك يعني فهو اول حاجه بيقول",
+        "start": 397.599,
+        "end": 402.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 145,
+        "text": "ايه بيقول ان انا عندي هنا ان",
+        "start": 399.96,
+        "end": 405.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 146,
+        "text": "الاكس عندي حدودها من صفر لحد اثنين الواي",
+        "start": 402.96,
+        "end": 407.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 147,
+        "text": "عندي صفر لحد واحد الزد عندي من صفر لحد",
+        "start": 405.68,
+        "end": 410.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 148,
+        "text": "لاثه الانتجريشن ده عبيض جدا او التريبل",
+        "start": 407.96,
+        "end": 412.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 149,
+        "text": "انتجريشن ده عبيط جدا وان شاء الله حله",
+        "start": 410.52,
+        "end": 414.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 150,
+        "text": "هيبقى سهل جدا",
+        "start": 412.28,
+        "end": 416.19899999999996,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 151,
+        "text": "هكامل مثلا هيبقى عندي هنا التربل",
+        "start": 414.28,
+        "end": 418.23999999999995,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 152,
+        "text": "انتجريشن بالشكل ده الفانكشن اللي هي",
+        "start": 416.199,
+        "end": 420.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 153,
+        "text": "موجوده هنا موجوده عندي هنا زي ما هي مش",
+        "start": 418.24,
+        "end": 422.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 154,
+        "text": "هغير فيها اي حاجه تبقى عباره عن انها اكس",
+        "start": 420.759,
+        "end": 426.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 155,
+        "text": "في واي زائد الزد سكوير بالشكل ده وهنا",
+        "start": 422.759,
+        "end": 428.28000000000003,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 156,
+        "text": "الدي في احنا كنا قايلين قبل كده ان الدي",
+        "start": 426.16,
+        "end": 430.47900000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 157,
+        "text": "في عندي هنا هتبقى عباره هنا انها ايه ان",
+        "start": 428.28,
+        "end": 432.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 158,
+        "text": "الدي في هي عباره هنا انها دي اكس في دي",
+        "start": 430.479,
+        "end": 436.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 159,
+        "text": "واي في دي زد اختلف بقى الترتيب بتاعهم مش",
+        "start": 432.52,
+        "end": 438.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 160,
+        "text": "هتفرق وطالما الترتيب بتاعهم اتغير",
+        "start": 436.199,
+        "end": 441.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 161,
+        "text": "فالترتيب برده خلي بالك ان الحدود دي كمان",
+        "start": 438.96,
+        "end": 443.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 162,
+        "text": "لازم برده انك ايه تركز عليها بس بس انا",
+        "start": 441.199,
+        "end": 445.879,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 163,
+        "text": "بما ان انا لسه ما حطيتش الحدود عندي فمش",
+        "start": 443.68,
+        "end": 448.28000000000003,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 164,
+        "text": "هتفرق هتحط مين الاكس والواي او الزد مش",
+        "start": 445.879,
+        "end": 451.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 165,
+        "text": "هتفرقحط مين فيهم الاول اناهم قايل ايه",
+        "start": 448.28,
+        "end": 453.599,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 166,
+        "text": "انا هبتدي مثلا بالدي اكس الاول بعد كده",
+        "start": 451.12,
+        "end": 456.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 167,
+        "text": "الدي واي بعد كده هبتدي هنا بالدي زد طيب",
+        "start": 453.599,
+        "end": 458.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 168,
+        "text": "بما ان انا ابتديت هنا بقى بالدي اكس",
+        "start": 456.639,
+        "end": 461.84000000000003,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 169,
+        "text": "فهكامل هنا اول حاجه الانتجريشن الاولاني",
+        "start": 458.68,
+        "end": 464.319,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 170,
+        "text": "ده هيكون مع الدي اكس والانتجريشن اللي",
+        "start": 461.84,
+        "end": 466.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 171,
+        "text": "خلينا نعملها بالليزر افضل فهتبقى ده",
+        "start": 464.319,
+        "end": 468.08000000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 172,
+        "text": "الانتجريشن اللي مع الدي اكس بالشكل ده",
+        "start": 466.28,
+        "end": 470.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 173,
+        "text": "كده الانتجريشن الثاني هيكون مع اني واحد",
+        "start": 468.08,
+        "end": 473.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 174,
+        "text": "هنا اللي هو الواي اخر واحد او الانتجريشن",
+        "start": 470.159,
+        "end": 475.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 175,
+        "text": "اللي بعيد خالص هيبقى مع ابعد واحده هنا",
+        "start": 473.28,
+        "end": 478.479,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 176,
+        "text": "اللي هو هيبقى مع الزد بالشكل ده كده فلو",
+        "start": 475.199,
+        "end": 480.40000000000003,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 177,
+        "text": "انا حبيت بقى ان انا اعوض في الانتجريشن",
+        "start": 478.479,
+        "end": 482.8,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 178,
+        "text": "ده هتبقى عندي ان من صفر لحد اثنين ده",
+        "start": 480.4,
+        "end": 484.75899999999996,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 179,
+        "text": "بالنسبه لاكس فهتبقى عندي هنا دي من صفر",
+        "start": 482.8,
+        "end": 486.8,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 180,
+        "text": "لحد الاثنين بالشكل ده كده بعد كده الواي",
+        "start": 484.759,
+        "end": 489.91900000000004,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 181,
+        "text": "من صفر لحد واحد بعد كده الزد هتبقى من",
+        "start": 486.8,
+        "end": 492.319,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 182,
+        "text": "صفر لحد اللاثه بالشكل ده كده وابتدي ان",
+        "start": 489.919,
+        "end": 494.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 183,
+        "text": "انا اكامل بقى كل جزء لوحده انا هنا بكامل",
+        "start": 492.319,
+        "end": 496.8,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 184,
+        "text": "بالنسبه لمين اول حاجه انا هنا بكامل",
+        "start": 494.919,
+        "end": 498.79999999999995,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 185,
+        "text": "بالنسبه لاكس فانا اعتبر اكس عندي هي",
+        "start": 496.8,
+        "end": 500.84000000000003,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 186,
+        "text": "الفرييابل والباقي كله هو يعتبر ان هو",
+        "start": 498.8,
+        "end": 503.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 187,
+        "text": "كونستنت فيبقى الدبل انتج انتجريشن شوف",
+        "start": 500.84,
+        "end": 505.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 188,
+        "text": "هنا بقى بدل ما كانت التريبل هتبقى دبل",
+        "start": 503.44,
+        "end": 507.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 189,
+        "text": "انتجريشن تبقى عندي هنا اكس سكوير في",
+        "start": 505.56,
+        "end": 510.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 190,
+        "text": "الواي على هنا هقسم هنا على الاتنين بعد",
+        "start": 507.84,
+        "end": 512.1999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 191,
+        "text": "كده هو قايل انا الزد دي عندي كونستنت",
+        "start": 510.4,
+        "end": 514.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 192,
+        "text": "فهتبقى عباره هنا انها اكس في الزد سكوير",
+        "start": 512.2,
+        "end": 516.839,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 193,
+        "text": "بالشكل ده كده واعوض بقى بالحدود بتاعه",
+        "start": 514.36,
+        "end": 519.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 194,
+        "text": "الاكس حدود الاكس عندي كانت هنا الصفر",
+        "start": 516.839,
+        "end": 521.479,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 195,
+        "text": "والاثنين بالشكل ده كده وهتبقى عندي بما",
+        "start": 519.32,
+        "end": 523.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 196,
+        "text": "ان انا خلاص انا خلصت من الاكس فهيبقى",
+        "start": 521.479,
+        "end": 525.0400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 197,
+        "text": "عندي هنا مضروبه في الدي واي مضروبه في",
+        "start": 523.0,
+        "end": 528.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 198,
+        "text": "الدي زد بالشكل ده كده اعوض بالحدود بتاعه",
+        "start": 525.04,
+        "end": 530.8,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 199,
+        "text": "الاكس وما انساش برض ان انا عندي هنا",
+        "start": 528.6,
+        "end": 533.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 200,
+        "text": "الاستيل الحدود بتاعه الدبل انتجريشن هم",
+        "start": 530.8,
+        "end": 535.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 201,
+        "text": "الاثنين اللي كانوا بره دول لسه زي ما هم",
+        "start": 533.08,
+        "end": 537.5600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 202,
+        "text": "فهسيبهم زي ما هم لان انا مش عايز اضيع",
+        "start": 535.76,
+        "end": 540.3199999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 203,
+        "text": "وقت فيهم يعني اين سكوير هتبقى اربعه 4",
+        "start": 537.56,
+        "end": 543.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 204,
+        "text": "على اين هتبقى اين فهتبقى عندي هنا اين في",
+        "start": 540.32,
+        "end": 546.8000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 205,
+        "text": "واي بعد كده زائد الاكس هحط الاثنين معاها",
+        "start": 543.16,
+        "end": 549.7199999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 206,
+        "text": "تبقى اين في الزد سكوير بالشكل ده كده",
+        "start": 546.8,
+        "end": 552.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 207,
+        "text": "لحسن حظي ان الترم اللور باوند اللي هو ده",
+        "start": 549.72,
+        "end": 554.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 208,
+        "text": "هو كله بصفار فده هيطير لي الترم ده وكمان",
+        "start": 552.279,
+        "end": 557.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 209,
+        "text": "هيطير لي الترم ده فانا مش هكتبه انا هنا",
+        "start": 554.76,
+        "end": 559.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 210,
+        "text": "بس حاولت ان انا اختصر في الخطوات بحيث ان",
+        "start": 557.12,
+        "end": 561.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 211,
+        "text": "احنا ننجز يعني في حل المساله دي لان احنا",
+        "start": 559.68,
+        "end": 563.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 212,
+        "text": "خلاص احنا يعني يعتبر في الانتجريشن",
+        "start": 561.16,
+        "end": 566.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 213,
+        "text": "الليفل بتاعنا يعني ان شاء الله هيكون",
+        "start": 563.959,
+        "end": 568.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 214,
+        "text": "عالي يعني او على الاقل ليفل محترم بعد",
+        "start": 566.279,
+        "end": 571.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 215,
+        "text": "كده انا بكامل هنا بالنسبه لدي واي بعد",
+        "start": 568.64,
+        "end": 574.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 216,
+        "text": "كده بالنسبه لدي زد بالشكل ده كده والحدود",
+        "start": 571.32,
+        "end": 577.1600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 217,
+        "text": "بتاعتي كانت من صفر لحد واحد بعد كده هنا",
+        "start": 574.36,
+        "end": 579.839,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 218,
+        "text": "من صفر لحد الثلاثه اكمل بنفس النسق اللي",
+        "start": 577.16,
+        "end": 582.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 219,
+        "text": "انا كنت ماشي عليه فهيبقى عندي ان",
+        "start": 579.839,
+        "end": 584.9200000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 220,
+        "text": "الانتجريشن بتاع ده الواي بالنسبه لي هي",
+        "start": 582.64,
+        "end": 587.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 221,
+        "text": "الفيابل فهتبقى عباره هنا انها واي سكوير",
+        "start": 584.92,
+        "end": 590.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 222,
+        "text": "بعد كده زائد اين في زد سكوير ومضروبه هنا",
+        "start": 587.12,
+        "end": 592.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 223,
+        "text": "في الواي بالشكل بالشكل ده كده وهعوض",
+        "start": 590.88,
+        "end": 594.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 224,
+        "text": "بالحدود بتاعه الواي اللي هي من صفر لحد",
+        "start": 592.88,
+        "end": 596.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 225,
+        "text": "واحد وما تنساش ان انا برده ستيل عندي هنا",
+        "start": 594.76,
+        "end": 598.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 226,
+        "text": "في انتجريشن لسه مش موجود اللي هو من صفر",
+        "start": 596.72,
+        "end": 602.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 227,
+        "text": "لحد لاثه اللي هو بالنسبه بقى للزد اعوض",
+        "start": 598.959,
+        "end": 606.2399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 228,
+        "text": "بالحدود بقى بتاعه بتاعه الواي فهتبقى",
+        "start": 602.32,
+        "end": 609.0400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 229,
+        "text": "عندي هنا ان هي من صفر لحد لاثه لو عوضت",
+        "start": 606.24,
+        "end": 611.6800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 230,
+        "text": "هنا بواحد واحد سكوير هتبقى واحد زي ما هي",
+        "start": 609.04,
+        "end": 614.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 231,
+        "text": "بعد كده هتبقى عندي هنا زائد 2× 1 هتبقى 2",
+        "start": 611.68,
+        "end": 618.3599999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 232,
+        "text": "في زد سكوير بالشكل ده كده وهكامل بقى بعد",
+        "start": 614.92,
+        "end": 621.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 233,
+        "text": "كده بالنسبه للدي زد فلو انا كملت",
+        "start": 618.36,
+        "end": 624.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 234,
+        "text": "المساله دي بقى بالنسبه للدي زد فتبقى",
+        "start": 621.56,
+        "end": 626.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 235,
+        "text": "عندي هنا ان الواحد هتبقى تكامله وعباره",
+        "start": 624.12,
+        "end": 630.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 236,
+        "text": "ان هو الزد بعد كده زائد 2 في زد باور 3",
+        "start": 626.399,
+        "end": 633.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 237,
+        "text": "على هنا الثلاثه اللي موجوده معايا واعوض",
+        "start": 630.32,
+        "end": 636.0400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 238,
+        "text": "بقى بالحدود بتاعتي هي من صفر لحد الثلاثه",
+        "start": 633.16,
+        "end": 638.8389999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 239,
+        "text": "بالشكل ده وهتبقى عندي في الاخر هي عباره",
+        "start": 636.04,
+        "end": 643.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 240,
+        "text": "ان هي 3 + 2÷ 3 بالشكل ده في زد باور 3",
+        "start": 638.839,
+        "end": 647.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 241,
+        "text": "اللي هي 3 باور 3 بالشكل ده بعد كده ناقص",
+        "start": 643.92,
+        "end": 649.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 242,
+        "text": "الترم اللي بعد كده هيبقى كله بصفار فانا",
+        "start": 647.639,
+        "end": 651.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 243,
+        "text": "مش هكتبه اشوف بقى الجواب بتاع ده في",
+        "start": 649.68,
+        "end": 654.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 244,
+        "text": "الاخر هيطلع بكام؟ انا عندي هنا دي 3لاه 2",
+        "start": 651.519,
+        "end": 658.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 245,
+        "text": "على 3 سكوير يعني هتبقى في الاخر دي 27",
+        "start": 654.12,
+        "end": 663.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 246,
+        "text": "على 3 يعني 9 و 2× 9 يعني 18 18 و3 في",
+        "start": 658.399,
+        "end": 666.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 247,
+        "text": "الاخر هتبقى عباره هنا انها 21 فجواب",
+        "start": 663.639,
+        "end": 668.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 248,
+        "text": "الافالويشن بتاع الانتجريشن ده في الاخر",
+        "start": 666.6,
+        "end": 671.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 249,
+        "text": "هيطلع لي ان هو ب 21 بالشكل ده هو ده",
+        "start": 668.72,
+        "end": 673.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 250,
+        "text": "طريقه حل التريبل انتجريشن هو الطريقه",
+        "start": 671.44,
+        "end": 675.839,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 251,
+        "text": "ممكن تكون طويله شويه لان انت بدل ما كنت",
+        "start": 673.48,
+        "end": 679.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 252,
+        "text": "بتعمل دبل انتجريشن زاد عندك بقى في واحد",
+        "start": 675.839,
+        "end": 680.8800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 253,
+        "text": "زياده بس هي طريقته برض",
+        "start": 679.0,
+        "end": 684.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 254,
+        "text": "نظاميه ويعني سهله جدا يعني ان شاء الله",
+        "start": 680.88,
+        "end": 686.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 255,
+        "text": "نفس فكره الدبل انتجريشن لو انت فهمت",
+        "start": 684.36,
+        "end": 688.6800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 256,
+        "text": "الدبل انتجريشن الت انتجريشن هيكون",
+        "start": 686.6,
+        "end": 691.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 257,
+        "text": "بالنسبه لك يعني نفس الفكره بالظبط بس",
+        "start": 688.68,
+        "end": 694.4799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 258,
+        "text": "الفرق ان خطواته بتزيد شويه طيب بالنسبه",
+        "start": 691.0,
+        "end": 696.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 259,
+        "text": "للمساله اللي بعد كده مديني هنا تريبل",
+        "start": 694.48,
+        "end": 701.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 260,
+        "text": "انتجريشن عادي جدا فانكشن اوف لاثه يابل",
+        "start": 696.76,
+        "end": 704.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 261,
+        "text": "بس هنا اكس وزد مافيش الواي عادي جدا مش",
+        "start": 701.24,
+        "end": 706.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 262,
+        "text": "شرط يعني عادي ان اعتبر هنا ان الواي",
+        "start": 704.48,
+        "end": 709.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 263,
+        "text": "موجوده بس قيمتها بصفر وهنا مديها لي",
+        "start": 706.76,
+        "end": 711.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 264,
+        "text": "التريبل الانتجريشن وبيقول لي ان الاي",
+        "start": 709.76,
+        "end": 715.4399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 265,
+        "text": "عندك هنا هي باوندد هي محشوره هي محصوره",
+        "start": 711.48,
+        "end": 718.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 266,
+        "text": "بين واي بتساوي اكس سكوير زائد زد سكوير",
+        "start": 715.44,
+        "end": 720.5600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 267,
+        "text": "ودي بالمناسبه ده عباره عن ان هو ده",
+        "start": 718.32,
+        "end": 722.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 268,
+        "text": "بارابولويد ماشي يعني لازم نكونوا عارفين",
+        "start": 720.56,
+        "end": 726.1999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 269,
+        "text": "ان البتاع ده هو عباره ان هو بارابولويد",
+        "start": 722.6,
+        "end": 728.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 270,
+        "text": "تمام وبيقول لي برض ان واي عندي هنا",
+        "start": 726.2,
+        "end": 730.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 271,
+        "text": "بتساوي اربعه بما ان احنا هنا بنتكلم في",
+        "start": 728.279,
+        "end": 732.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 272,
+        "text": "الالبتيك بارابولويد فاحنا عندنا غالبا",
+        "start": 730.48,
+        "end": 734.8000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 273,
+        "text": "بتبقى الرسمه عندنا او مش غالبا هي بتبقى",
+        "start": 732.72,
+        "end": 737.5600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 274,
+        "text": "دايما بتبقى في الري دي بالشكل ده بس",
+        "start": 734.8,
+        "end": 739.8,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 275,
+        "text": "خلينا نرسمها بشكل افضل شويه فهتبقى عندي",
+        "start": 737.56,
+        "end": 742.4399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 276,
+        "text": "هنا بالشكل ده كده عندي ده محور واي وعندي",
+        "start": 739.8,
+        "end": 745.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 277,
+        "text": "ده محور وليكن ده زد ومحور اكس بحب اخليه",
+        "start": 742.44,
+        "end": 748.6800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 278,
+        "text": "بالشكل ده كده فلو احنا حبينا بقى ان احنا",
+        "start": 745.199,
+        "end": 750.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 279,
+        "text": "نرسم الرسمه اللي موجوده هنا دي اللي هي",
+        "start": 748.68,
+        "end": 753.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 280,
+        "text": "اكس سكوير زائد زد سكوير فكانت دي عباره",
+        "start": 750.76,
+        "end": 755.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 281,
+        "text": "ان هي برابويد",
+        "start": 753.76,
+        "end": 758.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 282,
+        "text": "وال اليونيك اكسس اللي موجود معايا هنا",
+        "start": 755.519,
+        "end": 760.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 283,
+        "text": "اللي هو كان بيبقى الواي فاحنا عارفين ان",
+        "start": 758.0,
+        "end": 762.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 284,
+        "text": "رسمه البرابويد بتبقى موجوده بالشكل ده",
+        "start": 760.0,
+        "end": 765.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 285,
+        "text": "كده بالشكل ده خلينا نرسمها باللون البمب",
+        "start": 762.519,
+        "end": 767.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 286,
+        "text": "افضل تبقى بالشكل ده كده وليه رسمتها",
+        "start": 765.24,
+        "end": 770.8,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 287,
+        "text": "امتدادها على محور لان واي عندي هنا هي",
+        "start": 767.92,
+        "end": 773.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 288,
+        "text": "الوحيد اليونيك اكسس اللي موجود هنا دي",
+        "start": 770.8,
+        "end": 775.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 289,
+        "text": "اكس سكوير دي زد سكوير الوحيد اللي ما",
+        "start": 773.68,
+        "end": 778.6389999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 290,
+        "text": "فيهوش سكوير هو الواي تمام دي اول حاجه",
+        "start": 775.959,
+        "end": 780.4399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 291,
+        "text": "الحاجه التانيه ان المعاملات بتاعتهم",
+        "start": 778.639,
+        "end": 782.6800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 292,
+        "text": "بوزيتيف فهتبقى هي باصه في اتجاه",
+        "start": 780.44,
+        "end": 785.5600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 293,
+        "text": "البوزيتيف واي اكسس فهتبقى عندي هي عباره",
+        "start": 782.68,
+        "end": 788.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 294,
+        "text": "ان هي بالشكل ده كده بالشكل ده طالعه",
+        "start": 785.56,
+        "end": 790.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 295,
+        "text": "بالشكل ده كده وفي الاخر هي عباره ان هي",
+        "start": 788.079,
+        "end": 793.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 296,
+        "text": "برابولي بالشكل ده كده بالشكل ده تمام",
+        "start": 790.199,
+        "end": 796.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 297,
+        "text": "وممتده الى الانفينتي بقى قال لك بقى ان",
+        "start": 793.56,
+        "end": 799.5189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 298,
+        "text": "كمان هي محشره بين",
+        "start": 796.959,
+        "end": 802.56,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 299,
+        "text": "سيرفس تاني اللي هو واي بتساوي اربعه",
+        "start": 799.519,
+        "end": 804.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 300,
+        "text": "واحنا عارفين واي بتساوي اربعه ده عباره",
+        "start": 802.56,
+        "end": 806.8389999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 301,
+        "text": "عن هو خط عادي جدا مستقيم بس هو بما ان",
+        "start": 804.0,
+        "end": 809.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 302,
+        "text": "قال لك ان هي واي بتساوي اربعه واحنا هنا",
+        "start": 806.839,
+        "end": 812.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 303,
+        "text": "بنرسم في 3ري دي فغالبا او مش غالبا انا",
+        "start": 809.079,
+        "end": 814.7199999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 304,
+        "text": "مش عارف ليه كل شويه بقول غالبا بس بتبقى",
+        "start": 812.6,
+        "end": 817.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 305,
+        "text": "عندي دي عباره بدل ما هي بتبقى لاين بتبقى",
+        "start": 814.72,
+        "end": 820.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 306,
+        "text": "عباره ان هي بلين بالشكل ده كده وبتقطع",
+        "start": 817.44,
+        "end": 823.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 307,
+        "text": "واي عند واي بتساوي اربعه ده عباره ان هو",
+        "start": 820.36,
+        "end": 826.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 308,
+        "text": "واي بيساوي اربعه بالشكل ده هو بقى طالب",
+        "start": 823.6,
+        "end": 829.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 309,
+        "text": "منك ايه بقى هنا تكمن فك فكره التريبل",
+        "start": 826.6,
+        "end": 831.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 310,
+        "text": "انتجريشن ان انت عندك دي الفانكشن اللي هو",
+        "start": 829.48,
+        "end": 833.6800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 311,
+        "text": "مديه لك انت مالكش اي علاقه بيها خالص ما",
+        "start": 831.48,
+        "end": 835.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 312,
+        "text": "تبصلهاش انت بتشوف على الااريا اللي",
+        "start": 833.68,
+        "end": 837.7589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 313,
+        "text": "محشرها بينهم اللي هي هنا على فكره دي مش",
+        "start": 835.759,
+        "end": 839.6800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 314,
+        "text": "اريا دي هنا عباره ان هي فوليوم يعني لان",
+        "start": 837.759,
+        "end": 841.5600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 315,
+        "text": "احنا بنتكلم هنا في التريبل انتجريشن اريا",
+        "start": 839.68,
+        "end": 843.7589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 316,
+        "text": "دي كانت هتنفع لو كنا احنا بنتكلم في",
+        "start": 841.56,
+        "end": 846.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 317,
+        "text": "الدبل انتجريشن الجزء بقى اللي انت بتعمل",
+        "start": 843.759,
+        "end": 847.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 318,
+        "text": "عليه انتجريشن اللي هو التريبل انتجريشن",
+        "start": 846.16,
+        "end": 849.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 319,
+        "text": "انت بتاخد منه بقى حته صغيره شريحه صغيره",
+        "start": 847.92,
+        "end": 852.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 320,
+        "text": "بقى اللي هي الدي في الدي في بقى دي",
+        "start": 849.959,
+        "end": 854.5999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 321,
+        "text": "بتنيها طالعه في كل الاتجاهات الاكس",
+        "start": 852.12,
+        "end": 856.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 322,
+        "text": "والواي والزد عشان كده انت عندك هنا حاجه",
+        "start": 854.6,
+        "end": 860.1990000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 323,
+        "text": "اسمها الدي دي في تمام الجزء بقى فاكر انت",
+        "start": 856.92,
+        "end": 862.3199999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 324,
+        "text": "في الدبل انتجريشن لما احنا كنقول اسقاط",
+        "start": 860.199,
+        "end": 865.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 325,
+        "text": "المساحه دي هنا بقى اسقاط الفوليوم ده هنا",
+        "start": 862.32,
+        "end": 868.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 326,
+        "text": "هو كله عباره ان هو فوليوم بالشكل ده كده",
+        "start": 865.24,
+        "end": 871.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 327,
+        "text": "ده كله عباره ان هو فوليوم في ال 3ري دي",
+        "start": 868.399,
+        "end": 874.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 328,
+        "text": "لو انا بقى حبيت ان انا اجيب التكامل بتاع",
+        "start": 871.279,
+        "end": 876.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 329,
+        "text": "الجزء ده هنبقى احنا نخش في حل المساله",
+        "start": 874.399,
+        "end": 879.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 330,
+        "text": "فهيبقى عندي هنا الانتجريشن الاولاني",
+        "start": 876.48,
+        "end": 881.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 331,
+        "text": "الثاني في الثالث في الفانكشن اللي موجوده",
+        "start": 879.16,
+        "end": 883.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 332,
+        "text": "عندي وزي ما قلت لك انا ماليش اي علاقه",
+        "start": 881.639,
+        "end": 886.0790000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 333,
+        "text": "بيها اكس سكوير زائد الزد سكوير مضروبه",
+        "start": 883.199,
+        "end": 889.04,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 334,
+        "text": "هنا انا اول حاجه هامل هنا بالنسبه للواي",
+        "start": 886.079,
+        "end": 892.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 335,
+        "text": "اول حاجه بالنسبه لي لان التو بلينز دول",
+        "start": 889.04,
+        "end": 894.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 336,
+        "text": "اللي هو عندي واي هنا بيساوي اربعه وعندي",
+        "start": 892.399,
+        "end": 897.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 337,
+        "text": "هنا برض اللي هو الجزء اللي بالاحمر ده",
+        "start": 894.88,
+        "end": 899.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 338,
+        "text": "اللي هي البرابويد هي عباره هنا انها كام",
+        "start": 897.32,
+        "end": 901.9590000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 339,
+        "text": "هي عباره هنا انها اكس سكوير زائد الزد",
+        "start": 899.639,
+        "end": 904.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 340,
+        "text": "سكوير كل ده موجود على الواي فعشان كده",
+        "start": 901.959,
+        "end": 907.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 341,
+        "text": "انا هبتدي بالواي الاول هبتدي بواي اول",
+        "start": 904.16,
+        "end": 909.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 342,
+        "text": "حاجه يعني فتبقى عندي هنا دي واي بعد كده",
+        "start": 907.16,
+        "end": 911.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 343,
+        "text": "هتقول لي بقى انا عايز اعرف دي اكس ولا دي",
+        "start": 909.48,
+        "end": 914.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 344,
+        "text": "زد الاول هقول لك ما تتعبش نفسك خليها دي",
+        "start": 911.48,
+        "end": 916.5600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 345,
+        "text": "اي ليه دي اي لان انا هنا انا اريا انا",
+        "start": 914.12,
+        "end": 918.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 346,
+        "text": "عندي هنا في بعد ناقص اللي هو الدي واي",
+        "start": 916.56,
+        "end": 920.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 347,
+        "text": "فلما تضرب دي واي في دي اي هتديك هنا الدي",
+        "start": 918.6,
+        "end": 923.1990000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 348,
+        "text": "في ماشي فانا هنا اكني جيت على الدي في",
+        "start": 920.92,
+        "end": 926.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 349,
+        "text": "وشيلت منها بعد طيب انا دلوقتي لما اجي",
+        "start": 923.199,
+        "end": 928.7589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 350,
+        "text": "بقى اكامل بالنسبه لواي كنت بشوف مين اللي",
+        "start": 926.199,
+        "end": 931.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 351,
+        "text": "هحطه في الابر ليمت الاول ومين اللي هحطه",
+        "start": 928.759,
+        "end": 933.6800000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 352,
+        "text": "في اللور ليمت بعد كده فانا عندي هنا",
+        "start": 931.199,
+        "end": 936.04,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 353,
+        "text": "الابر ليمت كنت بشوف مين الاكبر اللي عندي",
+        "start": 933.68,
+        "end": 938.5999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 354,
+        "text": "هنا الاكبر هو الواي بيساوي اربعه يعني",
+        "start": 936.04,
+        "end": 940.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 355,
+        "text": "انا عندي هنا واي بتساوي اربعه هي جايه",
+        "start": 938.6,
+        "end": 943.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 356,
+        "text": "على اليمين واللي اصغر منها اللي هي الجزء",
+        "start": 940.079,
+        "end": 945.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 357,
+        "text": "البرابولي اللي هو اللي بالبمبا ده اللي",
+        "start": 943.24,
+        "end": 948.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 358,
+        "text": "هو اكس سكوير زائد زد سكوير فعشان كده انا",
+        "start": 945.399,
+        "end": 950.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 359,
+        "text": "اقوم حاطط هنا ان عندي الابر ليمت اللي هي",
+        "start": 948.0,
+        "end": 953.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 360,
+        "text": "هنا اربعه وعندي اللور ليمت اللي هو انا",
+        "start": 950.24,
+        "end": 956.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 361,
+        "text": "عندي هنا اكس سكوير زائد الزد سكوير",
+        "start": 953.079,
+        "end": 958.68,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 362,
+        "text": "بالشكل ده كده وبالنسبه للمليتس اللي بعد",
+        "start": 956.24,
+        "end": 960.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 363,
+        "text": "كده اللي هي اللي هتبقى موجوده هنا لسه",
+        "start": 958.68,
+        "end": 962.4399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 364,
+        "text": "انا مش مهتم ان انا اجيبها دلوقتي بس انا",
+        "start": 960.48,
+        "end": 964.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 365,
+        "text": "عايز احل المساله دي طيب حل المساله دي",
+        "start": 962.44,
+        "end": 966.759,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 366,
+        "text": "بقى هيكون ازاي حل المساله دي بالنسبه لي",
+        "start": 964.639,
+        "end": 969.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 367,
+        "text": "انا هنا بكامل بالنسبه لواي فانا عندي هنا",
+        "start": 966.759,
+        "end": 971.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 368,
+        "text": "في المساله دي كل ما فيش حاجه فيها واي",
+        "start": 969.199,
+        "end": 974.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 369,
+        "text": "فهنعتبر كل ده كله هيبقى عباره ان هو",
+        "start": 971.92,
+        "end": 976.4399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 370,
+        "text": "كونستنت فانا كده مش هخاف من المساله",
+        "start": 974.279,
+        "end": 978.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 371,
+        "text": "فتبقى عندي المساله هتنزل ليه دبل",
+        "start": 976.44,
+        "end": 981.0790000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 372,
+        "text": "انتجريشن وهقوم قايل انها عباره ان هي واي",
+        "start": 978.36,
+        "end": 984.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 373,
+        "text": "بالشكل ده في اكس سكوير زائد الزد سكوير",
+        "start": 981.079,
+        "end": 987.04,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 374,
+        "text": "بالشكل ده كده وهتبقى هنا دي تحت الروت",
+        "start": 984.279,
+        "end": 989.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 375,
+        "text": "وهقوم معوض هنا بالحدود بتاعتي الحدود",
+        "start": 987.04,
+        "end": 991.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 376,
+        "text": "بتاعتي كانت كام كانت عباره هنا انها اكس",
+        "start": 989.079,
+        "end": 994.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 377,
+        "text": "سكوير زائد الزد سكوير بالشكل ده كده وفوق",
+        "start": 991.079,
+        "end": 996.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 378,
+        "text": "عندي الليمتس اللي فوق اللي هو الابر اللي",
+        "start": 994.079,
+        "end": 999.04,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 379,
+        "text": "هي اربعه وهتبقى هنا دي بالنسبه للدي اي",
+        "start": 996.12,
+        "end": 1001.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 380,
+        "text": "مره تانيه انا ليه حطيت الاربعه فوق لان",
+        "start": 999.04,
+        "end": 1004.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 381,
+        "text": "الاربعه هنا هي اكبر من البرابوليد اللي",
+        "start": 1001.16,
+        "end": 1006.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 382,
+        "text": "موجود هنا انا عايزك بس تتخيل اكن",
+        "start": 1004.0,
+        "end": 1010.079,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 383,
+        "text": "البلين ده هو عباره ان هو سكينه كده قطعت",
+        "start": 1006.519,
+        "end": 1012.199,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 384,
+        "text": "قطعت السفير اللي هو بالبامب ده او مش",
+        "start": 1010.079,
+        "end": 1014.5999999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 385,
+        "text": "السفير ده برابوليت قطعته كده من النص",
+        "start": 1012.199,
+        "end": 1016.92,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 386,
+        "text": "فخلاته عامل زي شريحه اللحمه اللي احنا",
+        "start": 1014.6,
+        "end": 1019.639,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 387,
+        "text": "بنشوفها في الكرتون يعني وكده تمام فانا",
+        "start": 1016.92,
+        "end": 1022.16,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 388,
+        "text": "عندي هنا مين الاكبر بقى الاكبر عندي ان",
+        "start": 1019.639,
+        "end": 1024.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 389,
+        "text": "هي واي بتساوي اربعه فعشان كده انا حطيتها",
+        "start": 1022.16,
+        "end": 1026.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 390,
+        "text": "فوق واللي اقل منها اللي هي اكس سكوير",
+        "start": 1024.0,
+        "end": 1029.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 391,
+        "text": "زائد زد سكوير عشان كده انا حطيتها في",
+        "start": 1026.36,
+        "end": 1032.7199999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 392,
+        "text": "اللور ليمت اعوض بقى هنا عندي اعوض كابر",
+        "start": 1029.039,
+        "end": 1034.8799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 393,
+        "text": "ولور ليمت فيبقى عندي المساله عندي هتبقى",
+        "start": 1032.72,
+        "end": 1036.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 394,
+        "text": "عباره عباره هنا انها دبل انتجريشن بالشكل",
+        "start": 1034.88,
+        "end": 1040.2800000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 395,
+        "text": "ده هتبقى عندي هنا اربعه ناقص الاكس سكوير",
+        "start": 1036.88,
+        "end": 1042.959,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 396,
+        "text": "زائد الزد سكوير بالشكل دهش كل ده هو تيرم",
+        "start": 1040.28,
+        "end": 1045.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 397,
+        "text": "واحد فهتبقى دي كده عندي بالشكل ده كده",
+        "start": 1042.959,
+        "end": 1048.8400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 398,
+        "text": "ومضروبه في الاخر في الاكس سكوير زائد",
+        "start": 1045.6,
+        "end": 1051.7199999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 399,
+        "text": "الزد سكوير بالشكل ده وهنا هي عباره ان هي",
+        "start": 1048.84,
+        "end": 1055.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 400,
+        "text": "دي اي وبكامل هنا بالنسبه للدبل انتجريشن",
+        "start": 1051.72,
+        "end": 1058.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 401,
+        "text": "خلي بالك بقى هنا المساله عندك اتحولت",
+        "start": 1055.559,
+        "end": 1061.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 402,
+        "text": "لدبل انتجريشن فانا عايزك تتخيل اكن الواي",
+        "start": 1058.2,
+        "end": 1064.6000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 403,
+        "text": "ده انت مش شايفه خالص وبقت المساله عندك",
+        "start": 1061.799,
+        "end": 1067.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 404,
+        "text": "في اتجاه الاكس وفي اتجاه الزد اكسس اللي",
+        "start": 1064.6,
+        "end": 1069.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 405,
+        "text": "موجود عندك فمعناته اكن الواي طالع في وشك",
+        "start": 1067.28,
+        "end": 1072.8799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 406,
+        "text": "كده والبعدين اللي موجودين عندك هم الاكس",
+        "start": 1069.84,
+        "end": 1075.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 407,
+        "text": "والزد فهتبقى عندك المساله عندك ان هي بقت",
+        "start": 1072.88,
+        "end": 1078.0800000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 408,
+        "text": "عباره ان هي زد موجوده بالشكل ده وعندي ده",
+        "start": 1075.48,
+        "end": 1080.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 409,
+        "text": "عباره ان هو ده محور اكس وعندي ده هو",
+        "start": 1078.08,
+        "end": 1083.4399999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 410,
+        "text": "عباره ان هو ده محور زد بالشكل ده فلو انت",
+        "start": 1080.159,
+        "end": 1086.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 411,
+        "text": "جيت تبص اكنك بص من الاتجاه ده كده فهتاخد",
+        "start": 1083.44,
+        "end": 1089.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 412,
+        "text": "بالك ان دي عباره عن انها دايره بالشكل ده",
+        "start": 1086.88,
+        "end": 1092.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 413,
+        "text": "فهتبقى عندي دي الحته دي كده هي عباره ان",
+        "start": 1089.72,
+        "end": 1094.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 414,
+        "text": "هي دايره طب انا دلوقتي انا عايز اعرف رف",
+        "start": 1092.48,
+        "end": 1096.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 415,
+        "text": "معادله الدائه دي معادله الدائه دي هتكون",
+        "start": 1094.44,
+        "end": 1099.8400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 416,
+        "text": "عباره عن انها ايه اول حاجه اول حاجه انا",
+        "start": 1096.4,
+        "end": 1101.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 417,
+        "text": "عندي الجزء البرابولويد ده اللي هو اكس",
+        "start": 1099.84,
+        "end": 1105.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 418,
+        "text": "سكوير زائد زد سكوير قطع",
+        "start": 1101.96,
+        "end": 1107.6000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 419,
+        "text": "البلين او قطع المستوى اللي هو واي بيساوي",
+        "start": 1105.08,
+        "end": 1109.6789999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 420,
+        "text": "اربعه بما ان هو قطعه فالاثنين كانوا",
+        "start": 1107.6,
+        "end": 1112.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 421,
+        "text": "بيساووا بعض او الاثنين عند الجزئيه دي",
+        "start": 1109.679,
+        "end": 1114.6000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 422,
+        "text": "كده بالظبط اللي هم حصل عندها القطع كانوا",
+        "start": 1112.039,
+        "end": 1117.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 423,
+        "text": "هم الاثنين بيساووا بعض ودي فيها واي ودي",
+        "start": 1114.6,
+        "end": 1119.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 424,
+        "text": "كمان فيها واي فانا هساوي الاثنين ببعض هم",
+        "start": 1117.12,
+        "end": 1122.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 425,
+        "text": "قال ان انا عندي اربعه بتساوي اكس سكوير",
+        "start": 1119.84,
+        "end": 1125.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 426,
+        "text": "زائد الزد سكوير ودي بالظبط هي المعادله",
+        "start": 1122.559,
+        "end": 1128.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 427,
+        "text": "بتاعه الجزء اللي تحت ده المعادله بتاعه",
+        "start": 1125.84,
+        "end": 1131.1589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 428,
+        "text": "الدايره دي فدي فعلا هتطلع لي على انها",
+        "start": 1128.44,
+        "end": 1133.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 429,
+        "text": "دايره اللي هي المعادله بتاعتها اكس سكوير",
+        "start": 1131.159,
+        "end": 1135.8400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 430,
+        "text": "زائد زد سكوير بتساوي اربعه لو احنا بقى",
+        "start": 1133.4,
+        "end": 1138.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 431,
+        "text": "حبينا ان احنا نشوف الحدود بتاعتها فيبقى",
+        "start": 1135.84,
+        "end": 1140.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 432,
+        "text": "عندي الجزء ده كده وعباره ان هو ايه الجزء",
+        "start": 1138.44,
+        "end": 1142.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 433,
+        "text": "ده عندي عباره ان هو اثنين وصفر ليه لان",
+        "start": 1140.559,
+        "end": 1144.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 434,
+        "text": "انا عندي الاربعه دي هي عباره ان هي اين",
+        "start": 1142.72,
+        "end": 1146.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 435,
+        "text": "سكوير فهتبقى عندي دي اثنين وصفر ويبقى",
+        "start": 1144.919,
+        "end": 1148.5590000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 436,
+        "text": "عندي الجزء اللي فوق ده عباره ان هو صفر",
+        "start": 1146.88,
+        "end": 1151.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 437,
+        "text": "واثنين دي عندي دي معادله دايرره وبما",
+        "start": 1148.559,
+        "end": 1153.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 438,
+        "text": "انها دايره وبالشكل ده كده وانا عندي",
+        "start": 1151.2,
+        "end": 1156.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 439,
+        "text": "الحدود بتاعتي معصجه معايا اكس سكوير زائد",
+        "start": 1153.559,
+        "end": 1158.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 440,
+        "text": "سكوير كل ده تحت الروت انا ممكن بكل بساطه",
+        "start": 1156.039,
+        "end": 1161.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 441,
+        "text": "ان انا احل المساله دي باستخدام البولر",
+        "start": 1158.799,
+        "end": 1164.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 442,
+        "text": "اللي احنا كنا اخدناه في اللي احنا كنا",
+        "start": 1161.52,
+        "end": 1166.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 443,
+        "text": "اخدناه في الحلقه اللي فاتت احل بقى",
+        "start": 1164.2,
+        "end": 1169.3600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 444,
+        "text": "المساله دي ازاي باستخدام البولر قايل ان",
+        "start": 1166.52,
+        "end": 1171.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 445,
+        "text": "انا عندي هنا انها دبل انتجريشن بالشكل ده",
+        "start": 1169.36,
+        "end": 1173.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 446,
+        "text": "هقوم قال انها عباره عن انها اربعه ناقص",
+        "start": 1171.6,
+        "end": 1176.1589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 447,
+        "text": "اكس سكوير زائد زد سكوير كل ده هيتشال",
+        "start": 1173.919,
+        "end": 1178.7990000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 448,
+        "text": "ويتحط مكانه ار سكوير واحد يقول لي استنى",
+        "start": 1176.159,
+        "end": 1181.5590000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 449,
+        "text": "احنا كنا قايلين ان اكس سكوير زائد واي",
+        "start": 1178.799,
+        "end": 1184.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 450,
+        "text": "سكوير هي اللي تتشال وتتحط مكانها ار",
+        "start": 1181.559,
+        "end": 1186.6789999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 451,
+        "text": "سكوير مش زد سكوير هقوللك الموضوع كله",
+        "start": 1184.36,
+        "end": 1188.6399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 452,
+        "text": "واحد يعني هو عباره ان هو كونسبت واحد هو",
+        "start": 1186.679,
+        "end": 1191.3200000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 453,
+        "text": "بس مسميات انا شلت الزد دي او شلت الواي",
+        "start": 1188.64,
+        "end": 1193.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 454,
+        "text": "وحطيت مكانها الزد العبا الموضوع كله",
+        "start": 1191.32,
+        "end": 1196.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 455,
+        "text": "عباره ان هو موضوع هندسي يعني انا كل ده",
+        "start": 1193.96,
+        "end": 1198.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 456,
+        "text": "هو تطبيق لقانون فيثاغورس يعني انت لو جيت",
+        "start": 1196.12,
+        "end": 1201.1999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 457,
+        "text": "شلت ده كده هتبقى عندك المحور اللي موجود",
+        "start": 1198.76,
+        "end": 1203.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 458,
+        "text": "عندك هنا ده هو ده عباره عن ان هو زد وده",
+        "start": 1201.2,
+        "end": 1206.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 459,
+        "text": "هو عباره ان هو اكس والجزء ده كده هو ده",
+        "start": 1203.4,
+        "end": 1209.6000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 460,
+        "text": "يعتبر ان هو ار فمش هتفرق معاك مش هتفرق",
+        "start": 1206.559,
+        "end": 1212.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 461,
+        "text": "معاك هي كانت واي ولا زد فانا هقوم شايل",
+        "start": 1209.6,
+        "end": 1214.4399999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 462,
+        "text": "دي وحاطط مكانها ايه؟ هو حاطط مكانها ار",
+        "start": 1212.44,
+        "end": 1217.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 463,
+        "text": "سكوير بالشكل ده كده بعد كده اهو قال برده",
+        "start": 1214.44,
+        "end": 1219.28,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 464,
+        "text": "شايل اكس سكوير زائد زد سكوير وقوم حاطط",
+        "start": 1217.4,
+        "end": 1221.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 465,
+        "text": "مكانها ار سكوير بالشكل ده وما انساش ان",
+        "start": 1219.28,
+        "end": 1225.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 466,
+        "text": "انا اقوم قايل ان دي اي عندي هتترجم لايه",
+        "start": 1221.88,
+        "end": 1227.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 467,
+        "text": "الدي اي دي قمنا قايلين ان هي عباره ان هي",
+        "start": 1225.0,
+        "end": 1229.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 468,
+        "text": "ار ما انساش اهم حاجه ار دي دايما بتنسي",
+        "start": 1227.159,
+        "end": 1232.8400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 469,
+        "text": "في دي ار في الدي سيتا الحدود بقى بتاعتي",
+        "start": 1229.84,
+        "end": 1235.1999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 470,
+        "text": "هتكون عباره عن انها ايه الحدود بتاعتي",
+        "start": 1232.84,
+        "end": 1238.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 471,
+        "text": "انا عندي هي الاورجين او انا طالع من",
+        "start": 1235.2,
+        "end": 1240.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 472,
+        "text": "الاورجين لحد القطر بتاعي اللي هو بيساوي",
+        "start": 1238.36,
+        "end": 1243.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 473,
+        "text": "اثنين فهتبقى هنا من صفر لحد اثنين وانا",
+        "start": 1240.799,
+        "end": 1245.8799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 474,
+        "text": "واخد الاريا دي كلها زي ما انا كنت بالضبط",
+        "start": 1243.52,
+        "end": 1247.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 475,
+        "text": "انا واخد الاريا دي كلها انا هنا واخد مش",
+        "start": 1245.88,
+        "end": 1250.5200000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 476,
+        "text": "واخد جزء نص منها او ربع انا واخدها كلها",
+        "start": 1247.919,
+        "end": 1253.2800000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 477,
+        "text": "فيبقى عندي السيتا عندي هي من صفر لحد",
+        "start": 1250.52,
+        "end": 1256.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 478,
+        "text": "الاثنين باي بالشكل ده كده لو انا حبيت",
+        "start": 1253.28,
+        "end": 1257.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 479,
+        "text": "بقى ان انا ابسط المساله دي عندي فهتبقى",
+        "start": 1256.0,
+        "end": 1260.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 480,
+        "text": "عندي دي ار سكوير هتروح هنا مع الروت وخلي",
+        "start": 1257.919,
+        "end": 1263.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 481,
+        "text": "بالك ان هي هنا تتضرب هنا في الار فهتبقى",
+        "start": 1260.76,
+        "end": 1265.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 482,
+        "text": "عندي المساله هي عباره هنا ان هي من صفر",
+        "start": 1263.4,
+        "end": 1268.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 483,
+        "text": "لحد الاثنين باي بالشكل ده وعندي هنا من",
+        "start": 1265.679,
+        "end": 1271.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 484,
+        "text": "صفر لحد الاثنين وعندي هنا 4 ناقص ار",
+        "start": 1268.039,
+        "end": 1273.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 485,
+        "text": "سكوير بالشكل ده مضروبه هنا دي هتطلع عندي",
+        "start": 1271.0,
+        "end": 1275.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 486,
+        "text": "دي في الاخر ار وهتضرب هنا دي في ار",
+        "start": 1273.96,
+        "end": 1278.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 487,
+        "text": "فهتبقى برض ستيل ار سكوير مضروبه هنا في",
+        "start": 1275.88,
+        "end": 1281.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 488,
+        "text": "الدي ار ومضروبه هنا في الدي سيتا بالشكل",
+        "start": 1278.2,
+        "end": 1283.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 489,
+        "text": "ده كده انا هنا بقى بما ان انا عندي هنا",
+        "start": 1281.279,
+        "end": 1287.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 490,
+        "text": "الارات لوحدها والثيتا لوحدها وعندي هنا",
+        "start": 1283.679,
+        "end": 1289.5590000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 491,
+        "text": "الحدود بتاعتي هي عباره ان هي جاست ارقام",
+        "start": 1287.159,
+        "end": 1291.7990000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 492,
+        "text": "هي عباره بس ارقام فتبقى عندي هنا دي من",
+        "start": 1289.559,
+        "end": 1295.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 493,
+        "text": "صفر لحد الاتنين باي انا ممكن ان انا افصل",
+        "start": 1291.799,
+        "end": 1297.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 494,
+        "text": "الانتجريشن دول عن بعض الدبل انتجريشن دول",
+        "start": 1295.039,
+        "end": 1299.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 495,
+        "text": "انا ممكن ان انا افصلهم عن بعض فهتبقى",
+        "start": 1297.559,
+        "end": 1302.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 496,
+        "text": "عندي هنا دي دي سيتا مضروبه هنا في",
+        "start": 1299.559,
+        "end": 1303.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 497,
+        "text": "الانتجريشن بقى التاني اللي هو من صفر لحد",
+        "start": 1302.08,
+        "end": 1306.6399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 498,
+        "text": "الاتنين في الاربعه لما اضربها في ار",
+        "start": 1303.96,
+        "end": 1308.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 499,
+        "text": "سكوير هتبقى عندي هنا انها اربعه في ار",
+        "start": 1306.64,
+        "end": 1310.7990000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 500,
+        "text": "سكوير بعد كده هنا ناقص ار باور اربعه",
+        "start": 1308.2,
+        "end": 1313.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 501,
+        "text": "بالشكل ده كده مضروبه هنا في الدي ار هنا",
+        "start": 1310.799,
+        "end": 1315.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 502,
+        "text": "انا ما كانش عندي في في سيتا خالص فانا",
+        "start": 1313.159,
+        "end": 1318.5200000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 503,
+        "text": "قدرت ان انا افصل الاتنين دول عن بعض هنا",
+        "start": 1315.44,
+        "end": 1320.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 504,
+        "text": "انا عندي هنا دي ما فيش هنا سيتا او عندي",
+        "start": 1318.52,
+        "end": 1322.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 505,
+        "text": "هنا دي ممكن اقول عليها انها واحد فهتبقى",
+        "start": 1320.559,
+        "end": 1324.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 506,
+        "text": "دي في الاخر هطلع لي انها اثنين سيتا",
+        "start": 1322.84,
+        "end": 1327.1999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 507,
+        "text": "بالشكل ده وهتبقى مضروبه في الانتجريشن",
+        "start": 1324.799,
+        "end": 1330.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 508,
+        "text": "بتاع الجزء اللي تحت ده او الجزء الثاني",
+        "start": 1327.2,
+        "end": 1332.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 509,
+        "text": "بتاع الار فهتبقى عندي هي عباره هنا انها",
+        "start": 1330.0,
+        "end": 1334.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 510,
+        "text": "كام؟ هتبقى عندي عباره انها 4 في ار باور",
+        "start": 1332.44,
+        "end": 1338.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 511,
+        "text": "3 على بعد كده هنا ناقص الار باور خ على",
+        "start": 1334.64,
+        "end": 1341.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 512,
+        "text": "الخمسه بالشكل ده كده والحدود بتاعتي هنا",
+        "start": 1338.559,
+        "end": 1343.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 513,
+        "text": "من صفر لحد الاتنين انا ليه هنا انا قلت",
+        "start": 1341.279,
+        "end": 1346.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 514,
+        "text": "على دي سيتا على طول او انين سيتا على طول",
+        "start": 1343.799,
+        "end": 1348.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 515,
+        "text": "او اثنين قصدي باي على طول لان انا دي في",
+        "start": 1346.279,
+        "end": 1349.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 516,
+        "text": "الاخر لما اجي اكاملها بالنسبه لثيتا",
+        "start": 1348.52,
+        "end": 1352.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 517,
+        "text": "هتطلع لي سيتا واعوض بالحطوط بتاعتي اللي",
+        "start": 1349.96,
+        "end": 1354.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 518,
+        "text": "هي من صفر لحد الاثنين باي ففي الاخر اطلع",
+        "start": 1352.44,
+        "end": 1357.1200000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 519,
+        "text": "لي انها 2 باي ناقص صفر ففي الاخر اطلع لي",
+        "start": 1354.679,
+        "end": 1359.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 520,
+        "text": "انها 2 باي فانا اختصرت يعني على نفسي",
+        "start": 1357.12,
+        "end": 1362.2399999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 521,
+        "text": "فالمساله دي في الاخر حلها هيبقى عباره عن",
+        "start": 1359.52,
+        "end": 1366.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 522,
+        "text": "ان هي 2 باي بالشكل ده كده وهعوض هنا بقى",
+        "start": 1362.24,
+        "end": 1370.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 523,
+        "text": "ال 4 على 3× 2 ا 2 باور 3 فهتبقى دي عباره",
+        "start": 1366.08,
+        "end": 1374.1589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 524,
+        "text": "في الاخر انها 8انيه بعد كده ناقص 2 باور",
+        "start": 1370.96,
+        "end": 1377.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 525,
+        "text": "5 اللي هي في الاخر هتبقى 32 على 5 بالشكل",
+        "start": 1374.159,
+        "end": 1382.0390000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 526,
+        "text": "ده وهيبقى هو ده جواب الحل بتاعي او جواب",
+        "start": 1377.159,
+        "end": 1384.8400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 527,
+        "text": "التريبل انتجريشن اللي هو كان طالبه مني ا",
+        "start": 1382.039,
+        "end": 1386.8799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 528,
+        "text": "طيب المساله اللي بعد كده مديني هنا برده",
+        "start": 1384.84,
+        "end": 1390.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 529,
+        "text": "تريبل انتجريشن ا والفرق ان هو هنا مديني",
+        "start": 1386.88,
+        "end": 1392.3200000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 530,
+        "text": "الحدود بتاعتي على طول يعني حاططها لي هو",
+        "start": 1390.039,
+        "end": 1396.4,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 531,
+        "text": "يعني كتر الله خيرهم حاططها لي في",
+        "start": 1392.32,
+        "end": 1400.1589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 532,
+        "text": "التريبل انتجريشنذا لور وابر باوند يعني",
+        "start": 1396.4,
+        "end": 1402.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 533,
+        "text": "بالشكل ده كده موجوده هنا وموجوده هنا ف",
+        "start": 1400.159,
+        "end": 1405.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 534,
+        "text": "وطالب مني بقى ان انا احل الترب انتجريشن",
+        "start": 1402.72,
+        "end": 1409.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 535,
+        "text": "ده طبعا دي ممكن تكون ا يعني دي من ابسط",
+        "start": 1405.279,
+        "end": 1412.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 536,
+        "text": "الصور اللي ممكن تجي لك لان انت ما بتتعبش",
+        "start": 1409.24,
+        "end": 1414.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 537,
+        "text": "وبتجيب الحدود بتاعتك ولا بترسم ولا بتعمل",
+        "start": 1412.039,
+        "end": 1415.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 538,
+        "text": "اي حاجه كل اللي عليك بتعمله ان انت",
+        "start": 1414.08,
+        "end": 1418.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 539,
+        "text": "بتكامل على طول فمن غير رغي كتير خلينا",
+        "start": 1415.799,
+        "end": 1421.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 540,
+        "text": "احنا برده يعني الراج بما ان الراجل كرمنا",
+        "start": 1418.279,
+        "end": 1422.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 541,
+        "text": "ومدينا الحدود على طول فخلينا احنا برده",
+        "start": 1421.08,
+        "end": 1425.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 542,
+        "text": "نحل مساله على طول وننجز يعني فاول حاجه",
+        "start": 1422.919,
+        "end": 1428.1200000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 543,
+        "text": "انا عندي الحدود بتاعتها تبقى الحدود اللي",
+        "start": 1425.52,
+        "end": 1431.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 544,
+        "text": "بره زي ما هي من صفر لحد باي وعندي هنا",
+        "start": 1428.12,
+        "end": 1433.8799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 545,
+        "text": "برده دي من صفر لحد اكس وهكامل هنا بقى",
+        "start": 1431.12,
+        "end": 1437.1999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 546,
+        "text": "بالنسبه اول حاجه بالنسبه لواي فانا هكامل",
+        "start": 1433.88,
+        "end": 1439.3200000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 547,
+        "text": "المساله دي بالنسبه لواي وما عنديش حاجه",
+        "start": 1437.2,
+        "end": 1443.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 548,
+        "text": "هنا موجوده في واي غير الساين فل باقي بعد",
+        "start": 1439.32,
+        "end": 1445.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 549,
+        "text": "كده هعتبر على ان هو ايه على ان هو",
+        "start": 1443.0,
+        "end": 1447.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 550,
+        "text": "كونستنت فهتبقى عندي عباره عن هنا ان اكس",
+        "start": 1445.2,
+        "end": 1449.8400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 551,
+        "text": "سكوير بالشكل ده كده وساين الواي لما اجي",
+        "start": 1447.12,
+        "end": 1453.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 552,
+        "text": "اكاملها هتبقى هي عباره ان هي كوساين",
+        "start": 1449.84,
+        "end": 1455.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 553,
+        "text": "الواي بالشكل ده وما انساش ان انا احط ان",
+        "start": 1453.12,
+        "end": 1458.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 554,
+        "text": "في اشاره نيجتيف لازم تكون موجوده معاها",
+        "start": 1455.36,
+        "end": 1461.4399999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 555,
+        "text": "لان تكامل الساين هو نيجتيف كوساين بعد",
+        "start": 1458.32,
+        "end": 1464.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 556,
+        "text": "كده هعوض بالحدود بتاعتي اللي هي صفر في",
+        "start": 1461.44,
+        "end": 1466.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 557,
+        "text": "الاكس في الزد بالشكل ده كده وهتبقى عندي",
+        "start": 1464.279,
+        "end": 1469.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 558,
+        "text": "هنا دي الدي زد وبعد كده دي هنا في الدي",
+        "start": 1466.72,
+        "end": 1472.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 559,
+        "text": "اكس بالشكل ده لو انا بقى جيت وعوضت",
+        "start": 1469.96,
+        "end": 1475.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 560,
+        "text": "بالحدود بتاعتي هنا وما نساش اهم حاجه ان",
+        "start": 1472.84,
+        "end": 1477.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 561,
+        "text": "انا بعوض في المكان او الحاجه اللي انا",
+        "start": 1475.44,
+        "end": 1479.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 562,
+        "text": "لسه مك كامل بالنسبه لها يعني انا هنا كنت",
+        "start": 1477.84,
+        "end": 1482.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 563,
+        "text": "بكامل بنس ولاي فالاكس والزد دول هيتعوضوا",
+        "start": 1479.72,
+        "end": 1485.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 564,
+        "text": "هنا في الواير بس وانسى الباقي الفريابلز",
+        "start": 1482.24,
+        "end": 1487.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 565,
+        "text": "التانيين فيبقى عندي هنا ان الدبل",
+        "start": 1485.72,
+        "end": 1490.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 566,
+        "text": "انتجريشن ده هيبقى من صفر لحد جذر الباي",
+        "start": 1487.24,
+        "end": 1493.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 567,
+        "text": "بالشكل ده كده وهنا دي من صفر لحد اكس انا",
+        "start": 1490.32,
+        "end": 1495.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 568,
+        "text": "كل اللي انا بعمله ان انا ببسط المساله",
+        "start": 1493.559,
+        "end": 1497.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 569,
+        "text": "فهتبقى عندي هنا انها ناقص اكس سكوير",
+        "start": 1495.36,
+        "end": 1499.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 570,
+        "text": "مضروبه في كوساين الواي الواي بقى هشيلها",
+        "start": 1497.36,
+        "end": 1502.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 571,
+        "text": "واحط مكانها ايه هحط مكانها اكس وزد",
+        "start": 1499.919,
+        "end": 1504.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 572,
+        "text": "بالشكل ده كده بعد كده هنا ناقص الترم",
+        "start": 1502.08,
+        "end": 1507.6789999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 573,
+        "text": "اللي بعد كده لازم هنا بقى ان انا هنا احط",
+        "start": 1504.679,
+        "end": 1510.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 574,
+        "text": "الصفر صفر لان انا هنا انا مش عارف انا",
+        "start": 1507.679,
+        "end": 1512.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 575,
+        "text": "هنا مش هحط صفر في الاكس انا هحطها في",
+        "start": 1510.0,
+        "end": 1513.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 576,
+        "text": "الكوساين فمش عارف الجواب اللي هيطلع لي",
+        "start": 1512.039,
+        "end": 1515.8799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 577,
+        "text": "هيكون عباره ان هي ايه فانا عندي هنا ناقص",
+        "start": 1513.679,
+        "end": 1518.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 578,
+        "text": "بتاع اللور باوند وعندي هنا برض ناقص",
+        "start": 1515.88,
+        "end": 1521.3990000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 579,
+        "text": "ثانيه بتاع الناقص اكس سكوير فهتبقى عندي",
+        "start": 1518.52,
+        "end": 1523.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 580,
+        "text": "دي بوزيتيف فتبقى هنا دي اكس سكوير في",
+        "start": 1521.399,
+        "end": 1526.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 581,
+        "text": "كوساين الصفر كوساين الصفر عندي هنا بتبقى",
+        "start": 1523.679,
+        "end": 1528.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 582,
+        "text": "بواحد فهتبقى عندي هنا دي كام؟ هتبقى هنا",
+        "start": 1526.36,
+        "end": 1531.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 583,
+        "text": "كوساين الصفر بواحد فهسيبها زي ما هي وبعد",
+        "start": 1528.88,
+        "end": 1534.7990000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 584,
+        "text": "كده هتبقى في الدي زد في الدي اكس بالشكل",
+        "start": 1531.6,
+        "end": 1538.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 585,
+        "text": "ده كده وهكامل بقى هنا بالنسبه لمين؟",
+        "start": 1534.799,
+        "end": 1541.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 586,
+        "text": "بالنسبه للزد بعد كده لما اجي ان انا احل",
+        "start": 1538.0,
+        "end": 1543.72,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 587,
+        "text": "الدبل انتجريشن ده فانا هنا انا هكون",
+        "start": 1541.52,
+        "end": 1546.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 588,
+        "text": "بكامل بالنسبه للزد فهشوف الحدود اللي",
+        "start": 1543.72,
+        "end": 1548.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 589,
+        "text": "عندي اللي موجود فيها الزد فلاحظ ان انا",
+        "start": 1546.919,
+        "end": 1551.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 590,
+        "text": "عندي هنا الكوساين دي فيها الزد والباقي",
+        "start": 1548.799,
+        "end": 1554.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 591,
+        "text": "هنا ما فيهوش الزد فانا اعتبر الباقي على",
+        "start": 1551.64,
+        "end": 1558.1200000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 592,
+        "text": "انه كونستنت وهكامل بالنسبه للزد فهتبقى",
+        "start": 1554.32,
+        "end": 1560.4399999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 593,
+        "text": "عندي هنا دي عباره هنا انها ناقص الاكس",
+        "start": 1558.12,
+        "end": 1563.7199999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 594,
+        "text": "سكوير كوساين دي فيها الزد فهتبقى التكامل",
+        "start": 1560.44,
+        "end": 1566.6000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 595,
+        "text": "بتاعها هيبقى الساين الاكس في زد وبقسم",
+        "start": 1563.72,
+        "end": 1568.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 596,
+        "text": "على المعامل عامل بتاع الزد فانا معامل",
+        "start": 1566.6,
+        "end": 1570.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 597,
+        "text": "الزد هنا كان عندي اللي هو اكس فانا هقسم",
+        "start": 1568.799,
+        "end": 1573.6399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 598,
+        "text": "هنا على الاكس بالشكل ده كده بعد كده هو",
+        "start": 1570.76,
+        "end": 1576.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 599,
+        "text": "قايل ان هي اكس سكوير ما فيهاش زد فهتبقى",
+        "start": 1573.64,
+        "end": 1578.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 600,
+        "text": "اعتبرها على انها كونستنت فلما اجي",
+        "start": 1576.84,
+        "end": 1580.1999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 601,
+        "text": "اكاملها بالنسبه للزد هتبقى عباره انها",
+        "start": 1578.64,
+        "end": 1583.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 602,
+        "text": "اكس سكوير مضروبه في الزد بالشكل ده وهعوض",
+        "start": 1580.2,
+        "end": 1585.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 603,
+        "text": "بقى بالحدود بتاعتي اللي هي صفر واكس",
+        "start": 1583.48,
+        "end": 1588.3600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 604,
+        "text": "بالشكل ده وهيبقى عندي هنا الحد اللي لسه",
+        "start": 1585.52,
+        "end": 1590.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 605,
+        "text": "باي او اللي لسه ما كملتش بالنسبه له اللي",
+        "start": 1588.36,
+        "end": 1593.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 606,
+        "text": "هو دي اكس وهكامل هنا برده بالنسبه للاكس",
+        "start": 1590.12,
+        "end": 1596.6399999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 607,
+        "text": "هتبقى من صفر لحد جذر الباي بالشكل ده كده",
+        "start": 1593.12,
+        "end": 1598.8799999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 608,
+        "text": "اهم حاجه ما تنساش ان انا اعوض بالحدود",
+        "start": 1596.64,
+        "end": 1600.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 609,
+        "text": "بتاعتي في الحاجه اللي لسه مكامل بالنسبه",
+        "start": 1598.88,
+        "end": 1602.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 610,
+        "text": "لنا انا كنت هنا بكامل بالنسبه للاكس وكنت",
+        "start": 1600.919,
+        "end": 1605.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 611,
+        "text": "هنا بكامل بالنسبه للاكس فيبقى عندي",
+        "start": 1602.88,
+        "end": 1608.5200000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 612,
+        "text": "المساله عندي ان هي من صفر لحد جذر الباي",
+        "start": 1605.679,
+        "end": 1611.0800000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 613,
+        "text": "بالشكل ده كده وهتبقى عندي هنا ان الاكس",
+        "start": 1608.52,
+        "end": 1613.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 614,
+        "text": "دي هتروح مع السكوير اللي موجوده هنا دي",
+        "start": 1611.08,
+        "end": 1617.1589999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 615,
+        "text": "فهتبقى عباره هنا انها ناقص اكس بالشكل ده",
+        "start": 1613.919,
+        "end": 1620.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 616,
+        "text": "في ساين الاكس مضروبه في الزد فهتبقى عندي",
+        "start": 1617.159,
+        "end": 1623.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 617,
+        "text": "هنا اكس مضروبه في اكس هتبقى هنا دي اكس",
+        "start": 1620.919,
+        "end": 1626.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 618,
+        "text": "سكوير بعد كده هنا اكس سكوير مضروبه في زد",
+        "start": 1623.279,
+        "end": 1630.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 619,
+        "text": "فهتبقى هنا دي اكس باور لاه ناقص بقى",
+        "start": 1626.96,
+        "end": 1632.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 620,
+        "text": "اللور و وماعملش نفس المسائل اللي فاتت",
+        "start": 1630.0,
+        "end": 1634.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 621,
+        "text": "لما كانت بتبقى عندي صفر كنت بعتبر على",
+        "start": 1632.64,
+        "end": 1637.8400000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 622,
+        "text": "طول ان الصفر دي كنت بكنسل الترم كله لا",
+        "start": 1634.48,
+        "end": 1640.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 623,
+        "text": "اعوض بالصفر دي واشوفها في الاول هتطلع لي",
+        "start": 1637.84,
+        "end": 1643.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 624,
+        "text": "بكام فانا عندي الليمت اللي بعد كده هيبقى",
+        "start": 1640.679,
+        "end": 1647.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 625,
+        "text": "ا هعوض هنا بالصفر مكان الزد فهتبقى عندي",
+        "start": 1643.48,
+        "end": 1649.52,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 626,
+        "text": "هي عباره هنا انها ناقص هتبقى عندي دي",
+        "start": 1647.279,
+        "end": 1654.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 627,
+        "text": "عباره انها ناقص اكس في ساين الصفر و",
+        "start": 1649.52,
+        "end": 1657.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 628,
+        "text": "مضروبه في الاكس فهتبقى عندي ساين الصفر",
+        "start": 1654.159,
+        "end": 1659.0390000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 629,
+        "text": "مضروبه في اكس فهتبقى دي كلها عباره ان هي",
+        "start": 1657.32,
+        "end": 1661.6789999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 630,
+        "text": "ساين الصفر ساين الصفر هي عباره ان هي صفر",
+        "start": 1659.039,
+        "end": 1664.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 631,
+        "text": "فالترم ده هيروح وخلي بالك برض ان انا",
+        "start": 1661.679,
+        "end": 1666.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 632,
+        "text": "الترم اللي بعده عندي هنا اكس سكوير",
+        "start": 1664.279,
+        "end": 1669.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 633,
+        "text": "مضروبه في الزد فلما اجي اعوض هنا بالصفر",
+        "start": 1666.2,
+        "end": 1671.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 634,
+        "text": "في الزد هتطلع لي كمان الترم ده كمان",
+        "start": 1669.2,
+        "end": 1673.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 635,
+        "text": "هيروح فخلاص انا بالنسبه لي الترم ده كده",
+        "start": 1671.279,
+        "end": 1676.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 636,
+        "text": "كله هيروح فهيبقى لي بس الترم الاولاني",
+        "start": 1673.88,
+        "end": 1679.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 637,
+        "text": "اللي هو كان بتاع الابر ليمت برده كان",
+        "start": 1676.799,
+        "end": 1682.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 638,
+        "text": "يعني الحرص واجب او يعني المفروض ان احنا",
+        "start": 1679.96,
+        "end": 1685.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 639,
+        "text": "نعوض عشان نضمن برده المساله ومش عارفين",
+        "start": 1682.279,
+        "end": 1687.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 640,
+        "text": "ايه اللي ممكن يطلع لنا في النص؟ بعد كده",
+        "start": 1685.0,
+        "end": 1690.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 641,
+        "text": "هقوم هنا ده هيبقى بالنسبه لدي اكس اكامل",
+        "start": 1687.36,
+        "end": 1692.559,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 642,
+        "text": "بقى عندي هنا المساله دي بالنسبه لدي اكس",
+        "start": 1690.399,
+        "end": 1695.4399999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 643,
+        "text": "بقت عندي مساله انتجريشن عاديه جدا يعني",
+        "start": 1692.559,
+        "end": 1698.12,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 644,
+        "text": "فلما انا اجي اكامل دي بالنسبه لدي اكس",
+        "start": 1695.44,
+        "end": 1699.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 645,
+        "text": "خلينا اكتبها بصوره افضل انا عندي هنا دي",
+        "start": 1698.12,
+        "end": 1703.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 646,
+        "text": "عباره عن ناقص اكس مضروبه هنا في ساين",
+        "start": 1699.88,
+        "end": 1705.6000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 647,
+        "text": "الاكس سكوير بالشكل ده كده بعد كده هنا",
+        "start": 1703.039,
+        "end": 1708.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 648,
+        "text": "زائد الاكس باور لاه وكل ده انا بكامله",
+        "start": 1705.6,
+        "end": 1712.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 649,
+        "text": "بالنسبه لاكس حل المساله دي هو ان شاء",
+        "start": 1708.36,
+        "end": 1714.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 650,
+        "text": "الله سهل جدا دي هنا من صفر لحد الباي",
+        "start": 1712.0,
+        "end": 1716.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 651,
+        "text": "بالشكل بالشكل ده الروت بتاع الباي انا",
+        "start": 1714.399,
+        "end": 1719.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 652,
+        "text": "عندي هنا ناقص اكس في ساين الاكس سكوير دي",
+        "start": 1716.76,
+        "end": 1722.519,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 653,
+        "text": "على فكره دي مشتقتها موجوده بره بس هنا",
+        "start": 1719.919,
+        "end": 1724.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 654,
+        "text": "ناقصها كام ناقصها هنا الاثنين هحط هنا",
+        "start": 1722.519,
+        "end": 1728.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 655,
+        "text": "الاثنين واقسم هنا على النص بالشكل ده كده",
+        "start": 1724.96,
+        "end": 1730.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 656,
+        "text": "فهتبقى عندي هنا انها عباره ان هي على",
+        "start": 1728.44,
+        "end": 1732.48,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 657,
+        "text": "فكره التكامل ده انا ممكن كمان انا اقوم",
+        "start": 1730.76,
+        "end": 1735.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 658,
+        "text": "موزعه هنا عشان برض ما تلخبطنيش الحته",
+        "start": 1732.48,
+        "end": 1737.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 659,
+        "text": "بتاعه النص لان ده اصلا انت ممكن تحله بيه",
+        "start": 1735.08,
+        "end": 1739.84,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 660,
+        "text": "السبستيتيوشن فهوم قايل ان دي عندي هنا",
+        "start": 1737.799,
+        "end": 1742.36,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 661,
+        "text": "فانا هوزعه فتبقى عندي هنا دي من صفر لحد",
+        "start": 1739.84,
+        "end": 1745.1999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 662,
+        "text": "جذر الباي بالشكل ده كده وهتبقى عندي دي",
+        "start": 1742.36,
+        "end": 1748.1999999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 663,
+        "text": "هي عباره هنا انها كام؟ انها ناقص نص",
+        "start": 1745.2,
+        "end": 1751.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 664,
+        "text": "بالشكل ده كده وهتبقى دي هي عباره ان هي",
+        "start": 1748.2,
+        "end": 1754.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 665,
+        "text": "ساين الاكس سكوير بالشكل ده لان الاكس",
+        "start": 1751.32,
+        "end": 1757.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 666,
+        "text": "سكوير دي مشتقتها موجوده بره وخلي بالك",
+        "start": 1754.039,
+        "end": 1759.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 667,
+        "text": "على فكره انا دي مش هتبقى اكس سكوير دي",
+        "start": 1757.32,
+        "end": 1762.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 668,
+        "text": "هتبقى مشتقه",
+        "start": 1759.799,
+        "end": 1764.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 669,
+        "text": "الساين مشتقه الساين هي عباره ان هي كام",
+        "start": 1762.279,
+        "end": 1768.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 670,
+        "text": "او تكامل الساين هي عباره ان هي كوساين",
+        "start": 1764.679,
+        "end": 1771.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 671,
+        "text": "الاكس سكوير بالشكل ده كده وخلي بالك",
+        "start": 1768.279,
+        "end": 1773.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 672,
+        "text": "تكامل الساين هو بيبقى قوس كوساين ومعاه",
+        "start": 1771.039,
+        "end": 1776.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 673,
+        "text": "اشاره نيجتيف فالاشاره النيجتيف دي هتروح",
+        "start": 1773.919,
+        "end": 1778.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 674,
+        "text": "معايا معلش انا ممكن اكون يعني الواحد",
+        "start": 1776.0,
+        "end": 1781.76,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 675,
+        "text": "متلخبط شويه او تاه معلش يعني بس هتبقى ده",
+        "start": 1778.2,
+        "end": 1785.159,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 676,
+        "text": "وحل المساله دي هتبقى نص في كوساين الاكس",
+        "start": 1781.76,
+        "end": 1787.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 677,
+        "text": "سكوير بعد كده هكامل بقى الاكس باور لاثه",
+        "start": 1785.159,
+        "end": 1790.279,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 678,
+        "text": "هتبقى هي عباره هنا انها اكس باور اربعه",
+        "start": 1787.919,
+        "end": 1793.5590000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 679,
+        "text": "وهقسم هنا على الاربعه بالشكل ده وهعوض",
+        "start": 1790.279,
+        "end": 1796.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 680,
+        "text": "بقى بالحدود بتاعتي اللي هي من صفر لحد",
+        "start": 1793.559,
+        "end": 1799.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 681,
+        "text": "جذر الباي بالشكل ده لو انا بقى جيت وحبيت",
+        "start": 1796.24,
+        "end": 1800.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 682,
+        "text": "ان انا اعوض فيه المساله دي فتبقى عندي هي",
+        "start": 1799.0,
+        "end": 1803.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 683,
+        "text": "عباره عن ان هي نص بالشكل ده في كوساين",
+        "start": 1800.919,
+        "end": 1806.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 684,
+        "text": "الاكس سكوير اللي هي عوض بالحد الابر",
+        "start": 1803.96,
+        "end": 1809.44,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 685,
+        "text": "الاولاني فهتبقى باي سكوير لتحت الروت",
+        "start": 1806.44,
+        "end": 1812.2,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 686,
+        "text": "هتبقى في الاخر ان هي باي بعد كده هنا",
+        "start": 1809.44,
+        "end": 1815.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 687,
+        "text": "زائد الروت بتاع الباي لو حطيتها باعه",
+        "start": 1812.2,
+        "end": 1817.6000000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 688,
+        "text": "تبقى في الاخر انها باي سكوير على الاربعه",
+        "start": 1815.0,
+        "end": 1820.64,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 689,
+        "text": "بالشكل ده بعد كده هتبقى هنا ناقص كل ده",
+        "start": 1817.6,
+        "end": 1824.08,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 690,
+        "text": "الابر ليمت بعد كده انا عندي هنا ناقص",
+        "start": 1820.64,
+        "end": 1827.3600000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 691,
+        "text": "النص بالشكل ده في كوساين الصفر كوساين",
+        "start": 1824.08,
+        "end": 1829.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 692,
+        "text": "الصفر ده في الاخر هيطلع لي بواحد فهتبقى",
+        "start": 1827.36,
+        "end": 1832.32,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 693,
+        "text": "عندي دي كلها هي عباره ان هي واحد بعد كده",
+        "start": 1829.6,
+        "end": 1835.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 694,
+        "text": "زائد الصفر سكوير فانا خلاص انا مش هكتب",
+        "start": 1832.32,
+        "end": 1837.4399999999998,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 695,
+        "text": "الترم ده فيبقى عندي حل المساله دي هي",
+        "start": 1835.0,
+        "end": 1840.679,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 696,
+        "text": "عباره ان هي نص في كوساين الباي بالشكل ده",
+        "start": 1837.44,
+        "end": 1843.88,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 697,
+        "text": "كده بعد كده هنا زائد الباي سكوير على",
+        "start": 1840.679,
+        "end": 1847.5590000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 698,
+        "text": "الاربعه بعد كده ناقص النص بالشكل ده كده",
+        "start": 1843.88,
+        "end": 1851.0800000000002,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 699,
+        "text": "هو ده حل المساله بتاعتي كوساين الباي دي",
+        "start": 1847.559,
+        "end": 1854.24,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 700,
+        "text": "في الاخر هي عباره ان هي ناقص واحد فهتبقى",
+        "start": 1851.08,
+        "end": 1856.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 701,
+        "text": "عندي هنا دي عباره ان هي ناقص نص زائد",
+        "start": 1854.24,
+        "end": 1859.96,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 702,
+        "text": "الباي سكوير على الاربعه ناقص النص اللي",
+        "start": 1856.799,
+        "end": 1862.799,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 703,
+        "text": "موجوده معايا هنا فدي في الاخر في الاخر",
+        "start": 1859.96,
+        "end": 1866.3990000000001,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 704,
+        "text": "هتطلعلي ان هي عباره ان هي باي باور سكوير",
+        "start": 1862.799,
+        "end": 1869.399,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 705,
+        "text": "على الاربعه ناقص النص مع الناقص نص في",
+        "start": 1866.399,
+        "end": 1871.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 706,
+        "text": "الاخر هيطلعلي ان هي بناقص واحد بالشكل ده",
+        "start": 1869.399,
+        "end": 1875.0,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 707,
+        "text": "وهو ده حل التربل انتجريشن اللي هو كان",
+        "start": 1871.919,
+        "end": 1878.039,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 708,
+        "text": "طالبه مننا وبس ده كان شرح التربل",
+        "start": 1875.0,
+        "end": 1880.6,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 709,
+        "text": "انتجريشن اتمنى ان شرح الفيديو ده كان",
+        "start": 1878.039,
+        "end": 1886.919,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    },
+    {
+        "chunk_id": 710,
+        "text": "بسيط ومفيد وشكرا جداكم وسلام لكم",
+        "start": 1880.6,
+        "end": 1886.9189999999999,
+        "video_title": "شرح التكامل الثلاثي  | Triple Integration"
+    }
+]

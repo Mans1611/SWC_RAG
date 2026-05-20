@@ -1,0 +1,3950 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم في الفيديو ده ان شاء الله",
+        "start": 3.48,
+        "end": 9.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 1,
+        "text": "هنتكلم عنيف اوف الانفرس تريك فانكشن او",
+        "start": 5.2,
+        "end": 13.559000000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 2,
+        "text": "الدوال المعكوسه للدوال المثلثيه زي",
+        "start": 9.2,
+        "end": 17.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 3,
+        "text": "الساين انفرس اوف الاكس والكوساين انفرس",
+        "start": 13.559,
+        "end": 21.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 4,
+        "text": "والفانكشنز دي كلها قبل ما نبتدي في",
+        "start": 17.92,
+        "end": 24.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 5,
+        "text": "الديريفتيفز بتاع الفانكشنز دي عايزين بس",
+        "start": 21.32,
+        "end": 27.16,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 6,
+        "text": "اول حاجه ان احنا نوضح نوت مهمه جدا قبل",
+        "start": 24.0,
+        "end": 29.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 7,
+        "text": "ما ان احنا نخش اصلا ان احنا نتكلم عن",
+        "start": 27.16,
+        "end": 31.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 8,
+        "text": "الديريفتيف بتاعه بالنسبه للانفرس تراك",
+        "start": 29.039,
+        "end": 35.04,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 9,
+        "text": "فانكشن لو انا مثلا عندي فانكشن زي الساين",
+        "start": 31.96,
+        "end": 38.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 10,
+        "text": "انفرس اوف الاكس فدي هي اصلا ما بتساويش",
+        "start": 35.04,
+        "end": 43.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 11,
+        "text": "ما بتساويش انها مقلوب الساين اوف الاكس",
+        "start": 38.92,
+        "end": 46.480000000000004,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 12,
+        "text": "يعني هي ما بتساويش مقلوب داله الساين",
+        "start": 43.12,
+        "end": 48.559,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 13,
+        "text": "معنى ساين انفرس اوف الاكس معناته لو انا",
+        "start": 46.48,
+        "end": 50.519999999999996,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 14,
+        "text": "عندي مثلا كانت فانكشن اوف الاكس بالشكل",
+        "start": 48.559,
+        "end": 52.358999999999995,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 15,
+        "text": "ده كانت هي عباره هنا انها الساين اوف",
+        "start": 50.52,
+        "end": 56.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 16,
+        "text": "الاكس ف الانفرس بتاع الفانكشن دي اللي هي",
+        "start": 52.359,
+        "end": 59.559000000000005,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 17,
+        "text": "بتمثل انعكاس الفانكشن بتاعه الساين دي",
+        "start": 56.399,
+        "end": 61.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 18,
+        "text": "على محور واي بيساوي اكس اللي احنا لو كان",
+        "start": 59.559,
+        "end": 65.03999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 19,
+        "text": "عندنا اكس واي بالشكل ده فهي بتمثل انعكاس",
+        "start": 61.92,
+        "end": 66.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 20,
+        "text": "الفانكشن على المحور ده اللي هو واي",
+        "start": 65.04,
+        "end": 70.759,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 21,
+        "text": "بيساوي اكس اللي هو مايل بزاويه 45 فبيبقى",
+        "start": 66.88,
+        "end": 74.19999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 22,
+        "text": "بيساوي الاف الانفرس بتاعه الفانكشن دي هي",
+        "start": 70.759,
+        "end": 77.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 23,
+        "text": "عباره هنا انها ساين انفرس اوف اوف الاكس",
+        "start": 74.2,
+        "end": 79.799,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 24,
+        "text": "انما لما اجي اقول لك الساين انفرس اوف",
+        "start": 77.88,
+        "end": 83.439,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 25,
+        "text": "الاكس ده معناته ان هي مش مقلوب داله",
+        "start": 79.799,
+        "end": 86.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 26,
+        "text": "الساين دي ملحوظه مهمه جدا جدا ان احنا",
+        "start": 83.439,
+        "end": 89.83999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 27,
+        "text": "ناخد بالنا منها خلينا ان احنا دلوقتي نخش",
+        "start": 86.84,
+        "end": 92.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 28,
+        "text": "على الديريفتيف بتاع الفانكشنز دي وفي",
+        "start": 89.84,
+        "end": 94.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 29,
+        "text": "الديريفتيف الدنيا بتبقى لذيذه جدا او",
+        "start": 92.84,
+        "end": 97.479,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 30,
+        "text": "الدنيا بتبقى سهله هي الدنيا كلها بتبقى",
+        "start": 94.64,
+        "end": 100.04,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 31,
+        "text": "سيستماتيك يعني انت بس بتحتاج انك عايز بس",
+        "start": 97.479,
+        "end": 103.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 32,
+        "text": "تعرف الرول بتاعه الاشتقاق بتاع الداله دي",
+        "start": 100.04,
+        "end": 107.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 33,
+        "text": "ومن ساعتها انت بتكمل انت تعيش لوحدك فلو",
+        "start": 103.88,
+        "end": 109.67999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 34,
+        "text": "احنا اول حاجه دخلنا على الساين انفرس",
+        "start": 107.64,
+        "end": 112.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 35,
+        "text": "بتاعه الاكس فاشتقاق الداله دي بيكون",
+        "start": 109.68,
+        "end": 115.159,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 36,
+        "text": "عباره عن ان هو تبقى عندي هنا اشتقاقها",
+        "start": 112.68,
+        "end": 119.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 37,
+        "text": "فوق بيبقى واحد وعندي تحت في في الساين",
+        "start": 115.159,
+        "end": 121.07900000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 38,
+        "text": "انفرس بتبقى عندي هي عباره هنا انها روت",
+        "start": 119.2,
+        "end": 123.96000000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 39,
+        "text": "وبتبقى عباره هنا انها واحد ناقص الاكس",
+        "start": 121.079,
+        "end": 126.479,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 40,
+        "text": "سكوير بالشكل ده خلي بالك لو انا كانت",
+        "start": 123.96,
+        "end": 128.759,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 41,
+        "text": "عندي بقى هي مش ساين الاكس لو كانت دي",
+        "start": 126.479,
+        "end": 131.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 42,
+        "text": "واحده تانيه بقى لو كانت ساين انفرس اوف",
+        "start": 128.759,
+        "end": 133.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 43,
+        "text": "خلينا نفترض مثلا ان دي يو وعندي اليو دي",
+        "start": 131.8,
+        "end": 136.239,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 44,
+        "text": "هي تعتبر انها فانكشن وانا عايز اجيب",
+        "start": 133.92,
+        "end": 138.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 45,
+        "text": "الديريفتيف بتاعها عايز اجيب الدي على",
+        "start": 136.239,
+        "end": 140.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 46,
+        "text": "الدي اكس بتاعها فانت هتبقى عندك",
+        "start": 138.28,
+        "end": 142.959,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 47,
+        "text": "الديريفتيف بتاع دي هي عباره هنا انها",
+        "start": 140.519,
+        "end": 147.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 48,
+        "text": "واحد ا تحت الروت في المقام في هتبقى عندك",
+        "start": 142.959,
+        "end": 150.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 49,
+        "text": "هنا سكوير يو اللي موجوده هنا كلها اللي",
+        "start": 147.56,
+        "end": 153.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 50,
+        "text": "هي اليو سكوير وهيبقى عندك فوق الديريفتيف",
+        "start": 150.28,
+        "end": 155.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 51,
+        "text": "بتاع اليو دي يعني لو انا كان عندي هنا",
+        "start": 153.36,
+        "end": 158.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 52,
+        "text": "اكس سكوير هتبقى تحت هنا اكس سكوير سكوير",
+        "start": 155.84,
+        "end": 160.20000000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 53,
+        "text": "وهتشتق",
+        "start": 158.519,
+        "end": 162.59900000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 54,
+        "text": "الاكس سكوير دي فوق او هتشتق الفانكشن",
+        "start": 160.2,
+        "end": 164.51899999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 55,
+        "text": "اللي موجوده عندك هنا اللي هي اليو هتبقى",
+        "start": 162.599,
+        "end": 167.51899999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 56,
+        "text": "مشتقتها موجوده فوق بس هنا في الاكزامبل",
+        "start": 164.519,
+        "end": 169.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 57,
+        "text": "اللي موجود قدامي كانت عندي هنا اكس فلما",
+        "start": 167.519,
+        "end": 172.48000000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 58,
+        "text": "انا جيت هنا ربعتها كانت اكس سكوير ولما",
+        "start": 169.44,
+        "end": 175.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 59,
+        "text": "رفعتها او حبيت ان انا اشتقها فوق في",
+        "start": 172.48,
+        "end": 178.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 60,
+        "text": "البسط فمشتقه الاكس كانت كام؟ كانت عباره",
+        "start": 175.28,
+        "end": 180.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 61,
+        "text": "انها واحد فعشان كده ما ظهرتش هنا معايا",
+        "start": 178.2,
+        "end": 182.35999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 62,
+        "text": "بس انا هنا عايز اوضح لك الكيس دي لما",
+        "start": 180.48,
+        "end": 184.67999999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 63,
+        "text": "يكون عندك هنا في فانكشن انت بتشتق كمان",
+        "start": 182.36,
+        "end": 187.48000000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 64,
+        "text": "الفانكشن دي فوق زائد اللي انت بتحطه تحت",
+        "start": 184.68,
+        "end": 190.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 65,
+        "text": "في المقام اللي تحت الروت نفس الامر برض",
+        "start": 187.48,
+        "end": 193.51899999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 66,
+        "text": "لو انا رحت ليكوساين الانفرس بتاع الاكس",
+        "start": 190.68,
+        "end": 195.59900000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 67,
+        "text": "هتبقى عندي بالضبط هي عباره هنا انها نفس",
+        "start": 193.519,
+        "end": 198.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 68,
+        "text": "الساين بالظبط هتبقى عندي هنا انها واحد",
+        "start": 195.599,
+        "end": 200.07999999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 69,
+        "text": "ناقص اكس سكوير طب انا ايه اللي هيفرق لي",
+        "start": 198.08,
+        "end": 202.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 70,
+        "text": "بقى عن الساين ازاي هفرق ما بينها اللي",
+        "start": 200.08,
+        "end": 204.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 71,
+        "text": "هيفرق لك عن الساين انت هتبقى عندك هنا بس",
+        "start": 202.12,
+        "end": 206.92000000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 72,
+        "text": "اشاره نيجتيف فهو ده الفرق ما ما بين",
+        "start": 204.0,
+        "end": 209.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 73,
+        "text": "الساين والكوساين كل اللي عليك بس ان انت",
+        "start": 206.92,
+        "end": 212.159,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 74,
+        "text": "تعرفه ان انت يعني في بعض الاوقات انت",
+        "start": 209.72,
+        "end": 215.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 75,
+        "text": "بتكون محتاج ان انت تحفظ الاشتق ده ا او",
+        "start": 212.159,
+        "end": 217.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 76,
+        "text": "تحفظ القانون بتاع الاشتقاق بس بعد كده",
+        "start": 215.28,
+        "end": 220.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 77,
+        "text": "الدنيا بتبقى اوضح يعني وكده وزي ما انت",
+        "start": 217.28,
+        "end": 222.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 78,
+        "text": "شفت الاشتقاق بتاع الساين والكوساين",
+        "start": 220.12,
+        "end": 226.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 79,
+        "text": "الاثنين تقريبا هم شبه بعض جدا الفرق بس",
+        "start": 222.4,
+        "end": 229.159,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 80,
+        "text": "في حته الاشاره هنا كان عندي هنا ناقص واح",
+        "start": 226.12,
+        "end": 232.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 81,
+        "text": "وهنا كان عندي هنا موجب واحد بعد كده لو",
+        "start": 229.159,
+        "end": 235.439,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 82,
+        "text": "احنا رحنا على التان انفرس بتاع الاكس",
+        "start": 232.4,
+        "end": 238.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 83,
+        "text": "فهيبقى اشتقاق هو عباره هنا ان هو الواحد",
+        "start": 235.439,
+        "end": 240.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 84,
+        "text": "على هنا تحت عندي في المقام هتبقى عندي",
+        "start": 238.0,
+        "end": 243.239,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 85,
+        "text": "عباره هنا انها واحد زائد الاكس سكوير",
+        "start": 240.28,
+        "end": 245.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 86,
+        "text": "بالشكل ده وخلي بالك برض ان انا الاكس",
+        "start": 243.239,
+        "end": 247.239,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 87,
+        "text": "سكوير دي انا باخد الفانكشن اللي موجوده",
+        "start": 245.56,
+        "end": 250.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 88,
+        "text": "هنا دي وبربعها بعد كده بقوم مشتقاها فوق",
+        "start": 247.239,
+        "end": 252.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 89,
+        "text": "طيب لو انا كنت انا طلبت منك الدي على",
+        "start": 250.12,
+        "end": 254.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 90,
+        "text": "الدي اكس دي فانكشن تانيه لو انا كنت",
+        "start": 252.0,
+        "end": 258.959,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 91,
+        "text": "طالبها للتان انفرس للفانكشن اليو ده",
+        "start": 254.519,
+        "end": 261.16,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 92,
+        "text": "هيبقى اشتقاقها ازاي اشتقاق دي هتبقى",
+        "start": 258.959,
+        "end": 263.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 93,
+        "text": "عباره هنا انها واحد زائد اليو الفانكشن",
+        "start": 261.16,
+        "end": 265.96000000000004,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 94,
+        "text": "اللي موجوده هنا هربعها بالظبط هتبقى واي",
+        "start": 263.68,
+        "end": 269.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 95,
+        "text": "سكوير بعد كده اقوم مشتق اليو دي فوق فهو",
+        "start": 265.96,
+        "end": 272.59999999999997,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 96,
+        "text": "ده اشتقاق اشتقاق التان انفرس اوف اليو لو",
+        "start": 269.44,
+        "end": 275.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 97,
+        "text": "كانت هي بالفانكشن بتاعتها خلينا بس نعلم",
+        "start": 272.6,
+        "end": 277.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 98,
+        "text": "على الاشتقاق كده فهو ده الاشتقاق بتاع",
+        "start": 275.6,
+        "end": 280.52000000000004,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 99,
+        "text": "التان انفرس هو ده الاشتقاق بتاع الكوساين",
+        "start": 277.56,
+        "end": 284.28000000000003,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 100,
+        "text": "انفرس وهو ده الاشتقاق بتاع بتاع الساين",
+        "start": 280.52,
+        "end": 287.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 101,
+        "text": "انفرس انا بس اعلم لك عليه عشان تكون عارف",
+        "start": 284.28,
+        "end": 289.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 102,
+        "text": "يعني هو بيمثل لي ايه بعد كده لو انا حبيت",
+        "start": 287.08,
+        "end": 292.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 103,
+        "text": "ان انا اشتق السك فمشتقه السك بتبقى عباره",
+        "start": 289.88,
+        "end": 296.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 104,
+        "text": "هنا انها الابسليوت بتاع السك مضروبه هنا",
+        "start": 292.84,
+        "end": 299.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 105,
+        "text": "في الاكس سكوير ناقص الواحد وما انساش ان",
+        "start": 296.52,
+        "end": 301.639,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 106,
+        "text": "انا برض مشتقه الاكس الا السكوير اللي",
+        "start": 299.52,
+        "end": 303.75899999999996,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 107,
+        "text": "كانت موجوده عندي هنا فوق احطها فوق",
+        "start": 301.639,
+        "end": 306.40000000000003,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 108,
+        "text": "فهتبقى عندي هي موجوده فوق هي عباره هنا",
+        "start": 303.759,
+        "end": 308.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 109,
+        "text": "انها الواحد بعد كده عندي هنا مشتقه",
+        "start": 306.4,
+        "end": 312.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 110,
+        "text": "الكوتان انفرس اوف الاكس مشتقه الكوتان",
+        "start": 308.8,
+        "end": 314.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 111,
+        "text": "انفرس فبتبقى مشتقتها هي عباره هنا ان هي",
+        "start": 312.08,
+        "end": 317.35999999999996,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 112,
+        "text": "الواحد على هنا واحد زائد الاكس سكوير",
+        "start": 314.56,
+        "end": 319.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 113,
+        "text": "الفانكشن ربعتها واشتقيتها فوق دي",
+        "start": 317.36,
+        "end": 322.40000000000003,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 114,
+        "text": "هتلاقيها بالضبط هي نفس اشتقاق التان",
+        "start": 319.84,
+        "end": 324.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 115,
+        "text": "انفرس بس الفرق عندك هنا ان انت بتحط هنا",
+        "start": 322.4,
+        "end": 327.75899999999996,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 116,
+        "text": "اشاره نيجتيف لو انا بقى حبيت ان انا اروح",
+        "start": 324.919,
+        "end": 331.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 117,
+        "text": "اشوف مشتقه الكوسيك انفرس اوف الاكس فدي",
+        "start": 327.759,
+        "end": 333.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 118,
+        "text": "بيبقى عباره عن اشتقاقها هو عباره ان هو",
+        "start": 331.08,
+        "end": 337.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 119,
+        "text": "الابسليوت بتاع الاكس على هنا الاكس سكوير",
+        "start": 333.68,
+        "end": 340.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 120,
+        "text": "ناقص الواحد وهتبقى عندي فوق مشتقه الاكس",
+        "start": 337.4,
+        "end": 343.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 121,
+        "text": "فمشتقه الاكس هي بواحد فدي كانت بالضبط",
+        "start": 340.72,
+        "end": 346.96000000000004,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 122,
+        "text": "نفس مشتقه السك انفرس بس الفرق ان انت",
+        "start": 343.44,
+        "end": 350.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 123,
+        "text": "هتقوم هنا حاطط الاشاره",
+        "start": 346.96,
+        "end": 352.79999999999995,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 124,
+        "text": "النيجتيف يعني لو انت اخدت بالك هتلاحظ ان",
+        "start": 350.28,
+        "end": 355.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 125,
+        "text": "تقريبا كل الاش الاشتقاق اللي موجود هنا",
+        "start": 352.8,
+        "end": 357.759,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 126,
+        "text": "هم تقريبا هم ثلاثه بس اللي انت هتحفظهم",
+        "start": 355.4,
+        "end": 361.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 127,
+        "text": "اللي هو الجزء ده والجزء بتاع التان",
+        "start": 357.759,
+        "end": 363.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 128,
+        "text": "والجزء بتاع الكوساين وهتقدر تجيب منهم",
+        "start": 361.28,
+        "end": 366.71999999999997,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 129,
+        "text": "الثلاثه الباقيين بحيث ان انت اصلا",
+        "start": 363.88,
+        "end": 369.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 130,
+        "text": "الثلاثه الباقيين انت بس بتغير في الاشاره",
+        "start": 366.72,
+        "end": 371.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 131,
+        "text": "بتاعتهم يعني انت هنا لو جيت وحبيت تكتب",
+        "start": 369.12,
+        "end": 374.319,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 132,
+        "text": "لكل واحده ايه المقابل ليها وايه المشابه",
+        "start": 371.8,
+        "end": 376.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 133,
+        "text": "ليها هتلاحظ ان الكوتان انفرس المشابه",
+        "start": 374.319,
+        "end": 380.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 134,
+        "text": "ليها هي التان انفرس والاشتقاق بتاعها لو",
+        "start": 376.919,
+        "end": 384.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 135,
+        "text": "انت حبيت تكتب المشابه للكوسيك فالمشابه",
+        "start": 380.36,
+        "end": 387.40000000000003,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 136,
+        "text": "للكوسيك هو عباره ان هو السيك انفرس اوف",
+        "start": 384.68,
+        "end": 390.28000000000003,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 137,
+        "text": "الاكس ده هو المشابه بتاع السيك اوف الاكس",
+        "start": 387.4,
+        "end": 393.31899999999996,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 138,
+        "text": "ولو انت حبيت تجيب الاشتقاق او المشابه",
+        "start": 390.28,
+        "end": 395.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 139,
+        "text": "للكوساين فالمشابه ليها هو الساين انفرس",
+        "start": 393.319,
+        "end": 398.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 140,
+        "text": "اوف الاكس بالشكل ده كده فهو ده المشابه",
+        "start": 395.88,
+        "end": 401.71999999999997,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 141,
+        "text": "ليه بس الفرق بس اللي انا بعمله في",
+        "start": 398.72,
+        "end": 404.84000000000003,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 142,
+        "text": "التغيير بتاع الاشاره بتاعتي طيب في",
+        "start": 401.72,
+        "end": 406.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 143,
+        "text": "السؤال اللي بعد كده مديني اف اوف اكس هي",
+        "start": 404.84,
+        "end": 409.15999999999997,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 144,
+        "text": "عباره ان هي الداله دي كده والداله دي",
+        "start": 406.72,
+        "end": 411.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 145,
+        "text": "عباره عن انها اثنين ساين الاكس زائد سته",
+        "start": 409.16,
+        "end": 413.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 146,
+        "text": "كوساين الاكس او سته",
+        "start": 411.12,
+        "end": 416.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 147,
+        "text": "كوساين انفرس الاتنين اكس وطالب مني هنا",
+        "start": 413.56,
+        "end": 418.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 148,
+        "text": "ان انا اجيب الانفرس بتاع الفانكشن دي طيب",
+        "start": 416.08,
+        "end": 421.15999999999997,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 149,
+        "text": "لو انا عايز بقى احل المساله دي فحل",
+        "start": 418.96,
+        "end": 423.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 150,
+        "text": "المساله دي بكل بساطه هي عباره عندي هنا",
+        "start": 421.16,
+        "end": 426.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 151,
+        "text": "ان انا هشتق اول حاجه هشتق الفانكشن",
+        "start": 423.28,
+        "end": 428.67999999999995,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 152,
+        "text": "الاوليه وانا عندي هنا دي ما بينهم جمع",
+        "start": 426.8,
+        "end": 432.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 153,
+        "text": "فناخد كل واحده على حده فتبقى عندي ان اف",
+        "start": 428.68,
+        "end": 435.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 154,
+        "text": "الانفرس اوف الاكس تبقى عباره هنا انها",
+        "start": 432.919,
+        "end": 437.479,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 155,
+        "text": "اثنين مشتقه الساين كانت عباره انها ايه",
+        "start": 435.039,
+        "end": 439.759,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 156,
+        "text": "كانت عباره هنا انها الواحد ارجع فوق اشوف",
+        "start": 437.479,
+        "end": 442.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 157,
+        "text": "القانون بتاعها مهم في الاول ان انا اقعد",
+        "start": 439.759,
+        "end": 445.639,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 158,
+        "text": "اتدرب عليها واقعد احفظ شكلها لحد ما احفظ",
+        "start": 442.24,
+        "end": 448.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 159,
+        "text": "ايه هي مشتقه الساين انفرس فمشتقه الساين",
+        "start": 445.639,
+        "end": 451.199,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 160,
+        "text": "انفرس عندي هتبقى عباره هنا ان الواحد",
+        "start": 448.919,
+        "end": 453.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 161,
+        "text": "ناقص الاكس سكوير انا اخدت الفانكشن اللي",
+        "start": 451.199,
+        "end": 457.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 162,
+        "text": "كانت موجوده مع الاكس وربعتها بعد كده قمت",
+        "start": 453.96,
+        "end": 461.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 163,
+        "text": "مشتقاها فوق فهتبقى عندي هنا دي 2× 1 على",
+        "start": 457.24,
+        "end": 464.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 164,
+        "text": "1 ناق اكس سكوير تحت الروت وخلي بالك كل",
+        "start": 461.68,
+        "end": 467.199,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 165,
+        "text": "ده الاثنين دي كانت موجوده معايا بره اصلا",
+        "start": 464.24,
+        "end": 468.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 166,
+        "text": "بعد كده هروح على الترم الثاني اللي هو",
+        "start": 467.199,
+        "end": 471.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 167,
+        "text": "الجزء ده كده فهتبقى عندي هنا عباره انها",
+        "start": 468.919,
+        "end": 473.79999999999995,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 168,
+        "text": "سته في مشتقه مشتقه بقى ايه في مشتقه",
+        "start": 471.0,
+        "end": 477.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 169,
+        "text": "الكوساين انفرس للاثنين اكس اقوم قايل تحت",
+        "start": 473.8,
+        "end": 479.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 170,
+        "text": "انا عندي هنا عباره عن انها تحت روت واحد",
+        "start": 477.12,
+        "end": 483.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 171,
+        "text": "ناقص الجزء اللي جوه القوس الجزء اللي جوه",
+        "start": 479.68,
+        "end": 485.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 172,
+        "text": "اللي هو الزاويه اللي موجوده جوه دي",
+        "start": 483.039,
+        "end": 487.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 173,
+        "text": "وبالنسبه ان انا بقول كوساين انفرس",
+        "start": 485.08,
+        "end": 489.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 174,
+        "text": "الاتنين اكس فالجزء ده مش هو مش عباره عن",
+        "start": 487.12,
+        "end": 491.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 175,
+        "text": "ان هي زاويه عباره ان هو رقم عادي جدا",
+        "start": 489.28,
+        "end": 493.63899999999995,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 176,
+        "text": "فاناقوم قايل هنا ان دي عباره عن اين اكس",
+        "start": 491.52,
+        "end": 496.75899999999996,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 177,
+        "text": "وهربع الجزء ده بعد كده هقوم قايل او هقوم",
+        "start": 493.639,
+        "end": 499.639,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 178,
+        "text": "مشتق الزاويه او مره ثانيه هي مش زاويه بس",
+        "start": 496.759,
+        "end": 502.08000000000004,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 179,
+        "text": "خليني اسميها زاويه هقوم مشتق الزاويه دي",
+        "start": 499.639,
+        "end": 504.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 180,
+        "text": "فوق او الجزء اللي جوه ده فوق فمشتقه",
+        "start": 502.08,
+        "end": 506.75899999999996,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 181,
+        "text": "الاثنين اكس هتبقى هي عباره هنا انها",
+        "start": 504.68,
+        "end": 508.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 182,
+        "text": "الاثنين بالشكل ده فلو انا حبيت بقى ان",
+        "start": 506.759,
+        "end": 511.199,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 183,
+        "text": "انا اقوم قايل عندي وخلي بالك ان انت عندك",
+        "start": 508.96,
+        "end": 513.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 184,
+        "text": "هنا في كوساين انفرس انت بتبقى عندك هنا",
+        "start": 511.199,
+        "end": 515.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 185,
+        "text": "في اشاره نيجتيف اللي هي كانت في النيجتيف",
+        "start": 513.12,
+        "end": 517.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 186,
+        "text": "واحد اللي هي في القانون اللي احنا قلنا",
+        "start": 515.24,
+        "end": 519.6800000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 187,
+        "text": "عليه اللي هو القانون ده كده فهو ده عندي",
+        "start": 517.12,
+        "end": 523.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 188,
+        "text": "دي مشتقه الانفرس بتاعه الكوساين انفرس",
+        "start": 519.68,
+        "end": 525.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 189,
+        "text": "اوف الاكس فلو انا حبيت بقى ان انا ابسط",
+        "start": 523.08,
+        "end": 527.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 190,
+        "text": "المساله دي فتبقى عندي في الاخر عباره هنا",
+        "start": 525.88,
+        "end": 531.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 191,
+        "text": "انين على هنا الواحد ناقص الاكس سكوير بعد",
+        "start": 527.72,
+        "end": 534.9200000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 192,
+        "text": "كده انا عندي هنا دي هتبقى ناقص لان 6 في",
+        "start": 531.76,
+        "end": 538.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 193,
+        "text": "نا ا فهتبقى عباره هنا انها - 12 بس خلينا",
+        "start": 534.92,
+        "end": 540.959,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 194,
+        "text": "نكتبها بالشكل ده كده هتبقى عندي هنا 12",
+        "start": 538.72,
+        "end": 543.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 195,
+        "text": "في عندي هنا الواحد ناقص الاتنين اكس",
+        "start": 540.959,
+        "end": 545.4399999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 196,
+        "text": "سكوير لو انا ربعتها هتبقى عندي هنا انها",
+        "start": 543.6,
+        "end": 547.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 197,
+        "text": "اربعه في اكس سكوير بالشكل ده وهيبقى هو",
+        "start": 545.44,
+        "end": 551.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 198,
+        "text": "ده الحل بتاع السؤال بتاعي او هو دهيفتيف",
+        "start": 547.519,
+        "end": 554.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 199,
+        "text": "بتاع الاف اوف اكس اللي موجوده معايا طيب",
+        "start": 551.32,
+        "end": 556.1600000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 200,
+        "text": "السؤال اللي بعد كده مديني هنا الفانكشن",
+        "start": 554.279,
+        "end": 558.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 201,
+        "text": "اللي موجوده قدامي دي وعباره انها قسمه او",
+        "start": 556.16,
+        "end": 561.3199999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 202,
+        "text": "بسط ومقام وطالب مني ان انا اجيب ديريفتيف",
+        "start": 558.76,
+        "end": 564.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 203,
+        "text": "بقى بتاع مين؟ بتاع الفانكشن دي طبعا انا",
+        "start": 561.32,
+        "end": 568.0790000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 204,
+        "text": "هنا ممكن استخدم الديفيجن رول ديفيجن رول",
+        "start": 564.12,
+        "end": 571.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 205,
+        "text": "او قاعده القسمه اللي احنا كنا اخدناها",
+        "start": 568.079,
+        "end": 573.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 206,
+        "text": "قبل كده طيب قاعده القسمه دي كانت بتقول",
+        "start": 571.48,
+        "end": 575.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 207,
+        "text": "لك على ايه؟ كانت بتقول لك ان انت لما",
+        "start": 573.56,
+        "end": 578.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 208,
+        "text": "تيجي تجيب الاف انفرس ا او تيجي تجيب",
+        "start": 575.24,
+        "end": 581.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 209,
+        "text": "الديريفتيف بتاع الفانكشن اللي موجوده دي",
+        "start": 578.64,
+        "end": 583.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 210,
+        "text": "وكانت هي عباره ان هي بسط مقام وانت حبيت",
+        "start": 581.36,
+        "end": 586.04,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 211,
+        "text": "ان انت تستخدم قاعده القسمه فكنت بتاخد",
+        "start": 583.36,
+        "end": 588.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 212,
+        "text": "المقام اللي هو عندك اللي موجود تحت وكنت",
+        "start": 586.04,
+        "end": 590.4399999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 213,
+        "text": "بتربعه فكنت بتقوم قالي هي عباره عن هنا",
+        "start": 588.32,
+        "end": 593.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 214,
+        "text": "واحد في الاكس سكوير بالشكل ده كده كنت",
+        "start": 590.44,
+        "end": 596.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 215,
+        "text": "بتربع الجزء اللي موجود في المقام بعد ما",
+        "start": 593.36,
+        "end": 599.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 216,
+        "text": "بتربعه انت بترفعه او بتحطه في البسط زي",
+        "start": 596.36,
+        "end": 603.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 217,
+        "text": "ما هو بالظبط فت هنا هي عباره انها الواحد",
+        "start": 599.519,
+        "end": 605.9590000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 218,
+        "text": "زائد الاكس بالشكل ده وتقوم ضاربها في",
+        "start": 603.399,
+        "end": 608.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 219,
+        "text": "مشتقه البسط طب انا عندي هنا مشتقه البسط",
+        "start": 605.959,
+        "end": 610.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 220,
+        "text": "هي عباره هنا انها كام مشتقه البسط هي",
+        "start": 608.48,
+        "end": 614.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 221,
+        "text": "عباره هنا انها الواحد على كام على هنا",
+        "start": 610.88,
+        "end": 617.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 222,
+        "text": "الواحد ناقص الاكس سكوير بالشكل ده انا",
+        "start": 614.279,
+        "end": 619.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 223,
+        "text": "عندي كانت الجزء اللي جوه الساين انفرس",
+        "start": 617.2,
+        "end": 622.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 224,
+        "text": "كانت عباره عنها اكس انا ربعته وقمت مشتقه",
+        "start": 619.56,
+        "end": 625.3599999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 225,
+        "text": "فوق بعد كده بتقوم بقى مكمل بتقوم قايل",
+        "start": 622.88,
+        "end": 628.079,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 226,
+        "text": "ناقص الاشاره دي تبع القانون مش اشاره من",
+        "start": 625.36,
+        "end": 630.16,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 227,
+        "text": "عندي الاشاره دي هي تبع القانون بتقوم",
+        "start": 628.079,
+        "end": 632.3199999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 228,
+        "text": "قايل بعد كده بقى مشتقه المقام طب انا",
+        "start": 630.16,
+        "end": 634.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 229,
+        "text": "عندي مشتقه المقام هو واحد زئ اكس مشتقته",
+        "start": 632.32,
+        "end": 638.6800000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 230,
+        "text": "كام مشتقته هو واحد فهو هو مضروب في الجزء",
+        "start": 634.76,
+        "end": 640.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 231,
+        "text": "اللي موجود في البسط او الفانكشن الم",
+        "start": 638.68,
+        "end": 641.8389999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 232,
+        "text": "موجوده في البسط زي ما هي بالظبط من غير",
+        "start": 640.0,
+        "end": 643.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 233,
+        "text": "ما اعملها اشتقاق فتبقى عندي هي عباره هنا",
+        "start": 641.839,
+        "end": 647.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 234,
+        "text": "انها ساين انفرس للاكس بالشكل ده كده فانا",
+        "start": 643.6,
+        "end": 650.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 235,
+        "text": "ممكن لو انا حبيت ان انا ابسط المقدار ده",
+        "start": 647.44,
+        "end": 651.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 236,
+        "text": "تبقى عندي هنا انها بالشكل ده كده وهتبقى",
+        "start": 650.0,
+        "end": 654.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 237,
+        "text": "عندي هي عباره هنا انها واحد زائد الاكس",
+        "start": 651.839,
+        "end": 657.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 238,
+        "text": "بالشكل ده تربيع وعندي دي هتبقى مضروبه",
+        "start": 654.32,
+        "end": 659.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 239,
+        "text": "عباره هنا انها واحد زئ اكس على هنا الروت",
+        "start": 657.2,
+        "end": 662.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 240,
+        "text": "بتاع الواحد ناقص الاكس سكوير بالشكل ده",
+        "start": 659.839,
+        "end": 666.1600000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 241,
+        "text": "ناقص الساين انفرس اوف الاكس بالشكل ده",
+        "start": 662.48,
+        "end": 668.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 242,
+        "text": "كده ممكن بقى ان انا اقوم ضارب الجزء اللي",
+        "start": 666.16,
+        "end": 671.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 243,
+        "text": "موجود في المقام ده او ممكن اقوم ضارب فوق",
+        "start": 668.72,
+        "end": 675.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 244,
+        "text": "وتحت في الواحد ناقص الاكس سكوير واقوم",
+        "start": 671.279,
+        "end": 677.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 245,
+        "text": "ضارب كمان تحت في الواحد ناقص الاكس سكوير",
+        "start": 675.12,
+        "end": 680.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 246,
+        "text": "ده عشان اخلص من الجزء ده اللي هيكون",
+        "start": 677.24,
+        "end": 682.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 247,
+        "text": "موجود معايا فلو انا عملت كده هتبقى عندي",
+        "start": 680.24,
+        "end": 684.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 248,
+        "text": "هنا اف انفرس اوف الاكس هتبقى عندي هي",
+        "start": 682.399,
+        "end": 687.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 249,
+        "text": "عباره هنا انها الجزء اللي موجود في البسط",
+        "start": 684.76,
+        "end": 689.8389999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 250,
+        "text": "تبقى عندي هنا عباره عنها واحد زائد الاكس",
+        "start": 687.76,
+        "end": 693.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 251,
+        "text": "لما ده يتضرب هنا هيطير لي الجزء ده كده",
+        "start": 689.839,
+        "end": 697.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 252,
+        "text": "بعد كده هتبقى عندي هنا انها ناقص الساين",
+        "start": 693.24,
+        "end": 700.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 253,
+        "text": "انفرس اوف الاكس مضروبه في ايه؟ مضروبه في",
+        "start": 697.32,
+        "end": 702.9590000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 254,
+        "text": "الواحد ناقص الاكس سكوير بعد كده هتبقى",
+        "start": 700.519,
+        "end": 705.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 255,
+        "text": "عندي هنا انها الواحد زائد الاكس سكوير",
+        "start": 702.959,
+        "end": 708.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 256,
+        "text": "بالشكل ده مضروبه في كام؟ مضروبه في",
+        "start": 705.72,
+        "end": 711.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 257,
+        "text": "الواحد ناقص الاكس سكوير بالشكل ده وهيبقى",
+        "start": 708.88,
+        "end": 714.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 258,
+        "text": "عندي هو ده الحل بتاعي او هو ده الاشتقاق",
+        "start": 711.88,
+        "end": 717.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 259,
+        "text": "بتاع الفانكشن اللي انت كنت مديها لي قبل",
+        "start": 714.8,
+        "end": 719.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 260,
+        "text": "كده السؤال اللي بعد كده مديني الفانكشن",
+        "start": 717.12,
+        "end": 721.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 261,
+        "text": "الطويله دي وعباره ان هي قوسين مضروبين في",
+        "start": 719.519,
+        "end": 724.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 262,
+        "text": "بعض وطالب مني ايه؟ طالب مني ان انا اجيب",
+        "start": 721.839,
+        "end": 727.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 263,
+        "text": "الديريفتيف بتاع الفانكشن دي في البدايه",
+        "start": 724.72,
+        "end": 729.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 264,
+        "text": "خالص خليني ان انا اضرب القوسين دول في",
+        "start": 727.0,
+        "end": 732.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 265,
+        "text": "بعض بحيث ان انا ابسط عليا المساله فهضرب",
+        "start": 729.399,
+        "end": 734.16,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 266,
+        "text": "الاكس في واحد انت عندك ده عباره ان هو",
+        "start": 732.56,
+        "end": 735.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 267,
+        "text": "مقدار وده عباره ان هو المقدار التاني",
+        "start": 734.16,
+        "end": 738.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 268,
+        "text": "فهتضرب ده في الاولاني هنا وفي التاني هنا",
+        "start": 735.8,
+        "end": 741.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 269,
+        "text": "وهتضرب ده في الاولاني هنا وفي الثاني هنا",
+        "start": 738.68,
+        "end": 744.5999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 270,
+        "text": "زي ما احنا متعودين فلو انت جيت وقمت ضارب",
+        "start": 741.76,
+        "end": 746.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 271,
+        "text": "الاكس في الواحده هتبقى عباره هنا انها",
+        "start": 744.6,
+        "end": 748.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 272,
+        "text": "اكس بعد كده هتقوم ضارب الاكس في السيك",
+        "start": 746.0,
+        "end": 750.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 273,
+        "text": "فتبقى عندك هي عباره هنا ان الاكس في",
+        "start": 748.839,
+        "end": 753.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 274,
+        "text": "السيك في الانفرس في الاربعه اكس بالشكل",
+        "start": 750.88,
+        "end": 756.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 275,
+        "text": "ده كده بعد كده تقوم ضارب بقى الجزء",
+        "start": 753.72,
+        "end": 758.5600000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 276,
+        "text": "الثاني او المقدار الثاني او الترم الثاني",
+        "start": 756.36,
+        "end": 761.639,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 277,
+        "text": "تبقى عباره هنا انها ناقص كتان للناقص",
+        "start": 758.56,
+        "end": 763.959,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 278,
+        "text": "واحد للاثنين اكس زائد الواحد بالشكل ده",
+        "start": 761.639,
+        "end": 766.9590000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 279,
+        "text": "كده بعد كده تقوم ضارب الترمين دول في بعض",
+        "start": 763.959,
+        "end": 770.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 280,
+        "text": "فتبقى عندك هنا انها كام؟ تبقى عندي هنا",
+        "start": 766.959,
+        "end": 775.04,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 281,
+        "text": "انها ناقص الكوتان انفرس للاثنين اكس ا",
+        "start": 770.0,
+        "end": 778.16,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 282,
+        "text": "ناقص او زائد الواحد بعد كده مضروبه في",
+        "start": 775.04,
+        "end": 782.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 283,
+        "text": "السيك الانفرس للاربعه اكس بالشكل ده كده",
+        "start": 778.16,
+        "end": 786.04,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 284,
+        "text": "وعايز بعد كده بقى ان انا اجيبف بتاع",
+        "start": 782.92,
+        "end": 787.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 285,
+        "text": "المقدار ده لو انا حبيت بقى ان اجيب",
+        "start": 786.04,
+        "end": 789.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 286,
+        "text": "الديريفتيف بتاع كل ده انا ممكن انا اجيبه",
+        "start": 787.76,
+        "end": 792.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 287,
+        "text": "اصلا كله لوحده فهتبقى عندك ان الاف داش",
+        "start": 789.519,
+        "end": 794.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 288,
+        "text": "اوف الاكس اشتق الترم الاولاني اللي هو",
+        "start": 792.56,
+        "end": 796.959,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 289,
+        "text": "كان اكس لما تيجي تشتقه هيبقى عباره ان هو",
+        "start": 794.839,
+        "end": 799.8800000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 290,
+        "text": "واحد بكل بساطه بعد كده الترم اللي بعده",
+        "start": 796.959,
+        "end": 802.4799999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 291,
+        "text": "فالترم اللي بعده هو عباره ان هو حاصل ضرب",
+        "start": 799.88,
+        "end": 804.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 292,
+        "text": "اثنين فانكشن ببعض حاصل ضرب الاكس مضروبه",
+        "start": 802.48,
+        "end": 809.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 293,
+        "text": "في السك ا الانفرس فانت هتشتق او هتستخدم",
+        "start": 804.8,
+        "end": 811.8389999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 294,
+        "text": "هنا قاعده الضرب طيب قاعده الضرب كانت",
+        "start": 809.32,
+        "end": 813.9200000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 295,
+        "text": "بتقول لك ايه قاعده الضرب كانت بتقول لك",
+        "start": 811.839,
+        "end": 816.8800000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 296,
+        "text": "ان انت بتشتق الاول فمشتقه الاول اللي هو",
+        "start": 813.92,
+        "end": 819.4799999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 297,
+        "text": "الاكس كانت عباره ان هي واحد مضروبه في",
+        "start": 816.88,
+        "end": 823.079,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 298,
+        "text": "مشتقه او مضروبه في الفانكشن الثانيه",
+        "start": 819.48,
+        "end": 826.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 299,
+        "text": "فتبقى عباره هنا انها سيك الانفرس للاربعه",
+        "start": 823.079,
+        "end": 829.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 300,
+        "text": "اكس بعد كده النص الثاني بقى من القاعده",
+        "start": 826.36,
+        "end": 832.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 301,
+        "text": "بتقول لك ايه؟ اعكس بقى سيب الاول زي ما",
+        "start": 829.12,
+        "end": 836.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 302,
+        "text": "هو واضربه في مشتقه التاني طب مشتقه السك",
+        "start": 832.32,
+        "end": 839.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 303,
+        "text": "كانت بتقول لك ايه؟ مشتقه السيك كانت",
+        "start": 836.36,
+        "end": 842.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 304,
+        "text": "عباره هنا انها الابسليوت بتاع الفانكشن",
+        "start": 839.12,
+        "end": 844.5600000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 305,
+        "text": "نفسها بتاعه الاربعه اكس فكانت عباره هنا",
+        "start": 842.519,
+        "end": 847.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 306,
+        "text": "انها الاربعه اكس الابسليوت بتاعها مضروبه",
+        "start": 844.56,
+        "end": 849.04,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 307,
+        "text": "في",
+        "start": 847.519,
+        "end": 853.199,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 308,
+        "text": "الاربعه اكس سكوير بعد كده هي ناقص",
+        "start": 849.04,
+        "end": 855.8,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 309,
+        "text": "اشتق بقى الاربعه اكس دي فوق يعني حط",
+        "start": 853.199,
+        "end": 858.16,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 310,
+        "text": "مشتقه الاربعه اكس اللي هي الزاويه اللي",
+        "start": 855.8,
+        "end": 860.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 311,
+        "text": "موجوده عندك هنا حطها بقى فوق او هات",
+        "start": 858.16,
+        "end": 862.3199999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 312,
+        "text": "الاشتقاق بتاعها فوق فكان اشتقاقها فوق هو",
+        "start": 860.24,
+        "end": 865.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 313,
+        "text": "عباره ان هو الاربعه انت كده خلاص انت",
+        "start": 862.32,
+        "end": 867.9200000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 314,
+        "text": "خلصت الجزء ده كده يعني انت كده بالبلدي",
+        "start": 865.279,
+        "end": 869.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 315,
+        "text": "انت خلصت الجزء ده وخلصت الجزء ده استخدمت",
+        "start": 867.92,
+        "end": 872.199,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 316,
+        "text": "معاه قاعده الضرب بعد كده بقى تعالى اشتق",
+        "start": 869.92,
+        "end": 874.3199999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 317,
+        "text": "لي الجزء ده فعشان اشتق الجزء ده استخدم",
+        "start": 872.199,
+        "end": 877.079,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 318,
+        "text": "هنا لون ثاني قالي هو عباره هنا انها ناقص",
+        "start": 874.32,
+        "end": 880.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 319,
+        "text": "مشتقه الكوتان فالكوتان كان بيبقى مشتقتها",
+        "start": 877.079,
+        "end": 882.7199999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 320,
+        "text": "هي عباره ان هي عباره انها ايه عباره ان",
+        "start": 880.399,
+        "end": 885.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 321,
+        "text": "انت بتقوم قايل انها الواحد زائد الزاويه",
+        "start": 882.72,
+        "end": 887.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 322,
+        "text": "اللي موجوده جوه دي تربيع فالزاويه اللي",
+        "start": 885.6,
+        "end": 890.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 323,
+        "text": "موجوده جوه دي كانت عباره عنها انين اكس",
+        "start": 887.839,
+        "end": 893.1990000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 324,
+        "text": "زائد الواحد سكوير بالشكل ده واشتقها بقى",
+        "start": 890.0,
+        "end": 895.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 325,
+        "text": "فوق طب اشتقاقها فوق كان بيبقى عباره ان",
+        "start": 893.199,
+        "end": 897.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 326,
+        "text": "هي ايه اشتقاقها فوق كان بيبقى عباره عن",
+        "start": 895.32,
+        "end": 898.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 327,
+        "text": "انها اين اكس +",
+        "start": 897.12,
+        "end": 901.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 328,
+        "text": "مشتقتها هي كل ده باثنين وما نساش اصلا ان",
+        "start": 898.399,
+        "end": 905.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 329,
+        "text": "الكوتان نفسها الكوتان هي معاها انفرس فهي",
+        "start": 901.92,
+        "end": 908.959,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 330,
+        "text": "معاها هنا اشاره نيجتيف فده كان الترم ده",
+        "start": 905.839,
+        "end": 912.0400000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 331,
+        "text": "كمان انا كمان خلصته ناقص لي بقى الترم ده",
+        "start": 908.959,
+        "end": 914.5999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 332,
+        "text": "الكبير ده كله فالترم الكبير ده اصلا هو",
+        "start": 912.04,
+        "end": 916.959,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 333,
+        "text": "في اشاره نيجتيف من اصل من قبل اصلا ما",
+        "start": 914.6,
+        "end": 919.9200000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 334,
+        "text": "ابتدي بيه وانا هستخدم قاعده الضرب لان هم",
+        "start": 916.959,
+        "end": 922.92,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 335,
+        "text": "الاثنين عباره ان هم ترمين مضروبين في بعض",
+        "start": 919.92,
+        "end": 925.56,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 336,
+        "text": "فلما اجي اقوم هنا جاي واقوم قايل انها",
+        "start": 922.92,
+        "end": 930.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 337,
+        "text": "عايز اشتق الاول اللي هو الكوتان وهضربه",
+        "start": 925.56,
+        "end": 934.2399999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 338,
+        "text": "في السك بتاعه المشتقه الاولانيه فمشتقه",
+        "start": 930.519,
+        "end": 936.759,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 339,
+        "text": "الكوتان كانت عباره هنا انها كام مشتقه",
+        "start": 934.24,
+        "end": 938.6800000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 340,
+        "text": "الكوتان كانت عباره هنا ان انت بتقوم قايل",
+        "start": 936.759,
+        "end": 942.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 341,
+        "text": "انها واحد زائد الاثنين اكس زائد الواحد",
+        "start": 938.68,
+        "end": 945.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 342,
+        "text": "وبتقوم حاطط معاها التربيع بعد كده بتقوم",
+        "start": 942.399,
+        "end": 948.199,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 343,
+        "text": "مشتق الاثنين اكس + دي مشتقاها فوق فهتبقى",
+        "start": 945.519,
+        "end": 950.9590000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 344,
+        "text": "عندك هنا فوق انها موجوده فوق اللي هي",
+        "start": 948.199,
+        "end": 953.5999999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 345,
+        "text": "الاثنين وما انساش اصلا ان انا الكوتان دي",
+        "start": 950.959,
+        "end": 957.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 346,
+        "text": "عندها نيجتيف ساين مضروبه انت هنا خلاص",
+        "start": 953.6,
+        "end": 960.16,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 347,
+        "text": "اشتقيت الجزء الاول اضربها بقى في اضربها",
+        "start": 957.68,
+        "end": 962.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 348,
+        "text": "في الفانكشن الثانيه اللي هي كانت عباره",
+        "start": 960.16,
+        "end": 964.079,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 349,
+        "text": "انها ايه اللي هي كانت عباره ان هي السيك",
+        "start": 962.12,
+        "end": 967.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 350,
+        "text": "انفرس للاربعه اكس بالشكل ده كده بعد كده",
+        "start": 964.079,
+        "end": 969.68,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 351,
+        "text": "انت بتقوم قايل زائد دي قاعده الضرب او",
+        "start": 967.279,
+        "end": 972.319,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 352,
+        "text": "الزائد دي بتاعه قاعده الضرب بعد كده",
+        "start": 969.68,
+        "end": 974.8389999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 353,
+        "text": "بتقوم قايل الزائد والزائد دي بتاعه قاعده",
+        "start": 972.319,
+        "end": 978.079,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 354,
+        "text": "الضرب ضرب انت هنا في المره الاولى اشتقيت",
+        "start": 974.839,
+        "end": 980.0790000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 355,
+        "text": "الجزء الاولاني وسبت التاني المره دي بقى",
+        "start": 978.079,
+        "end": 983.4799999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 356,
+        "text": "اعكس سيب الجزء الاولاني اللي هي كوتان",
+        "start": 980.079,
+        "end": 987.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 357,
+        "text": "انفرس للااتنين اكس زائد الواحد واشتق",
+        "start": 983.48,
+        "end": 989.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 358,
+        "text": "الفانكشن التانيه او الفانكشن الثانيه",
+        "start": 987.399,
+        "end": 992.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 359,
+        "text": "اللي هي عندك السيك اوف الاكس طيب مشتقه",
+        "start": 989.88,
+        "end": 994.8389999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 360,
+        "text": "السيك كانت بتقول لي ايه؟ مشتقه السيك",
+        "start": 992.839,
+        "end": 997.519,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 361,
+        "text": "كانت بكل بساطه هي عباره ان هي الابسليوت",
+        "start": 994.839,
+        "end": 1000.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 362,
+        "text": "بتاع الزاويه اللي جوه اللي هي الاربعه",
+        "start": 997.519,
+        "end": 1004.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 363,
+        "text": "اكس بالشكل ده كده مضروبه في الاربعه اكس",
+        "start": 1000.24,
+        "end": 1007.319,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 364,
+        "text": "سكوير ناقص الواحد بالشكل ده وحطلي بقى",
+        "start": 1004.279,
+        "end": 1009.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 365,
+        "text": "مشتقه الزاويه اللي هي الاربعه اكس حطها",
+        "start": 1007.319,
+        "end": 1011.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 366,
+        "text": "لي فوق فكانت عندي مشتقه الاربعه اكس هي",
+        "start": 1009.279,
+        "end": 1014.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 367,
+        "text": "عباره عن هي الاربعه بالشكل ده كده كل ده",
+        "start": 1011.279,
+        "end": 1017.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 368,
+        "text": "كل ده كله كده كان عباره ان هو الجزء",
+        "start": 1014.36,
+        "end": 1019.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 369,
+        "text": "الكبير اللي هو المجلص ده اللي هو السطر",
+        "start": 1017.12,
+        "end": 1021.639,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 370,
+        "text": "اللي تحت ده كله طيب انا دلوقتي بقى عايز",
+        "start": 1019.48,
+        "end": 1023.839,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 371,
+        "text": "ابتدي ان انا ابسط الشكل اللي موجود معايا",
+        "start": 1021.639,
+        "end": 1025.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 372,
+        "text": "هنا ده فهتبقى عندي عباره هنا انها الاف",
+        "start": 1023.839,
+        "end": 1029.079,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 373,
+        "text": "انفرس اوف او عفوا مش الاف انفرس مش عارف",
+        "start": 1025.919,
+        "end": 1031.5590000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 374,
+        "text": "هي ليه معلقه معايا كده الداش بتاع",
+        "start": 1029.079,
+        "end": 1033.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 375,
+        "text": "الفانكشن دي هتبقى عباره هنا انها الواحد",
+        "start": 1031.559,
+        "end": 1036.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 376,
+        "text": "بعد كده هنا زائد",
+        "start": 1033.76,
+        "end": 1039.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 377,
+        "text": "السيك انفرس للاربعه اكس بالشكل ده كده",
+        "start": 1036.039,
+        "end": 1041.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 378,
+        "text": "بعد كده هتبقى عندي هنا زائد اضرب بقى",
+        "start": 1039.4,
+        "end": 1043.799,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 379,
+        "text": "الترمات دي في بعض فهتبقى عندك هنا انها",
+        "start": 1041.72,
+        "end": 1046.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 380,
+        "text": "الاربعه اكس بالشكل ده كده على هنا",
+        "start": 1043.799,
+        "end": 1049.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 381,
+        "text": "الابسليوت بتاع الاربعه اكس مضروبه في",
+        "start": 1046.52,
+        "end": 1051.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 382,
+        "text": "الاربعه اكس سكوير هتبقى عباره هنا انها",
+        "start": 1049.44,
+        "end": 1054.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 383,
+        "text": "16 في اكس سكوير ناقص الواحد بعد كده",
+        "start": 1051.08,
+        "end": 1056.799,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 384,
+        "text": "هتبقى عندي هنا الناقص مع الناقص دول",
+        "start": 1054.24,
+        "end": 1059.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 385,
+        "text": "هيطيروا بعض فهتبقى عندك هنا انها زائد",
+        "start": 1056.799,
+        "end": 1063.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 386,
+        "text": "الاتنين على هنا الواحد زائد الاثنين اكس",
+        "start": 1059.64,
+        "end": 1066.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 387,
+        "text": "زائد الواحد كل ده تربيع بعد كده بقى هنخش",
+        "start": 1063.6,
+        "end": 1069.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 388,
+        "text": "على الجزء الكبير ده فهتبقى عندي هنا انها",
+        "start": 1066.72,
+        "end": 1072.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 389,
+        "text": "الناقص هيتوزع هنا وكمان هيتوزع على الترم",
+        "start": 1069.36,
+        "end": 1075.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 390,
+        "text": "ده فهتبقى عندي هنا انها ناقص مع ناقص",
+        "start": 1072.96,
+        "end": 1079.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 391,
+        "text": "هتبقى موجب اين على هنا الواحد زائد",
+        "start": 1075.52,
+        "end": 1083.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 392,
+        "text": "الاتنين اكس زائد الواحد سكوير مضروبه كل",
+        "start": 1079.32,
+        "end": 1087.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 393,
+        "text": "ده في السك للانفرس للاربعه اكس بالشكل ده",
+        "start": 1083.0,
+        "end": 1089.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 394,
+        "text": "كده بعد كده انا عندي هنا دي كانت اشاره",
+        "start": 1087.039,
+        "end": 1092.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 395,
+        "text": "نيجتيف والاشاره نيجتيف دي هتتوزع على",
+        "start": 1089.52,
+        "end": 1094.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 396,
+        "text": "الترم اللي موجود هنا ده فتبقى عندي هنا",
+        "start": 1092.36,
+        "end": 1099.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 397,
+        "text": "انها نيجتيف في الاربعه في كوتان انفرس",
+        "start": 1094.24,
+        "end": 1103.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 398,
+        "text": "للاثنين اكس + الواحد بالشكل ده كده على",
+        "start": 1099.84,
+        "end": 1105.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 399,
+        "text": "خلي بالك ان انت عندك هنا الاربعه خلاصها",
+        "start": 1103.24,
+        "end": 1108.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 400,
+        "text": "على عندي هنا تحت الاربعه للاكس ابسليوت",
+        "start": 1105.28,
+        "end": 1111.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 401,
+        "text": "مضروبه هنا في ايه مضروبه هنا في الاربعه",
+        "start": 1108.919,
+        "end": 1113.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 402,
+        "text": "اكس سكوير هتبقى عباره هنا انها 16 اكس",
+        "start": 1111.44,
+        "end": 1117.559,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 403,
+        "text": "سكوير ناقص الواحد بالشكل ده فهيبقى كل ده",
+        "start": 1113.96,
+        "end": 1120.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 404,
+        "text": "هو عندي هو كل الجزء ده كده هو عباره ان",
+        "start": 1117.559,
+        "end": 1122.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 405,
+        "text": "هو الاشتقاق الفانكشن اللي كانت موجوده",
+        "start": 1120.24,
+        "end": 1125.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 406,
+        "text": "فوق معايا هنا ففي الفانكشن دي او في",
+        "start": 1122.76,
+        "end": 1127.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 407,
+        "text": "الداله دي قابلتنا حالات كتيره قابلتنا",
+        "start": 1125.0,
+        "end": 1130.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 408,
+        "text": "السك وقابلتنا الكوتان وجبنا مشتقه",
+        "start": 1127.76,
+        "end": 1133.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 409,
+        "text": "الكوتان واستخدمنا مشتقه السك وبرض",
+        "start": 1130.72,
+        "end": 1136.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 410,
+        "text": "استخدمنا هنا قاعده الضرب في الجزء اللي",
+        "start": 1133.84,
+        "end": 1138.1999999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 411,
+        "text": "موجود هنا او الجزء الكبير اللي موجود هنا",
+        "start": 1136.0,
+        "end": 1140.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 412,
+        "text": "عندي فوق",
+        "start": 1138.2,
+        "end": 1143.28,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 413,
+        "text": "بعد ما جبنا بعد ما جبنا الاشتقاق بتاع",
+        "start": 1140.48,
+        "end": 1145.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 414,
+        "text": "الفانكشن دي انت طبعا ممكن هنا تكون واخد",
+        "start": 1143.28,
+        "end": 1148.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 415,
+        "text": "بالك ان اصلا في جزء احنا اصلا ممكن ان",
+        "start": 1145.52,
+        "end": 1152.6399999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 416,
+        "text": "احنا نختصره اللي هي الجزء ده مع الجزء ده",
+        "start": 1148.2,
+        "end": 1155.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 417,
+        "text": "في الحقيقه وانت هنا ممكن تختصر الاربعه",
+        "start": 1152.64,
+        "end": 1157.5590000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 418,
+        "text": "مع الاربعه لان الاربعه لما يطلع لك هنا",
+        "start": 1155.2,
+        "end": 1159.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 419,
+        "text": "من الابسيوت هيطلع لك الاربعه لما تطلعها",
+        "start": 1157.559,
+        "end": 1161.6789999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 420,
+        "text": "من الابسوت هيطلع لك اربعه ولو كانت",
+        "start": 1159.76,
+        "end": 1164.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 421,
+        "text": "نيجتيف اربعه اكس لما تطلع من الابسليوت",
+        "start": 1161.679,
+        "end": 1167.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 422,
+        "text": "فانت هتطلع الكونستنت بس فهتبقى عندك ايه",
+        "start": 1164.12,
+        "end": 1169.6399999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 423,
+        "text": "هتبقى عندك انها موجب اربعه المهم اللي",
+        "start": 1167.2,
+        "end": 1172.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 424,
+        "text": "انا عايز اقوله لك ان الجزء ده هتطلع منه",
+        "start": 1169.64,
+        "end": 1174.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 425,
+        "text": "دايما الجزء الموجب بس انت مش عارف قيمه",
+        "start": 1172.32,
+        "end": 1177.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 426,
+        "text": "الاكس هتبقى بكام اللي فوق لان انت عندك",
+        "start": 1174.96,
+        "end": 1180.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 427,
+        "text": "فوق هي عباره هنا انها اكس مش بالابسليوت",
+        "start": 1177.36,
+        "end": 1182.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 428,
+        "text": "فلو كانت بنيجتيف اكس ساعتها الاشاره",
+        "start": 1180.2,
+        "end": 1184.679,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 429,
+        "text": "بتاعه ده هتبقى انت خلاص انت ضامن ان",
+        "start": 1182.76,
+        "end": 1187.1589999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 430,
+        "text": "الجزء ده دايما هيطلع لك بنيجتيف تمام",
+        "start": 1184.679,
+        "end": 1189.0800000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 431,
+        "text": "فطالما الجزء ده عفوا الجزء ده دايما",
+        "start": 1187.159,
+        "end": 1190.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 432,
+        "text": "هيطلع لك ببوزيتيف فهو طالما الجزء ده",
+        "start": 1189.08,
+        "end": 1192.8799999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 433,
+        "text": "دايما هيطلع لك ببوزيتيف انت مش عارف بقى",
+        "start": 1190.919,
+        "end": 1195.3200000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 434,
+        "text": "اكس هتطلع لك بايه فاكس لو كانت بوزيتيف",
+        "start": 1192.88,
+        "end": 1197.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 435,
+        "text": "فدي ساعتها هتبقى بوزيتيف واكس لو كانت",
+        "start": 1195.32,
+        "end": 1200.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 436,
+        "text": "نيجتيف فلما تقسم النيجتيف على البوزيتيف",
+        "start": 1197.88,
+        "end": 1202.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 437,
+        "text": "او لما تقسم السالب على الموجب في الاخر",
+        "start": 1200.76,
+        "end": 1206.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 438,
+        "text": "الاشاره بتاعه دي هيطلع لك ب بنيجتيف",
+        "start": 1202.88,
+        "end": 1209.2800000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 439,
+        "text": "فتمام فعشان كده انا هختصر بس الارقام مع",
+        "start": 1206.24,
+        "end": 1211.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 440,
+        "text": "بعض وهنا برده نفس الشيء انا الاربعه دي",
+        "start": 1209.28,
+        "end": 1213.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 441,
+        "text": "ممكن ان انا اطلعها بره بره الابسليوت",
+        "start": 1211.48,
+        "end": 1215.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 442,
+        "text": "هتبقى موجب اربعه وفي الاخر هتطير مع",
+        "start": 1213.36,
+        "end": 1218.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 443,
+        "text": "الترم ده وهيبقى في الاخر هو ده حل",
+        "start": 1215.32,
+        "end": 1219.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 444,
+        "text": "المساله او اشتقاق الداله اللي احنا",
+        "start": 1218.08,
+        "end": 1222.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 445,
+        "text": "خدناها قبل كده طيب في السؤال اللي بعد",
+        "start": 1219.96,
+        "end": 1225.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 446,
+        "text": "كده مديني الفانكشن دي وطالب مني ان انا",
+        "start": 1222.84,
+        "end": 1228.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 447,
+        "text": "اجيب الديريفتيف بتاعها طيب انا زي ما قلت",
+        "start": 1225.44,
+        "end": 1230.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 448,
+        "text": "لك قبل كده انا عندي دي هي تعتبر انها بسط",
+        "start": 1228.6,
+        "end": 1232.9599999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 449,
+        "text": "ومقام فانا ممكن بكل بساطه ان انا استخدم",
+        "start": 1230.76,
+        "end": 1235.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 450,
+        "text": "قاعده القسمه اللي احنا كنا اخدناها قبل",
+        "start": 1232.96,
+        "end": 1237.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 451,
+        "text": "كده فانا متقال مثلا انا عندي هنا الاف",
+        "start": 1235.6,
+        "end": 1240.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 452,
+        "text": "هنا بكتب بالليزر فلو تقل ان انا عندي هنا",
+        "start": 1237.76,
+        "end": 1241.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 453,
+        "text": "الاف",
+        "start": 1240.6,
+        "end": 1244.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 454,
+        "text": "انفرس اوف الاكس بالشكل ده كده كل ده في",
+        "start": 1241.64,
+        "end": 1246.5200000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 455,
+        "text": "الاخر هو عباره ان هو هيساوي هو قايل ان",
+        "start": 1244.48,
+        "end": 1248.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 456,
+        "text": "انا عندي الجزء اللي في المقام قاعده",
+        "start": 1246.52,
+        "end": 1250.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 457,
+        "text": "القسمه بتقوم قايله لي ايه قاعده القسمه",
+        "start": 1248.48,
+        "end": 1253.559,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 458,
+        "text": "بتقوللي الجزء اللي في المقام خده واربعه",
+        "start": 1250.4,
+        "end": 1255.6000000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 459,
+        "text": "زي ما هو ما تزودش عليه اي حاجه فهتبقى",
+        "start": 1253.559,
+        "end": 1257.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 460,
+        "text": "عندك هي عباره هنا انها كام هي عندك هتبقى",
+        "start": 1255.6,
+        "end": 1260.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 461,
+        "text": "عباره هنا انها واحد ناقص كوساين الانفرس",
+        "start": 1257.48,
+        "end": 1263.1200000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 462,
+        "text": "للاثنين في تي بالشكل ده كده الجزء ده كله",
+        "start": 1260.6,
+        "end": 1265.8799999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 463,
+        "text": "انا عايزك ان انت تربعه بعد كده تقوم قايل",
+        "start": 1263.12,
+        "end": 1268.4399999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 464,
+        "text": "فوق هتحطه فوق في البسط زي ما هو فهتبقى",
+        "start": 1265.88,
+        "end": 1272.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 465,
+        "text": "عندك انها واحد ناقص كوساين ساين الانفرس",
+        "start": 1268.44,
+        "end": 1275.3200000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 466,
+        "text": "للاثنين تي بالشكل ده كده بعد كده هتقوم",
+        "start": 1272.44,
+        "end": 1279.6000000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 467,
+        "text": "ضارب في مشتقه بقى مشتقه ايه مشتقه البسط",
+        "start": 1275.32,
+        "end": 1281.6789999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 468,
+        "text": "فمشتقه البسط انت عندك لو انت جيت تشتق",
+        "start": 1279.6,
+        "end": 1283.6789999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 469,
+        "text": "البسط فتبقى عندك هي عباره هنا انها مشتقه",
+        "start": 1281.679,
+        "end": 1287.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 470,
+        "text": "الواحد هي بواحد او مشتقه الواحد او مشتقه",
+        "start": 1283.679,
+        "end": 1289.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 471,
+        "text": "الكونستنت هي بصفر بعد كده تشتق الفانكشن",
+        "start": 1287.24,
+        "end": 1291.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 472,
+        "text": "اللي هي الساين انفرس طيب ساين الانفرس",
+        "start": 1289.96,
+        "end": 1294.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 473,
+        "text": "مشتقتها ايه مشتقه الساين انفرس هي بتبقى",
+        "start": 1291.88,
+        "end": 1298.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 474,
+        "text": "عباره هنا انها الواحد على هنا الروت بتاع",
+        "start": 1294.919,
+        "end": 1301.5590000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 475,
+        "text": "الواحد ناقص الجزء اللي جوه الفانكشن",
+        "start": 1298.64,
+        "end": 1304.3200000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 476,
+        "text": "سكوير فهتبقى عندي هنا انها 3لاه في تي",
+        "start": 1301.559,
+        "end": 1307.6789999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 477,
+        "text": "بالشكل ده كده سكوير كل ده هي باور سكوير",
+        "start": 1304.32,
+        "end": 1310.4399999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 478,
+        "text": "بعد كده تقوم ضارب في مشتقه بقى الجزء",
+        "start": 1307.679,
+        "end": 1312.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 479,
+        "text": "اللي جوه او الزاويه اللي جوه مشتقه",
+        "start": 1310.44,
+        "end": 1314.679,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 480,
+        "text": "الزاويه اللي جوه هي عباره هنا انها كام",
+        "start": 1312.72,
+        "end": 1316.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 481,
+        "text": "3لا تي سكوير لما اشتقها تبقى عباره هنا",
+        "start": 1314.679,
+        "end": 1320.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 482,
+        "text": "انها 6 في تي بالشكل ده كده كل ده كله كان",
+        "start": 1316.44,
+        "end": 1323.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 483,
+        "text": "الجزء الاولاني بتاع قاعده القسمه بعد كده",
+        "start": 1320.48,
+        "end": 1326.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 484,
+        "text": "هبقى قايل ان انا عندي هنا ناقص اشتق بقى",
+        "start": 1323.48,
+        "end": 1330.159,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 485,
+        "text": "المره دي البسط اشتق بقى المره دي المقام",
+        "start": 1326.52,
+        "end": 1333.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 486,
+        "text": "وسيب البسط زي ما هو فانا هقوم جاي هنا",
+        "start": 1330.159,
+        "end": 1335.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 487,
+        "text": "سايب البسط زي ما هو هتبقى عندي هنا انها",
+        "start": 1333.0,
+        "end": 1339.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 488,
+        "text": "واحد زائد ساين الانفرس للثلاه تي سكوير",
+        "start": 1335.2,
+        "end": 1341.6000000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 489,
+        "text": "بالشكل ده كده بعد كده اقوم ضاربها في",
+        "start": 1339.08,
+        "end": 1344.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 490,
+        "text": "مشتقه ايه في مشتقه المقام فانا عندي هنا",
+        "start": 1341.6,
+        "end": 1347.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 491,
+        "text": "مشتقه المقام مشتقه الواحد هي هي بالواحد",
+        "start": 1344.48,
+        "end": 1350.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 492,
+        "text": "ومشتقه الناقص كوساين هتبقى هي عباره هنا",
+        "start": 1347.76,
+        "end": 1353.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 493,
+        "text": "انها كام هتبقى هي عباره هنا انها الواحد",
+        "start": 1350.52,
+        "end": 1356.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 494,
+        "text": "ناقص الجزء اللي جوه الكوساين اللي هي",
+        "start": 1353.96,
+        "end": 1359.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 495,
+        "text": "الاتنين تي فهتبقى 2 تي بالشكل ده كده",
+        "start": 1356.6,
+        "end": 1361.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 496,
+        "text": "سكوير وهقوم قايل ان انا عندي هنا ناقص",
+        "start": 1359.2,
+        "end": 1363.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 497,
+        "text": "واحد وخلي بالك ان انت كانت عندك هنا",
+        "start": 1361.32,
+        "end": 1365.559,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 498,
+        "text": "اشاره نيجتيف فالاشاره النيجتيف دي لما",
+        "start": 1363.32,
+        "end": 1367.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 499,
+        "text": "تروح مع الاشاره النيجتيف اصلا بتاعه",
+        "start": 1365.559,
+        "end": 1370.9189999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 500,
+        "text": "مشتقه القوسين هتبقى هي موجب الواحد",
+        "start": 1367.52,
+        "end": 1373.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 501,
+        "text": "وهتشتق بقى الاثنين تي هتبقى عندك ان",
+        "start": 1370.919,
+        "end": 1375.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 502,
+        "text": "الااتنين تي مشتقتها فوق في الاخر هتبقى",
+        "start": 1373.2,
+        "end": 1377.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 503,
+        "text": "عباره هنا انها اثنين بالشكل ده كده",
+        "start": 1375.279,
+        "end": 1380.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 504,
+        "text": "وهتبقى عندك هي دي الجزء الثاني بتاع",
+        "start": 1377.4,
+        "end": 1383.0800000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 505,
+        "text": "عمليه القسمه بعد كده اجي ابسط المقدار ده",
+        "start": 1380.2,
+        "end": 1385.32,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 506,
+        "text": "عندي فهتبقى عندي اف داش اوف اكس هي عباره",
+        "start": 1383.08,
+        "end": 1388.6789999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 507,
+        "text": "هنا انها الواحد هتضرب في المقدار ده كده",
+        "start": 1385.32,
+        "end": 1391.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 508,
+        "text": "كله لان المقدار ده كله عباره ان هو مقدار",
+        "start": 1388.679,
+        "end": 1393.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 509,
+        "text": "واحد فهتبقى عندي هي عباره هنا انها 6 تي",
+        "start": 1391.0,
+        "end": 1396.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 510,
+        "text": "بالشكل ده كده على هنا الواحد ناقص التي",
+        "start": 1393.64,
+        "end": 1399.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 511,
+        "text": "سكوير او اللاه تي سكوير لما اربعها هتبقى",
+        "start": 1396.72,
+        "end": 1401.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 512,
+        "text": "عباره هنا ان هي ت في تي باور اربعه",
+        "start": 1399.279,
+        "end": 1404.559,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 513,
+        "text": "بالشكل ده كده",
+        "start": 1401.84,
+        "end": 1409.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 514,
+        "text": "بعد كده هتقوم قايل انها ا ناقص الست تي",
+        "start": 1404.559,
+        "end": 1413.12,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 515,
+        "text": "الست تي بالشكل ده كده في كوساين انفرس",
+        "start": 1409.72,
+        "end": 1415.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 516,
+        "text": "للااتنين تي بعد كده هقوم قاسم بقى على",
+        "start": 1413.12,
+        "end": 1420.08,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 517,
+        "text": "ايه هقوم قاسم على الواحد 1 ناقص الت في",
+        "start": 1415.88,
+        "end": 1423.0800000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 518,
+        "text": "تي باور اربعه بالشكل ده كده كل ده كان هو",
+        "start": 1420.08,
+        "end": 1425.559,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 519,
+        "text": "عباره ان هو المقدار الاولاني اللي موجود",
+        "start": 1423.08,
+        "end": 1427.8799999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 520,
+        "text": "معايا هنا بعد كده قايل هنا انا عندي هنا",
+        "start": 1425.559,
+        "end": 1430.52,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 521,
+        "text": "ناقص اضرب بقى الاتنين هنا في المقدار ده",
+        "start": 1427.88,
+        "end": 1434.3200000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 522,
+        "text": "كله هي عباره هنا انها الاتنين على هنا",
+        "start": 1430.52,
+        "end": 1437.6399999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 523,
+        "text": "عندي هنا واحد ناقص الاتنين تي لما اجي",
+        "start": 1434.32,
+        "end": 1439.6789999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 524,
+        "text": "اربعها تبقى عندي هي عباره عنها اربعه في",
+        "start": 1437.64,
+        "end": 1442.0800000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 525,
+        "text": "تي سكوير بالشكل ده كده بعد كده هو قايل",
+        "start": 1439.679,
+        "end": 1445.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 526,
+        "text": "انا عندي هنا ايه زائد الساين انفرس لما",
+        "start": 1442.08,
+        "end": 1447.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 527,
+        "text": "اضربها في المقدار ده كله فهتبقى عندي هي",
+        "start": 1445.039,
+        "end": 1451.84,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 528,
+        "text": "عباره هنا انها اين في ساين انفرس للثلاه",
+        "start": 1447.84,
+        "end": 1454.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 529,
+        "text": "تي سكوير بالشكل ده كده على هنا عندي هي",
+        "start": 1451.84,
+        "end": 1457.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 530,
+        "text": "عباره هنا انها 1 - 4 في تي سكوير بالشكل",
+        "start": 1454.48,
+        "end": 1459.4,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 531,
+        "text": "ده واهوم قايل كل ده كان عندي هو الجزء",
+        "start": 1457.279,
+        "end": 1462.36,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 532,
+        "text": "بتاع البسط ادي كده عندي هنا جزء المقام",
+        "start": 1459.4,
+        "end": 1466.0,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 533,
+        "text": "عباره عن هو هنا 1 ناقص كوساين انفرس",
+        "start": 1462.36,
+        "end": 1469.399,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 534,
+        "text": "للااتنين تي بالشكل ده كده كل ده كل",
+        "start": 1466.0,
+        "end": 1472.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 535,
+        "text": "المقدار ده كده انا هنا عامل له سكوير وبس",
+        "start": 1469.399,
+        "end": 1475.1999999999998,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 536,
+        "text": "ده كان حل المساله دي ا بالنسبه للتبسيط",
+        "start": 1472.44,
+        "end": 1478.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 537,
+        "text": "فانا بعتقد لو انت ا بدات ان انت تبسط",
+        "start": 1475.2,
+        "end": 1480.44,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 538,
+        "text": "فيها فتبقى عندك الترمات عندك هتبقى صعبه",
+        "start": 1478.2,
+        "end": 1483.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 539,
+        "text": "وهتخش وهتطول معاك جدا في تبسيط المساله",
+        "start": 1480.44,
+        "end": 1485.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 540,
+        "text": "دي فانا شايف ان انت تسيبها زي ما هي كده",
+        "start": 1483.2,
+        "end": 1489.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 541,
+        "text": "هتبقى افضل صوره وما تضيعش وقت على",
+        "start": 1485.64,
+        "end": 1491.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 542,
+        "text": "تبسيطها ممكن لو هنا كانت المقامات زي بعض",
+        "start": 1489.2,
+        "end": 1494.3600000000001,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 543,
+        "text": "لو كانت المقامات هي كلها شبه بعض وكانت",
+        "start": 1491.88,
+        "end": 1496.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 544,
+        "text": "هنا عباره ان الكوساين والساين انفرس",
+        "start": 1494.36,
+        "end": 1498.799,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 545,
+        "text": "الاثنين كان عندهم نفس الترمنات لو كانوا",
+        "start": 1496.919,
+        "end": 1502.2,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 546,
+        "text": "هم تي مش تي سكوير وعندك هنا تحت اثنين تي",
+        "start": 1498.799,
+        "end": 1504.48,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 547,
+        "text": "بالشكل ده كده كانت ممكن مساله تتبسط معاك",
+        "start": 1502.2,
+        "end": 1506.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 548,
+        "text": "لكن لان كان في الاخر هيديك نفس الروت",
+        "start": 1504.48,
+        "end": 1508.88,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 549,
+        "text": "اللي موجود هنا ونفس الروت اللي موجود هنا",
+        "start": 1506.919,
+        "end": 1510.72,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 550,
+        "text": "بس بما انهم هم الاثنين مش متشابهين",
+        "start": 1508.88,
+        "end": 1513.3200000000002,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 551,
+        "text": "فالمساله اه انت ممكن تبسطها بس هتطول",
+        "start": 1510.72,
+        "end": 1516.559,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 552,
+        "text": "معاك جدا وممكن انها تاخد خطوات اكث من",
+        "start": 1513.32,
+        "end": 1518.96,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 553,
+        "text": "خطوات الحل بتاع الاشتق نفسه فانا شايف ان",
+        "start": 1516.559,
+        "end": 1521.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 554,
+        "text": "انت لو سبتها بالشكل ده هيبقى نوعا ما",
+        "start": 1518.96,
+        "end": 1524.24,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 555,
+        "text": "افضل بحيث ان انت توفر وقت يعني وكده طبعا",
+        "start": 1521.039,
+        "end": 1526.76,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 556,
+        "text": "لو بسطتها ده هيبقى افضل وافضل بس يعني ده",
+        "start": 1524.24,
+        "end": 1528.64,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 557,
+        "text": "شيء عادي ان انت تسيبها بالشكل ده كده",
+        "start": 1526.76,
+        "end": 1530.8799999999999,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 558,
+        "text": "احنا كل حوارنا ان احنا مش عايزين نركز",
+        "start": 1528.64,
+        "end": 1533.039,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 559,
+        "text": "اكت او احنا مش جايين نبسط على قد ما احنا",
+        "start": 1530.88,
+        "end": 1536.679,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 560,
+        "text": "جايين نشتق وبس ده كان شرح ال",
+        "start": 1533.039,
+        "end": 1539.6,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 561,
+        "text": "او ازاي ان احنا نشتق الدوال المثلثيه",
+        "start": 1536.679,
+        "end": 1541.919,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 562,
+        "text": "العكسيه اتمنى ان شرح الفيديو ده كان بسيط",
+        "start": 1539.6,
+        "end": 1546.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    },
+    {
+        "chunk_id": 563,
+        "text": "ومفيد وشكرا جداتكم وسلام",
+        "start": 1541.919,
+        "end": 1546.279,
+        "video_title": "Explanation of the derivation of inverse trigonometric functions"
+    }
+]

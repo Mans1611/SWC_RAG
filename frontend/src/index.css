@@ -1,0 +1,275 @@
+:root {
+  color-scheme: dark;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #08080c;
+  color: #f5f5f5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  min-height: 100%;
+  background: #08080c;
+}
+
+button {
+  font: inherit;
+}
+
+.app-shell {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  min-height: 100vh;
+  gap: 1px;
+  background: #0f0f13;
+}
+
+.sidebar {
+  background: #0d0d11;
+  border-right: 1px solid #221212;
+  padding: 24px 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-header {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.sidebar-header h1 {
+  margin: 0;
+  font-size: 1.45rem;
+}
+
+.sidebar-header p {
+  margin: 0;
+  color: #c9c3c3;
+  font-size: 0.95rem;
+}
+
+.new-chat-button {
+  margin-top: 8px;
+  padding: 12px 16px;
+  border: none;
+  border-radius: 12px;
+  background: #5c0b0b;
+  color: #fdf7f7;
+  cursor: pointer;
+  transition: background 0.18s ease;
+}
+
+.new-chat-button:hover {
+  background: #7c1212;
+}
+
+.chat-list {
+  display: grid;
+  gap: 10px;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.chat-item {
+  width: 100%;
+  text-align: left;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1px solid transparent;
+  background: #111318;
+  color: #eee;
+  cursor: pointer;
+  transition: border-color 0.18s ease, background 0.18s ease;
+}
+
+.chat-item.active {
+  border-color: #7d1212;
+  background: #16181f;
+}
+
+.chat-item small {
+  display: block;
+  margin-top: 6px;
+  color: #9a9191;
+  font-size: 0.8rem;
+}
+
+.empty-state,
+.empty-chat {
+  color: #b1a9a9;
+  padding: 24px;
+  border: 1px dashed #3d2f2f;
+  border-radius: 16px;
+  background: rgba(127, 16, 16, 0.05);
+  direction: rtl;
+}
+
+.main-panel {
+  display: flex;
+  flex-direction: column;
+  padding: 28px;
+  background: #09090d;
+}
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.main-header h2 {
+  margin: 0;
+  color: #fff;
+}
+
+.main-header p {
+  margin: 8px 0 0;
+  color: #c9c3c3;
+}
+
+.chat-area {
+  flex: 1;
+  display: grid;
+  gap: 18px;
+  overflow-y: auto;
+  padding-right: 6px;
+  direction: rtl;
+  font-size: 20px;
+}
+
+.message {
+  background: #111318;
+  border: 1px solid #1f1a1a;
+  border-radius: 18px;
+  padding: 15px 30px;
+  width: fit-content;
+  font-size: 25px;
+}
+
+.message-user {
+  background: #381411;
+}
+
+.message-assistant {
+  background: #000000;
+}
+
+.message-role {
+  color: #b5a9a9;
+  margin-bottom: 8px;
+}
+
+.message-text {
+  color: #ececec;
+  white-space: pre-wrap;
+  line-height: 1.7;
+}
+
+.video-block {
+  margin-top: 16px;
+  display: grid;
+  gap: 12px;
+}
+
+.video-label {
+  color: #f0d8d8;
+  font-weight: 600;
+}
+
+.video-wrapper {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.video-wrapper iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-meta {
+  display: flex;
+  gap: 14px;
+  color: #c5b3b3;
+  font-size: 0.9rem;
+}
+
+.input-area {
+  margin-top: 20px;
+  display: grid;
+  gap: 14px;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+  min-height: 100px;
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid #222129;
+  background: #121318;
+  color: #f2f2f2;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+textarea:focus {
+  outline: none;
+  border-color: #7c1313;
+  box-shadow: 0 0 0 3px rgba(125, 18, 18, 0.18);
+}
+
+.input-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 14px;
+}
+
+.send-button {
+  padding: 12px 22px;
+  border: none;
+  border-radius: 14px;
+  background: #8c1515;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.18s ease;
+}
+
+.send-button:hover:not(:disabled) {
+  background: #ab1f1f;
+}
+
+.send-button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.error-text {
+  color: #e07c7c;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 900px) {
+  .app-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    order: 2;
+  }
+
+  .main-panel {
+    order: 1;
+  }
+}

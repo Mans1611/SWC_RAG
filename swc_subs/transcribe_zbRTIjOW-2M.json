@@ -1,0 +1,3124 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم دي مساله فيت كود كنا حابين",
+        "start": 0.44,
+        "end": 6.319,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 1,
+        "text": "ان احنا نحلها سوا ونشوف طريقه الحل",
+        "start": 3.28,
+        "end": 9.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 2,
+        "text": "بتاعتها هتكون ازاي وبرضو هي ليها علاقه",
+        "start": 6.319,
+        "end": 12.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 3,
+        "text": "بكونسبت في الرياضيات يعني وكده هنا اسم",
+        "start": 9.92,
+        "end": 14.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 4,
+        "text": "المساله اصلا اسمها الريبليس النان كو",
+        "start": 12.519,
+        "end": 16.359,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 5,
+        "text": "برايم نمبرز",
+        "start": 14.44,
+        "end": 18.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 6,
+        "text": "فاحنا كنا عايزين قبل ما نبتدي ان احنا",
+        "start": 16.359,
+        "end": 20.160000000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 7,
+        "text": "نقرا السؤال نتفرج بقى على السؤال هو",
+        "start": 18.0,
+        "end": 22.279,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 8,
+        "text": "بيقول ايه كنا عايزين احنا نشوف هو ايه",
+        "start": 20.16,
+        "end": 24.439,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 9,
+        "text": "اصلا الكو برايم وايه هي النان كو برايم",
+        "start": 22.279,
+        "end": 26.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 10,
+        "text": "طبعا الكو برايم عكسها نان كو برايم فاحنا",
+        "start": 24.439,
+        "end": 29.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 11,
+        "text": "كنا عايزين اصلا نعرف يعني ايه الكو برايم",
+        "start": 26.48,
+        "end": 32.559,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 12,
+        "text": "قال لك ان الكو برايم بيبقى عباره عن هو",
+        "start": 29.64,
+        "end": 35.480000000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 13,
+        "text": "خاصيه ما بين رقمين يعني مثلا خلينا نقول",
+        "start": 32.559,
+        "end": 38.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 14,
+        "text": "ان احنا قايلين عندنا هنا a وبي الرقمين",
+        "start": 35.48,
+        "end": 42.919999999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 15,
+        "text": "دول لو كان العامل المشترك الاكبر اللي هو",
+        "start": 38.8,
+        "end": 46.519999999999996,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 16,
+        "text": "الجي سي دي ما بينهم لو كان الجي سي دي ما",
+        "start": 42.92,
+        "end": 49.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 17,
+        "text": "بين الرقمين اللي هو a وبي مثلا لو كان",
+        "start": 46.52,
+        "end": 52.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 18,
+        "text": "واحد يعني العامل المشترك الاكبر منهم كان",
+        "start": 49.92,
+        "end": 55.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 19,
+        "text": "واحد فده معناته ان الرقمين دول هم عباره",
+        "start": 52.64,
+        "end": 58.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 20,
+        "text": "ان هم كورايم مع بعض يعني الرقمين دول هم",
+        "start": 55.28,
+        "end": 61.359,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 21,
+        "text": "عباره ان هما كو برايم لو كان الجي سي دي",
+        "start": 58.64,
+        "end": 65.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 22,
+        "text": "بقى الجي سي دي ما بين اي وما بين بي كان",
+        "start": 61.359,
+        "end": 68.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 23,
+        "text": "لا يساوي الواحد فده معناه ان هما الاتنين",
+        "start": 65.76,
+        "end": 71.60000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 24,
+        "text": "ايه ان الرقمين دول هم نون كو برايم تعال",
+        "start": 68.2,
+        "end": 75.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 25,
+        "text": "ان احنا ناخد اززامبل ونشوف يعني ازاي هم",
+        "start": 71.6,
+        "end": 77.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 26,
+        "text": "كو برايم ازاي ان هم نون كو برايم وسيبك",
+        "start": 75.28,
+        "end": 79.479,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 27,
+        "text": "من الا aي والبي والرموز دي كلها خلينا",
+        "start": 77.88,
+        "end": 82.439,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 28,
+        "text": "ناخد ارقام بقى بجد لو احنا قايلين مثلا",
+        "start": 79.479,
+        "end": 86.119,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 29,
+        "text": "الجي سي دي ما بين رقم مثلا زي 6 و3 طب يا",
+        "start": 82.439,
+        "end": 88.439,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 30,
+        "text": "عم ثانيه واحده بس هو اصلا يعني ايه الجي",
+        "start": 86.119,
+        "end": 90.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 31,
+        "text": "سي يعني ايه العامل المشترك الاكبر؟ قال",
+        "start": 88.439,
+        "end": 92.75899999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 32,
+        "text": "لك انت عندك الرقم الاولاني ده اللي هي",
+        "start": 90.92,
+        "end": 95.24000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 33,
+        "text": "السته. فلو انت اخدت السته دي وحبيت ان",
+        "start": 92.759,
+        "end": 97.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 34,
+        "text": "انت تحللها فتلاحظ ان انت عندك الواحد",
+        "start": 95.24,
+        "end": 99.52,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 35,
+        "text": "مضروبه في ال 6 فخلينا ان احنا نشيل",
+        "start": 97.56,
+        "end": 101.72,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 36,
+        "text": "المضروبه دي ونحط الواحد والسته بعد كده",
+        "start": 99.52,
+        "end": 104.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 37,
+        "text": "عندك كمان الاثنين مضروبه في 3لاه هتديك",
+        "start": 101.72,
+        "end": 107.15899999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 38,
+        "text": "سته فهتبقى عندك هنا اثنين وكام اين وثلاه",
+        "start": 104.64,
+        "end": 109.479,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 39,
+        "text": "اعمل نفس الحاجه للثلاثه هتبقى اشوف",
+        "start": 107.159,
+        "end": 112.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 40,
+        "text": "الثلاثه ايه هي المعاملات بتاعتها هتلاحظ",
+        "start": 109.479,
+        "end": 114.479,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 41,
+        "text": "ان هي بس الواحد والثلاثه الواحد في 3لاه",
+        "start": 112.04,
+        "end": 117.71900000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 42,
+        "text": "هتديك اللاه ايه هو بقى هنا ايه هنا",
+        "start": 114.479,
+        "end": 121.479,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 43,
+        "text": "الجريتست كومن الجريتست كومن ديفايزر او",
+        "start": 117.719,
+        "end": 124.96,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 44,
+        "text": "العامل المشترك الاكبر اكبر اللي ما بين",
+        "start": 121.479,
+        "end": 127.15899999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 45,
+        "text": "الرقمين اللي هم السته والثلاثه هتلاحظ ان",
+        "start": 124.96,
+        "end": 130.47899999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 46,
+        "text": "هي عندك هنا الثلاثه الثلاثه دي والثلاثه",
+        "start": 127.159,
+        "end": 133.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 47,
+        "text": "كمان اللي موجوده هنا دي فهتلاحظ ان الجي",
+        "start": 130.479,
+        "end": 136.16000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 48,
+        "text": "سي دي الجي سي دي ما بين السته والثلاثه",
+        "start": 133.44,
+        "end": 138.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 49,
+        "text": "هو كان الثلاثه فده معناته ان هو ما",
+        "start": 136.16,
+        "end": 141.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 50,
+        "text": "بيساويش الواحد فده معناته ان ايه معناته",
+        "start": 138.48,
+        "end": 144.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 51,
+        "text": "ان الرقمين دول هم نون كو برايم مع بعض",
+        "start": 141.28,
+        "end": 147.84,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 52,
+        "text": "هما الاثنين ما فيش كوبرايم ما بينهم لان",
+        "start": 144.2,
+        "end": 150.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 53,
+        "text": "الجي سي دي بتاعهم ما كانش بيساوي الواحد",
+        "start": 147.84,
+        "end": 153.31900000000002,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 54,
+        "text": "الجي سي دي هو اكبر من الواحد طيب ناخد",
+        "start": 150.48,
+        "end": 155.67999999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 55,
+        "text": "مثال تاني ماشي ناخد مثال تاني لو انا كان",
+        "start": 153.319,
+        "end": 158.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 56,
+        "text": "عندي مثلا رقم زي وليكن مثلا لو احنا",
+        "start": 155.68,
+        "end": 161.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 57,
+        "text": "ملاين احنا عايزين نشوف الجي سي دي ما بين",
+        "start": 158.64,
+        "end": 164.39999999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 58,
+        "text": "مثلا وليكن رقم زي السته والسبعه",
+        "start": 161.8,
+        "end": 166.08,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 59,
+        "text": "وبالمناسبه والرقمين دول موجودين عندي",
+        "start": 164.4,
+        "end": 168.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 60,
+        "text": "اصلا هنا في الاراي بتاعه السؤال تعالى",
+        "start": 166.08,
+        "end": 171.92000000000002,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 61,
+        "text": "نشوف السته هي عباره عن ان هي واحد وواحد",
+        "start": 168.28,
+        "end": 174.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 62,
+        "text": "للسته وعندك كمان اثنين وثلاثه طب هات",
+        "start": 171.92,
+        "end": 177.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 63,
+        "text": "السبعه بقى السبعه لو انت حبيت تحللها هي",
+        "start": 174.48,
+        "end": 180.11999999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 64,
+        "text": "عباره ان هي 1× 7 بس ما فيش رقماني ما فيش",
+        "start": 177.0,
+        "end": 183.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 65,
+        "text": "2× 3.5 لان 3.5 نص دي اصلا هي عباره ان هي",
+        "start": 180.12,
+        "end": 186.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 66,
+        "text": "رقم مش انتجر يعني وكده فانا ما عندي هنا",
+        "start": 183.64,
+        "end": 188.83999999999997,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 67,
+        "text": "انا عندي العامل المشترك الاكبر اللي ما",
+        "start": 186.04,
+        "end": 191.79899999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 68,
+        "text": "بينهم هو الواحد وهنا كمان الواحد ما فيش",
+        "start": 188.84,
+        "end": 194.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 69,
+        "text": "غير الواحد بس فانا طلع لي من هنا ايه بقى",
+        "start": 191.799,
+        "end": 197.4,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 70,
+        "text": "طلع لي من هنا ان الجي سي دي ما بين السته",
+        "start": 194.44,
+        "end": 200.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 71,
+        "text": "والسبعه هو في الحاله دي هو بيساوي واحد",
+        "start": 197.4,
+        "end": 203.159,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 72,
+        "text": "معناته كده نقدر من هنا بقى نقوم قايلين",
+        "start": 200.2,
+        "end": 206.72,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 73,
+        "text": "ان احنا نستنتج نستنتج بالشكل ده ان السته",
+        "start": 203.159,
+        "end": 210.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 74,
+        "text": "والسبعه الاثنين دول هم ايه هم كوبرايم مع",
+        "start": 206.72,
+        "end": 212.879,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 75,
+        "text": "بعض الاثنين دول هم كو برايم اقدر اقول",
+        "start": 210.64,
+        "end": 215.55999999999997,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 76,
+        "text": "عليهم ان هم كو برايم طيب احنا كل ده كنا",
+        "start": 212.879,
+        "end": 217.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 77,
+        "text": "بنشرح النون كو برايم دلوقتي بقى خلينا",
+        "start": 215.56,
+        "end": 219.879,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 78,
+        "text": "احنا نشوف السؤال ايه اللي هو طالبه مني",
+        "start": 217.92,
+        "end": 222.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 79,
+        "text": "وبدل ما احنا نقرا السؤال ده كله كده",
+        "start": 219.879,
+        "end": 223.84,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 80,
+        "text": "خلينا احنا نشوف هو طالب ايه يعني خليني",
+        "start": 222.2,
+        "end": 225.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 81,
+        "text": "ان انا اقول لك انا قرات كل ده وهختصر بقى",
+        "start": 223.84,
+        "end": 229.4,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 82,
+        "text": "كل ده عليك هو دلوقتي عايزك تعمل ايه من",
+        "start": 225.92,
+        "end": 231.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 83,
+        "text": "من المطلوب في السؤال هو عايزك ان انت في",
+        "start": 229.4,
+        "end": 233.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 84,
+        "text": "الاراي اللي هو مديها لك بالشكل ده كده هي",
+        "start": 231.64,
+        "end": 235.79899999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 85,
+        "text": "عباره ان هي اراي اوف اوف انتيجرز اراي",
+        "start": 233.519,
+        "end": 239.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 86,
+        "text": "اوف نمبرز عايزك ان انت تعمل ريبليس لنون",
+        "start": 235.799,
+        "end": 241.72,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 87,
+        "text": "كورايت يعني انت بالبدايه كده هتاخد",
+        "start": 239.04,
+        "end": 244.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 88,
+        "text": "الرقمين دول كده مع بعض وهتشوفهم هل هم كو",
+        "start": 241.72,
+        "end": 248.959,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 89,
+        "text": "برايم ولا لا فانت طلعت لي السته والاربعه",
+        "start": 244.64,
+        "end": 251.23899999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 90,
+        "text": "دول هم نان كو برايم انت عايزك تريبليس",
+        "start": 248.959,
+        "end": 253.64000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 91,
+        "text": "النان كو برايم تمام فهم الاتنين دول",
+        "start": 251.239,
+        "end": 256.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 92,
+        "text": "طلعوا هم نان كو برايم طيب قال لك بقى في",
+        "start": 253.64,
+        "end": 258.919,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 93,
+        "text": "الحاله دي لما الاثنين يكونوا هم نان كو",
+        "start": 256.04,
+        "end": 261.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 94,
+        "text": "برايم قال لك انت انا عايزك تعمل لي ايه",
+        "start": 258.919,
+        "end": 264.35999999999996,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 95,
+        "text": "فانا عايزك تشيل الرقمين دول وتحط مكانهم",
+        "start": 261.12,
+        "end": 266.28000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 96,
+        "text": "المضاعف المشترك الاصغر اللي ما بين",
+        "start": 264.36,
+        "end": 268.68,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 97,
+        "text": "الرقمين دول يعني انت باختصار هتقوم شايل",
+        "start": 266.28,
+        "end": 271.79999999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 98,
+        "text": "السته والاربعه تقوم حاطط ايه ال اس ام ما",
+        "start": 268.68,
+        "end": 274.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 99,
+        "text": "بين السته والاربعه المضاعف المشترك",
+        "start": 271.8,
+        "end": 277.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 100,
+        "text": "الاصغر اللي ما بين الرقمين دول كده بعد",
+        "start": 274.8,
+        "end": 279.68,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 101,
+        "text": "كده تقوم معوض ايه بالثلاثه ا بعد كده",
+        "start": 277.56,
+        "end": 281.96,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 102,
+        "text": "الاثنين ادي كده السبعه بعد كده السته بعد",
+        "start": 279.68,
+        "end": 284.759,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 103,
+        "text": "كده الاثنين وبس كده هتقوم انت بقى مكمل",
+        "start": 281.96,
+        "end": 287.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 104,
+        "text": "بنفس الباترن ده على الاراي بتاعتك كلها",
+        "start": 284.759,
+        "end": 290.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 105,
+        "text": "كل اما تشوف يعني تعالى مثلا بدل ما احنا",
+        "start": 287.88,
+        "end": 292.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 106,
+        "text": "عمال ين سايبين الرمز ده كده عايزين نشوف",
+        "start": 290.16,
+        "end": 294.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 107,
+        "text": "ايه هي الل اس ام ما بين السته والاربعه",
+        "start": 292.28,
+        "end": 296.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 108,
+        "text": "قال لك ان ما بين السته والاربعه انت",
+        "start": 294.56,
+        "end": 298.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 109,
+        "text": "هتشوف المضاعفات بتاعه السته وهتشوف",
+        "start": 296.44,
+        "end": 301.08,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 110,
+        "text": "المضاعفات بتاعه الاربعه فهتبقى عندك ال 6",
+        "start": 298.44,
+        "end": 303.96,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 111,
+        "text": "هي عباره ان هي 6 ا دي كده 12 بعد كده 18",
+        "start": 301.08,
+        "end": 306.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 112,
+        "text": "طب خلينا نشوف الاربعه كده هي عباره ان هي",
+        "start": 303.96,
+        "end": 309.84,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 113,
+        "text": "4 ادي كده 8 بعد كده 12 شوف بقى المضاعف",
+        "start": 306.039,
+        "end": 311.84,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 114,
+        "text": "المشترك الاصغر ما بين الرقمين دول هتلاحظ",
+        "start": 309.84,
+        "end": 313.96,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 115,
+        "text": "ان هو عندك هنا ال 12 وهتلاحظ ان هو عندك",
+        "start": 311.84,
+        "end": 316.63899999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 116,
+        "text": "هنا ال 12 ده الاصغر ما بينهم ده المضاعف",
+        "start": 313.96,
+        "end": 318.63899999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 117,
+        "text": "المشترك الاصغر اللي ما بين الرقمين دول",
+        "start": 316.639,
+        "end": 320.52,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 118,
+        "text": "قال لك ايه بقى؟ قال لك انا عايزك تشيل",
+        "start": 318.639,
+        "end": 322.759,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 119,
+        "text": "الرقمين دول اللي هم السته والاربعه وتحط",
+        "start": 320.52,
+        "end": 324.84,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 120,
+        "text": "المضاعف المشترك الاصغر اللي هو ما بينهم",
+        "start": 322.759,
+        "end": 326.28000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 121,
+        "text": "اللي هو هيكون عندي هنا كام؟ اللي هو",
+        "start": 324.84,
+        "end": 328.59999999999997,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 122,
+        "text": "هيكون عندي هنا ب 12 طيب بعد كده عايزك",
+        "start": 326.28,
+        "end": 331.55999999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 123,
+        "text": "بقى تعمل لي ايه بعد كده انا بطلب منك ان",
+        "start": 328.6,
+        "end": 334.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 124,
+        "text": "انت تكمل برده بنفس المنوان شوف ال 12",
+        "start": 331.56,
+        "end": 337.28000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 125,
+        "text": "والثلاثه هل الاثنين دول مع بعض هل",
+        "start": 334.6,
+        "end": 339.52000000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 126,
+        "text": "الاثنين دول مع بعض في جي سي دي ما بينهم",
+        "start": 337.28,
+        "end": 341.4,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 127,
+        "text": "هل هم كو برايم ولا نان كو برايم ما بين",
+        "start": 339.52,
+        "end": 343.71999999999997,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 128,
+        "text": "مين ما بين ال 12 اللي هو الرقم الجديد",
+        "start": 341.4,
+        "end": 346.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 129,
+        "text": "اللي انت لسه جايبه وما بين الثلاثه شوف",
+        "start": 343.72,
+        "end": 349.08000000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 130,
+        "text": "بقى هما الاثنين دول هم كو برايم ولا لا",
+        "start": 346.44,
+        "end": 351.71999999999997,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 131,
+        "text": "لو انت حبيت ان انت تعمل دي هتلاحظ فعلا",
+        "start": 349.08,
+        "end": 354.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 132,
+        "text": "ان الاثنين دول هم نان كو برايم هم ليه",
+        "start": 351.72,
+        "end": 356.47900000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 133,
+        "text": "نان كو برايم انت بقى جرب بقى كرياضيات طب",
+        "start": 354.0,
+        "end": 358.84,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 134,
+        "text": "هم بعد ما هم نانكو برايم انا عايزك تحط",
+        "start": 356.479,
+        "end": 361.52,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 135,
+        "text": "لي ايه انا عايزك تشيل ال 12 وعايزك تشيل",
+        "start": 358.84,
+        "end": 366.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 136,
+        "text": "الثلاثه وتعوض مكانهم بايه؟ بالليتست كومن",
+        "start": 361.52,
+        "end": 368.19899999999996,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 137,
+        "text": "ملتبل يعني المضاعف المشترك الاصغر ما بين",
+        "start": 366.039,
+        "end": 370.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 138,
+        "text": "ال 12 والثلاثه وبرض انا بحر عليك وبقول",
+        "start": 368.199,
+        "end": 372.68,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 139,
+        "text": "لك ان المضاعف المشترك الاصغر اللي ما بين",
+        "start": 370.88,
+        "end": 376.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 140,
+        "text": "ال 12 وما بين الثلاثه هو ال 12 برض فانت",
+        "start": 372.68,
+        "end": 378.40000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 141,
+        "text": "هتقوم شايل ال 12 والثلاثه هتقوم معوض",
+        "start": 376.36,
+        "end": 380.72,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 142,
+        "text": "مكانهم بكام؟ هتقوم معوض مكانه هتبقى عندك",
+        "start": 378.4,
+        "end": 382.75899999999996,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 143,
+        "text": "ال 12 والثلاثه دي هتشيلها تبقى عندك هي",
+        "start": 380.72,
+        "end": 386.03900000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 144,
+        "text": "كمان 12 ماشي وهتبقى عندك هنا الاثنين بعد",
+        "start": 382.759,
+        "end": 388.40000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 145,
+        "text": "كده بعد كده السبعه بعد كده السته بعد كده",
+        "start": 386.039,
+        "end": 390.71999999999997,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 146,
+        "text": "الاثنين بالشكل ده كده بعد كده برده انت",
+        "start": 388.4,
+        "end": 393.67999999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 147,
+        "text": "هتكمل بنفس الم هتشوف ال 12 مع الثلاثه",
+        "start": 390.72,
+        "end": 397.47900000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 148,
+        "text": "والى اخره لحد ما توصل في الاخر ان الاراي",
+        "start": 393.68,
+        "end": 400.28000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 149,
+        "text": "بتاعتك دي في اخر السؤال خالص وده اللي",
+        "start": 397.479,
+        "end": 402.919,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 150,
+        "text": "انا طالبه منك ان انت ترجع لي نون كو",
+        "start": 400.28,
+        "end": 406.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 151,
+        "text": "برايم اراي او ترجعلي عفوا كو برايم اراي",
+        "start": 402.919,
+        "end": 408.75899999999996,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 152,
+        "text": "يعني كل المنت مع الالنت اللي جنبه هم",
+        "start": 406.0,
+        "end": 410.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 153,
+        "text": "عباره عن ان هم كو برايم تعال نشوف هنا في",
+        "start": 408.759,
+        "end": 413.28000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 154,
+        "text": "السؤال الاوت بوت اللي هو مرجعه لي الاوت",
+        "start": 410.88,
+        "end": 415.199,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 155,
+        "text": "بوت اللي كان مرجعه هو اللي في الاخر بعد",
+        "start": 413.28,
+        "end": 417.67999999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 156,
+        "text": "ما تعمل الاوبريشنز دي كلها كانت في الاخر",
+        "start": 415.199,
+        "end": 419.599,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 157,
+        "text": "هي عباره ان",
+        "start": 417.68,
+        "end": 423.759,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 158,
+        "text": "12 وس وست ده الاوت بوت الاخير لو انت جيت",
+        "start": 419.599,
+        "end": 426.71999999999997,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 159,
+        "text": "تشوف لو انت جيت تشوف ان ال 12 والسبعه",
+        "start": 423.759,
+        "end": 430.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 160,
+        "text": "دول هم الاثنين هم كو برايم مع بعض واحد",
+        "start": 426.72,
+        "end": 433.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 161,
+        "text": "هيجي يقول لي طب واحد هيجي يقول لي طب خلي",
+        "start": 430.36,
+        "end": 436.759,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 162,
+        "text": "بالك ده انا عندي هنا ال 12 وعندي السته",
+        "start": 433.24,
+        "end": 439.319,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 163,
+        "text": "هم كو برايم مع بعض هم عفوا نون كو برايم",
+        "start": 436.759,
+        "end": 442.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 164,
+        "text": "يعني لو قمت قايل الجي سي دي ما بين ال 12",
+        "start": 439.319,
+        "end": 446.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 165,
+        "text": "وما بين السته هلاحظ ان الكومان ديفايزر",
+        "start": 442.56,
+        "end": 448.599,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 166,
+        "text": "الجريتست كومان ديفايزر اللي ما بينهم هو",
+        "start": 446.24,
+        "end": 450.479,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 167,
+        "text": "السته وبالتالي ده مش واحد فبالتالي انا",
+        "start": 448.599,
+        "end": 453.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 168,
+        "text": "كنت مفروض اعمل ما بينهم ريبليس قال لك لا",
+        "start": 450.479,
+        "end": 456.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 169,
+        "text": "انت بتعمل ما بين اللي جنب بعض يعني ال 12",
+        "start": 453.039,
+        "end": 458.599,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 170,
+        "text": "والسته ما ينفعش ليه؟ لان هم مش جنب بعض",
+        "start": 456.28,
+        "end": 460.84,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 171,
+        "text": "انا عندي هنا بشوف ال 12 مع السبعه وعندي",
+        "start": 458.599,
+        "end": 463.639,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 172,
+        "text": "هنا بشوف السبعه مع السته طيب بعد ما احنا",
+        "start": 460.84,
+        "end": 466.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 173,
+        "text": "شفنا فكره السؤال وايه اللي هو طالبه مني",
+        "start": 463.639,
+        "end": 468.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 174,
+        "text": "عايزين بقى ان احنا نبتدي ان احنا نشوف",
+        "start": 466.039,
+        "end": 469.96,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 175,
+        "text": "السؤال ده هنحله ازاي والسؤال ده فيه على",
+        "start": 468.0,
+        "end": 472.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 176,
+        "text": "فكره هو فيه داتا ستراكشر يعني هي مستخدمه",
+        "start": 469.96,
+        "end": 474.23999999999995,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 177,
+        "text": "من الداتا ستراكشر المشهوره الداتا",
+        "start": 472.0,
+        "end": 475.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 178,
+        "text": "ستراكشر اللي احنا نستخدمها في السؤال ده",
+        "start": 474.24,
+        "end": 478.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 179,
+        "text": "هي الاستاك ا وهنشوف ان احنا هستخدم",
+        "start": 475.36,
+        "end": 482.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 180,
+        "text": "الاستاك ازاي في حل السؤال ده. طيب دي",
+        "start": 478.039,
+        "end": 484.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 181,
+        "text": "الاريه اللي هو مديه لي فيه المثال انا",
+        "start": 482.24,
+        "end": 487.08,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 182,
+        "text": "هبتدي بكل بساطه هستخدم الاستاك اذناها",
+        "start": 484.039,
+        "end": 489.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 183,
+        "text": "داتا ستراكشر بتاعتي وهبتدي ان انا الف",
+        "start": 487.08,
+        "end": 491.919,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 184,
+        "text": "على كل المنت موجود معايا وهضيف كل المنت",
+        "start": 489.12,
+        "end": 494.199,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 185,
+        "text": "في الاستاك بشكل عادي جدا هكون عندي ستاك",
+        "start": 491.919,
+        "end": 496.159,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 186,
+        "text": "عبيطه جدا وهبتدي ان انا اضيف كل المنت",
+        "start": 494.199,
+        "end": 498.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 187,
+        "text": "جيت على السته هقوم ضايف السته بعد كده",
+        "start": 496.159,
+        "end": 499.96,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 188,
+        "text": "انا ما ينفعش طبعا ان انا اعمل كو برايم",
+        "start": 498.36,
+        "end": 501.84000000000003,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 189,
+        "text": "غير لما يكون عندي في رقمين على الاقل ما",
+        "start": 499.96,
+        "end": 505.31899999999996,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 190,
+        "text": "ينفعش ان انا اعملها رقم واحد طيب بعد كده",
+        "start": 501.84,
+        "end": 507.52,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 191,
+        "text": "الالنت بتاعي هيتحرك فهبتدي ان انا احركه",
+        "start": 505.319,
+        "end": 509.52000000000004,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 192,
+        "text": "بدل ما هو عند السته هيقوم بقى متحرك عند",
+        "start": 507.52,
+        "end": 512.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 193,
+        "text": "الاربعه وهقوم ضايف الاربعه اربعه موجود",
+        "start": 509.52,
+        "end": 514.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 194,
+        "text": "عندي في الاستاك طيب بما ان هي خلاص بقت",
+        "start": 512.039,
+        "end": 517.3199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 195,
+        "text": "الاستاك فيها عباره ان هي رقمين فبقى عندي",
+        "start": 514.519,
+        "end": 520.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 196,
+        "text": "في الاربعه والسته هتشيك هم كو برايم ولا",
+        "start": 517.32,
+        "end": 523.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 197,
+        "text": "لا في حال ان هم كانوا نون كو برايم يعني",
+        "start": 520.12,
+        "end": 525.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 198,
+        "text": "هتشيك ان هم نون كو برايم ولا لا في حال",
+        "start": 523.24,
+        "end": 527.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 199,
+        "text": "ان هم كانوا نون كو برايم مع بعض هشيل",
+        "start": 525.04,
+        "end": 529.3199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 200,
+        "text": "الرقمين دول ما هي عباره ان هي ستاك",
+        "start": 527.36,
+        "end": 532.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 201,
+        "text": "والاستاك دايما عندها بوينتر واقف على اخر",
+        "start": 529.32,
+        "end": 534.6800000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 202,
+        "text": "المنت موجود معايا هنا اللي هو الاربعه",
+        "start": 532.16,
+        "end": 537.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 203,
+        "text": "فانا لو هم كانوا ا لو هم كانوا نان كو",
+        "start": 534.68,
+        "end": 540.959,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 204,
+        "text": "برايم اللي هم الاربعه والسته كانوا هم",
+        "start": 537.76,
+        "end": 543.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 205,
+        "text": "نانكو برايم فساعتها هعمل ايه؟ ساعتها",
+        "start": 540.959,
+        "end": 546.7199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 206,
+        "text": "اقوم عامل بوب هشيل الاربعه وهشيل السته",
+        "start": 543.04,
+        "end": 551.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 207,
+        "text": "لان هم رقمين وهعمل بوش لل",
+        "start": 546.72,
+        "end": 553.6800000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 208,
+        "text": "للمضاعف المشترك الاصغر ما بينهم ففي",
+        "start": 551.0,
+        "end": 555.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 209,
+        "text": "الحاله دي فعلا انا عندي كان الجي سي دي",
+        "start": 553.68,
+        "end": 558.3199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 210,
+        "text": "ما بين الاربعه والسته كان هو فعلا في",
+        "start": 555.48,
+        "end": 560.399,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 211,
+        "text": "الحاله دي اكبر من الواحد طب ايه الحل بقى",
+        "start": 558.32,
+        "end": 562.8000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 212,
+        "text": "اللي انت هتعمله هتقوم عامل هتقوم شايل",
+        "start": 560.399,
+        "end": 565.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 213,
+        "text": "الاربعه وهتقوم شايل السته فخلينا احنا",
+        "start": 562.8,
+        "end": 567.5999999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 214,
+        "text": "نرسم الاستاك الجديد هتبقى بالشكل ده كده",
+        "start": 565.36,
+        "end": 569.9590000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 215,
+        "text": "بعد ما تشيل الاربعه والسته هتقوم ضايف",
+        "start": 567.6,
+        "end": 571.839,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 216,
+        "text": "بقى يعني هتقوم قايل ان الاستاك بتاعتك",
+        "start": 569.959,
+        "end": 574.3199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 217,
+        "text": "كده احنا هنكتب الكود يعني هتقوم قايل دوت",
+        "start": 571.839,
+        "end": 578.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 218,
+        "text": "بوش ماشي وهتقوم قايل انا هضيف ايه بقى",
+        "start": 574.32,
+        "end": 581.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 219,
+        "text": "هضيف هنا الحته المهمه جدا الليتست كومن",
+        "start": 578.0,
+        "end": 584.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 220,
+        "text": "ملتيبل اللي ما بين الاربعه واللي ما بين",
+        "start": 581.36,
+        "end": 586.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 221,
+        "text": "السته ما هو انت خلاص عملت بوب للرقمين",
+        "start": 584.2,
+        "end": 587.6400000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 222,
+        "text": "دول اللي هم الاربعه والسته فانت اكيد",
+        "start": 586.12,
+        "end": 589.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 223,
+        "text": "مخزنهم فهتقوم شايل الرقمين دول وتقوم",
+        "start": 587.64,
+        "end": 593.079,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 224,
+        "text": "عامل هنا بوش ل المضاعف المشترك الاصغر",
+        "start": 589.76,
+        "end": 594.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 225,
+        "text": "اللي ما بين ده اللي ما بين الاربعه",
+        "start": 593.079,
+        "end": 596.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 226,
+        "text": "والسته وهيبقى عندك هنا ال 12 بعد كده",
+        "start": 594.56,
+        "end": 599.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 227,
+        "text": "هتانيك بقى مكمل بنفس الباترن ده لحد ما",
+        "start": 596.88,
+        "end": 603.72,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 228,
+        "text": "توصل توصل ان الستاك بتاعتك كلها الجي سي",
+        "start": 599.8,
+        "end": 605.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 229,
+        "text": "دي بتاعها",
+        "start": 603.72,
+        "end": 608.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 230,
+        "text": "ما بين اخر رقمين عندك موجودين في الاستاك",
+        "start": 605.519,
+        "end": 611.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 231,
+        "text": "الجي سي دي بتاعك هو دايما لازم يكون",
+        "start": 608.64,
+        "end": 614.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 232,
+        "text": "بيساوي واحد هتنيك بقى مكمل بنفس الباترن",
+        "start": 611.44,
+        "end": 617.8000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 233,
+        "text": "ده لحد ما تكون ان الجي سي دي او لحد ما",
+        "start": 614.76,
+        "end": 620.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 234,
+        "text": "يكون ان الاستاك بتاعتك كلها هم عباره ان",
+        "start": 617.8,
+        "end": 622.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 235,
+        "text": "هم كو برايم مع بعض عباره عن الاراي",
+        "start": 620.56,
+        "end": 626.1199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 236,
+        "text": "بتاعتك هم عباره عن ان هم كو برايم مع بعض",
+        "start": 622.92,
+        "end": 628.079,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 237,
+        "text": "طيب تعال ان احنا بقى نشوف ان احنا ازاي",
+        "start": 626.12,
+        "end": 631.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 238,
+        "text": "ان احنا هنطبق فكره حل السؤال ده طبعا",
+        "start": 628.079,
+        "end": 633.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 239,
+        "text": "احنا كنا قلنا في في حل السؤال ده ان احنا",
+        "start": 631.519,
+        "end": 638.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 240,
+        "text": "هنستخدم الداتا ستراكشر بتاعتنا في",
+        "start": 633.8,
+        "end": 640.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 241,
+        "text": "حل السؤال ده هي عباره ان هي الاستاك فانا",
+        "start": 638.2,
+        "end": 641.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 242,
+        "text": "عندي هنا الاستاك في بايثون هي عباره ان",
+        "start": 640.0,
+        "end": 643.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 243,
+        "text": "هي بتبقى اراي عادي جدا وبتبتدي ان انت",
+        "start": 641.48,
+        "end": 646.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 244,
+        "text": "تعمل بوش وبتبتدي ان انت تعمل بوب من",
+        "start": 643.2,
+        "end": 647.639,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 245,
+        "text": "عليها عادي جدا طبعا بوش احنا كنا",
+        "start": 646.04,
+        "end": 650.1999999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 246,
+        "text": "كاتبينها في السؤال اللي فات او في القصدي",
+        "start": 647.639,
+        "end": 652.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 247,
+        "text": "في على النوت بوك يعني كنا كاتبينها بوش",
+        "start": 650.2,
+        "end": 654.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 248,
+        "text": "فهي بوش عادي جدا بس هنا في بايثون هي",
+        "start": 652.36,
+        "end": 656.9590000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 249,
+        "text": "بتبقى ابند يعني بس هي مش هتفرق معانا",
+        "start": 654.6,
+        "end": 658.72,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 250,
+        "text": "احنا قصدنا بس الكونسبت يعني واحنا احنا",
+        "start": 656.959,
+        "end": 660.8389999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 251,
+        "text": "قلنا ان احنا هنبتدي ان احنا هنلف على كل",
+        "start": 658.72,
+        "end": 663.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 252,
+        "text": "المنت في الاراي عندنا فتبقى عندي هنا فور",
+        "start": 660.839,
+        "end": 666.1600000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 253,
+        "text": "النم ان النمز اللي موجوده قدامنا هنبتدي",
+        "start": 663.24,
+        "end": 668.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 254,
+        "text": "ان احنا اول حاجه هنقوم عاملين الاستاك",
+        "start": 666.16,
+        "end": 672.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 255,
+        "text": "دوت ابند هضيف كل رقم عندي جدا عادي جدا",
+        "start": 668.44,
+        "end": 675.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 256,
+        "text": "في الاراي بتاعتي وبعد كده بقى دي الحته",
+        "start": 672.6,
+        "end": 678.0790000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 257,
+        "text": "المهمه جدا ودي هي التركايه عندي في",
+        "start": 675.6,
+        "end": 680.9590000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 258,
+        "text": "السؤال هقوم قايل وايل انا وبعد كده هشرح",
+        "start": 678.079,
+        "end": 683.4799999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 259,
+        "text": "احنا ليه هنا استخدمنا الوايل هقوم قايل",
+        "start": 680.959,
+        "end": 686.1999999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 260,
+        "text": "هنا وايل ان ان",
+        "start": 683.48,
+        "end": 689.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 261,
+        "text": "اللين اوف الاستاك بتاعتي كان في الحاله",
+        "start": 686.2,
+        "end": 692.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 262,
+        "text": "دي كان هو اكبر من الواحد يعني انا عايز",
+        "start": 689.24,
+        "end": 695.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 263,
+        "text": "عشان ابتدي ان انا اتشيك هم كو برايم ولا",
+        "start": 692.48,
+        "end": 698.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 264,
+        "text": "نان كو برايم لازم اصلا يكون عندي على",
+        "start": 695.16,
+        "end": 700.079,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 265,
+        "text": "الاقل حاجه في الاستاك لازم يكون عندي",
+        "start": 698.12,
+        "end": 703.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 266,
+        "text": "فيها اقل حاجه رقمين فعشان كده انا قمت",
+        "start": 700.079,
+        "end": 705.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 267,
+        "text": "حاطط الكونديشن ده بعد كده هو قايل لك ايه",
+        "start": 703.04,
+        "end": 709.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 268,
+        "text": "هو قال لك اند برض ان هنا عشان بقى ابتدي",
+        "start": 705.92,
+        "end": 712.079,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 269,
+        "text": "ان انا اجيب العامل المشترك الاكبر ما بين",
+        "start": 709.04,
+        "end": 714.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 270,
+        "text": "رقمين هحتاج فانكشن مهمه جدا وهي موجوده",
+        "start": 712.079,
+        "end": 718.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 271,
+        "text": "عندي في موديول في الماث اسم الفانكشن دي",
+        "start": 714.92,
+        "end": 722.4399999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 272,
+        "text": "اسمها اسمها الماث دوت الجي سي دي نفس",
+        "start": 718.16,
+        "end": 724.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 273,
+        "text": "اللي احنا كنا بستخدمها بالظبط هتقوم بقى",
+        "start": 722.44,
+        "end": 725.6800000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 274,
+        "text": "قايل لي هنا ايه هتقوم قايل لي هنا",
+        "start": 724.12,
+        "end": 730.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 275,
+        "text": "الاستاك اوف اخر المنت وما بين برض الستاك",
+        "start": 725.68,
+        "end": 733.4399999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 276,
+        "text": "الالنت اللي قبل الاخير اللي هي هتبقى",
+        "start": 730.36,
+        "end": 736.6800000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 277,
+        "text": "ناقص هنا اثنين فانا بجيب الاثنين اللي",
+        "start": 733.44,
+        "end": 739.1600000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 278,
+        "text": "على اللي على التوب يعني انا لو كان عندي",
+        "start": 736.68,
+        "end": 741.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 279,
+        "text": "الاستاك خلينا احنا نفترض كده ان انا عندي",
+        "start": 739.16,
+        "end": 743.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 280,
+        "text": "الاستاك بالشكل ده كده والاستاك ده كان",
+        "start": 741.12,
+        "end": 745.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 281,
+        "text": "فيه ارقام كتيره وليكن هنا مثلا ثلاثه",
+        "start": 743.519,
+        "end": 747.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 282,
+        "text": "وبعد كده عندي هنا خمسه وبعد كده عندي هنا",
+        "start": 745.48,
+        "end": 750.32,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 283,
+        "text": "وليكن مانيه بعد كده عندي هنا تسعه بعد",
+        "start": 747.92,
+        "end": 752.4399999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 284,
+        "text": "كده عندي هنا السبعه فلما انا اجي اقول له",
+        "start": 750.32,
+        "end": 755.5600000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 285,
+        "text": "انا عايز الاستاك بتاع الناقص واحد فانا",
+        "start": 752.44,
+        "end": 757.7600000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 286,
+        "text": "بقول له انا عايز اخر المنت موجود عندك في",
+        "start": 755.56,
+        "end": 760.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 287,
+        "text": "الاستاك ولما اقول له ده الستاك خلينا",
+        "start": 757.76,
+        "end": 763.279,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 288,
+        "text": "اختار مثلا ان ده اسمه ستاك ماشي فده",
+        "start": 760.16,
+        "end": 765.959,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 289,
+        "text": "الستاك بتاع ايه بتاع الناقص واحد بالشكل",
+        "start": 763.279,
+        "end": 768.399,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 290,
+        "text": "ده كده والالنت اللي هو التسعه ده هو",
+        "start": 765.959,
+        "end": 772.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 291,
+        "text": "عباره ان هو الستاك اوف ايه اوف الناقص",
+        "start": 768.399,
+        "end": 774.68,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 292,
+        "text": "اين والالنت اللي هو ده الستاك اوف ناقص",
+        "start": 772.16,
+        "end": 777.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 293,
+        "text": "دي حاجه كده موجوده في بايثون يعني فانا",
+        "start": 774.68,
+        "end": 780.079,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 294,
+        "text": "كده جبت الالنت اللي هما الاثنين اللي على",
+        "start": 777.36,
+        "end": 782.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 295,
+        "text": "الترب هبتدي اقوم قايل له هنا بقى ايه؟",
+        "start": 780.079,
+        "end": 786.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 296,
+        "text": "هبتدي في الحاله دي هقوم قايل له لو ال",
+        "start": 782.0,
+        "end": 788.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 297,
+        "text": "العامل المشترك الاكبر ما بينهم كان اكبر",
+        "start": 786.04,
+        "end": 790.959,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 298,
+        "text": "من واحد ده معناته ايه؟ ان هم اكبر من",
+        "start": 788.6,
+        "end": 793.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 299,
+        "text": "واحد معناته ان هم الاثنين نون كورايم",
+        "start": 790.959,
+        "end": 796.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 300,
+        "text": "ساعتها هقوم قايل ايه بقى ساعتها ان انا",
+        "start": 793.76,
+        "end": 799.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 301,
+        "text": "هقوم قايل انا الاستاك بتاعتي عايزك تعمل",
+        "start": 796.0,
+        "end": 801.639,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 302,
+        "text": "عليها ابنت انت قلت لي انت مش هتمسح الاول",
+        "start": 799.24,
+        "end": 803.6800000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 303,
+        "text": "هقول لك اه انا همسح الاول بس كمل معايا",
+        "start": 801.639,
+        "end": 806.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 304,
+        "text": "للاخر قال ستاك دوت ابند هقوم قال لك هنا",
+        "start": 803.68,
+        "end": 809.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 305,
+        "text": "انا عايز عندي هنا الميث دوت الل اس ان",
+        "start": 806.16,
+        "end": 813.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 306,
+        "text": "اللي هو العامل او المضاعف المشترك الاصغر",
+        "start": 809.8,
+        "end": 815.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 307,
+        "text": "اللي هي فانكشن عندي هنا اسمها ال اس ام",
+        "start": 813.76,
+        "end": 819.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 308,
+        "text": "وهديها فانكشن عندي هنا اسمها الل اس ان",
+        "start": 815.8,
+        "end": 821.3599999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 309,
+        "text": "بعد كده هقوم مديها هنا الرقمين طب انا",
+        "start": 819.24,
+        "end": 823.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 310,
+        "text": "دلوقتي انا عايز اشيل الرقمين عندي من",
+        "start": 821.36,
+        "end": 826.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 311,
+        "text": "الاستاك انا عايز اشيل الرقمين دول لان",
+        "start": 823.76,
+        "end": 828.639,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 312,
+        "text": "انا المفروض او المطالب مني ان انا اشيل",
+        "start": 826.16,
+        "end": 832.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 313,
+        "text": "الرقم السبعه واشيل التسعه واحط",
+        "start": 828.639,
+        "end": 835.32,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 314,
+        "text": "المضاعف المشترك الاصغر اللي بين عشان كده",
+        "start": 832.36,
+        "end": 837.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 315,
+        "text": "انا هعمل عمل بوب فهو قايل هنا انا عندي",
+        "start": 835.32,
+        "end": 840.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 316,
+        "text": "الل اس هتبقى عندي هنا الاستاك دوت بوب",
+        "start": 837.88,
+        "end": 842.959,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 317,
+        "text": "فانا خلاص انا شلت كده اخر المنت موجود",
+        "start": 840.6,
+        "end": 845.8000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 318,
+        "text": "معايا في الستاك واقوم قايل هنا ايه",
+        "start": 842.959,
+        "end": 849.7589999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 319,
+        "text": "الستاك هعمل برض المنت للالنت اللي بعده",
+        "start": 845.8,
+        "end": 853.199,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 320,
+        "text": "تبقى عندي هنا ستاك دوت اوب",
+        "start": 849.759,
+        "end": 855.8000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 321,
+        "text": "ده حل الكود هو ده حل المساله دي كلها",
+        "start": 853.199,
+        "end": 858.199,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 322,
+        "text": "المساله دي هنا تصنفها على انها هارد بس",
+        "start": 855.8,
+        "end": 860.8389999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 323,
+        "text": "لما تيجي تشوف حلها تحس ان هو حلها بسيط",
+        "start": 858.199,
+        "end": 864.079,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 324,
+        "text": "جدا طيب هو انا عندي هنا سؤال بما ان احنا",
+        "start": 860.839,
+        "end": 867.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 325,
+        "text": "هنا جبنا الكود تعال ان احنا اول حاجه ان",
+        "start": 864.079,
+        "end": 869.7199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 326,
+        "text": "احنا هنقوم قايلين هنا عن ريتيرن الستاك",
+        "start": 867.12,
+        "end": 872.04,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 327,
+        "text": "عندي هنا وخلينا ان احنا نتست بقى الكيسز",
+        "start": 869.72,
+        "end": 874.5600000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 328,
+        "text": "اللي موجوده هنا معايا طبعا هنا بيقوللي",
+        "start": 872.04,
+        "end": 877.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 329,
+        "text": "ان هي ان احنا نعملها على انتر الفكره هنا",
+        "start": 874.56,
+        "end": 883.399,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 330,
+        "text": "ان احنا حاطين هنا الابند النم النمز ف",
+        "start": 877.56,
+        "end": 885.199,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 331,
+        "text": "بعد كده احنا قمنا قايلين هنا الاستاكز",
+        "start": 883.399,
+        "end": 887.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 332,
+        "text": "احنا كنا ضايفين الاراي نفسها احنا كنا",
+        "start": 885.199,
+        "end": 889.7199999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 333,
+        "text": "ضايفين في الاراي كنا عاملينها اكنها نستد",
+        "start": 887.12,
+        "end": 894.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 334,
+        "text": "اراي فخلينا احنا نتست كده ونقول بسم الله",
+        "start": 889.72,
+        "end": 896.639,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 335,
+        "text": "فانا عندي هنا دي تست كيسز دي حاجه بسيطه",
+        "start": 894.36,
+        "end": 898.759,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 336,
+        "text": "يعني او تريكايه حلوه انت ممكن ان انت",
+        "start": 896.639,
+        "end": 901.279,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 337,
+        "text": "تستخدمها ان انت في هنا ناس محترمه يعني",
+        "start": 898.759,
+        "end": 904.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 338,
+        "text": "بتبتدي انها تشير تست كيس فانت ممكن قبل",
+        "start": 901.279,
+        "end": 906.8389999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 339,
+        "text": "ما تعمل سبمت تشوفها على تيست كيسز تانيه",
+        "start": 904.16,
+        "end": 909.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 340,
+        "text": "وتشوف الكود بتاعك هيبيهيف ازاي هيتصرف",
+        "start": 906.839,
+        "end": 911.1990000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 341,
+        "text": "ازاي يعني وكده فاحنا عندنا هنا التست",
+        "start": 909.519,
+        "end": 913.68,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 342,
+        "text": "كيسز دي هبتدي ان انا اشوفها الاول قبل ما",
+        "start": 911.199,
+        "end": 916.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 343,
+        "text": "اعمل سبت واشوف الكود بتاعي هيعديها ولا",
+        "start": 913.68,
+        "end": 918.56,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 344,
+        "text": "لا",
+        "start": 916.88,
+        "end": 920.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 345,
+        "text": "طبعا هنا الكود اللي هو عداها انت ممكن",
+        "start": 918.56,
+        "end": 921.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 346,
+        "text": "بقى تجيب تيست كيس تانيه انت زي ما انت",
+        "start": 920.16,
+        "end": 924.68,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 347,
+        "text": "عايز بس هنا احنا خلينا نعمل سبمت عشان",
+        "start": 921.92,
+        "end": 928.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 348,
+        "text": "نختصر في الوقت يعني وكده طيب هنا الحمد",
+        "start": 924.68,
+        "end": 931.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 349,
+        "text": "لله الكود هنا الحمد لله عدى عينه كده طيب",
+        "start": 928.24,
+        "end": 934.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 350,
+        "text": "ده فكره حل المساله بتاعتنا او ده اصلا حل",
+        "start": 931.88,
+        "end": 936.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 351,
+        "text": "المساله بس هنا كنا عايزين نعرف هو احنا",
+        "start": 934.48,
+        "end": 939.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 352,
+        "text": "ليه استخدمنا الواي تمام دي اول حاجه ده",
+        "start": 936.92,
+        "end": 941.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 353,
+        "text": "عندي اول سؤال انا عايز اعرف هو انا ليه",
+        "start": 939.519,
+        "end": 943.319,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 354,
+        "text": "استخدمت الواي والشرط الاولاني اللي هو",
+        "start": 941.12,
+        "end": 945.8,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 355,
+        "text": "بتاع الاستاك بتاعتي لازم تكون اكبر من",
+        "start": 943.319,
+        "end": 948.4799999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 356,
+        "text": "واحد احنا فاهمين وكنا حللناه قلنا عشان",
+        "start": 945.8,
+        "end": 950.92,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 357,
+        "text": "ان انا عشان اشوف الكو برايم بتاعتي",
+        "start": 948.48,
+        "end": 953.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 358,
+        "text": "اشوفها لازم يكون عندي فيه رقمين انا بشوف",
+        "start": 950.92,
+        "end": 955.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 359,
+        "text": "الكو برايم ما ما بين رقمين انا بجيب الجي",
+        "start": 953.12,
+        "end": 956.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 360,
+        "text": "سي دي ما بين رقمين ما ينفعش يكون عندي",
+        "start": 955.0,
+        "end": 959.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 361,
+        "text": "اجيبها ما بين رقم واحد بس دي اول حاجه بس",
+        "start": 956.88,
+        "end": 961.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 362,
+        "text": "دي خلاص عارفها يعني اللين في الاستاك",
+        "start": 959.24,
+        "end": 964.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 363,
+        "text": "اكبر من واحد عارفين ايه بقى الجزء ده ايه",
+        "start": 961.6,
+        "end": 967.519,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 364,
+        "text": "الوضع بتاعه ماشي والجزء ده برض عايزين",
+        "start": 964.36,
+        "end": 970.279,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 365,
+        "text": "نعرف ايه الوضع بتاع الجزء ده وهنا ليه",
+        "start": 967.519,
+        "end": 973.279,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 366,
+        "text": "استخدمنا البوب وهنا ليه استخدمنا الاستاك",
+        "start": 970.279,
+        "end": 975.4399999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 367,
+        "text": "اوف ناقص واحد اول حاجه عشان ارد على",
+        "start": 973.279,
+        "end": 977.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 368,
+        "text": "سؤالك في الجزء بتاع الكونديشن ده احنا",
+        "start": 975.44,
+        "end": 980.8000000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 369,
+        "text": "عارفين ان الكونديشن ده لازم الحته دي كده",
+        "start": 977.48,
+        "end": 983.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 370,
+        "text": "بتجيبلي هما الرقمين دول هم نان كورايت",
+        "start": 980.8,
+        "end": 986.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 371,
+        "text": "يعني لو كان ان الجي سي دي ما بين الرقمين",
+        "start": 983.6,
+        "end": 989.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 372,
+        "text": "دول هو اكبر من الواحد فده معناته ان",
+        "start": 986.88,
+        "end": 991.639,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 373,
+        "text": "الرقمين دول ايه؟ ده معناته ان الرقمين",
+        "start": 989.48,
+        "end": 995.399,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 374,
+        "text": "دول هم نان كوبرايت فساعتها انا هخش هنا",
+        "start": 991.639,
+        "end": 997.199,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 375,
+        "text": "انا هخش هنا جوه الجزء ده انا هخش جوه",
+        "start": 995.399,
+        "end": 999.639,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 376,
+        "text": "الحته دي طب انا هنا ليه ما عملتش بوب في",
+        "start": 997.199,
+        "end": 1002.4399999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 377,
+        "text": "الجزء ده طب انا مش عملتش بوب عشان لو انا",
+        "start": 999.639,
+        "end": 1004.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 378,
+        "text": "كنت عملت هوب كانت هتتشال اصلا من الاراي",
+        "start": 1002.44,
+        "end": 1008.0790000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 379,
+        "text": "خالص فساعتها افرض افرض لو انا خلاص انا",
+        "start": 1004.6,
+        "end": 1010.44,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 380,
+        "text": "شلتها هنا بالاراي في الكونديشن طب افرض",
+        "start": 1008.079,
+        "end": 1013.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 381,
+        "text": "هم طلعوا كو برايم يعني ايه؟ يعني طلعوا",
+        "start": 1010.44,
+        "end": 1015.759,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 382,
+        "text": "ان الجي سي دي بتاعهم هو كان بيساوي واحد",
+        "start": 1013.16,
+        "end": 1018.36,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 383,
+        "text": "فكده انا هكون خسرت الالنت بتوعي يعني لو",
+        "start": 1015.759,
+        "end": 1021.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 384,
+        "text": "كان عندي مثلا السته والسبعه فلو انت عملت",
+        "start": 1018.36,
+        "end": 1024.199,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 385,
+        "text": "بوب في الكيس دي كده في الكونديشن ده فانت",
+        "start": 1021.16,
+        "end": 1027.439,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 386,
+        "text": "هتكون اكنك شلت السته والسبعه طب انا جيت",
+        "start": 1024.199,
+        "end": 1029.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 387,
+        "text": "هنا وطلع لي ان الجي سي دي بتاعهم هو",
+        "start": 1027.439,
+        "end": 1032.0790000000002,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 388,
+        "text": "بيساوي واحد هتعمل ايه مش هتخش جوه هنا",
+        "start": 1029.48,
+        "end": 1034.679,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 389,
+        "text": "فبالتالي انت مش هتعمل ابنت فبالتالي انت",
+        "start": 1032.079,
+        "end": 1036.959,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 390,
+        "text": "خسرت السته والسبعه فالاراي بتاعتك هتبقى",
+        "start": 1034.679,
+        "end": 1039.439,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 391,
+        "text": "فاضيه فانا بقول له انا عايزك بس اكسس",
+        "start": 1036.959,
+        "end": 1042.559,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 392,
+        "text": "عليهم عايز اتشيك ما تطلعهمش من الاستاك",
+        "start": 1039.439,
+        "end": 1046.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 393,
+        "text": "شوفهم الاول هل هم كو برايم ولا لا لو هم",
+        "start": 1042.559,
+        "end": 1049.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 394,
+        "text": "كانوا كو برايم خلاص سيب لو هم كانوا نون",
+        "start": 1046.28,
+        "end": 1051.2,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 395,
+        "text": "كو برايم خشلي جوه هنا بقى انا خلاص",
+        "start": 1049.039,
+        "end": 1053.72,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 396,
+        "text": "اتاكدت ان هم كو برايم وساعتها عايزك تعمل",
+        "start": 1051.2,
+        "end": 1055.919,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 397,
+        "text": "لي ايه ساعتها انا عايزك تعمل لي بوب ليه",
+        "start": 1053.72,
+        "end": 1058.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 398,
+        "text": "بقى بوب لان خلاص انا اتاكدت ان هم نان كو",
+        "start": 1055.919,
+        "end": 1060.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 399,
+        "text": "برايم فساعتها انا عايز اشيلهم عايز اشيل",
+        "start": 1058.16,
+        "end": 1062.52,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 400,
+        "text": "مثلا وليكن كان عندي هنا السته والثلاثه",
+        "start": 1060.48,
+        "end": 1065.16,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 401,
+        "text": "فانا عايز اشيل السته وعايز اشيل الثلاثه",
+        "start": 1062.52,
+        "end": 1066.799,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 402,
+        "text": "واحط",
+        "start": 1065.16,
+        "end": 1069.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 403,
+        "text": "المضاعف المشترك الاصغر اللي ما بين السته",
+        "start": 1066.799,
+        "end": 1070.679,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 404,
+        "text": "والثلاثه اللي هو عندي هنا المضاعف",
+        "start": 1069.0,
+        "end": 1073.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 405,
+        "text": "المشترك الاصغر اللي هو هنا السته طيب انا",
+        "start": 1070.679,
+        "end": 1075.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 406,
+        "text": "هنا ليه برده حطيتها جوه وايل ما كنت ممكن",
+        "start": 1073.24,
+        "end": 1078.64,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 407,
+        "text": "احطها جوه اف كونديشن ليه حطيتها جوه وايل",
+        "start": 1075.76,
+        "end": 1081.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 408,
+        "text": "عشان الكيس اللي كانت موجوده معايا في اول",
+        "start": 1078.64,
+        "end": 1083.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 409,
+        "text": "السؤال لما كانت عندي هنا في الكيس دي كده",
+        "start": 1081.039,
+        "end": 1085.799,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 410,
+        "text": "لما كانت عندي السته والاربعه لما احنا",
+        "start": 1083.76,
+        "end": 1089.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 411,
+        "text": "شفنا الكيس بتاعه السته والاربعه خلينا",
+        "start": 1085.799,
+        "end": 1091.4,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 412,
+        "text": "احنا نجيبها هنا مره ثانيه لما احنا كنا",
+        "start": 1089.48,
+        "end": 1094.0,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 413,
+        "text": "بنقول السته والاربعه كنا احنا ملاينين ان",
+        "start": 1091.4,
+        "end": 1097.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 414,
+        "text": "هي بعد كده ال 12 طلعت لي ان انا بختصر",
+        "start": 1094.0,
+        "end": 1099.679,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 415,
+        "text": "انا عليك في الوقت الجي سي دي بتاعهم طلع",
+        "start": 1097.24,
+        "end": 1103.159,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 416,
+        "text": "اكبر من واحد وجبنا الل س بتاعهم كام ب 12",
+        "start": 1099.679,
+        "end": 1104.76,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 417,
+        "text": "بعد كده احنا هنا الثلاثه بعد كده قنا",
+        "start": 1103.159,
+        "end": 1106.679,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 418,
+        "text": "احنا اثنين بعد كده السبعه بعد كده السته",
+        "start": 1104.76,
+        "end": 1109.1589999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 419,
+        "text": "بعد كده الاثنين طيب احنا ليه بقى عاملين",
+        "start": 1106.679,
+        "end": 1112.159,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 420,
+        "text": "هنا جوه وايل لوب عشان اتنيني هنا برض مع",
+        "start": 1109.159,
+        "end": 1115.1200000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 421,
+        "text": "ال 12 يعني ايه يعني اشوف ال 12 مع",
+        "start": 1112.159,
+        "end": 1118.1200000000001,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 422,
+        "text": "الثلاثه لو انا كنت عاملها جوه اف كونديشن",
+        "start": 1115.12,
+        "end": 1120.9189999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 423,
+        "text": "كنت انا خلاص انا اكني سكبيت ال 12 انا",
+        "start": 1118.12,
+        "end": 1123.32,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 424,
+        "text": "اكني خلاص عديت ال 12 وهروح اشوف الثلاثه",
+        "start": 1120.919,
+        "end": 1126.4,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 425,
+        "text": "مع الاثنين بعد كده لما اخلص الاثنين هروح",
+        "start": 1123.32,
+        "end": 1129.12,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 426,
+        "text": "اشوف السبعه مع السته فبالتالي ده غلط انا",
+        "start": 1126.4,
+        "end": 1132.039,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 427,
+        "text": "اصلا بعد ما عملت سكيب لدول او بعد ما",
+        "start": 1129.12,
+        "end": 1135.2399999999998,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 428,
+        "text": "خلاص اختزلت دول في ال 12 خلاص انا اختزلت",
+        "start": 1132.039,
+        "end": 1137.48,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 429,
+        "text": "السته والاربعه في ال 12 انا عايز اشوف ال",
+        "start": 1135.24,
+        "end": 1140.24,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 430,
+        "text": "12 اللي هو الوليد الجديد او الناتج",
+        "start": 1137.48,
+        "end": 1142.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 431,
+        "text": "الجديد عايز اشوف ال 12 مع الثلاثه عشان",
+        "start": 1140.24,
+        "end": 1145.28,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 432,
+        "text": "كده احنا عملناها جوه واي لوب هتنيها بشكل",
+        "start": 1142.6,
+        "end": 1148.799,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 433,
+        "text": "مستمر لحد ما يحصل ان يكون الرقمين اللي",
+        "start": 1145.28,
+        "end": 1151.6789999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 434,
+        "text": "جنب بعض دول هم نان كو برايم بعد كده هروح",
+        "start": 1148.799,
+        "end": 1153.52,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 435,
+        "text": "على الرقمين اللي جنبهم بعد كده هروح مع",
+        "start": 1151.679,
+        "end": 1155.88,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 436,
+        "text": "الرقمين اللي جنبهم لحد ما تطلع لي اراي",
+        "start": 1153.52,
+        "end": 1158.1589999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 437,
+        "text": "الجديده هي عباره ان هي ايه هي عباره ان",
+        "start": 1155.88,
+        "end": 1160.7990000000002,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 438,
+        "text": "هي كو برايم نمبرز ما بين الادجيسنت او",
+        "start": 1158.159,
+        "end": 1165.0800000000002,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 439,
+        "text": "الارقام المجاوره من بعضها بس ده كان شرح",
+        "start": 1160.799,
+        "end": 1167.6,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 440,
+        "text": "فكره المساله بتاعه",
+        "start": 1165.08,
+        "end": 1169.3999999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 441,
+        "text": "النانكو برايم وازاي ان احنا نعمل لهم",
+        "start": 1167.6,
+        "end": 1173.8799999999999,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 442,
+        "text": "ريبليس لو هم كانوا جنب بعض في الاراي",
+        "start": 1169.4,
+        "end": 1176.159,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 443,
+        "text": "اتمنى ان شرح المساله دي كان بسيط واتمنى",
+        "start": 1173.88,
+        "end": 1178.96,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 444,
+        "text": "ان انا اكون ساعدتك في فهم المساله دي",
+        "start": 1176.159,
+        "end": 1183.0800000000002,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    },
+    {
+        "chunk_id": 445,
+        "text": "وشكرا جداكم وسلام 거",
+        "start": 1178.96,
+        "end": 1183.08,
+        "video_title": "حل مسألة  LeetCode | مسألة Replace None Coprime"
+    }
+]

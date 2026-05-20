@@ -1,0 +1,2046 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم في الفيديو ده ان شاء الله",
+        "start": 0.32,
+        "end": 6.48,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 1,
+        "text": "عايزين ان احنا نتكلم عن او نظريه مشهوره",
+        "start": 2.36,
+        "end": 10.399999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 2,
+        "text": "جدا وهي حاجه اسمها باينوميال",
+        "start": 6.48,
+        "end": 12.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 3,
+        "text": "وهنشوف ان احنا في ازاي ان احنا في",
+        "start": 10.4,
+        "end": 15.639,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 4,
+        "text": "النظريه دي ازاي ان احنا بنستخدم السيرس",
+        "start": 12.96,
+        "end": 18.880000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 5,
+        "text": "معانا في ان احنا نعمل اكسبانشن لاي",
+        "start": 15.639,
+        "end": 23.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 6,
+        "text": "الجيبريك فورم او لاي الجيبريك اكسبريشن ف",
+        "start": 18.88,
+        "end": 25.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 7,
+        "text": "الباينوميال يرم بتقوللك بكل بساطه لو انت",
+        "start": 23.56,
+        "end": 29.598999999999997,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 8,
+        "text": "كان عندك عباره عن تيرم في اي وترم تاني",
+        "start": 25.72,
+        "end": 31.919999999999998,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 9,
+        "text": "بي فاي وبي دي عباره ان هي رموز ممكن تكون",
+        "start": 29.599,
+        "end": 34.04,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 10,
+        "text": "انها ارقام ممكن تكون هي عباره انها اكس",
+        "start": 31.92,
+        "end": 36.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 11,
+        "text": "وواي زي ما احنا هنشوف في الامثله اللي",
+        "start": 34.04,
+        "end": 38.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 12,
+        "text": "قدام ان شاء الله ممكن انها تكون اكس وزي",
+        "start": 36.0,
+        "end": 40.84,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 13,
+        "text": "اي رمز يعني هي اي وبي شرط ان هم ايه",
+        "start": 38.0,
+        "end": 43.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 14,
+        "text": "حاجتين مختلفين يعني وكده فبيقول لك ان",
+        "start": 40.84,
+        "end": 46.28,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 15,
+        "text": "انت عندك دي عباره ان هي السبميشن من اي",
+        "start": 43.12,
+        "end": 49.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 16,
+        "text": "بتساوي صفر لحد ان وانت هنا عندك انا",
+        "start": 46.28,
+        "end": 51.760000000000005,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 17,
+        "text": "بقوللك ان هي باور ان فانت هتبقى عندك",
+        "start": 49.399,
+        "end": 54.6,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 18,
+        "text": "السبميشن دي لحد ان بعد كده هتلاقي عندك",
+        "start": 51.76,
+        "end": 57.239,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 19,
+        "text": "الجزء ده اللي هو ان وتحته هنا اي ايه",
+        "start": 54.6,
+        "end": 59.64,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 20,
+        "text": "معنى الحته دي او ايه معنى الجزئيه دي",
+        "start": 57.239,
+        "end": 63.32,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 21,
+        "text": "حاجه ا في الالجيبرا اسمها الكومباينيشن",
+        "start": 59.64,
+        "end": 66.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 22,
+        "text": "في حاجه اسمها التباديل والتوافيق دي بقى",
+        "start": 63.32,
+        "end": 68.32,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 23,
+        "text": "دي اسمها التوافيق التوفيق دي بتبقى عباره",
+        "start": 66.24,
+        "end": 70.39999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 24,
+        "text": "عن ايه دي ان شاء الله هنشرحها قدام يعني",
+        "start": 68.32,
+        "end": 73.439,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 25,
+        "text": "وكده هنشرحها هنبقى نشرحها قدام بس",
+        "start": 70.4,
+        "end": 75.36,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 26,
+        "text": "التوفيق دي بكل اختصار هي عباره ان هي",
+        "start": 73.439,
+        "end": 78.27999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 27,
+        "text": "بتبقى ان واي بالشكل ده كده بتبقى عباره",
+        "start": 75.36,
+        "end": 82.03999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 28,
+        "text": "انها ان ممكن برض تشوفها في الحاسبه ان سي",
+        "start": 78.28,
+        "end": 84.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 29,
+        "text": "دي اللي هي الكومباينيشن وعندك هنا ايه",
+        "start": 82.04,
+        "end": 87.84,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 30,
+        "text": "وعندك هنا اي دي القانون بتاعها بكل بساطه",
+        "start": 84.56,
+        "end": 89.479,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 31,
+        "text": "دي حاجه ليها علاقه بالالجابرا زي ما قلت",
+        "start": 87.84,
+        "end": 92.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 32,
+        "text": "لك ولها برض علاقه ب يعني لها شويه كده",
+        "start": 89.479,
+        "end": 96.479,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 33,
+        "text": "قرب من البروبابيليتي والاحتماليات وكده",
+        "start": 92.72,
+        "end": 98.64,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 34,
+        "text": "فدي بتبقى عباره ان هي بتبقى ان",
+        "start": 96.479,
+        "end": 101.759,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 35,
+        "text": "الفاكتوريال المضروب بتاع ان على هنا على",
+        "start": 98.64,
+        "end": 104.43900000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 36,
+        "text": "هنا ايه على هنا ال ان ناقص الاي بالشكل",
+        "start": 101.759,
+        "end": 107.119,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 37,
+        "text": "ده وهاخد الفاكتوريال بتاعها خلي بالك ان",
+        "start": 104.439,
+        "end": 109.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 38,
+        "text": "لحد دلوقتي كل ده دي ما اسمهاش كومباينيشن",
+        "start": 107.119,
+        "end": 112.2,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 39,
+        "text": "دي اسمها بيرميوتيشن التباديل يعني في",
+        "start": 109.96,
+        "end": 113.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 40,
+        "text": "حاجه اسمها تباديل وفي حاجه اسمها توفيق",
+        "start": 112.2,
+        "end": 115.88000000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 41,
+        "text": "لو انت قمت قايل هنا بقى انا عندي هنا",
+        "start": 113.96,
+        "end": 118.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 42,
+        "text": "الترم اللي هو ار هاخد ار فاكتوريال او ار",
+        "start": 115.88,
+        "end": 121.6,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 43,
+        "text": "المضروب بتاعه انت كده خلاص انت جبت ايه",
+        "start": 118.96,
+        "end": 124.67999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 44,
+        "text": "انت كده جبت الكومباينيشن لو انت شلت الار",
+        "start": 121.6,
+        "end": 127.479,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 45,
+        "text": "دي شلتها من هنا انت كده بقى عندك ايه بقت",
+        "start": 124.68,
+        "end": 129.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 46,
+        "text": "عندك دي بيرميوتيشن فانا عندي هنا انا",
+        "start": 127.479,
+        "end": 132.16,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 47,
+        "text": "بستخدم هنا الكومباينيشن بستخدم هنا",
+        "start": 129.8,
+        "end": 134.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 48,
+        "text": "الكومباينيشن بالشكل ده اللي هي ان في",
+        "start": 132.16,
+        "end": 137.2,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 49,
+        "text": "اقواس كده وتحتها اي دي معناتها ان هي",
+        "start": 134.56,
+        "end": 140.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 50,
+        "text": "الكومباينيشن دي معنى بالظبط ده الجزء ده",
+        "start": 137.2,
+        "end": 143.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 51,
+        "text": "التفسير بتاعه وده ايه الحته اللي هي ان",
+        "start": 140.8,
+        "end": 146.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 52,
+        "text": "وتحتها اي ده هو بقى ايه الشرح بتاعه هو",
+        "start": 143.72,
+        "end": 148.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 53,
+        "text": "بيساوي ايه فالحته الحته دي هي معناها ان",
+        "start": 146.56,
+        "end": 151.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 54,
+        "text": "هي توافيق او كومباينيشن بعد كده عندك",
+        "start": 148.56,
+        "end": 155.28,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 55,
+        "text": "الترم ايه مرفوع باور ان ناقص اي اي اللي",
+        "start": 151.72,
+        "end": 157.16,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 56,
+        "text": "هو الترم اللي انت واقف عنده وبعد كده",
+        "start": 155.28,
+        "end": 159.519,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 57,
+        "text": "عندك هنا الترم اللي هو بي اللي هو الترم",
+        "start": 157.16,
+        "end": 163.35999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 58,
+        "text": "التاني مضروب او مرفوع باور اي خلينا ان",
+        "start": 159.519,
+        "end": 166.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 59,
+        "text": "احنا ناخد تبسيط السيريز دي او خلينا احنا",
+        "start": 163.36,
+        "end": 169.239,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 60,
+        "text": "ناخد تبسيط الفورمولا دي لو احنا حبينا",
+        "start": 166.72,
+        "end": 172.48,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 61,
+        "text": "احنا طبعا عندنا هنا اي بتبتدي من صفر لحد",
+        "start": 169.239,
+        "end": 174.76,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 62,
+        "text": "كام لحد ان اللي هي الباور اللي موجود",
+        "start": 172.48,
+        "end": 177.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 63,
+        "text": "عندي هنا طيب خلينا ان احنا نشوف لو انا",
+        "start": 174.76,
+        "end": 179.76,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 64,
+        "text": "كانت عندي مثلا ولتكن ان بثلاثه او خلينا",
+        "start": 177.0,
+        "end": 182.08,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 65,
+        "text": "افترض ان هي بان زي ما هي فانا عندي اول",
+        "start": 179.76,
+        "end": 184.07999999999998,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 66,
+        "text": "حاجه انا عندي هنا الترم الاولاني اللي هو",
+        "start": 182.08,
+        "end": 187.48000000000002,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 67,
+        "text": "اي بيساوي صفر اعوض في المعادله اعوض في",
+        "start": 184.08,
+        "end": 190.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 68,
+        "text": "الفورملا دي لان بالك انت بره السيريس انت",
+        "start": 187.48,
+        "end": 192.79899999999998,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 69,
+        "text": "عندك الجزء ده كله هو عباره ان هو ايه هو",
+        "start": 190.56,
+        "end": 195.4,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 70,
+        "text": "عباره ان هو الفانكشن بتاعتك هو عباره مش",
+        "start": 192.799,
+        "end": 197.20000000000002,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 71,
+        "text": "عايز اقول اي باور ان عشان ما تلخبطش ما",
+        "start": 195.4,
+        "end": 199.08,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 72,
+        "text": "بينها وما بين ايه اللي موجوده هنا خلينا",
+        "start": 197.2,
+        "end": 201.23899999999998,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 73,
+        "text": "نقول ان دي عباره انها ايه انها سي باور",
+        "start": 199.08,
+        "end": 203.28,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 74,
+        "text": "ان طب انا عايز اجيب هنا بقى ايه انا عندي",
+        "start": 201.239,
+        "end": 205.64000000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 75,
+        "text": "هنا اي بتساوي زيرو فانا عايز اجيب السي",
+        "start": 203.28,
+        "end": 208.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 76,
+        "text": "باور زيرو دي او السي هنا هي مش باور هي",
+        "start": 205.64,
+        "end": 211.55999999999997,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 77,
+        "text": "تحت هنا السي الترم بتاع الزيرو فهو قايل",
+        "start": 208.12,
+        "end": 213.519,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 78,
+        "text": "ايه هتبقى عندي هنا هو بيقول لي ايه هنا",
+        "start": 211.56,
+        "end": 215.48,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 79,
+        "text": "خلينا احنا نسغر شويه تحت هو بيقول لي هنا",
+        "start": 213.519,
+        "end": 218.92000000000002,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 80,
+        "text": "ان انا عندي هي عباره ان هي ان وعندي هنا",
+        "start": 215.48,
+        "end": 221.35999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 81,
+        "text": "اي تحت طب انا عندي هنا اي هي بتساوي كام",
+        "start": 218.92,
+        "end": 223.51899999999998,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 82,
+        "text": "اي في البدايه هي اي بتساوي صفر فهو قال",
+        "start": 221.36,
+        "end": 226.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 83,
+        "text": "انا عندي هنا ان في البدايه ان بتساوي",
+        "start": 223.519,
+        "end": 228.28,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 84,
+        "text": "ولتكن هفترض ان ان دي بثلاثه وانا عندي",
+        "start": 226.0,
+        "end": 231.28,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 85,
+        "text": "بجيب الترم الاولاني اللي هو هنا بصفر",
+        "start": 228.28,
+        "end": 233.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 86,
+        "text": "تمام فهتبقى عندي هنا هي عباره ان هي 3ه",
+        "start": 231.28,
+        "end": 235.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 87,
+        "text": "انت بتقول لي هنا انا عايز ان واحنا",
+        "start": 233.68,
+        "end": 236.48000000000002,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 88,
+        "text": "قايلين ان هنا بتساوي",
+        "start": 235.0,
+        "end": 239.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 89,
+        "text": "ان بتساوي لاه وعندي هنا بعد كده الاي",
+        "start": 236.48,
+        "end": 241.48,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 90,
+        "text": "بتساوي صفر هات لي بقى قيمه ده لان على",
+        "start": 239.0,
+        "end": 243.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 91,
+        "text": "فكره قيمه ده هي عباره عن هي رقم انت لو",
+        "start": 241.48,
+        "end": 246.439,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 92,
+        "text": "عوضت بده في المعادله دي كده بالظبط هتطلع",
+        "start": 243.72,
+        "end": 249.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 93,
+        "text": "لك ان هي برقم وعلى فكره بالمناسبه",
+        "start": 246.439,
+        "end": 252.799,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 94,
+        "text": "الترم ده كده او ان سي اي ده موجود في",
+        "start": 249.68,
+        "end": 254.36,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 95,
+        "text": "الحاسبه انت ممكن ان انت تجيبه بالحاسبه",
+        "start": 252.799,
+        "end": 256.84000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 96,
+        "text": "على طول مش شرط ان انت تقعد توجع دماغك",
+        "start": 254.36,
+        "end": 258.88,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 97,
+        "text": "وتقعد ان انت تعوض في المعادله دي ان شاء",
+        "start": 256.84,
+        "end": 261.19899999999996,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 98,
+        "text": "الله هنبقى نشرح قدام ايه ايه هي التوافيق",
+        "start": 258.88,
+        "end": 263.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 99,
+        "text": "وكده بعد كده بقول لك ايه بقول لك انا",
+        "start": 261.199,
+        "end": 265.479,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 100,
+        "text": "عندي هنا ايه اللي هو الترم ده كده مرفوع",
+        "start": 263.24,
+        "end": 267.96000000000004,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 101,
+        "text": "مرفوع باور كام؟ مرفوع باور ان اللي هي",
+        "start": 265.479,
+        "end": 270.36,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 102,
+        "text": "لاه ناقص كام ناقص الاي اللي هي بصفر",
+        "start": 267.96,
+        "end": 271.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 103,
+        "text": "فهتبقى عندي هي عباره ان هي اكاها هنا",
+        "start": 270.36,
+        "end": 274.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 104,
+        "text": "بصفر فهتبقى عندي انها اي باور لا بعد كده",
+        "start": 271.96,
+        "end": 276.79999999999995,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 105,
+        "text": "بي مرفوعه باور كام باور الاي طب انا عندي",
+        "start": 274.56,
+        "end": 279.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 106,
+        "text": "هنا الاي في الترم ده هي بتساوي كام اي",
+        "start": 276.8,
+        "end": 281.84000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 107,
+        "text": "بتساوي صفر فبي باور صفر هي في الاخر",
+        "start": 279.72,
+        "end": 284.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 108,
+        "text": "هتساوي كام هتساوي ان هي واحد فمش شرط ان",
+        "start": 281.84,
+        "end": 287.88,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 109,
+        "text": "انا اكتبها ففي الاخر ان الترم الاولاني",
+        "start": 284.12,
+        "end": 290.32,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 110,
+        "text": "اللي هو اللي هو التيرم اوف صفر يعني اللي",
+        "start": 287.88,
+        "end": 293.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 111,
+        "text": "هو الرتبه بتاعته بتساوي صفر هيبقى عندك",
+        "start": 290.32,
+        "end": 295.52,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 112,
+        "text": "بيساوي الثلاثه توافيق",
+        "start": 293.12,
+        "end": 298.16,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 113,
+        "text": "صفر وشوف لي بقى القيمه ديطلع لي بكام",
+        "start": 295.52,
+        "end": 301.039,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 114,
+        "text": "وعندي هنا اي باور لاثه فانت لو جيت وحسبت",
+        "start": 298.16,
+        "end": 303.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 115,
+        "text": "التوافيق او الكومباينيشن بتاعه الثلاثه",
+        "start": 301.039,
+        "end": 305.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 116,
+        "text": "مع صفر دي في الاخر هيطلع لك انها بواحد",
+        "start": 303.12,
+        "end": 307.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 117,
+        "text": "بعد كده هقوم قايل بقى لما انا اروح على",
+        "start": 305.8,
+        "end": 309.84000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 118,
+        "text": "الترم التاني ما هو انا تانييني مكمل من",
+        "start": 307.68,
+        "end": 312.84000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 119,
+        "text": "اي بتساوي صفر لحد اي بتساوي لاه لان احنا",
+        "start": 309.84,
+        "end": 315.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 120,
+        "text": "قمنا قايلين ان اي عندنا انا عايز لحد ان",
+        "start": 312.84,
+        "end": 317.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 121,
+        "text": "بتساوي لاه فهتبقى لو انت قمت قايل هنا ان",
+        "start": 315.0,
+        "end": 321.199,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 122,
+        "text": "انا عندي هنا اي بتساوي واحد فهتبقى عندك",
+        "start": 317.96,
+        "end": 323.88,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 123,
+        "text": "انا عندي انا بجيب التوافيق بتاعه الثلاثه",
+        "start": 321.199,
+        "end": 325.639,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 124,
+        "text": "مع الواحد بالشكل بالشكل ده ودي عباره",
+        "start": 323.88,
+        "end": 329.199,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 125,
+        "text": "عنها رقم بعد كده عندي هنا الا a باور لاه",
+        "start": 325.639,
+        "end": 331.88,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 126,
+        "text": "ناقص اي طب انا عندي اي المره دي بقت بكام",
+        "start": 329.199,
+        "end": 334.16,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 127,
+        "text": "اي المره دي بقت بواحد لان انا بجيب رتبه",
+        "start": 331.88,
+        "end": 337.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 128,
+        "text": "الحد الاولاني فهتبقى هنا اي ناقص بعد كده",
+        "start": 334.16,
+        "end": 339.88000000000005,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 129,
+        "text": "مضروبه هنا في بي باور كام باور الاي طب",
+        "start": 337.24,
+        "end": 341.759,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 130,
+        "text": "انا هنا عندي الاي بكام اي هنا بتساوي",
+        "start": 339.88,
+        "end": 344.639,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 131,
+        "text": "واحد شوف لي دي هتطلع لي بكام وبعد كده",
+        "start": 341.759,
+        "end": 346.759,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 132,
+        "text": "اضرب الترمين دول في بعض بعد ما تبسطوا",
+        "start": 344.639,
+        "end": 348.639,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 133,
+        "text": "فهتبقى عندي دي عباره انها اي سكوير",
+        "start": 346.759,
+        "end": 351.039,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 134,
+        "text": "بالشكل ده مضروبه هنا في بي وعندي",
+        "start": 348.639,
+        "end": 352.919,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 135,
+        "text": "التوافيق بتاع دي الثلاثه مع الواحد هيطلع",
+        "start": 351.039,
+        "end": 354.759,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 136,
+        "text": "لي في الاخر انها بكام هتطلع في الاخر",
+        "start": 352.919,
+        "end": 358.08,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 137,
+        "text": "انها لاثه بعد كده هقوم جايب برض الترم",
+        "start": 354.759,
+        "end": 360.039,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 138,
+        "text": "اللي بعده اللي هو اي بيساوي انين وبعد",
+        "start": 358.08,
+        "end": 362.4,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 139,
+        "text": "كده اقوم جايب الاي بتساوي لاه لحد ما",
+        "start": 360.039,
+        "end": 365.15999999999997,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 140,
+        "text": "اخلص لحد ما اخلص الفورمولا دي فانا هنا",
+        "start": 362.4,
+        "end": 367.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 141,
+        "text": "الباينوميال يرم ساعدتني ان انا اقدر ان",
+        "start": 365.16,
+        "end": 371.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 142,
+        "text": "انا افك المقدار ده للصوره المبسطه بتاعته",
+        "start": 367.96,
+        "end": 374.08,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 143,
+        "text": "اللي هي بالشكل ده كده ان هي تكون الصوره",
+        "start": 371.72,
+        "end": 376.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 144,
+        "text": "الكامله ليه خلينا احنا نشوف امثله هنا",
+        "start": 374.08,
+        "end": 379.75899999999996,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 145,
+        "text": "مديني الاكسبريشن ده وطالب مني ان انا",
+        "start": 376.8,
+        "end": 382.199,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 146,
+        "text": "اعمل اكسبانشن باستخدام الباينوميال او",
+        "start": 379.759,
+        "end": 384.639,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 147,
+        "text": "هنا مش محدد ان انا استخدم الباينوميال",
+        "start": 382.199,
+        "end": 386.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 148,
+        "text": "بس انا عشان هي باور لاثه فانا ممكن اكون",
+        "start": 384.639,
+        "end": 388.84000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 149,
+        "text": "مش حافظ القانون طب انا هعمل ايه انا",
+        "start": 386.8,
+        "end": 390.759,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 150,
+        "text": "هستخدم الثيرم او النظريه اللي هو مديها",
+        "start": 388.84,
+        "end": 394.52,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 151,
+        "text": "لي وهشوف بقى انا ازاي ان انا هقدر ان انا",
+        "start": 390.759,
+        "end": 398.52000000000004,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 152,
+        "text": "اعمل اكسبانشن ل للاكسبريشن ده فانا عندي",
+        "start": 394.52,
+        "end": 400.479,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 153,
+        "text": "اول حاجه المقدار اللي موجود قدامي هكتب",
+        "start": 398.52,
+        "end": 402.35999999999996,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 154,
+        "text": "الباينوميال يرم هي بتبقى عباره ان انا",
+        "start": 400.479,
+        "end": 404.52,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 155,
+        "text": "عندي هنا اي هنا شرط بقى زي ما احنا كنا",
+        "start": 402.36,
+        "end": 407.40000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 156,
+        "text": "بنقول قبل كده في الانفانايت سيرز كنت",
+        "start": 404.52,
+        "end": 410.28,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 157,
+        "text": "بقول مش شرط هي تبدا من ان اي هنا لا هنا",
+        "start": 407.4,
+        "end": 412.63899999999995,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 158,
+        "text": "مهم انها تبدا من اي بتساوي صفر لحد هنا",
+        "start": 410.28,
+        "end": 414.75899999999996,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 159,
+        "text": "بقى مش لحد الانفينتي زي الانفاينات هنا",
+        "start": 412.639,
+        "end": 417.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 160,
+        "text": "لا لحد ان اللي هو الجذر اللي موجود هنا",
+        "start": 414.759,
+        "end": 420.319,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 161,
+        "text": "معايا فبعد كده انا كل ده انا بكتب",
+        "start": 417.8,
+        "end": 422.40000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 162,
+        "text": "القانون بعد كده هو قايل انا عندي هنا انا",
+        "start": 420.319,
+        "end": 425.47900000000004,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 163,
+        "text": "باخد الكومباينيشن ان وعندي هنا اي بعد",
+        "start": 422.4,
+        "end": 430.67999999999995,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 164,
+        "text": "كده مضروبه هنا في a باور ان ناقص اي",
+        "start": 425.479,
+        "end": 433.84,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 165,
+        "text": "بالشكل ده كده ومضروبه هنا في بي باور اي",
+        "start": 430.68,
+        "end": 436.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 166,
+        "text": "كل ده لو كان عندي هنا بقى ايه لو كان انا",
+        "start": 433.84,
+        "end": 438.71999999999997,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 167,
+        "text": "عندي هنا هي عباره انها اي زائد بي بالشكل",
+        "start": 436.12,
+        "end": 442.479,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 168,
+        "text": "ده كده طيب لو انا بقى حبيت ان انا اسقط",
+        "start": 438.72,
+        "end": 444.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 169,
+        "text": "المثال اللي موجود قدامي هنا لو انا حبيت",
+        "start": 442.479,
+        "end": 446.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 170,
+        "text": "ان انا اسقط المثال ده على الصوره اللي",
+        "start": 444.24,
+        "end": 449.40000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 171,
+        "text": "موجوده هنا قدامي هتبقى عندي ازاي؟ هتبقى",
+        "start": 446.96,
+        "end": 451.08,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 172,
+        "text": "عندي اول حاجه انا عندي دي ما انساش انها",
+        "start": 449.4,
+        "end": 453.15999999999997,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 173,
+        "text": "هنا باور ان فلو انا حبيت ان انا اجيب",
+        "start": 451.08,
+        "end": 456.31899999999996,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 174,
+        "text": "الرموز بتاعتي هتبقى عندي اول حاجه الرمز",
+        "start": 453.16,
+        "end": 459.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 175,
+        "text": "بتاع الرمز بتاع اي هيبقى عندي هنا هو في",
+        "start": 456.319,
+        "end": 461.28000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 176,
+        "text": "المساله دي في المثال اللي موجود قدامي هو",
+        "start": 459.12,
+        "end": 464.4,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 177,
+        "text": "عندي هو كل ده بيساوي اكس طب الرمز بتاع",
+        "start": 461.28,
+        "end": 466.84,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 178,
+        "text": "الرمز بتاع بي هو عندي هنا هو بيساوي كام",
+        "start": 464.4,
+        "end": 470.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 179,
+        "text": "هو بيساوي واي طيب الرمز بقى بتاع ان وهنا",
+        "start": 466.84,
+        "end": 472.52,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 180,
+        "text": "بيساوي كام لو انت حبيت انك تعمل مابك لو",
+        "start": 470.12,
+        "end": 474.96,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 181,
+        "text": "انت حبيت انك تسقط كل حاجه على اللي موجود",
+        "start": 472.52,
+        "end": 477.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 182,
+        "text": "قدامها تبقى عندك هنا ان بتساوي لاه طب",
+        "start": 474.96,
+        "end": 480.4,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 183,
+        "text": "انا اكتب بقى المساله عندي هتبقى عندي ان",
+        "start": 477.68,
+        "end": 483.879,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 184,
+        "text": "اكس زائد واي باور لاه بالشكل ده هي في",
+        "start": 480.4,
+        "end": 487.19899999999996,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 185,
+        "text": "الاخر هتساوي انها السميشن لحد ان بتساوي",
+        "start": 483.879,
+        "end": 490.40000000000003,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 186,
+        "text": "كام لحد هنا ان بتساوي لاه وعندي هنا اي",
+        "start": 487.199,
+        "end": 494.319,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 187,
+        "text": "بتساوي 0 لكل المثال اللي موجود هنا قدامي",
+        "start": 490.4,
+        "end": 496.479,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 188,
+        "text": "طب انا كانت عندي هنا ان بتساوي كام ان",
+        "start": 494.319,
+        "end": 499.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 189,
+        "text": "هنا بتساوي لاه وعندي هنا اي هو الفرييابل",
+        "start": 496.479,
+        "end": 502.31899999999996,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 190,
+        "text": "ليه لان هنا مره اي هتساوي صفر مره هتساوي",
+        "start": 499.12,
+        "end": 504.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 191,
+        "text": "تساوي واحد مره هتساوي اثنين لحد ما توصل",
+        "start": 502.319,
+        "end": 506.879,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 192,
+        "text": "للثلاثه بعد كده انا عندي هنا الا a الا",
+        "start": 504.8,
+        "end": 510.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 193,
+        "text": "aي عندي هنا هي بتساوي اكس مرفوعه باور ان",
+        "start": 506.879,
+        "end": 512.839,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 194,
+        "text": "اللي هي الثلاثه ناقص قيمه الاي واي هي",
+        "start": 510.0,
+        "end": 514.919,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 195,
+        "text": "الفرييابل الموجود معايا بعد كده مضروبه",
+        "start": 512.839,
+        "end": 517.7600000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 196,
+        "text": "في البي والبي قلنا ان البي بتساوي الواي",
+        "start": 514.919,
+        "end": 520.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 197,
+        "text": "فهتبقى عندي هنا عباره ان هي واي باور",
+        "start": 517.76,
+        "end": 524.3199999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 198,
+        "text": "باور الاي بالشكل ده عوض انت بقى عوض انت",
+        "start": 520.68,
+        "end": 527.4399999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 199,
+        "text": "في السيرز دي وشوف في الاخر هيطلع لك بكام",
+        "start": 524.32,
+        "end": 529.32,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 200,
+        "text": "فهتبقى عندي دي في الاخر لو انا حبيت ان",
+        "start": 527.44,
+        "end": 532.36,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 201,
+        "text": "انا اجيب الترم الاولاني للمقدار ده هتبقى",
+        "start": 529.32,
+        "end": 534.2,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 202,
+        "text": "عندي هي عباره هنا انها كام؟ خلينا احنا",
+        "start": 532.36,
+        "end": 536.279,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 203,
+        "text": "نصغر الخط شويه هتبقى عندي هي عباره هنا",
+        "start": 534.2,
+        "end": 539.8000000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 204,
+        "text": "انها ثلاثه وبختار التوافيق مع الصفر بعد",
+        "start": 536.279,
+        "end": 543.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 205,
+        "text": "كده عندي هنا اكس باور لاه لاه انا عندي",
+        "start": 539.8,
+        "end": 545.7199999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 206,
+        "text": "هنا لاه ناقص الاي طب انا بجيب الحد",
+        "start": 543.0,
+        "end": 548.76,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 207,
+        "text": "الاولاني اللي هو رتبته صفر او الحد الاول",
+        "start": 545.72,
+        "end": 551.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 208,
+        "text": "اللي هو الاي بتاعته بتساوي صفر فهتبقى 3",
+        "start": 548.76,
+        "end": 555.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 209,
+        "text": "- 0 هتبقى 3 بعد كده مضروبه في الواي باور",
+        "start": 551.0,
+        "end": 557.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 210,
+        "text": "صفر فهتبقى عندي الواي باور صفر هي بتساوي",
+        "start": 555.399,
+        "end": 559.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 211,
+        "text": "واحد بعد كده انا هجيب الحد اللي بعده",
+        "start": 557.68,
+        "end": 562.04,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 212,
+        "text": "اللي هو اي عنده هنا بتساوي واحد فهتبقى",
+        "start": 559.56,
+        "end": 564.3599999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 213,
+        "text": "عندي هنا هي عباره ان هي لاثه",
+        "start": 562.04,
+        "end": 568.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 214,
+        "text": "والكومبينيشن مع الواحد بعد كده الاكس",
+        "start": 564.36,
+        "end": 571.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 215,
+        "text": "باور لاه ناقص الواحد طب 3 - هتبقى عندي",
+        "start": 568.24,
+        "end": 574.04,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 216,
+        "text": "هي عباره انها اكس باور اثنين وهنا الواي",
+        "start": 571.399,
+        "end": 577.04,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 217,
+        "text": "باور الواحد فمش شرط ان انا اكتب الواحد",
+        "start": 574.04,
+        "end": 579.88,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 218,
+        "text": "بعدين هتبقى عندي هنا الاي بجيب الحد",
+        "start": 577.04,
+        "end": 582.48,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 219,
+        "text": "الثالث اللي هو هنا الثالث اللي هو رتبته",
+        "start": 579.88,
+        "end": 585.16,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 220,
+        "text": "هنا اي عنده هنا بتساوي انين فهتبقى عندي",
+        "start": 582.48,
+        "end": 588.6800000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 221,
+        "text": "هنا انها لاه والكومبينيشن مع الاتنين في",
+        "start": 585.16,
+        "end": 592.04,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 222,
+        "text": "اكس باور 3 ناقص الاتنين 3 نا ا في الاخر",
+        "start": 588.68,
+        "end": 594.2399999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 223,
+        "text": "طلعلي انها اكس باور واحد وبعد كده انا",
+        "start": 592.04,
+        "end": 597.76,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 224,
+        "text": "عندي هنا ان واي باور انين بعدين هتبقى",
+        "start": 594.24,
+        "end": 600.9590000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 225,
+        "text": "عندي هنا انها لاه والكومباينيشن مع",
+        "start": 597.76,
+        "end": 602.88,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 226,
+        "text": "التلاه اللي هو هنا انا بجيب خلينا احنا",
+        "start": 600.959,
+        "end": 605.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 227,
+        "text": "نغيرون عشان ما الدنيا زحمت على بعض",
+        "start": 602.88,
+        "end": 607.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 228,
+        "text": "فهتبقى عندي هنا الاي هنا بتساوي لاه",
+        "start": 605.399,
+        "end": 610.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 229,
+        "text": "فهتبقى لاه باور او الكومباينيشن مع لاثه",
+        "start": 607.24,
+        "end": 614.519,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 230,
+        "text": "عفوا وهتبقى عندي هنا اكس باور 3 - 3 - 3",
+        "start": 610.399,
+        "end": 616.519,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 231,
+        "text": "في الاخر هيطلع لي انها باور صفر اكس باور",
+        "start": 614.519,
+        "end": 619.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 232,
+        "text": "صفر هي عباره انها واحد وهنا مرفوعه ا",
+        "start": 616.519,
+        "end": 623.32,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 233,
+        "text": "مضروبه قصدي في واي باور الاي اي هنا كانت",
+        "start": 619.8,
+        "end": 626.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 234,
+        "text": "عندي هنا بتساوي لاه انت كده خلاص انت كده",
+        "start": 623.32,
+        "end": 629.839,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 235,
+        "text": "اكنك فكيت السيريز دي انت كده اكنك فكيت",
+        "start": 626.12,
+        "end": 632.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 236,
+        "text": "السيرس دي طب انا لو وقفت عند واي بتساوي",
+        "start": 629.839,
+        "end": 634.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 237,
+        "text": "لاه هقول لك يا حبيبي عشان انت كنت قايل",
+        "start": 632.12,
+        "end": 637.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 238,
+        "text": "لي هنا ان انا عندي هنا السيريز دي لحد",
+        "start": 634.12,
+        "end": 640.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 239,
+        "text": "الثلاثه لحد لما تكون اي بتوصل للثلاثه",
+        "start": 637.68,
+        "end": 642.3599999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 240,
+        "text": "فانا خلاص انا عندي هنا اي وصلت للثلاثه",
+        "start": 640.12,
+        "end": 644.6,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 241,
+        "text": "فانا خلاص انا كده هقف كل اللي عليا اللي",
+        "start": 642.36,
+        "end": 647.44,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 242,
+        "text": "انا اعمله بعد كده ان انا ابسط بقى",
+        "start": 644.6,
+        "end": 649.6800000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 243,
+        "text": "المقدار ده طب ايه اللي هيتبسط فيه والله",
+        "start": 647.44,
+        "end": 651.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 244,
+        "text": "اللي هيبسط في المقدار اللي هو",
+        "start": 649.68,
+        "end": 652.8,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 245,
+        "text": "الكومباينيشن ده والكومبينيشن ده شوف",
+        "start": 651.0,
+        "end": 655.16,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 246,
+        "text": "هيطلع لي الرقم بتاعه بكام وده هيطلع لي",
+        "start": 652.8,
+        "end": 658.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 247,
+        "text": "بكام خلي بالك برده معلومه مهمه ان الحته",
+        "start": 655.16,
+        "end": 660.1999999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 248,
+        "text": "دهم عباره ان هم كوفيشنت وهم دول عباره ان",
+        "start": 658.0,
+        "end": 662.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 249,
+        "text": "هم ارقام فدي عباره ان هي كوفيشنت ودي",
+        "start": 660.2,
+        "end": 664.9200000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 250,
+        "text": "عباره ان هي كوفيشنت الثلاثه الكومباينيشن",
+        "start": 662.12,
+        "end": 666.92,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 251,
+        "text": "وخلي بالك برض ان انا ممكن ان انا اكتب",
+        "start": 664.92,
+        "end": 669.279,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 252,
+        "text": "الصيغه دي عباره ان هي لاه سي باور 0",
+        "start": 666.92,
+        "end": 672.16,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 253,
+        "text": "وممكن اكتب دي هي عباره هنا انها لاه سي",
+        "start": 669.279,
+        "end": 674.48,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 254,
+        "text": "او الكومباينيشن مع واحد وهنا دي هي",
+        "start": 672.16,
+        "end": 676.76,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 255,
+        "text": "الثلاثه الكومباينيشن مع اثنين وهنا دي",
+        "start": 674.48,
+        "end": 679.6,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 256,
+        "text": "الثلاثه الكومباينيشن مع الثلاثه دي ازاي",
+        "start": 676.76,
+        "end": 682.079,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 257,
+        "text": "ان انا ممكن اكتب الصيغه دي او هي عباره",
+        "start": 679.6,
+        "end": 684.5600000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 258,
+        "text": "ان هي توفيق طب دي في الاخر طلع لي بكام",
+        "start": 682.079,
+        "end": 686.88,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 259,
+        "text": "الكومبينيشن بتاع ده الثلاثه مع الصفر في",
+        "start": 684.56,
+        "end": 688.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 260,
+        "text": "الاخر هيطلع لي ان هو بيساوي واحد انت",
+        "start": 686.88,
+        "end": 690.6,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 261,
+        "text": "ممكن برض انك تعملها الحاسبه فهتبقى دي",
+        "start": 688.68,
+        "end": 693.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 262,
+        "text": "عندي عباره ان هي واحد بالشكل ده وخلينا",
+        "start": 690.6,
+        "end": 694.76,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 263,
+        "text": "احنا نكبر الخط شويه تبقى عندي هي عباره",
+        "start": 693.0,
+        "end": 697.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 264,
+        "text": "ان هي واحد في اكس باور لاه ممكن ان انا",
+        "start": 694.76,
+        "end": 698.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 265,
+        "text": "بدل ما اكتب واحده عشان ماكونش المساله",
+        "start": 697.24,
+        "end": 700.519,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 266,
+        "text": "شكلها وحش تبقى عندي عباره ان هي اكس باور",
+        "start": 698.68,
+        "end": 703.8389999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 267,
+        "text": "لاه بعد كده التوافيق بتاعه الثلاثه مع",
+        "start": 700.519,
+        "end": 706.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 268,
+        "text": "الواحد دي في الاخر هطلع لي بكام دي في",
+        "start": 703.839,
+        "end": 708.839,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 269,
+        "text": "الاخر هطلع لي انها بثلاثه في اكس سكوير",
+        "start": 706.0,
+        "end": 711.639,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 270,
+        "text": "مضروبه هنا في الواي بعد كده التوافيق",
+        "start": 708.839,
+        "end": 713.5600000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 271,
+        "text": "بتاعه الثلاثه مع الاتنين دي في الاخر",
+        "start": 711.639,
+        "end": 715.76,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 272,
+        "text": "هطلع لي بكام طلع لي برض انا هنا بثلاثه",
+        "start": 713.56,
+        "end": 719.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 273,
+        "text": "في الاكس في الواي باور انين المره دي بعد",
+        "start": 715.76,
+        "end": 721.279,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 274,
+        "text": "كده التوافيق بتاع الثلاثه مع الثلاثه",
+        "start": 719.399,
+        "end": 723.12,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 275,
+        "text": "هتيجي في الاخر اطلع لي ان هنا انها بواحد",
+        "start": 721.279,
+        "end": 725.0,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 276,
+        "text": "فمش شرط زي ما قلت لك ان انا اكتبها",
+        "start": 723.12,
+        "end": 727.24,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 277,
+        "text": "فهتبقى عندي بعد كده ان هي في واي باور",
+        "start": 725.0,
+        "end": 730.72,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 278,
+        "text": "لاه بالشكل ده وهو ده تبسيط المساله",
+        "start": 727.24,
+        "end": 733.04,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 279,
+        "text": "بالنسبه لي فهو ده حل المساله او",
+        "start": 730.72,
+        "end": 735.6800000000001,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 280,
+        "text": "الاكسبانشن بتاع المساله اللي هو كان مديه",
+        "start": 733.04,
+        "end": 738.519,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 281,
+        "text": "لي فوق فانا بدل ما كنت اوجع دماغي واقعد",
+        "start": 735.68,
+        "end": 741.56,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 282,
+        "text": "احفظ الصيغه بتاعه لما يجي يقول لي اي",
+        "start": 738.519,
+        "end": 744.6,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 283,
+        "text": "زائد بي باور لاه او يجي يقول لي اي زائد",
+        "start": 741.56,
+        "end": 747.1199999999999,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 284,
+        "text": "بي باور اثنين وقعد يقول اه ده انا هضرب",
+        "start": 744.6,
+        "end": 749.519,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 285,
+        "text": "الترمين الاولين في بعض كده هربع الترم",
+        "start": 747.12,
+        "end": 752.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 286,
+        "text": "الاولاني وهكعب الاخراني فكك من كل الكلام",
+        "start": 749.519,
+        "end": 755.639,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 287,
+        "text": "ده انت ممكن ان انت تستخدم الباينوميال في",
+        "start": 752.68,
+        "end": 758.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 288,
+        "text": "ان انت تفضي دماغك من كل القوانين دي",
+        "start": 755.639,
+        "end": 761.36,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 289,
+        "text": "وتحفظ بس القانون ده ومهما كانت رتبه ان",
+        "start": 758.399,
+        "end": 764.68,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 290,
+        "text": "انت تعرف تعمل اكسبانشن لاي اكسبريشن",
+        "start": 761.36,
+        "end": 767.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    },
+    {
+        "chunk_id": 291,
+        "text": "موجود معاك",
+        "start": 764.68,
+        "end": 767.399,
+        "video_title": "شرح  Binomial Therom بالعربي"
+    }
+]

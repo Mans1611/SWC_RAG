@@ -1,0 +1,3446 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام",
+        "start": 2.679,
+        "end": 5.92,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 1,
+        "text": "عليكم ان شاء الله في الفيديو ده او في",
+        "start": 3.56,
+        "end": 9.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 2,
+        "text": "البلاست دي هنتكلم شويه عن السيك وعن",
+        "start": 5.92,
+        "end": 12.04,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 3,
+        "text": "السيرس طبعا السيك هي واحده من الكونسبت",
+        "start": 9.08,
+        "end": 15.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 4,
+        "text": "المشهوره جدا في الرياضه بالنسبه للناس",
+        "start": 12.04,
+        "end": 18.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 5,
+        "text": "بغض نظر عن التكامل والتفاضل وباقي بق",
+        "start": 15.36,
+        "end": 22.358999999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 6,
+        "text": "الكونسبت في الرياضه يعني السيك هي بتبقى",
+        "start": 18.56,
+        "end": 24.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 7,
+        "text": "مشهوره جدا بالنسبه للناس لان كانوا زمان",
+        "start": 22.359,
+        "end": 26.119,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 8,
+        "text": "كانوا بيقعدوا",
+        "start": 24.88,
+        "end": 28.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 9,
+        "text": "ينشروا زي سيكونس معين على",
+        "start": 26.119,
+        "end": 32.2,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 10,
+        "text": "الفيس يقول لك بقى توقع ايه الرقم اللي",
+        "start": 28.96,
+        "end": 34.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 11,
+        "text": "جاي او ايه الرقم التالي بقى وكان غالبا",
+        "start": 32.2,
+        "end": 37.120000000000005,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 12,
+        "text": "الابهات يعني بيدوا التليفونات",
+        "start": 34.96,
+        "end": 39.480000000000004,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 13,
+        "text": "لعيالهم وينشر له السيكونس دي ويقول له",
+        "start": 37.12,
+        "end": 42.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 14,
+        "text": "هات الرقم اللي بعده وغالبا لو الابن جاوب",
+        "start": 39.48,
+        "end": 45.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 15,
+        "text": "صح فالاب كان بيتفائل جدا ويحس ان ابنه ده",
+        "start": 42.36,
+        "end": 48.519999999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 16,
+        "text": "هيبقى يعني مهندس شاطر وهيشتغل في واحده",
+        "start": 45.0,
+        "end": 51.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 17,
+        "text": "من الشركات الكبيره يعني وكده و يعني لو",
+        "start": 48.52,
+        "end": 55.399,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 18,
+        "text": "للاسف ما نجحش فالاب بقى ممكن بيسحب",
+        "start": 51.6,
+        "end": 58.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 19,
+        "text": "منه يسحب منه بقى التليفونات ويبتدي بقى",
+        "start": 55.399,
+        "end": 61.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 20,
+        "text": "ان الولد يحس ان هو ويحس بالجحيم يعني",
+        "start": 58.0,
+        "end": 64.4,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 21,
+        "text": "وكده بغض النظر عن كل الرغي ده فخلينا ان",
+        "start": 61.32,
+        "end": 66.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 22,
+        "text": "احنا نبتدي ان شاء الله ان احنا نبتدي في",
+        "start": 64.4,
+        "end": 69.759,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 23,
+        "text": "السيكونس الفيديو ده هيبقى انترو بسيطه عن",
+        "start": 66.32,
+        "end": 72.479,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 24,
+        "text": "السيكونس في البلاي ليست يعني هنتكلم فيها",
+        "start": 69.759,
+        "end": 77.119,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 25,
+        "text": "اكتر عن شويه زي شويه رولز وشويه قواعد",
+        "start": 72.479,
+        "end": 79.52,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 26,
+        "text": "يعني وكده وهنبتدي ان احنا ان شاء الله في",
+        "start": 77.119,
+        "end": 81.799,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 27,
+        "text": "الفيديوهات اللي جايه لو ربنا اراد وربنا",
+        "start": 79.52,
+        "end": 85.39999999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 28,
+        "text": "وفقني ان انا اشرح الكونسبت ده",
+        "start": 81.799,
+        "end": 88.88000000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 29,
+        "text": "او الشابتر ده كله فان شاء الله هيكون خير",
+        "start": 85.4,
+        "end": 91.119,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 30,
+        "text": "يعني اول حاجه سيكونسيز هي عباره ان هي",
+        "start": 88.88,
+        "end": 93.03999999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 31,
+        "text": "اوردر عذرا ان انا كاتب التعريف",
+        "start": 91.119,
+        "end": 95.479,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 32,
+        "text": "بالانجليزي بس هي عباره ان هي اوردر ليست",
+        "start": 93.04,
+        "end": 97.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 33,
+        "text": "يعني هي عباره ان هي ليست من الارقام خلي",
+        "start": 95.479,
+        "end": 100.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 34,
+        "text": "بالك ان هي ليست هنا انا مش بعمل جمع هنا",
+        "start": 97.56,
+        "end": 102.399,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 35,
+        "text": "مش بعمل جمع هي عبار ان هي ليست كل رقم هو",
+        "start": 100.0,
+        "end": 104.439,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 36,
+        "text": "منفرد لوحده يعني ده الرقم الاولاني ده",
+        "start": 102.399,
+        "end": 106.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 37,
+        "text": "الرقم الثاني ده الرقم الثالث الى اخره",
+        "start": 104.439,
+        "end": 109.79899999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 38,
+        "text": "مافيش اي حاجه بتجمعهم مع بعض ف عباره ان",
+        "start": 106.6,
+        "end": 113.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 39,
+        "text": "هي اوردر ليست سلسله يعني اوف نمبرز دي",
+        "start": 109.799,
+        "end": 118.119,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 40,
+        "text": "بقى اهم كلمه عندي هنا ان هي ان هي بتتبع",
+        "start": 113.0,
+        "end": 119.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 41,
+        "text": "بتتبع سبيسيفيك رول يعني ايه بتتبع",
+        "start": 118.119,
+        "end": 123.119,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 42,
+        "text": "سبيسيفيك رول يعني في رول بتربط ما بين",
+        "start": 119.96,
+        "end": 125.19999999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 43,
+        "text": "الترم الاولاني والترم الثاني في رول",
+        "start": 123.119,
+        "end": 127.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 44,
+        "text": "بتربط ما بين الترم الثاني والترم الثالث",
+        "start": 125.2,
+        "end": 130.28,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 45,
+        "text": "وتربط ما بين الترمات دول مع بعض ففي رول",
+        "start": 127.56,
+        "end": 132.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 46,
+        "text": "هو الارقام دي مش عشوائيه تمام يعني",
+        "start": 130.28,
+        "end": 136.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 47,
+        "text": "الارقام دي مش بس 3 5 18 20 ناقص واحد لا",
+        "start": 132.56,
+        "end": 139.31900000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 48,
+        "text": "هي بتبقى ارقام متسلسله مع بعض عشان كده",
+        "start": 136.56,
+        "end": 143.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 49,
+        "text": "انا بقول لك ان هي ليست وان هي برض بيكون",
+        "start": 139.319,
+        "end": 146.83999999999997,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 50,
+        "text": "بتفول سبيسيفيك رول يعني هي بتتبع قانون",
+        "start": 143.519,
+        "end": 149.31900000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 51,
+        "text": "معين خلينا ننزل على الجزء اللي تحت ده",
+        "start": 146.84,
+        "end": 151.239,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 52,
+        "text": "ونشوف م مثلا دي عباره ان هي بالنسبه لي",
+        "start": 149.319,
+        "end": 154.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 53,
+        "text": "دي عباره ان هي سيكونس قاللك ان اي 1 بقى",
+        "start": 151.239,
+        "end": 157.20000000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 54,
+        "text": "دي عباره او دي اسمها بتبقى اسمها فيرست",
+        "start": 154.16,
+        "end": 160.79999999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 55,
+        "text": "تيرم الحد الاولاني تمام اللي بعدها هي",
+        "start": 157.2,
+        "end": 164.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 56,
+        "text": "اسمها السكند تيرم والى اخره دي اسمها",
+        "start": 160.8,
+        "end": 166.64000000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 57,
+        "text": "الثيرد تيرم لحد ما توصل بقى للتيرم",
+        "start": 164.0,
+        "end": 168.959,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 58,
+        "text": "الاخير اللي هو اي اوف ان ده هي عباره ان",
+        "start": 166.64,
+        "end": 173.159,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 59,
+        "text": "هي او بيبقى اسمه ان اش اللي هو ان تيرم",
+        "start": 168.959,
+        "end": 176.2,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 60,
+        "text": "او الحد بقى اللي هو عندي ان دي غالبا لو",
+        "start": 173.159,
+        "end": 179.07999999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 61,
+        "text": "كان لو كان انا عندي هنا ان يعني لو كان",
+        "start": 176.2,
+        "end": 182.2,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 62,
+        "text": "عندي ليها نهايه لو ما كانتش مثلا ان دي",
+        "start": 179.08,
+        "end": 185.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 63,
+        "text": "هي ب انفينتي هي مش ب انفنتي فدي ساعتها",
+        "start": 182.2,
+        "end": 187.79899999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 64,
+        "text": "كان يسمها فاينا سيكونس يعني ايه فاييت",
+        "start": 185.0,
+        "end": 190.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 65,
+        "text": "سيكونس يعني السيكونس دي في الاخر ليها",
+        "start": 187.799,
+        "end": 193.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 66,
+        "text": "رقم يعني السيكونس دي في الاخر في رقم",
+        "start": 190.08,
+        "end": 196.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 67,
+        "text": "اخير ليها انما لو هي ما كانتش فاينا فكان",
+        "start": 193.12,
+        "end": 198.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 68,
+        "text": "بيبقى عندي الترم بتاعي او الترم دي او",
+        "start": 196.08,
+        "end": 201.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 69,
+        "text": "السيكونس دي بتنيها مستمره بقى الى ما لا",
+        "start": 198.76,
+        "end": 203.239,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 70,
+        "text": "نهايه فدي بالنسبه لي كان اسمها الفيرست",
+        "start": 201.36,
+        "end": 205.04000000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 71,
+        "text": "تيرم الثانيه كان اسمها السكند تيرم الى",
+        "start": 203.239,
+        "end": 206.959,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 72,
+        "text": "اخره يعني قال لك بقى انت بدل ما تقعد كل",
+        "start": 205.04,
+        "end": 209.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 73,
+        "text": "شويه قاعد تاعب نفسك وعمال بقى تكتب",
+        "start": 206.959,
+        "end": 211.599,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 74,
+        "text": "السيكونس بتاعتك بالشكل ده كده وعمال",
+        "start": 209.76,
+        "end": 214.84,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 75,
+        "text": "اردها تمام انت ممكن ان انت تكتبها بالشكل",
+        "start": 211.599,
+        "end": 218.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 76,
+        "text": "ده على اساس انها قانون وبتعرف الترم اللي",
+        "start": 214.84,
+        "end": 220.159,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 77,
+        "text": "هي بتبتدي من عنده معنى ان انا قلت لك ان",
+        "start": 218.0,
+        "end": 221.92,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 78,
+        "text": "هي بتبتدي من تيرم من عنده يبقى انا كده",
+        "start": 220.159,
+        "end": 224.2,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 79,
+        "text": "ان هي مش شرط انها تبتدي من واحد هي هنا",
+        "start": 221.92,
+        "end": 226.319,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 80,
+        "text": "بتبتدي من واحد او من الرتبه الاولانيه",
+        "start": 224.2,
+        "end": 227.95899999999997,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 81,
+        "text": "ممكن انا اخليها تبتدي من اثنين ممكن",
+        "start": 226.319,
+        "end": 231.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 82,
+        "text": "اخليها تبتدي من لاثه وبتستمر لحد ان تمام",
+        "start": 227.959,
+        "end": 233.159,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 83,
+        "text": "هنا ان عندي هنا ممكن تكون انفينتي زي ما",
+        "start": 231.0,
+        "end": 235.239,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 84,
+        "text": "قلت لك وممكن ما تكونش انفينتي لو كانت",
+        "start": 233.159,
+        "end": 238.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 85,
+        "text": "انفينتي كانت هتبقى انفايت لو ما كانتش ب",
+        "start": 235.239,
+        "end": 240.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 86,
+        "text": "انفينتي او كانت عندنا هنا هي عباره انها",
+        "start": 238.12,
+        "end": 244.64000000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 87,
+        "text": "هي رقم تمام رقم ثابت رقم صحيح كانت هتكون",
+        "start": 240.519,
+        "end": 247.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 88,
+        "text": "هي عباره ان هي فاييت سيكونس يعني خلينا",
+        "start": 244.64,
+        "end": 249.79899999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 89,
+        "text": "ناخد الاكام بل معانا والكامب في الحاله",
+        "start": 247.56,
+        "end": 252.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 90,
+        "text": "دي يعني بسيطه جدا هو بيقوللك انا مديك",
+        "start": 249.799,
+        "end": 253.76000000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 91,
+        "text": "هنا الرول زي ما انا قلت لك فوق يعني زي",
+        "start": 252.0,
+        "end": 255.92,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 92,
+        "text": "ما قلت لك في الجزء ده هو مديني هنا الرول",
+        "start": 253.76,
+        "end": 258.239,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 93,
+        "text": "تمام وبقول لك بقى هات لي الفيرست فور",
+        "start": 255.92,
+        "end": 259.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 94,
+        "text": "ايتمز او",
+        "start": 258.239,
+        "end": 262.75899999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 95,
+        "text": "الفيرست الفيرست فور تيرمز يعني هنا دي",
+        "start": 259.639,
+        "end": 265.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 96,
+        "text": "هخليها تبقى تيرمز افضل فكل اللي عليك",
+        "start": 262.759,
+        "end": 267.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 97,
+        "text": "اللي انت هتعمله ان انت هتقوم معوض",
+        "start": 265.08,
+        "end": 269.28,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 98,
+        "text": "بالارقام بتاعتك هو هنا ابتدى بقى من فين",
+        "start": 267.12,
+        "end": 271.52,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 99,
+        "text": "هو هنا هنا ابتد من ان بتساوي واحد فانت",
+        "start": 269.28,
+        "end": 273.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 100,
+        "text": "هنا هتعوض بان بتساوي واحد فتبقى عندي هنا",
+        "start": 271.52,
+        "end": 278.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 101,
+        "text": "ان بواحد على 1 + 1 فهتبقى عندي عباره هي",
+        "start": 273.88,
+        "end": 280.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 102,
+        "text": "ان هي هنا اين ده الترم الاولاني الترم",
+        "start": 278.24,
+        "end": 284.52,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 103,
+        "text": "التاني بقى هي عباره ان هي 2 على 2 + 1",
+        "start": 280.919,
+        "end": 287.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 104,
+        "text": "فهتبقى عندي هي عباره ان هي كام 3ه بعد",
+        "start": 284.52,
+        "end": 291.84,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 105,
+        "text": "كده + 3 على 3 + 1 فهتبقى عندي 4 الترم",
+        "start": 287.0,
+        "end": 294.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 106,
+        "text": "الرابع والاخير اللي هو طالبه مني هنا ا",
+        "start": 291.84,
+        "end": 299.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 107,
+        "text": "هو بيقول لك انها هتبقى 4 ئ 4 + 1 هتبقى 5",
+        "start": 294.6,
+        "end": 302.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 108,
+        "text": "فانت كده جبت اول اربع ترمات عندك في",
+        "start": 299.08,
+        "end": 304.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 109,
+        "text": "السيكونس دي طيب نروح",
+        "start": 302.16,
+        "end": 307.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 110,
+        "text": "على الفرع اللي بعده او فرع ب يعني هو هنا",
+        "start": 304.44,
+        "end": 309.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 111,
+        "text": "بيقول لك ايه بيقول لك انا عندي هنا هي",
+        "start": 307.44,
+        "end": 311.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 112,
+        "text": "مستمره لحد ما لا نهايه لحد انفينتي وبقول",
+        "start": 309.24,
+        "end": 314.8,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 113,
+        "text": "لك ان الترم الابتدائي بتاعك هو كان بصفر",
+        "start": 311.919,
+        "end": 317.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 114,
+        "text": "فانا هنا طالب منك ايه انا طالب منك هنا",
+        "start": 314.8,
+        "end": 320.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 115,
+        "text": "انك تجيب لي برض اول اول اربع ترمات",
+        "start": 317.44,
+        "end": 322.71999999999997,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 116,
+        "text": "فهتبقى عندك اول حاجه عباره ان هي كوساين",
+        "start": 320.68,
+        "end": 324.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 117,
+        "text": "هتعوض هنا بالزيرو هتبقى عباره انها",
+        "start": 322.72,
+        "end": 326.44000000000005,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 118,
+        "text": "كوساين الزيرو فهتبقى عندي كوساين الزيرو",
+        "start": 324.36,
+        "end": 329.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 119,
+        "text": "هي بتبقى بواحد بعد كده هتقوم معوض بان",
+        "start": 326.44,
+        "end": 332.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 120,
+        "text": "بواحد فهتبقى عندك الكوساين 1 في باي",
+        "start": 329.039,
+        "end": 336.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 121,
+        "text": "فهتبقى باي على 6 بعد كده",
+        "start": 332.639,
+        "end": 340.319,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 122,
+        "text": "كوساين الاتنين هتبقى عندك ان باتنين لان",
+        "start": 336.68,
+        "end": 343.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 123,
+        "text": "هو هنا ركز ان هو هنا قاللي انا ببتدي من",
+        "start": 340.319,
+        "end": 346.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 124,
+        "text": "ان بتساوي ز فده عندي دي كانت ان بتساوي ز",
+        "start": 343.12,
+        "end": 348.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 125,
+        "text": "دي عندي ان بتساوي واحد دي عندي هي ان",
+        "start": 346.44,
+        "end": 352.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 126,
+        "text": "بتساوي انين فهتبقى عندي ان في باي على 6",
+        "start": 348.919,
+        "end": 356.31899999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 127,
+        "text": "فهتبقى عندي انها 2 في باي على 6 بالشكل",
+        "start": 352.16,
+        "end": 360.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 128,
+        "text": "ده كده واخر واحده عندي هتبقى كوساين باي",
+        "start": 356.319,
+        "end": 364.8,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 129,
+        "text": "على س اشوف بقى كل واحد فيهم هيساوي ايه",
+        "start": 360.36,
+        "end": 367.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 130,
+        "text": "فاول رقم معايا هنا اللي هو كان بواحد",
+        "start": 364.8,
+        "end": 369.40000000000003,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 131,
+        "text": "هيبقى هو هنا بواحد كوساين الباي على س",
+        "start": 367.0,
+        "end": 371.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 132,
+        "text": "اشوف هو بيساوي كام ف كوساين الباي على س",
+        "start": 369.4,
+        "end": 374.84,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 133,
+        "text": "هو بيساوي جذر 3 على الاتنين بعد كده",
+        "start": 371.96,
+        "end": 378.35999999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 134,
+        "text": "كوساين الاتنين باي على س يعني هي هنا",
+        "start": 374.84,
+        "end": 381.479,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 135,
+        "text": "كوساين الباي على 3 لو احنا نختصرها ف",
+        "start": 378.36,
+        "end": 384.759,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 136,
+        "text": "كوساين الباي على 3 هتساوي عباره هنا انها",
+        "start": 381.479,
+        "end": 388.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 137,
+        "text": "نص بعد كده كوساين باي على 6 يعني دي",
+        "start": 384.759,
+        "end": 392.759,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 138,
+        "text": "عباره ان هي كوساين الباي على اين وكوساين",
+        "start": 388.639,
+        "end": 395.28000000000003,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 139,
+        "text": "الباي على اين بالمناسبه هي 90 يعني هي",
+        "start": 392.759,
+        "end": 398.199,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 140,
+        "text": "الزاويه 90 وكوساين 90 هي بتبقى بصفر",
+        "start": 395.28,
+        "end": 400.52,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 141,
+        "text": "فهيبقى عندي هي دي السلسله بتاعتي او",
+        "start": 398.199,
+        "end": 403.319,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 142,
+        "text": "هيبقى هو ده السيكونس بتاعي ودي اول اربع",
+        "start": 400.52,
+        "end": 407.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 143,
+        "text": "ترمات فيه فاول ترم عندي كان بواحد تاني",
+        "start": 403.319,
+        "end": 411.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 144,
+        "text": "ترم عندي كان بجذر 3 على ا ده كان اول ترم",
+        "start": 407.24,
+        "end": 413.759,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 145,
+        "text": "معايا واللي هو كانت عنده ان بتساوي 0 هنا",
+        "start": 411.36,
+        "end": 416.08000000000004,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 146,
+        "text": "كانت عندي هنا ان بتساوي 1 هنا كانت عندي",
+        "start": 413.759,
+        "end": 418.28000000000003,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 147,
+        "text": "هنا ان بتساوي 2 هنا كانت عندي هنا ان",
+        "start": 416.08,
+        "end": 421.19899999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 148,
+        "text": "بتساوي 3 طب ناخد بقى الاكام اللي بعده",
+        "start": 418.28,
+        "end": 424.15999999999997,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 149,
+        "text": "هنا طالب مني ان انا عايز اجيب الفورملا",
+        "start": 421.199,
+        "end": 426.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 150,
+        "text": "بتاعه السيكونس يعني هو هنا مديني",
+        "start": 424.16,
+        "end": 429.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 151,
+        "text": "السيكونس بتاعي تمام وطالب مني ان انا",
+        "start": 426.56,
+        "end": 431.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 152,
+        "text": "اجيب بقى الفورملا اللي فوق المثال اللي",
+        "start": 429.16,
+        "end": 433.52000000000004,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 153,
+        "text": "احنا كنا اخدناه فوق كان مديك الفورملا",
+        "start": 431.44,
+        "end": 435.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 154,
+        "text": "وطالب منك انك تجيب السيكونس او طالب منك",
+        "start": 433.52,
+        "end": 439.35999999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 155,
+        "text": "انك تجيب اول اربع ترمات بالشكل ده هنا هو",
+        "start": 435.919,
+        "end": 442.87899999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 156,
+        "text": "طالب منك العكس طيب خلينا ان احنا نبتدي",
+        "start": 439.36,
+        "end": 446.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 157,
+        "text": "في حل السؤال ده ونشوف طريقه حل السؤال",
+        "start": 442.879,
+        "end": 449.52000000000004,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 158,
+        "text": "بتاع ده هتكون ازاي اول حاجه انا عندي هنا",
+        "start": 446.0,
+        "end": 450.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 159,
+        "text": "لو انا بصيت على السيكونس هتلاقي ان هي",
+        "start": 449.52,
+        "end": 454.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 160,
+        "text": "سالب بعد كده موجب بعد كده سالب بعد كده",
+        "start": 450.96,
+        "end": 457.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 161,
+        "text": "موجب بعد كده سالب فهي الاشاره بتاعتي كل",
+        "start": 454.08,
+        "end": 460.35999999999996,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 162,
+        "text": "شويه عماله ترنيت قرنيت معناها تبادليه",
+        "start": 457.039,
+        "end": 462.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 163,
+        "text": "يعني ايه مره سالب مره موجب مره سالب مره",
+        "start": 460.36,
+        "end": 464.8,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 164,
+        "text": "موجب الترمات اللي بعدها كده فهي بتبقى",
+        "start": 462.68,
+        "end": 468.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 165,
+        "text": "سالب موجب سالب موجب سالب موجب بالشكل ده",
+        "start": 464.8,
+        "end": 470.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 166,
+        "text": "فهو قال لك لما انت تيجي تكتب بقى القانون",
+        "start": 468.639,
+        "end": 473.8,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 167,
+        "text": "بتاعك اول حاجه تحطها لو انت خدت بالك من",
+        "start": 470.68,
+        "end": 477.759,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 168,
+        "text": "الاشارات دي انك تحط سالب واحد باور ان",
+        "start": 473.8,
+        "end": 480.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 169,
+        "text": "تمام دي اول حاجه تحطها او دي الطريقه ان",
+        "start": 477.759,
+        "end": 482.91900000000004,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 170,
+        "text": "انت ازاي تعالج بيه حته الاشاره دي ان هي",
+        "start": 480.639,
+        "end": 486.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 171,
+        "text": "كل شويه عماله ترنيت كل شويه عماله تتغير",
+        "start": 482.919,
+        "end": 489.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 172,
+        "text": "فانت تحط سالب واحد باور ان ليه بقى حكايه",
+        "start": 486.08,
+        "end": 492.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 173,
+        "text": "السالب واحد باور ان دي قال لك ان سالب",
+        "start": 489.44,
+        "end": 494.319,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 174,
+        "text": "واحد باور ان عشان بقى تقعد تلعب في",
+        "start": 492.12,
+        "end": 496.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 175,
+        "text": "الاشاره زي ما انت عايز لو انت حطيتها",
+        "start": 494.319,
+        "end": 500.40000000000003,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 176,
+        "text": "باور ان ما هو انت عندك ان دي هي عدد او",
+        "start": 496.639,
+        "end": 502.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 177,
+        "text": "رتبه الحد بتاعك فانا عندي دي هنا ان",
+        "start": 500.4,
+        "end": 505.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 178,
+        "text": "بواحد عندي دي هنا ان بثنين عند هنا دي ان",
+        "start": 502.24,
+        "end": 507.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 179,
+        "text": "بثلاثه وهكذا فانت لما تبقى مثلا عندك اول",
+        "start": 505.0,
+        "end": 510.879,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 180,
+        "text": "واحده هي ان بواحد فتطلع لك هي هنا بسالب",
+        "start": 507.919,
+        "end": 513.1999999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 181,
+        "text": "واحد هتبقى بالشكل ده كده لما تبقى عندك",
+        "start": 510.879,
+        "end": 515.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 182,
+        "text": "ان باتنين فهتبقى عندك هي عباره هنا انها",
+        "start": 513.2,
+        "end": 520.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 183,
+        "text": "ناقص واح دي س ناقص واح باور انين فتطلع",
+        "start": 515.919,
+        "end": 523.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 184,
+        "text": "لك انها هي هتبقى بواحد لما تبقى عندك ان",
+        "start": 520.32,
+        "end": 526.1600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 185,
+        "text": "ب 3 هتبقى عندك هي عباره هنا انها ناقص وا",
+        "start": 523.24,
+        "end": 529.64,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 186,
+        "text": "باور 3 فهت طلع لك انها سالب سالب واحد",
+        "start": 526.16,
+        "end": 532.48,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 187,
+        "text": "بالشكل ده فهي هنا سالب واحد بعد كده واحد",
+        "start": 529.64,
+        "end": 535.8389999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 188,
+        "text": "بعد كده سالب واحد فعمال ترنيت وهنيك انت",
+        "start": 532.48,
+        "end": 539.48,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 189,
+        "text": "مكمل بقى بالشكل ده انت مش مهتم بكل حاجه",
+        "start": 535.839,
+        "end": 542.48,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 190,
+        "text": "من الحاجات دي غير حته الاشاره بس انما هي",
+        "start": 539.48,
+        "end": 544.8000000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 191,
+        "text": "كل مره هتديك واحد فانت الرقم بتاعك ما",
+        "start": 542.48,
+        "end": 548.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 192,
+        "text": "بيتاثر بس بيتاثر بالاشاره بس انما الواحد",
+        "start": 544.8,
+        "end": 551.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 193,
+        "text": "هتنيها زي ما هي فدي كانت اول حاجه ازاي",
+        "start": 548.36,
+        "end": 553.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 194,
+        "text": "ان انت تهندل حته الاشاره اللي هي كل شويه",
+        "start": 551.16,
+        "end": 556.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 195,
+        "text": "عماله تتغير هنا بالشكل ده بعد كده اروح",
+        "start": 553.519,
+        "end": 558.5600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 196,
+        "text": "بقى اشوف السيكونس بتاعتي انا خلاص خلصت",
+        "start": 556.519,
+        "end": 560.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 197,
+        "text": "من حته الاشاره اروح بقى اشوف الارقام",
+        "start": 558.56,
+        "end": 563.1199999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 198,
+        "text": "بتاعتي فانا عندي هنا كانت عندي هنا انها",
+        "start": 560.32,
+        "end": 568.7600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 199,
+        "text": "لاه بعد كده 2 4 8 16 خلينا نركز مع",
+        "start": 563.12,
+        "end": 572.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 200,
+        "text": "الاثنين وال 4 وال 8 وال 16 بعد كده هنرجع",
+        "start": 568.76,
+        "end": 575.04,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 201,
+        "text": "تاني لحته المقام اللي موجوده تحت دي فانا",
+        "start": 572.519,
+        "end": 579.5600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 202,
+        "text": "عندي هنا 2 4 8 ب 16 ايه اللي انا ملاحظه",
+        "start": 575.04,
+        "end": 582.04,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 203,
+        "text": "هنا انا ملاحظ هنا ان الاتنين دي هي عباره",
+        "start": 579.56,
+        "end": 584.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 204,
+        "text": "انها انين باور واحد الاربعه دي هي عباره",
+        "start": 582.04,
+        "end": 587.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 205,
+        "text": "انها اين باور 2 الانيه عباره انها 2 باور",
+        "start": 584.56,
+        "end": 591.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 206,
+        "text": "3 طب ال 16 هي عباره هنا انها اين باور 4",
+        "start": 587.76,
+        "end": 594.3199999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 207,
+        "text": "ولو كملت هتبقى عندك هنا 32 2 دي اللي هي",
+        "start": 591.0,
+        "end": 597.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 208,
+        "text": "عباره انها كام 2 باور خ طب ايه بقى اللي",
+        "start": 594.32,
+        "end": 600.2,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 209,
+        "text": "انا واخد بالي منه هنا انا واخد بالي ان",
+        "start": 597.68,
+        "end": 602.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 210,
+        "text": "الترمات بتاعتي هنا اللي هي الواحد",
+        "start": 600.2,
+        "end": 606.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 211,
+        "text": "والاتنين والثلاثه والاربعه هي عماله",
+        "start": 602.76,
+        "end": 608.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 212,
+        "text": "تتغير فهيبقى عندي هنا في البسط اللي",
+        "start": 606.32,
+        "end": 611.6400000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 213,
+        "text": "موجوده في البسط هنا اللي فوق هتبقى عباره",
+        "start": 608.76,
+        "end": 615.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 214,
+        "text": "انها اين باور ان طب هل بس اكتفي بان قال",
+        "start": 611.64,
+        "end": 618.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 215,
+        "text": "لك لا غلط ليه لان انت السيكونس بتاعك",
+        "start": 615.76,
+        "end": 621.959,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 216,
+        "text": "متاخر ليه متاخر انت السيكونس بتاعك كان",
+        "start": 618.88,
+        "end": 623.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 217,
+        "text": "المفروض ان انت عندك ده الترم الاولاني",
+        "start": 621.959,
+        "end": 626.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 218,
+        "text": "اللي هو الواحد وده الترم الثاني وده",
+        "start": 623.88,
+        "end": 628.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 219,
+        "text": "الترم الثالث فانت هنا لو انت خدت بالك",
+        "start": 626.079,
+        "end": 630.64,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 220,
+        "text": "هتلاحظ ان الترم الاولاني اللي هو الواحد",
+        "start": 628.56,
+        "end": 633.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 221,
+        "text": "ده جاي مع اللي كان عنده ان بتساوي انين",
+        "start": 630.64,
+        "end": 636.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 222,
+        "text": "والترم التاني اللي هو عندك هنا باثنين",
+        "start": 633.88,
+        "end": 640.2,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 223,
+        "text": "جاي مع الترم التالت وهنا ان باور 3ه",
+        "start": 636.519,
+        "end": 642.8,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 224,
+        "text": "الثلاثه دي جايه مع لما كانت هنا ان عندي",
+        "start": 640.2,
+        "end": 645.5600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 225,
+        "text": "هنا بتساوي اربعه وهكذا وكت عندي دي هنا",
+        "start": 642.8,
+        "end": 648.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 226,
+        "text": "ان بخمسه فهتلاقي ان الاربعه عندي هنا",
+        "start": 645.56,
+        "end": 651.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 227,
+        "text": "جايه مع الترم الخامس طب انت عشان تهن",
+        "start": 648.12,
+        "end": 654.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 228,
+        "text": "المشكله دي هتعمل ايه هتقوم حاطط هنا نا 1",
+        "start": 651.16,
+        "end": 657.4399999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 229,
+        "text": "افضل حاجه في كل الحل ده ان انت تقدر",
+        "start": 654.24,
+        "end": 660.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 230,
+        "text": "تتاكد من الحل بتاعك يعني ايه يعني خليني",
+        "start": 657.44,
+        "end": 663.1600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 231,
+        "text": "هنا اول حاجه اعوض انا كانت عندي هنا ان",
+        "start": 660.639,
+        "end": 666.72,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 232,
+        "text": "بتساوي واحد اعوض هنا في البسط هنا اقوم",
+        "start": 663.16,
+        "end": 669.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 233,
+        "text": "قايل 2 باور ان ماينص وا هتبقى 2 باور 1",
+        "start": 666.72,
+        "end": 671.9200000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 234,
+        "text": "ناق 1 هتطلع لي انها اين باور صفر ودي",
+        "start": 669.639,
+        "end": 674.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 235,
+        "text": "هتطلع لي انها بواحد فبالتالي هي مش هتاثر",
+        "start": 671.92,
+        "end": 676.92,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 236,
+        "text": "عليا خالص وبالتالي هيطلع لي بالشكل ده",
+        "start": 674.36,
+        "end": 679.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 237,
+        "text": "طيب اروح بقى بعد كده للمقام بس خليني اول",
+        "start": 676.92,
+        "end": 681.279,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 238,
+        "text": "حاجه امسح الجزء اللي احنا شخبط انا فيه",
+        "start": 679.32,
+        "end": 684.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 239,
+        "text": "هنا ده وخليني هنا بقى اركز على المقام",
+        "start": 681.279,
+        "end": 686.72,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 240,
+        "text": "عندي فهلا قي ان المقام عندي هنا هو",
+        "start": 684.44,
+        "end": 689.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 241,
+        "text": "بثلاثه بعد كده بقى بتسعه بعد كده هنا بقى",
+        "start": 686.72,
+        "end": 693.9590000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 242,
+        "text": "ب 27 فالته عندي هي عباره انها 3ه باور",
+        "start": 689.6,
+        "end": 696.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 243,
+        "text": "واحد التسعه هنا عباره انها 3ه باور انين",
+        "start": 693.959,
+        "end": 701.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 244,
+        "text": "ال 27 هي عباره هنا انها 3ه باور 3 فبرضه",
+        "start": 696.76,
+        "end": 704.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 245,
+        "text": "دي برض نفس قصه الترمات عندك هنا الواحد",
+        "start": 701.16,
+        "end": 706.399,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 246,
+        "text": "هتلاقي المقابل ليه هنا فوق الثلاثه",
+        "start": 704.24,
+        "end": 709.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 247,
+        "text": "الثنين المقابل ليها فوق هنا الاربعه فانت",
+        "start": 706.399,
+        "end": 712.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 248,
+        "text": "هتحس اصلا ان السيكونس بتاعك اللي هو",
+        "start": 709.6,
+        "end": 714.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 249,
+        "text": "اللاه بور واحد الثلاه باور اين الثلاه",
+        "start": 712.0,
+        "end": 718.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 250,
+        "text": "باور 3ه هو متاخر تو تيرمز هو هنا متاخر",
+        "start": 714.16,
+        "end": 720.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 251,
+        "text": "تو تيرمز طب انت هند لها بقى هنا ازاي ايه",
+        "start": 718.0,
+        "end": 723.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 252,
+        "text": "الرقم اللي عندك هنا ثابت الثلاثه الثلاثه",
+        "start": 720.68,
+        "end": 724.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 253,
+        "text": "دي كانت عندك هنا ثابت الثلاثه كانت عندك",
+        "start": 723.12,
+        "end": 726.839,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 254,
+        "text": "هنا ثابت الثلاثه كانت عندك هنا ثابت نفس",
+        "start": 724.68,
+        "end": 728.6389999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 255,
+        "text": "الحته اللي احنا عملناها فوق عند الاتنين",
+        "start": 726.839,
+        "end": 730.6800000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 256,
+        "text": "طب انت هتقوم جاي قايل ايه بقى هتقوم جاي",
+        "start": 728.639,
+        "end": 733.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 257,
+        "text": "قايل هنا ان انا عندي انها عباره انها",
+        "start": 730.68,
+        "end": 736.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 258,
+        "text": "لاثه خلينا نكتبها باللون الازرق هتبقى",
+        "start": 733.36,
+        "end": 739.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 259,
+        "text": "عندي هنا عباره انها لاثه باور ان ليه ان",
+        "start": 736.0,
+        "end": 740.92,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 260,
+        "text": "لان انا عندي الواحد اللي هو الاس اللي",
+        "start": 739.0,
+        "end": 742.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 261,
+        "text": "فوق هو اللي عمال يتغير مره بواحد مره",
+        "start": 740.92,
+        "end": 745.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 262,
+        "text": "باثنين مره بثلاثه فهتبقى ان ماينص كام",
+        "start": 742.88,
+        "end": 748.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 263,
+        "text": "بقى هنا هتبقى ماينص اين ليه ماينص اين",
+        "start": 745.68,
+        "end": 750.959,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 264,
+        "text": "لانها متا خره تو تيرم زي ما احنا قلنا",
+        "start": 748.32,
+        "end": 753.839,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 265,
+        "text": "هنا لو انت فاكر بقى بتاعه الان او مش لو",
+        "start": 750.959,
+        "end": 755.8,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 266,
+        "text": "انت فاكر احنا لسه في نفس المساله لما",
+        "start": 753.839,
+        "end": 758.5600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 267,
+        "text": "احنا كنا هندل او كنا احنا جبنا القصه دي",
+        "start": 755.8,
+        "end": 760.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 268,
+        "text": "كده بتاعه الاثنين اللي هي موجوده في",
+        "start": 758.56,
+        "end": 763.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 269,
+        "text": "البسط كانت هنا هي متاخره كانت متاخره",
+        "start": 760.079,
+        "end": 765.8389999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 270,
+        "text": "بيونت واحده بس كانت ه عندي هنا اين باور",
+        "start": 763.16,
+        "end": 768.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 271,
+        "text": "واحد هنا انين باور انين هنا انين باور",
+        "start": 765.839,
+        "end": 770.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 272,
+        "text": "تلاه انما انا عندي اللي تحت اللي موجوده",
+        "start": 768.56,
+        "end": 773.3599999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 273,
+        "text": "في المقام اللي هي اللاه والتسعه وال 27",
+        "start": 770.6,
+        "end": 776.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 274,
+        "text": "كلهم اللي تحت دول متاخرين بتو يونتس انا",
+        "start": 773.36,
+        "end": 779.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 275,
+        "text": "خلاص كده خلصت حل المساله دي افضل حاجه",
+        "start": 776.76,
+        "end": 781.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 276,
+        "text": "انك تعوض في القانون اللي انت جبته ده",
+        "start": 779.36,
+        "end": 784.0790000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 277,
+        "text": "وتشوفه هل هو هيطلع لك الترمات بتاعه",
+        "start": 781.36,
+        "end": 786.48,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 278,
+        "text": "المساله ولا لا لو اختلفت في وده فده",
+        "start": 784.079,
+        "end": 789.279,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 279,
+        "text": "معناته ان القانون بتاعك غلط ودي افضل",
+        "start": 786.48,
+        "end": 792.0790000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 280,
+        "text": "حاجه عشان دي بتثبت لك ان الحل بتاعك صح",
+        "start": 789.279,
+        "end": 795.48,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 281,
+        "text": "وتطمن ان انت حلك صح من قبل ما شوف السؤال",
+        "start": 792.079,
+        "end": 798.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 282,
+        "text": "اللي بعده نروح على الفرع اللي بعده وهنا",
+        "start": 795.48,
+        "end": 801.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 283,
+        "text": "بيقول لي انا عندي السيكونس بتاعي واحد",
+        "start": 798.0,
+        "end": 805.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 284,
+        "text": "صفر ناقص واح صفر واحد هتقول لي اه ده انا",
+        "start": 801.76,
+        "end": 807.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 285,
+        "text": "هنا اخدت بالي ان الاشاره كل شويه عمل",
+        "start": 805.6,
+        "end": 810.9200000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 286,
+        "text": "تغير اقول لك لا ليه بقى لان انا عندي هنا",
+        "start": 807.16,
+        "end": 814.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 287,
+        "text": "الاول رقم كان عندي موجب تمام تاني رقم هو",
+        "start": 810.92,
+        "end": 818.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 288,
+        "text": "صفر ثالث رقم هو سالب اللي بعده هو صفر",
+        "start": 814.16,
+        "end": 821.48,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 289,
+        "text": "اللي بعده موجب اللي بعده هو صفر حته",
+        "start": 818.68,
+        "end": 823.3599999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 290,
+        "text": "الاشاره اللي انا قلت لك عليها في السؤال",
+        "start": 821.48,
+        "end": 825.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 291,
+        "text": "اللي قبله ده اللي هي الحته دي كده اللي",
+        "start": 823.36,
+        "end": 826.839,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 292,
+        "text": "هي الجزئيه",
+        "start": 825.519,
+        "end": 830.5600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 293,
+        "text": "دي الحته دي بتكون موجوده لو هي ماشيه",
+        "start": 826.839,
+        "end": 833.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 294,
+        "text": "سالب موجب سالب موجب يعني هي عماله تتغير",
+        "start": 830.56,
+        "end": 836.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 295,
+        "text": "مره موجب مره سالب مره موجب مره سالب مره",
+        "start": 833.32,
+        "end": 838.759,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 296,
+        "text": "موجب مره سالب وهكذا انما هي هنا عندك انا",
+        "start": 836.0,
+        "end": 841.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 297,
+        "text": "عندي اول رقم موجب الرقم اللي بعده صفر",
+        "start": 838.759,
+        "end": 843.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 298,
+        "text": "الرقم اللي بعده سالب الرقم اللي بعده صفر",
+        "start": 841.079,
+        "end": 846.3199999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 299,
+        "text": "الرقم اللي بعده واحداني فدي قاعده",
+        "start": 843.639,
+        "end": 848.04,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 300,
+        "text": "الاشاره او الاشاره اللي احنا قلنا عليها",
+        "start": 846.32,
+        "end": 851.8000000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 301,
+        "text": "هنا مش موجوده نشوف بقى ازاي هنحل السؤال",
+        "start": 848.04,
+        "end": 854.639,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 302,
+        "text": "ده بكل بساطه لو انت اخدت بالك فانا عندي",
+        "start": 851.8,
+        "end": 857.7199999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 303,
+        "text": "هنا هي راحه للواحد بعد كده نزلت الصفر",
+        "start": 854.639,
+        "end": 860.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 304,
+        "text": "بعد كده ناقص واحد بعد كده صفر بعد كده",
+        "start": 857.72,
+        "end": 862.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 305,
+        "text": "رجعت للواحد تاني خلي بالك ان هي رجعت هنا",
+        "start": 860.44,
+        "end": 866.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 306,
+        "text": "للصفر يعني دي رجعت هنا للصفر ادي كده",
+        "start": 862.88,
+        "end": 869.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 307,
+        "text": "الواحد هنا راجع تاني ادي كده الناقص واحد",
+        "start": 866.24,
+        "end": 871.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 308,
+        "text": "برده راجعت تاني خلينا نرسمها افضل على",
+        "start": 869.079,
+        "end": 874.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 309,
+        "text": "جراف ويمكن لو انا رسمتها على جراف ممكن",
+        "start": 871.24,
+        "end": 878.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 310,
+        "text": "الرسمه دي هتوضح لك او تقدر ان انت تكتشف",
+        "start": 874.56,
+        "end": 880.2399999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 311,
+        "text": "السيكونس اللي هي ماشيه بيه فانا عندي ده",
+        "start": 878.12,
+        "end": 882.72,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 312,
+        "text": "عندي عباره ان هو جراف فهي عندي ابتدت من",
+        "start": 880.24,
+        "end": 885.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 313,
+        "text": "عند الواحد بالشكل ده هي عند الواحد بعد",
+        "start": 882.72,
+        "end": 887.839,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 314,
+        "text": "كده هي نزلت عند",
+        "start": 885.88,
+        "end": 891.279,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 315,
+        "text": "الصفر بعد كده نزلت عند الناقص واح بعد",
+        "start": 887.839,
+        "end": 894.399,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 316,
+        "text": "كده رجعت عند الصفر تاني بعد كده طلعت عند",
+        "start": 891.279,
+        "end": 898.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 317,
+        "text": "الواحد صفر وتنزل عند السالب واحد بالشكل",
+        "start": 894.399,
+        "end": 901.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 318,
+        "text": "ده كده انت طبعا لما انت شفت الرسمه دي",
+        "start": 898.0,
+        "end": 903.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 319,
+        "text": "لما انت شفت الرسمه دي انت عرفت ان هي",
+        "start": 901.6,
+        "end": 905.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 320,
+        "text": "عباره ان هي بيوديك فانكشن يعني هي يا اما",
+        "start": 903.56,
+        "end": 908.2399999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 321,
+        "text": "ساين يا اما كوساين طب انا عندي هي هنا",
+        "start": 905.44,
+        "end": 910.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 322,
+        "text": "ايه هي عندك هنا انت ممكن تقوم قاللي بكل",
+        "start": 908.24,
+        "end": 912.72,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 323,
+        "text": "بساطه هي عباره ان هي كوساين ليه كوساين",
+        "start": 910.6,
+        "end": 916.0790000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 324,
+        "text": "لان عندي اول تيرم هو كان عندي الواحد",
+        "start": 912.72,
+        "end": 918.279,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 325,
+        "text": "فعندي دي اصلا رسمه الكوساين هقول لك هو",
+        "start": 916.079,
+        "end": 921.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 326,
+        "text": "انت معاك حق بس في حته ناقصه عندك ايه هي",
+        "start": 918.279,
+        "end": 923.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 327,
+        "text": "ان انا عندي دي اصلا الترم ده هو عنده ان",
+        "start": 921.079,
+        "end": 926.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 328,
+        "text": "بواحد وعندي الترم ده هو عباره ان هو ان",
+        "start": 923.68,
+        "end": 928.4799999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 329,
+        "text": "باتنين وعندي ده هو عباره ان هو ان 3ه",
+        "start": 926.079,
+        "end": 930.319,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 330,
+        "text": "يعني ايه الكلام ده كله يعني ده الترم",
+        "start": 928.48,
+        "end": 932.1990000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 331,
+        "text": "الاولاني او ده الحد الاولاني ده الحد",
+        "start": 930.319,
+        "end": 934.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 332,
+        "text": "التاني وده الحد الثالث الى",
+        "start": 932.199,
+        "end": 938.5999999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 333,
+        "text": "اخره طيب ايه المطلوب بقى احنا خلاص احنا",
+        "start": 934.36,
+        "end": 942.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 334,
+        "text": "عرفنا ان هي هتبقى يا اما ساين احنا خلاص",
+        "start": 938.6,
+        "end": 945.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 335,
+        "text": "احنا عرفنا ان هي هتبقى ساين وخلي بالك ان",
+        "start": 942.16,
+        "end": 949.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 336,
+        "text": "ساين وكوساين الثنين هما واحد بس الفرق ان",
+        "start": 945.88,
+        "end": 951.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 337,
+        "text": "واحده متشف عن التانيه يعني الساين",
+        "start": 949.6,
+        "end": 954.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 338,
+        "text": "والكوساين انت ممكن تحول واحده فيهم",
+        "start": 951.88,
+        "end": 957.399,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 339,
+        "text": "للثانيه بس هتعمل شيفت فخليني هنا افترض",
+        "start": 954.0,
+        "end": 959.959,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 340,
+        "text": "ان انا همشي مع ال الداله المثلثيه",
+        "start": 957.399,
+        "end": 963.399,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 341,
+        "text": "الاوليه اللي هي كانت بين تمام وهتبقى",
+        "start": 959.959,
+        "end": 965.7199999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 342,
+        "text": "عندي هنا هي عباره هنا انها ان طب انا",
+        "start": 963.399,
+        "end": 967.56,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 343,
+        "text": "عندي هنا انا افترضت ان انا عندي هنا ان",
+        "start": 965.72,
+        "end": 970.279,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 344,
+        "text": "بواحد تمام ايه اللي في الساين اللي",
+        "start": 967.56,
+        "end": 973.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 345,
+        "text": "بيديني واحد قال لك ان اللي بيديك الواحد",
+        "start": 970.279,
+        "end": 976.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 346,
+        "text": "هو الباي على الاثنين وخلي بالك ان",
+        "start": 973.16,
+        "end": 978.959,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 347,
+        "text": "السيكونس ده هو يوديك وهناخد السيكونس لما",
+        "start": 976.079,
+        "end": 980.8,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 348,
+        "text": "بيبقى بيوديك بيبقى ليه قوانين يعني بس",
+        "start": 978.959,
+        "end": 982.959,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 349,
+        "text": "احنا هنا احنا لسه في البدايه فبن سمي",
+        "start": 980.8,
+        "end": 985.8389999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 350,
+        "text": "يعني وعايزين نكتشف هي الدنيا هنا بتمشي",
+        "start": 982.959,
+        "end": 988.199,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 351,
+        "text": "ازاي طيب لو انا بقى ابتديت ان انا اعوض",
+        "start": 985.839,
+        "end": 991.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 352,
+        "text": "بما ان انا خلاص انا طلعت الفورملا بتاعتي",
+        "start": 988.199,
+        "end": 993.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 353,
+        "text": "تمام انا عايز بقى اتاكد هي دي صح ولا لا",
+        "start": 991.36,
+        "end": 995.9590000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 354,
+        "text": "اول حاجه انت عشان اصلا بتاكد او على اساس",
+        "start": 993.68,
+        "end": 997.8389999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 355,
+        "text": "الفرضيه اللي انت بتجيبها دي يعني انا هنا",
+        "start": 995.959,
+        "end": 1000.16,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 356,
+        "text": "افترضت انها ساين ان ان دي انا عندي هي",
+        "start": 997.839,
+        "end": 1002.5600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 357,
+        "text": "بتبتدي من واحد وقمت قيل باي على ا طب انا",
+        "start": 1000.16,
+        "end": 1007.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 358,
+        "text": "ل قمت قايل باي على ا باي على ا عشان ساين",
+        "start": 1002.56,
+        "end": 1010.2399999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 359,
+        "text": "الباي على اين لما بالشكل ده هتطلع لي هنا",
+        "start": 1007.079,
+        "end": 1012.519,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 360,
+        "text": "بواحد وبالتالي انا هنا عرفت اجيب اول",
+        "start": 1010.24,
+        "end": 1014.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 361,
+        "text": "واحد لو انا قمت انا قايل ان انا عندي",
+        "start": 1012.519,
+        "end": 1017.68,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 362,
+        "text": "الساين الباي على انين وهعور بقى لما تبقى",
+        "start": 1014.44,
+        "end": 1020.1990000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 363,
+        "text": "ان باثنين اللي هو الثاني فهتبقى عندي هنا",
+        "start": 1017.68,
+        "end": 1023.319,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 364,
+        "text": "في اثنين فساين الباي هتطلع لك بصفر لان",
+        "start": 1020.199,
+        "end": 1026.8799999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 365,
+        "text": "هي ساين ال 180 وهكذا فبالتالي هتلاحظ ان",
+        "start": 1023.319,
+        "end": 1029.8799999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 366,
+        "text": "القانون ده هو اللي بيعبر عن السيكونس دي",
+        "start": 1026.88,
+        "end": 1032.5590000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 367,
+        "text": "فانا اول حاجه مره تانيه انا خدت بالي في",
+        "start": 1029.88,
+        "end": 1034.8390000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 368,
+        "text": "المساله دي ان هي عماله كل شويه القيم",
+        "start": 1032.559,
+        "end": 1037.079,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 369,
+        "text": "عماله تروح وترجع عليها بشكل بيوديك",
+        "start": 1034.839,
+        "end": 1039.799,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 370,
+        "text": "بالشكل ده فعرفت ان هي عباره ان هي داله",
+        "start": 1037.079,
+        "end": 1042.559,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 371,
+        "text": "مثلثيه انا هنا كنت قلت لك قبل كده ان انا",
+        "start": 1039.799,
+        "end": 1045.319,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 372,
+        "text": "عندي الساين والكوساين هما الاثنين واحد",
+        "start": 1042.559,
+        "end": 1047.9189999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 373,
+        "text": "بس الفرق في الشفت اكبر دليل على كده ان",
+        "start": 1045.319,
+        "end": 1050.52,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 374,
+        "text": "انا هنا جبت الفورملا دي او جبت القانون",
+        "start": 1047.919,
+        "end": 1053.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 375,
+        "text": "ده بدلاله الساين انا ممكن بكل بساطه",
+        "start": 1050.52,
+        "end": 1055.84,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 376,
+        "text": "احوله بدلاله الكوساين ازاي هعمل ده انا",
+        "start": 1053.0,
+        "end": 1059.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 377,
+        "text": "عندي دي الساين هخليها كوساين تمام وهتبقى",
+        "start": 1055.84,
+        "end": 1061.84,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 378,
+        "text": "عندي هنا بدل ما هي ان هخليها ان ماينص",
+        "start": 1059.32,
+        "end": 1065.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 379,
+        "text": "واحد باور او مضروبه في باي على اين مش",
+        "start": 1061.84,
+        "end": 1068.6789999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 380,
+        "text": "باور يعني تمام لو انت عودت بالصيغه دي",
+        "start": 1065.32,
+        "end": 1071.559,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 381,
+        "text": "هتلاحظ ان الفورملا دي هتديك السيكونس",
+        "start": 1068.679,
+        "end": 1074.2800000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 382,
+        "text": "اللي موجود فوق بالشكل ده فخلينا ان احنا",
+        "start": 1071.559,
+        "end": 1076.559,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 383,
+        "text": "نعوض بال السيكونس ده ونشوف هيطلع لي ايه",
+        "start": 1074.28,
+        "end": 1079.1589999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 384,
+        "text": "لو انا مبتق ان انا عندي هنا كوساين ان لو",
+        "start": 1076.559,
+        "end": 1081.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 385,
+        "text": "انا كانت عندي هنا ان بواحد فهتبقى عندي",
+        "start": 1079.159,
+        "end": 1084.0800000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 386,
+        "text": "هي عباره ان هي صفر ليه لان واحد ماينص",
+        "start": 1081.32,
+        "end": 1086.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 387,
+        "text": "واحد هتبقى صفر فترم ده كله هيكون بصفر",
+        "start": 1084.08,
+        "end": 1088.3999999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 388,
+        "text": "فهتبقى كوساين الصفر هي عندي هي عباره ان",
+        "start": 1086.12,
+        "end": 1090.799,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 389,
+        "text": "هي واحد بعد كده لو انا بتت قايل ان ان",
+        "start": 1088.4,
+        "end": 1093.64,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 390,
+        "text": "عندي هنا باثنين فهتبقى عندي كوساين الباي",
+        "start": 1090.799,
+        "end": 1096.8799999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 391,
+        "text": "على اين هتبقى بصفر بعد كده لو قمت قايل",
+        "start": 1093.64,
+        "end": 1099.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 392,
+        "text": "ان ان عندي هنا ب 3ه فهتبقى 3 نا 1 اللي",
+        "start": 1096.88,
+        "end": 1102.3600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 393,
+        "text": "هي انين فهتبقى كوساين الباي كوساين الباي",
+        "start": 1099.919,
+        "end": 1105.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 394,
+        "text": "ان هي بناقص واح ولو انت كملت بالسيكس ده",
+        "start": 1102.36,
+        "end": 1107.6399999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 395,
+        "text": "هتلاحظ ان هي هتطلع لك السيكونس دي بالظبط",
+        "start": 1105.039,
+        "end": 1110.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 396,
+        "text": "فانا هنا كتبت الصيغه دي بدلاله الكوساين",
+        "start": 1107.64,
+        "end": 1113.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 397,
+        "text": "عشان اثبت لك ان الساين والكوساين الاثنين",
+        "start": 1110.12,
+        "end": 1116.4399999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 398,
+        "text": "واحد وبس الفرق ما بينهم في الفيز شيفت",
+        "start": 1113.24,
+        "end": 1119.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 399,
+        "text": "اللي موجوده هنا بالظبط وبرده انا اكتشفت",
+        "start": 1116.44,
+        "end": 1121.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 400,
+        "text": "السيكونس اللي موجود فوق ده عن طريق ان هي",
+        "start": 1119.919,
+        "end": 1124.64,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 401,
+        "text": "كل شويه بتروح وترجع على نفس القيم دي",
+        "start": 1121.88,
+        "end": 1127.7600000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 402,
+        "text": "فعرفت ان هي هتبقى داله مثلثيه نروح بقى",
+        "start": 1124.64,
+        "end": 1130.4,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 403,
+        "text": "للسؤال الاخير معانا هنا وهو هنا بيقول لي",
+        "start": 1127.76,
+        "end": 1132.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 404,
+        "text": "انا عايزك برض تجيب الفورملا بتاعه",
+        "start": 1130.4,
+        "end": 1133.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 405,
+        "text": "السيكونس ده اول حاجه انا عندي كانت اول",
+        "start": 1132.039,
+        "end": 1136.28,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 406,
+        "text": "واحده موجب بعد كده تاني واحده نيجاتيف",
+        "start": 1133.96,
+        "end": 1138.52,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 407,
+        "text": "بعد كده موجب هنا بعد كده نيجاتيف بعد كده",
+        "start": 1136.28,
+        "end": 1141.9189999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 408,
+        "text": "هنا موجب فانا على طول هكتب ان هي طالما",
+        "start": 1138.52,
+        "end": 1144.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 409,
+        "text": "كل شويه الاشاره عندي عماله تتبدل فهتبقى",
+        "start": 1141.919,
+        "end": 1147.72,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 410,
+        "text": "عندي ان هي اي ان هي عباره ان هي هنا ناقص",
+        "start": 1144.44,
+        "end": 1151.559,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 411,
+        "text": "واح باور ان بس هنا في مشكله لو انت عوضت",
+        "start": 1147.72,
+        "end": 1153.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 412,
+        "text": "هنا ان انا عندي هنا ان بواحد وعندي هنا",
+        "start": 1151.559,
+        "end": 1156.559,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 413,
+        "text": "ان باتنين وعندي هنا ان بثلاثه الى اخره",
+        "start": 1153.76,
+        "end": 1158.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 414,
+        "text": "فلو انت جيت تعوض هنا في الصيغه اللي انت",
+        "start": 1156.559,
+        "end": 1162.28,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 415,
+        "text": "جايبها هيطلع لك ان اول رقم هيبقى نيجاتيف",
+        "start": 1158.96,
+        "end": 1164.2,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 416,
+        "text": "ليه اول رقم هيبقى نيجاتيف لان انا عندي",
+        "start": 1162.28,
+        "end": 1166.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 417,
+        "text": "ناقص واح باور واحد هيطلع لي ان هو بنجاتي",
+        "start": 1164.2,
+        "end": 1168.679,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 418,
+        "text": "واحد وانا عندي هنا اول رقم كان بوزيتيف",
+        "start": 1166.6,
+        "end": 1170.799,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 419,
+        "text": "ما كانش نيجاتيف طب ازاي بقى هنددي",
+        "start": 1168.679,
+        "end": 1172.799,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 420,
+        "text": "المشكله دي بكل بساطه عن طريق ان انت تقوم",
+        "start": 1170.799,
+        "end": 1175.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 421,
+        "text": "جاي عند الان دي وهتزول عليها واحد بس هي",
+        "start": 1172.799,
+        "end": 1178.4,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 422,
+        "text": "دي الاختصار يعني فانا هنا بكل بساطه",
+        "start": 1175.76,
+        "end": 1180.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 423,
+        "text": "طريقه حل بتكون ازاي ان انا بعد ما بجيب",
+        "start": 1178.4,
+        "end": 1184.1200000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 424,
+        "text": "كل ترم بعوض وبتاكد ان الدنيا عندي ماشيه",
+        "start": 1180.919,
+        "end": 1187.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 425,
+        "text": "تمام فانا هنا لما رجعت للسيكس اللي عندي",
+        "start": 1184.12,
+        "end": 1189.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 426,
+        "text": "لقيت ان هو بيبتدي ان اول رقم عندي",
+        "start": 1187.76,
+        "end": 1192.72,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 427,
+        "text": "بوزيتيف فعشان كده اضطريت ان انا ازود هنا",
+        "start": 1189.6,
+        "end": 1195.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 428,
+        "text": "واحد عشان لما اجي اجيب اول رقم يكون",
+        "start": 1192.72,
+        "end": 1197.84,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 429,
+        "text": "بوزيتيف لو جيت اعوض هنا بتاني رقم قمت",
+        "start": 1195.24,
+        "end": 1199.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 430,
+        "text": "انا قال ان انا عندي هنا ان باثنين ان",
+        "start": 1197.84,
+        "end": 1203.28,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 431,
+        "text": "باثنين ان انين زائد واحد يعني لاه",
+        "start": 1199.919,
+        "end": 1206.2800000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 432,
+        "text": "فبالتالي هتبقى ناقص واح باور 3 هطلع لي",
+        "start": 1203.28,
+        "end": 1208.08,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 433,
+        "text": "ان هي نيجاتيف وبالتالي انا عرفت هنا ان",
+        "start": 1206.28,
+        "end": 1209.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 434,
+        "text": "انا اجيب ان الاشاره تبقى عندي هنا",
+        "start": 1208.08,
+        "end": 1212.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 435,
+        "text": "نيجاتيف وقدرت ان انا احافظ على السيكونس",
+        "start": 1209.6,
+        "end": 1214.4399999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 436,
+        "text": "بتاع الاشارات بتاعي ابص بقى بعد كده",
+        "start": 1212.32,
+        "end": 1217.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 437,
+        "text": "خلينا نركز على حته بتاعه البسط اللي هي",
+        "start": 1214.44,
+        "end": 1219.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 438,
+        "text": "موجوده هنا عندي هنا بواحد بعد كده عندي",
+        "start": 1217.039,
+        "end": 1220.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 439,
+        "text": "هنا باربعه بعد كده عندي هنا بتسعه بعد",
+        "start": 1219.039,
+        "end": 1223.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 440,
+        "text": "كده عندي هنا ب 16 ايه السيكونس اللي هي",
+        "start": 1220.96,
+        "end": 1225.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 441,
+        "text": "ماشيه بيه انا عندي دي بواحد بعد كده",
+        "start": 1223.44,
+        "end": 1228.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 442,
+        "text": "الاربعه الاربعه دي هي عباره ان هي ايه",
+        "start": 1225.96,
+        "end": 1231.159,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 443,
+        "text": "الاربعه عباره انها اين باور انين التسعه",
+        "start": 1228.039,
+        "end": 1234.4,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 444,
+        "text": "هي عباره ان هي 3ه باور الاثنين ال 16 هي",
+        "start": 1231.159,
+        "end": 1237.5590000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 445,
+        "text": "عباره ان هي اربعه باور الاثنين طب ال 25",
+        "start": 1234.4,
+        "end": 1240.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 446,
+        "text": "هي عباره ان هي خه باور اين طب انا خدت",
+        "start": 1237.559,
+        "end": 1242.6,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 447,
+        "text": "بالي هنا من ايه خدت بالي ان البسط هو",
+        "start": 1240.24,
+        "end": 1245.1200000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 448,
+        "text": "عباره ايه الترم اللي كل شويه عمال يتغير",
+        "start": 1242.6,
+        "end": 1249.28,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 449,
+        "text": "الاتنين اللاه والاربعه بالشكل ده طب لو",
+        "start": 1245.12,
+        "end": 1251.9189999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 450,
+        "text": "انا بقى جيت اقارن الحدود او الارقام اللي",
+        "start": 1249.28,
+        "end": 1254.0,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 451,
+        "text": "عندي اللي عملت تغير بالتر مات اللي",
+        "start": 1251.919,
+        "end": 1256.4,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 452,
+        "text": "موجوده فوق هنلاحظ ان ما فيش شيفت خالص",
+        "start": 1254.0,
+        "end": 1259.12,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 453,
+        "text": "ليه لان انا عندي هنا هي عندي هي عباره ان",
+        "start": 1256.4,
+        "end": 1261.3600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 454,
+        "text": "هي اثنين وفوق اثنين عندي هنا عباره ان هي",
+        "start": 1259.12,
+        "end": 1263.799,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 455,
+        "text": "لاثه وفوق لاثه عندي هنا يا كانت هنا",
+        "start": 1261.36,
+        "end": 1266.1589999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 456,
+        "text": "بواحد هتبقى هنا فوق واححد لو انت خدت",
+        "start": 1263.799,
+        "end": 1268.36,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 457,
+        "text": "بالك برض هنا ان انا عندي هي واحد باور",
+        "start": 1266.159,
+        "end": 1271.5200000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 458,
+        "text": "انين تمام وعندي هنا خمسه انا عندي دي فوق",
+        "start": 1268.36,
+        "end": 1274.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 459,
+        "text": "هي ان بتساوي خمسه طب هكتبها ازاي هكتبها",
+        "start": 1271.52,
+        "end": 1276.8799999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 460,
+        "text": "ان انا عندي الاثنين والثلاثه والاربعه هي",
+        "start": 1274.24,
+        "end": 1279.159,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 461,
+        "text": "الترمات هي هي بتساوي الترمات فهتبقى عندي",
+        "start": 1276.88,
+        "end": 1281.72,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 462,
+        "text": "هنا ان وعندي هنا الاثنين اللي هي الاس",
+        "start": 1279.159,
+        "end": 1284.7600000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 463,
+        "text": "بتاعها كل مره هو ثابت كل مره هو ما",
+        "start": 1281.72,
+        "end": 1287.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 464,
+        "text": "بيتغيرش فهتبقى عندي هنا هي ان باور اين",
+        "start": 1284.76,
+        "end": 1290.559,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 465,
+        "text": "اروح بقى بقى للمقام عندي المقام عندي هو",
+        "start": 1287.96,
+        "end": 1292.679,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 466,
+        "text": "عباره ان هو اثنين بعد كده لاثه بعد كده",
+        "start": 1290.559,
+        "end": 1295.32,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 467,
+        "text": "اربعه بعد كده خمسه بعد كده سته لو انا",
+        "start": 1292.679,
+        "end": 1298.039,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 468,
+        "text": "جيت اقارنه بالتر مات هلاح ان انا عندي",
+        "start": 1295.32,
+        "end": 1300.6399999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 469,
+        "text": "هنا اثنين دي كده لاثه زي ما هي مكتوبه",
+        "start": 1298.039,
+        "end": 1303.76,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 470,
+        "text": "اقارن ده بالتر مات هلاح ان الاثنين معاه",
+        "start": 1300.64,
+        "end": 1305.919,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 471,
+        "text": "الواحد الثلاثه معاها الثنين الاربعه",
+        "start": 1303.76,
+        "end": 1308.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 472,
+        "text": "معاها الثلاثه تمام فانا هاخد بالي ان",
+        "start": 1305.919,
+        "end": 1312.7990000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 473,
+        "text": "المقام هو سابق مش متاخر هو سابق بمقدار",
+        "start": 1308.96,
+        "end": 1315.3600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 474,
+        "text": "واحد وهنا عندي الثلاثه هي سابقه بمقدار",
+        "start": 1312.799,
+        "end": 1317.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 475,
+        "text": "واحد عن اللي فوق فهتبقى عندي هي ان زي ما",
+        "start": 1315.36,
+        "end": 1319.7199999999998,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 476,
+        "text": "هي مكتوبه خليني اكتبها باللون الازر عشان",
+        "start": 1317.96,
+        "end": 1322.559,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 477,
+        "text": "يكون الدنيا جميله يعني فهتبقى عندي انها",
+        "start": 1319.72,
+        "end": 1325.88,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 478,
+        "text": "ان وبما انها سابقه المقام هو سابق فهتبقى",
+        "start": 1322.559,
+        "end": 1329.3999999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 479,
+        "text": "عندي هنا ان + 1 بالشكل ده كده فيبقى هو",
+        "start": 1325.88,
+        "end": 1332.8400000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 480,
+        "text": "ده القانون بتاعي والفورم اللي تقدر ان",
+        "start": 1329.4,
+        "end": 1336.0800000000002,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 481,
+        "text": "انت تجيب بيها السيكونس السيكونس اللي فوق",
+        "start": 1332.84,
+        "end": 1339.24,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 482,
+        "text": "ده فهي دي طريقه ان انت ازاي بتفكر في حل",
+        "start": 1336.08,
+        "end": 1341.96,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 483,
+        "text": "المساله حته الاشاره دي برض لو هي كل شويه",
+        "start": 1339.24,
+        "end": 1344.279,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 484,
+        "text": "بتول ترنيت فانت هتجيبها بالمنظر ده اللي",
+        "start": 1341.96,
+        "end": 1347.159,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 485,
+        "text": "هي ناقص واح وتشوف برض الاس بتاعك تتابع",
+        "start": 1344.279,
+        "end": 1349.44,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 486,
+        "text": "الاس بتاعك مع",
+        "start": 1347.159,
+        "end": 1352.1200000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 487,
+        "text": "موجود فوق وتركز على اول اشاره بتبتدي",
+        "start": 1349.44,
+        "end": 1355.799,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 488,
+        "text": "بموجب ولا سالب وعلى اساسه بتغير في",
+        "start": 1352.12,
+        "end": 1359.6789999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 489,
+        "text": "الباور هنا وبس دي كانت انت بسيطه جدا عن",
+        "start": 1355.799,
+        "end": 1362.8799999999999,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 490,
+        "text": "الس اتمنى ان شرح الفيديو ده كان بسيط",
+        "start": 1359.679,
+        "end": 1368.3600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    },
+    {
+        "chunk_id": 491,
+        "text": "ومفيد وشكرا جداكم وسلام عليكم",
+        "start": 1362.88,
+        "end": 1368.3600000000001,
+        "video_title": "Sequences for Beginners | Intro to Sequences"
+    }
+]

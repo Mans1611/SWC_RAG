@@ -1,0 +1,4797 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم في الفيديو ده ان شاء الله",
+        "start": 0.16,
+        "end": 4.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 1,
+        "text": "هنتكلم عن التكامل بتاع",
+        "start": 1.88,
+        "end": 8.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 2,
+        "text": "الدوال المثلثيه العكسيه عشان اكون صادق",
+        "start": 4.96,
+        "end": 11.120000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 3,
+        "text": "معاك وعشان برض اكون دقيق في نفس الوقت في",
+        "start": 8.8,
+        "end": 13.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 4,
+        "text": "العنوان فاحنا هنا هنكامل دوال عاديه جدا",
+        "start": 11.12,
+        "end": 16.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 5,
+        "text": "هو يكون مديه لي والناتج اللي هيطلع لي في",
+        "start": 13.799,
+        "end": 19.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 6,
+        "text": "النهايه هيكون فيه انفرس تريك فانكشن او",
+        "start": 16.4,
+        "end": 24.598999999999997,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 7,
+        "text": "الداله مثلثيه عكسيه ا حاجه مهمه جدا ومن",
+        "start": 19.52,
+        "end": 27.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 8,
+        "text": "متطلبات الفيديو ده من الريكوايرمنتس اللي",
+        "start": 24.599,
+        "end": 29.359,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 9,
+        "text": "هو انت لازم تكون اصلا عارف الديريفتيف",
+        "start": 27.24,
+        "end": 32.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 10,
+        "text": "بتاع بتاع الدوال المثلثيه العكسيه لازم",
+        "start": 29.359,
+        "end": 34.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 11,
+        "text": "تكون عارف الاشتقاق بتاعها الحاجه الثانيه",
+        "start": 32.0,
+        "end": 36.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 12,
+        "text": "لازم تكون عارف بعض التكنيكات اللي",
+        "start": 34.399,
+        "end": 39.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 13,
+        "text": "هتساعدنا جدا في تبسيط المقادير الجبريه",
+        "start": 36.559,
+        "end": 41.959999999999994,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 14,
+        "text": "اللي هتكون معانا تكنيكات جبريه زي ايه زي",
+        "start": 39.2,
+        "end": 44.480000000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 15,
+        "text": "مثلا اللونج ديفيجن لازم تكون بتعرف تعمل",
+        "start": 41.96,
+        "end": 46.719,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 16,
+        "text": "لونج ديفيجن لو انا كانت عندي لكثيرات",
+        "start": 44.48,
+        "end": 49.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 17,
+        "text": "الحدود وبرض لازم تكون تعرف ويا ريت لو",
+        "start": 46.719,
+        "end": 51.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 18,
+        "text": "انت بتعرف تعمل اكمال مربع اللي هي",
+        "start": 49.68,
+        "end": 53.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 19,
+        "text": "الكومبليتن سكوير ادا الفيديو ده ان شاء",
+        "start": 51.32,
+        "end": 57.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 20,
+        "text": "الله ان احنا نحل شويه مسائل على الديفي",
+        "start": 53.8,
+        "end": 60.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 21,
+        "text": "بتاع الانفرستريك فانكشن ونفهم ازاي ان",
+        "start": 57.32,
+        "end": 62.92,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 22,
+        "text": "احنا نكامل الدوال اللي هيديها لنا بحيث",
+        "start": 60.28,
+        "end": 64.96000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 23,
+        "text": "ان النتيجه في الاخر لما تطلع لي هيكون",
+        "start": 62.92,
+        "end": 68.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 24,
+        "text": "فيها الدوال مثلثيه عكسيه قبل ما نبتدي ان",
+        "start": 64.96,
+        "end": 70.03999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 25,
+        "text": "احنا نخش على المسائل خلينا ان احنا نعمل",
+        "start": 68.0,
+        "end": 72.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 26,
+        "text": "زي ما تقول كده ريفيجن بسيطه على الحاجه",
+        "start": 70.04,
+        "end": 74.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 27,
+        "text": "اللي احنا اخدناها المره اللي فاتت على",
+        "start": 72.68,
+        "end": 77.32000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 28,
+        "text": "الاشتقاق بتاع الدوال المثلثيه العكسيه",
+        "start": 74.64,
+        "end": 79.119,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 29,
+        "text": "المره اللي فاتت كنا خدنا اشتقاق الدوال",
+        "start": 77.32,
+        "end": 81.27999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 30,
+        "text": "المثلثيه العكسيه وانا هنا عايزك تركز لي",
+        "start": 79.119,
+        "end": 83.439,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 31,
+        "text": "على ثلاثه بس اللي هو لو انا كانت عندي",
+        "start": 81.28,
+        "end": 85.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 32,
+        "text": "كانت ساين ولو انا كانت عندي التان",
+        "start": 83.439,
+        "end": 87.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 33,
+        "text": "الانفرس ولو انا كانت عندي ثالث واحده بقى",
+        "start": 85.64,
+        "end": 90.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 34,
+        "text": "اللي هي لو كانت السيك الانفرس طب انا ليه",
+        "start": 87.72,
+        "end": 93.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 35,
+        "text": "ركزت على الثلاثه لو انت خدت بالك انا",
+        "start": 90.2,
+        "end": 96.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 36,
+        "text": "ركزت على الثلاثه لان هم اصلا المره اللي",
+        "start": 93.56,
+        "end": 99.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 37,
+        "text": "فاتت كان عندهم يعتبروا ان هم انا بجيب",
+        "start": 96.68,
+        "end": 102.24000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 38,
+        "text": "ثلاث اشتقاقات لثلاث دوال مثلثيه عكسيه طب",
+        "start": 99.2,
+        "end": 104.119,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 39,
+        "text": "الباقيين الثلاثه الباقيين قال لك اصلا ما",
+        "start": 102.24,
+        "end": 106.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 40,
+        "text": "هو انت عندك الكوساين اللي انا مش حاططها",
+        "start": 104.119,
+        "end": 110.759,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 41,
+        "text": "في في التكامل الكوساين دي اصلا هي نفسها",
+        "start": 106.24,
+        "end": 113.079,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 42,
+        "text": "نفس الاشتقاق بتاع الساين بس الفرق في",
+        "start": 110.759,
+        "end": 116.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 43,
+        "text": "الاشاره طب ما هو انت عندك برده نفس التان",
+        "start": 113.079,
+        "end": 118.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 44,
+        "text": "دي بالظبط هي نفسها بالضبط بالضبط مع",
+        "start": 116.2,
+        "end": 121.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 45,
+        "text": "الكوتان بس الفرق ايه؟ الفرق في الاشاره",
+        "start": 118.24,
+        "end": 122.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 46,
+        "text": "اللي ما بينهم انا عندي هنا نيجتيف هنا",
+        "start": 121.399,
+        "end": 126.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 47,
+        "text": "مافيش نيجتيف نفس الكوسيك دي بالظبط هي",
+        "start": 122.88,
+        "end": 129.07999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 48,
+        "text": "نفس السيك بس الفرق في ايه؟ الفرق في",
+        "start": 126.36,
+        "end": 131.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 49,
+        "text": "الاشاره انا عندي هنا دي نيجتيف وعندي هنا",
+        "start": 129.08,
+        "end": 134.48000000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 50,
+        "text": "ما فيش نيجتيف فانت تقريبا اكن هم عندك",
+        "start": 131.16,
+        "end": 137.319,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 51,
+        "text": "ثلاثه بس ولو عجزت معاك في اشاره يا عم",
+        "start": 134.48,
+        "end": 139.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 52,
+        "text": "اضرب في نيجتيف واحد واضرب جوه في نيجتيف",
+        "start": 137.319,
+        "end": 142.11999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 53,
+        "text": "واحد والموضوع هيكون بسيط يعني هدفي بقى",
+        "start": 139.44,
+        "end": 144.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 54,
+        "text": "من الفيديو ده ان شاء الله ان احنا واحنا",
+        "start": 142.12,
+        "end": 146.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 55,
+        "text": "بنحل المسائل لما تجي لنا انتجريشن لما",
+        "start": 144.12,
+        "end": 148.92000000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 56,
+        "text": "يديني بقى العمليه العكسيه لده ولي انا",
+        "start": 146.68,
+        "end": 152.59900000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 57,
+        "text": "عايز الانتجريشن للواحد على 1 ناقص اكس",
+        "start": 148.92,
+        "end": 154.92,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 58,
+        "text": "سكوير للدي اكس انا بكامل هنا بالنسبه لدي",
+        "start": 152.599,
+        "end": 158.23899999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 59,
+        "text": "اكس فانا عايز اوصل للصوره دي عشان بعد",
+        "start": 154.92,
+        "end": 160.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 60,
+        "text": "كده اقدر اقوم قيل لك ايه عشان بعد كده",
+        "start": 158.239,
+        "end": 162.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 61,
+        "text": "اقدر اقوم قيل لك ان تكامل الجزء ده هو",
+        "start": 160.159,
+        "end": 165.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 62,
+        "text": "عباره عن ان هو الساين الانفرس ان تكامل",
+        "start": 162.68,
+        "end": 167.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 63,
+        "text": "لما انا اجي برض اكتبها لك بالصوره",
+        "start": 165.44,
+        "end": 169.879,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 64,
+        "text": "الثانيه ان انا هنا قمت قايل لك انها 1",
+        "start": 167.68,
+        "end": 173.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 65,
+        "text": "على 1 + اكس سكوير ان انا لما اجي اعمل",
+        "start": 169.879,
+        "end": 175.67999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 66,
+        "text": "تكامل الجزء ده هدفي في الاخر ان انا اوصل",
+        "start": 173.4,
+        "end": 179.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 67,
+        "text": "لك انها عباره ها التاني الانفرس كل لعبي",
+        "start": 175.68,
+        "end": 182.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 68,
+        "text": "في الفيديو ده هيكون عباره ان انا عايز",
+        "start": 179.56,
+        "end": 186.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 69,
+        "text": "اوصل للصوره دي او الصوره دي او الصوره دي",
+        "start": 182.44,
+        "end": 189.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 70,
+        "text": "بحيث ان انا لما اجي اكامل اوصل للصور دي",
+        "start": 186.12,
+        "end": 192.64000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 71,
+        "text": "اللي هي السك او اللي هي الدوال المثلثيه",
+        "start": 189.519,
+        "end": 194.87900000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 72,
+        "text": "العكسيه بالشكل ده كده عشان كده انا قلت",
+        "start": 192.64,
+        "end": 197.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 73,
+        "text": "لك في بدايه الفيديو عشان يكون العنوان",
+        "start": 194.879,
+        "end": 201.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 74,
+        "text": "دقيق انا بعمل تكامل الدوال وفي الاخر",
+        "start": 197.64,
+        "end": 203.83999999999997,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 75,
+        "text": "عايز النتيجه بتاعتي يكون فيها الساين",
+        "start": 201.0,
+        "end": 206.319,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 76,
+        "text": "انفرس ده هو العنوان الصحيح للفيديو",
+        "start": 203.84,
+        "end": 208.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 77,
+        "text": "الفيديو ده من غير رغيه كتير خلينا ان",
+        "start": 206.319,
+        "end": 211.39999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 78,
+        "text": "احنا نبتدي على نخش على المسائل ونبتدي ان",
+        "start": 208.56,
+        "end": 213.92000000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 79,
+        "text": "احنا نشوف هنحل المسائل دي ازاي في",
+        "start": 211.4,
+        "end": 216.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 80,
+        "text": "المساله الاولانيه اللي هو مديها لي هنا",
+        "start": 213.92,
+        "end": 220.67999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 81,
+        "text": "مديني لو انا كانت عندي 1 على 4 + 9 اكس",
+        "start": 216.159,
+        "end": 224.239,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 82,
+        "text": "سكوير طبعا انا ممكن ان لو انا ركزت في حل",
+        "start": 220.68,
+        "end": 226.87900000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 83,
+        "text": "المساله دي هلاحظ ان انا اصلا فوق في",
+        "start": 224.239,
+        "end": 229.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 84,
+        "text": "البسط انا ما عنديش مشتقه التسعه اكس",
+        "start": 226.879,
+        "end": 231.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 85,
+        "text": "سكوير يعني انا ما عنديش فوق مثلا في اكس",
+        "start": 229.56,
+        "end": 233.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 86,
+        "text": "او ما عنديش اي حاجه انا عندي فوق هي",
+        "start": 231.12,
+        "end": 235.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 87,
+        "text": "عباره ان هو رقم حاجه ثابت حاجه واحد بس",
+        "start": 233.0,
+        "end": 237.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 88,
+        "text": "لو لو انا اخدت بالي او مركز شويه لو انا",
+        "start": 235.799,
+        "end": 240.959,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 89,
+        "text": "بحل مسائل تكامل كتير هلاحظ ان الحته دي",
+        "start": 237.68,
+        "end": 244.64000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 90,
+        "text": "بالظبط هي مشابهه للاشتقاق بتاع التان",
+        "start": 240.959,
+        "end": 246.959,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 91,
+        "text": "انفرس فانا كانت عندي حاجه اسمها التان",
+        "start": 244.64,
+        "end": 249.79899999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 92,
+        "text": "انفرس بالشكل ده للاكس لو انا جيت عملت",
+        "start": 246.959,
+        "end": 252.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 93,
+        "text": "لها لو انا كنت عملت لها اشتقاق هي عباره",
+        "start": 249.799,
+        "end": 254.76000000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 94,
+        "text": "هنا انها دي على دي اكس انا بشتقها فكانت",
+        "start": 252.28,
+        "end": 257.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 95,
+        "text": "دي عباره هنا انها الواحد على هنا الواحد",
+        "start": 254.76,
+        "end": 260.199,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 96,
+        "text": "زائد الاكس سكوير ده هي نفس الصوره اللي",
+        "start": 257.84,
+        "end": 262.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 97,
+        "text": "انت مديها لي هنا يا ابن الحلال هي تقريبا",
+        "start": 260.199,
+        "end": 265.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 98,
+        "text": "مشابهه ليها بس محتاجه بس شويه لعب انك",
+        "start": 262.84,
+        "end": 268.67999999999995,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 99,
+        "text": "تلعب في الفانكشن دي وتغير فيها وتعمل بعض",
+        "start": 265.68,
+        "end": 271.759,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 100,
+        "text": "التكنيكات الجبريه بحيث انها تساعدك طب هل",
+        "start": 268.68,
+        "end": 274.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 101,
+        "text": "في هنا تكنيكات جبريه زي اللونج ديفيجن او",
+        "start": 271.759,
+        "end": 276.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 102,
+        "text": "الكومبليتن سكوير اللي هي اكمال مربع",
+        "start": 274.16,
+        "end": 278.40000000000003,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 103,
+        "text": "هتساعدني لا بس انت محتاج مثلا ان انا",
+        "start": 276.16,
+        "end": 280.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 104,
+        "text": "عايزك توصل للصوره دي طب انا ممكن اوصل",
+        "start": 278.4,
+        "end": 282.71999999999997,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 105,
+        "text": "للصوره دي بقى ازاي يعني انا عفوا انا",
+        "start": 280.56,
+        "end": 285.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 106,
+        "text": "ممكن اوصل للصوره دي ازاي قال لك اول حاجه",
+        "start": 282.72,
+        "end": 287.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 107,
+        "text": "انا عايز اخلي المقدار ده بواحد مش انت",
+        "start": 285.68,
+        "end": 289.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 108,
+        "text": "عندك الاربعه دي هي عباره عن كونستنت انا",
+        "start": 287.639,
+        "end": 291.479,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 109,
+        "text": "عايز اخليها بواحد طب ممكن اخليها بواحد",
+        "start": 289.32,
+        "end": 293.59999999999997,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 110,
+        "text": "ازاي؟ قال لك والله في البدايه خالص ما",
+        "start": 291.479,
+        "end": 295.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 111,
+        "text": "تاخد الاربعه دي كومن فاكتور ما ما بين",
+        "start": 293.6,
+        "end": 297.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 112,
+        "text": "المقام اللي موجود تحت فانا لو اخدتها",
+        "start": 295.8,
+        "end": 299.84000000000003,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 113,
+        "text": "كومن فاكتور هتبقى عندي عباره عنها اربعه",
+        "start": 297.72,
+        "end": 302.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 114,
+        "text": "وعندي هنا واحد والتسعه دي انا لو اخدتها",
+        "start": 299.84,
+        "end": 304.63899999999995,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 115,
+        "text": "كومن فاكتور او لو خدت عفوا الاربعه منها",
+        "start": 302.36,
+        "end": 307.52000000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 116,
+        "text": "كومن فاكتور فتبقى عباره انها ت على ا طب",
+        "start": 304.639,
+        "end": 309.96000000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 117,
+        "text": "ازاي 9 على ا يا عم دخل الاربعه تاني",
+        "start": 307.52,
+        "end": 312.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 118,
+        "text": "رجعها تاني تبقى عندي دي 4× 1 و 4× 9 على",
+        "start": 309.96,
+        "end": 315.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 119,
+        "text": "4 في الاخر هتديني انها تسعه بعد كده",
+        "start": 312.919,
+        "end": 317.15999999999997,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 120,
+        "text": "هتبقى عندي هنا انها عباره انها الاكس",
+        "start": 315.4,
+        "end": 319.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 121,
+        "text": "سكوير بالشكل ده وكان عندي فوق هي عباره",
+        "start": 317.16,
+        "end": 322.08000000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 122,
+        "text": "هنا انها الدي اكس طيب اعمل ايه بقى بعد",
+        "start": 319.28,
+        "end": 324.79999999999995,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 123,
+        "text": "كده والله انا عايزك توصل لي او عايزك",
+        "start": 322.08,
+        "end": 327.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 124,
+        "text": "عايزك تحلل لي بقى تساويلي عايزك توصلها",
+        "start": 324.8,
+        "end": 329.479,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 125,
+        "text": "لي بالشكل اللي هو ان في هنا اكس سكوير",
+        "start": 327.28,
+        "end": 331.55999999999995,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 126,
+        "text": "وعندي هنا في واحد خلي بالك الواحد ده هو",
+        "start": 329.479,
+        "end": 334.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 127,
+        "text": "مش بس واحد ده عباره ان هو واحد سكوير شفت",
+        "start": 331.56,
+        "end": 336.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 128,
+        "text": "بقى السكوير مستخبيه هنا ازاي لان واحد",
+        "start": 334.24,
+        "end": 337.84000000000003,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 129,
+        "text": "سكوير هي في الاخر هي بتساوي ايه هي",
+        "start": 336.44,
+        "end": 340.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 130,
+        "text": "بتساده كلام عبيط عندي هنا الاربعه دي",
+        "start": 337.84,
+        "end": 342.79999999999995,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 131,
+        "text": "الاربعه دي كونستنت او الربع فتطلعها بره",
+        "start": 340.52,
+        "end": 344.71999999999997,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 132,
+        "text": "فتبقى عندي هنا واحد على اعه بالشكل ده",
+        "start": 342.8,
+        "end": 347.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 133,
+        "text": "وبكامل فهتبقى عندي هنا دي اكس وعايز اوصل",
+        "start": 344.72,
+        "end": 351.08000000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 134,
+        "text": "بقى الشكل ده او اللي هي الوا + 9 على ا",
+        "start": 347.88,
+        "end": 353.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 135,
+        "text": "اكس سكوير عايز اوصلها نفس الصوره اللي",
+        "start": 351.08,
+        "end": 356.31899999999996,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 136,
+        "text": "موجوده هنا كده فهوصلها بقى هنا ازاي؟",
+        "start": 353.68,
+        "end": 359.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 137,
+        "text": "هتبقى عندي هي عباره هنا انها واحد زائد",
+        "start": 356.319,
+        "end": 362.03900000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 138,
+        "text": "ما تاخد بقى الروت للشكل ده كده فهتبقى",
+        "start": 359.24,
+        "end": 364.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 139,
+        "text": "عندي هي عباره هنا انها اللاه على الاثنين",
+        "start": 362.039,
+        "end": 367.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 140,
+        "text": "مضروبه في الاكس كل ده هيبقى تحت الروت",
+        "start": 364.6,
+        "end": 369.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 141,
+        "text": "عشان توصلها بالشكل ده خدت الروت بتاع",
+        "start": 367.36,
+        "end": 372.47900000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 142,
+        "text": "المقدار ده كده وخدت الروت بتاع الواحد",
+        "start": 369.88,
+        "end": 374.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 143,
+        "text": "طلع لي بالشكل ده وخلي بالك برض ان الواحد",
+        "start": 372.479,
+        "end": 377.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 144,
+        "text": "هي عباره هنا انها الواحد سكوير هل الشكل",
+        "start": 374.639,
+        "end": 380.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 145,
+        "text": "ده بقى انت تعرف تكامله اه ده ده بالظبط",
+        "start": 377.36,
+        "end": 383.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 146,
+        "text": "بالظبط بالظبط نفس الجزء بتاع مين بتاع",
+        "start": 380.16,
+        "end": 386.03900000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 147,
+        "text": "التان انفرس نفس الجزء ده بتاع ده بالظبط",
+        "start": 383.44,
+        "end": 388.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 148,
+        "text": "فانا لو جيت وكاملته بقى هيبقى عندي هو",
+        "start": 386.039,
+        "end": 390.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 149,
+        "text": "بيساوي ايه هتبقى عندي هي عباره هنا انها",
+        "start": 388.4,
+        "end": 394.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 150,
+        "text": "الواحد على ا في التان انفرس بالشكل ده",
+        "start": 390.4,
+        "end": 396.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 151,
+        "text": "للزاويه اللي موجوده عندي هنا اللي جوه",
+        "start": 394.44,
+        "end": 399.479,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 152,
+        "text": "السكوير طب ايه الزاويه اللي موجوده هنا",
+        "start": 396.96,
+        "end": 401.75899999999996,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 153,
+        "text": "اللي موجوده جوه السكوير دي عباره هنا",
+        "start": 399.479,
+        "end": 405.08,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 154,
+        "text": "انها كام انها 3لاه على الاثنين في اكس",
+        "start": 401.759,
+        "end": 407.599,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 155,
+        "text": "زائد السي اقول لك لا استنى انت هنا عملت",
+        "start": 405.08,
+        "end": 410.08,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 156,
+        "text": "جريمه كبيره نسيت انك تعملها ايه بعد ما",
+        "start": 407.599,
+        "end": 412.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 157,
+        "text": "قمت قايل ان الزاويه اللي عندي جوه هي 3",
+        "start": 410.08,
+        "end": 416.15999999999997,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 158,
+        "text": "على 2 اكس اقسم بقى على المعامل بتاع",
+        "start": 412.56,
+        "end": 418.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 159,
+        "text": "الاكس لو انا جيت قسمت على المعامل بتاع",
+        "start": 416.16,
+        "end": 420.52000000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 160,
+        "text": "الاكس هتبقى عندي تحت عباره هنا انها كام؟",
+        "start": 418.4,
+        "end": 423.23999999999995,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 161,
+        "text": "انها 3لاه على الاثنين بالشكل ده طب انا",
+        "start": 420.52,
+        "end": 427.08,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 162,
+        "text": "عندي هنا دي عباره ان هو ده مقام المقام",
+        "start": 423.24,
+        "end": 429.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 163,
+        "text": "يعني ايه؟ يعني انا عندي الجزء ده كده ده",
+        "start": 427.08,
+        "end": 432.31899999999996,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 164,
+        "text": "عباره ان هو المقام وعندي ده مقام المقام",
+        "start": 429.36,
+        "end": 435.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 165,
+        "text": "ففي قاعده بتقول لك ان مقام المقام بسط",
+        "start": 432.319,
+        "end": 437.879,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 166,
+        "text": "فانا هطلع الاثنين دي فوق فهتبقى عندي",
+        "start": 435.36,
+        "end": 439.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 167,
+        "text": "العمليه دي عباره هنا ان هي في الاخر تبقى",
+        "start": 437.879,
+        "end": 443.47900000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 168,
+        "text": "عندي انها 2 على ا في تان",
+        "start": 439.8,
+        "end": 447.40000000000003,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 169,
+        "text": "الانفرس للثلاه على الاتنين اكس زائد السي",
+        "start": 443.479,
+        "end": 449.199,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 170,
+        "text": "وهيبقى عندي تحت هي عباره هنا انها كام",
+        "start": 447.4,
+        "end": 452.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 171,
+        "text": "هتبقى عندي هنا هي عباره هنا انها الاتنين",
+        "start": 449.199,
+        "end": 454.40000000000003,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 172,
+        "text": "هتروح وهتبقى عندي تحت هنا هي عباره هنا",
+        "start": 452.039,
+        "end": 456.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 173,
+        "text": "انها هتبقى دي عباره هنا انها اثنين هتبقى",
+        "start": 454.4,
+        "end": 459.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 174,
+        "text": "1 على ا هتضرب في ال3ث ففي الاخر هتساوي",
+        "start": 456.96,
+        "end": 464.479,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 175,
+        "text": "انها 1 على س في تان الانفرس لل 3 على",
+        "start": 459.56,
+        "end": 467.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 176,
+        "text": "الاتنين في اكس زائد السي بالشكل ده فهو",
+        "start": 464.479,
+        "end": 471.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 177,
+        "text": "ده ناتج حل الانتجريشن بتاع المساله دي",
+        "start": 467.84,
+        "end": 474.31899999999996,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 178,
+        "text": "وحاولت ان اوصلها لك وابسطها لك بابسط",
+        "start": 471.52,
+        "end": 476.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 179,
+        "text": "صوره بحيث ان انت تكون فاهم بالمناسبه",
+        "start": 474.319,
+        "end": 479.52000000000004,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 180,
+        "text": "القواعد دي اصلا او الفانكشنز دي لما انت",
+        "start": 476.96,
+        "end": 481.87899999999996,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 181,
+        "text": "تيجي يديك الفانكشن دي كده هو بيبقى اصلا",
+        "start": 479.52,
+        "end": 484.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 182,
+        "text": "مديك ليها قانون انا ما اديتكش القانون ده",
+        "start": 481.879,
+        "end": 486.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 183,
+        "text": "لان مش عايزك اول حاجه تحفظ القانون وانا",
+        "start": 484.159,
+        "end": 488.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 184,
+        "text": "اصلا كنت بتلخبط لما كان بيديني القانون",
+        "start": 486.639,
+        "end": 490.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 185,
+        "text": "يعني كان في قانون بيقول لك لو انا كانت",
+        "start": 488.919,
+        "end": 493.31899999999996,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 186,
+        "text": "عندي هنا يو فهتقسم على المعامل بتاع لو",
+        "start": 490.52,
+        "end": 495.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 187,
+        "text": "كانت دي عندي مثلا هي عباره انها اي سكوير",
+        "start": 493.319,
+        "end": 498.28000000000003,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 188,
+        "text": "فانت هتقسم مره على الا a ومره هتضرب في",
+        "start": 495.56,
+        "end": 500.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 189,
+        "text": "اليو فالعمليه فيها لخبطه كتير انا هنا",
+        "start": 498.28,
+        "end": 503.23999999999995,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 190,
+        "text": "بكبر دماغي وبحب ب ان انا امشي بطريقه",
+        "start": 500.639,
+        "end": 505.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 191,
+        "text": "سيستماتيك وطريقه واضحه بحيث ان انا ما",
+        "start": 503.24,
+        "end": 508.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 192,
+        "text": "اعدش احفظ قوانين فانا لما حليت المعادله",
+        "start": 505.36,
+        "end": 511.28000000000003,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 193,
+        "text": "او حليت التكامل بالشكل ده وصلت في الاخر",
+        "start": 508.639,
+        "end": 514.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 194,
+        "text": "ان ده هو نتيجه الحل بتاعي طيب بعد كده لو",
+        "start": 511.28,
+        "end": 517.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 195,
+        "text": "رحت للتكامل الثاني اللي موجود هنا معايا",
+        "start": 514.88,
+        "end": 520.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 196,
+        "text": "هلاحظ برض ان هو هنا بيقول لي ايه؟ بيقول",
+        "start": 517.919,
+        "end": 523.4789999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 197,
+        "text": "لي انا عايز تكامل ا الواحد هنا دي عندي",
+        "start": 520.0,
+        "end": 525.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 198,
+        "text": "دي عباره هنا انها واحد ماشي انا عايز",
+        "start": 523.479,
+        "end": 531.0400000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 199,
+        "text": "تكامل الواحد على ت ناقص الاكس ا سكوير ف",
+        "start": 525.68,
+        "end": 534.1999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 200,
+        "text": "انا هنا للاسف ا المشتقه او مش لاقي هنا",
+        "start": 531.04,
+        "end": 537.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 201,
+        "text": "مثلا اين اكس او مش لاقي حتى اي اكس مثلا",
+        "start": 534.2,
+        "end": 540.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 202,
+        "text": "مش لاقي هنا اربعه اكس او حتى اكس واحده",
+        "start": 537.64,
+        "end": 542.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 203,
+        "text": "عشان اقدر اقول ان مشتقتها موجوده فوق طب",
+        "start": 540.16,
+        "end": 546.3199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 204,
+        "text": "ايه اللي انا ممكن اعمله في السؤال ده انا",
+        "start": 542.88,
+        "end": 548.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 205,
+        "text": "الشكل اللي موجود هنا قدامي ده نوعا ما",
+        "start": 546.32,
+        "end": 552.0400000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 206,
+        "text": "مالوف بالنسبه لي فانا كان عندي ان في",
+        "start": 548.88,
+        "end": 554.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 207,
+        "text": "فانكشن اسمها الساين انفرس للاكس لو انا",
+        "start": 552.04,
+        "end": 558.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 208,
+        "text": "حبيت ان انا احسب التكامل بقى او عفوا",
+        "start": 554.72,
+        "end": 560.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 209,
+        "text": "التفاضل بتاع الفانكشن دي كان هو بيساوي",
+        "start": 558.16,
+        "end": 562.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 210,
+        "text": "ايه؟ كان هو بيساوي ان هي عباره عن انها",
+        "start": 560.76,
+        "end": 565.959,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 211,
+        "text": "واحد على هنا 1 ناقص الاكس سكوير بالصوره",
+        "start": 562.8,
+        "end": 568.4799999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 212,
+        "text": "دي كده طب انا عايز اعمل ايه؟ نوعا ما انا",
+        "start": 565.959,
+        "end": 571.8389999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 213,
+        "text": "عايز اتحال على الموضوع واخلي الشكل ده او",
+        "start": 568.48,
+        "end": 574.0790000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 214,
+        "text": "الداله اللي موجوده تحت التكامل ده عايزها",
+        "start": 571.839,
+        "end": 576.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 215,
+        "text": "في الاخر انها توصل للشكل ده او على الاقل",
+        "start": 574.079,
+        "end": 578.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 216,
+        "text": "يا عم تكون قريبه منه طب لو انا حاولت بقى",
+        "start": 576.16,
+        "end": 580.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 217,
+        "text": "ان انا احل المساله دي وحاولت ان انا",
+        "start": 578.64,
+        "end": 583.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 218,
+        "text": "اكاملها ممكن احلها ازاي هو ما قال فوق",
+        "start": 580.64,
+        "end": 585.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 219,
+        "text": "انا عندي الدي اكس ما فيش فيها اي تغيير",
+        "start": 583.24,
+        "end": 587.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 220,
+        "text": "طب ما تجرب انك تاخد التسعه دي كومن",
+        "start": 585.36,
+        "end": 588.839,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 221,
+        "text": "فاكتور ما انا عايز اخليها بتساوي الواحد",
+        "start": 587.2,
+        "end": 590.8000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 222,
+        "text": "عايز اخلي الشكل ده قريب منها فلو فلو انا",
+        "start": 588.839,
+        "end": 592.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 223,
+        "text": "اخدت التسعه دي كومن فاكتور هتبقى عندي هي",
+        "start": 590.8,
+        "end": 595.92,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 224,
+        "text": "عباره عن هنا انها ت× 1 ناقص الاكس سكوير",
+        "start": 592.72,
+        "end": 598.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 225,
+        "text": "على التسعه بالشكل ده كده وما تنساش ان",
+        "start": 595.92,
+        "end": 600.8389999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 226,
+        "text": "انت كان عندك هنا في الروت طب انا عندي مش",
+        "start": 598.16,
+        "end": 603.079,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 227,
+        "text": "المقدارين دول مضروبين في بعض اه طب ايه",
+        "start": 600.839,
+        "end": 605.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 228,
+        "text": "اللي انا ممكن اعمله ما تطلع يا عم التسعه",
+        "start": 603.079,
+        "end": 607.7199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 229,
+        "text": "دي بره فهتبقى عندك لما تطلعها بره وخلي",
+        "start": 605.16,
+        "end": 610.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 230,
+        "text": "بالك ان كان معاها روت فهتبقى عباره هنا",
+        "start": 607.72,
+        "end": 614.0400000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 231,
+        "text": "انها التكامل للواحد هتبقى عندي هنا دي",
+        "start": 610.0,
+        "end": 616.839,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 232,
+        "text": "عباره هنا انها واحد لجذر الت مضروب في",
+        "start": 614.04,
+        "end": 620.04,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 233,
+        "text": "كام مضروب في الواحد ناقص الاكس سكوير على",
+        "start": 616.839,
+        "end": 622.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 234,
+        "text": "التسعه بالشكل ده طب ما هو انا عارف جذر",
+        "start": 620.04,
+        "end": 625.1999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 235,
+        "text": "الت اصلا هو بيساوي ايه جذر الت هو في",
+        "start": 622.32,
+        "end": 627.6800000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 236,
+        "text": "الاخر هو بيساوي لي الثلاثه طب ما هو انا",
+        "start": 625.2,
+        "end": 629.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 237,
+        "text": "عندي الثلاثه دي عباره انها كونستنت حاول",
+        "start": 627.68,
+        "end": 631.4399999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 238,
+        "text": "تختص على نفسك على قد ما تقدر فتبقى عندي",
+        "start": 629.519,
+        "end": 633.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 239,
+        "text": "عباره هنا انها واحد على 3 طلعتها بره",
+        "start": 631.44,
+        "end": 637.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 240,
+        "text": "عشان افضفض بقى مع نفسي واقعد احل التكامل",
+        "start": 633.88,
+        "end": 639.8389999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 241,
+        "text": "ده براحتي طب ما هو انا عندي انا عايز",
+        "start": 637.6,
+        "end": 642.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 242,
+        "text": "اوصل بقى لانها تكون واحد واكس سكوير",
+        "start": 639.839,
+        "end": 644.5600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 243,
+        "text": "بالشكل ده اوصل لها ازاي طب ما هو انت",
+        "start": 642.48,
+        "end": 647.0790000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 244,
+        "text": "عارف اصلا ان هنا هي عباره عن انها 1 على",
+        "start": 644.56,
+        "end": 650.04,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 245,
+        "text": "3 في التكامل الجزء ده دي عباره عنها واحد",
+        "start": 647.079,
+        "end": 652.7199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 246,
+        "text": "سكوير وانا عايز اخلي ده الجزء ده او",
+        "start": 650.04,
+        "end": 654.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 247,
+        "text": "الزاويه اللي موجوده هنا على بالناس هي دي",
+        "start": 652.72,
+        "end": 657.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 248,
+        "text": "مش زاويه اصلا بس انا عايز اخلي الحته دي",
+        "start": 654.8,
+        "end": 659.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 249,
+        "text": "كده هي عباره عن انها حاجه سكوير فاقوم",
+        "start": 657.16,
+        "end": 661.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 250,
+        "text": "قايل انا عندي هنا ده الروت اللي هو",
+        "start": 659.88,
+        "end": 664.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 251,
+        "text": "الثابت عندي واحد سكوير بعد كده انا عندي",
+        "start": 661.56,
+        "end": 667.5189999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 252,
+        "text": "هنا ناقص طب ما تاخد لده السكوير خد له",
+        "start": 664.16,
+        "end": 669.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 253,
+        "text": "الجذر التربيعي بتاعه فهيبقى عندي عباره",
+        "start": 667.519,
+        "end": 671.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 254,
+        "text": "ان هو الاكس على لو انا اخدت الجذر",
+        "start": 669.639,
+        "end": 674.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 255,
+        "text": "التربيعي لتسعه هتبقى لاثه وكل ده هيبقى",
+        "start": 671.88,
+        "end": 677.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 256,
+        "text": "سكوير طب هل الشكل ده انت تقدر بقى او",
+        "start": 674.399,
+        "end": 680.839,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 257,
+        "text": "وصلت للشكل ده لنفس الشكل ده اه هو نفس",
+        "start": 677.24,
+        "end": 683.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 258,
+        "text": "الشكل وخلي بالك انا كان عندي هنا هي",
+        "start": 680.839,
+        "end": 685.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 259,
+        "text": "عباره هنا انها الدي اكس طب هل بقى تعرف",
+        "start": 683.0,
+        "end": 687.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 260,
+        "text": "تكامل الجزء ده اهو لو انا جيت كملته",
+        "start": 685.2,
+        "end": 689.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 261,
+        "text": "هتبقى عندي الواحد على الثلاه موجوده بره",
+        "start": 687.36,
+        "end": 692.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 262,
+        "text": "في تكامل الجزء ده انا عارف ان الشكل ده",
+        "start": 689.519,
+        "end": 695.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 263,
+        "text": "هو نفس الشكل ده وهو هيديني الساين لما",
+        "start": 692.2,
+        "end": 698.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 264,
+        "text": "اجي اكامله لما انا اجي اعمل العمليه",
+        "start": 695.44,
+        "end": 700.5600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 265,
+        "text": "العكسيه للاشتقاق فهتبقى عندي هنا عباره",
+        "start": 698.2,
+        "end": 704.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 266,
+        "text": "عنها ساين الانفرس للجزء اللي موجود جوه",
+        "start": 700.56,
+        "end": 706.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 267,
+        "text": "اللي هي كانت كام اللي هي كانت الاكس على",
+        "start": 704.24,
+        "end": 709.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 268,
+        "text": "الثلاثه بالصوره دي كده وما تنساش ش تقسم",
+        "start": 706.76,
+        "end": 712.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 269,
+        "text": "على ايه؟ تقسم على المعامل بتاع الاكس طب",
+        "start": 709.76,
+        "end": 715.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 270,
+        "text": "هنا كان ايه معامل اكس؟ كان عباره ان هو 1",
+        "start": 712.72,
+        "end": 718.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 271,
+        "text": "على 3 بالشكل ده 1 على 3 هتروح هنا مع",
+        "start": 715.24,
+        "end": 721.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 272,
+        "text": "الواحد على 3 او ممكن نقول نوعا ما بشكل",
+        "start": 718.48,
+        "end": 724.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 273,
+        "text": "تاني ان مقام المقام بسط فهتطلع هنا فوق",
+        "start": 721.36,
+        "end": 727.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 274,
+        "text": "فهتبقى 3 على 3 في الاخر الاثنين هيطيروا",
+        "start": 724.36,
+        "end": 730.92,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 275,
+        "text": "ففي الاخر العمليه الناتجه من العمليه دي",
+        "start": 727.519,
+        "end": 733.079,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 276,
+        "text": "او بعد ما ابسط المقادير دي تبقى عندي هي",
+        "start": 730.92,
+        "end": 736.4799999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 277,
+        "text": "عباره هنا انها ساين الانفرس للاكس على 3",
+        "start": 733.079,
+        "end": 738.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 278,
+        "text": "بعد كده هنا ايه ماساش ان في كونستنت هنا",
+        "start": 736.48,
+        "end": 741.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 279,
+        "text": "زائد س طيب المساله اللي بعد كده او",
+        "start": 738.8,
+        "end": 744.079,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 280,
+        "text": "التكامل اللي هو مديه لي هنا نفس اللي فات",
+        "start": 741.44,
+        "end": 746.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 281,
+        "text": "بالظبط خلي بالك برده انا عندي دي هي",
+        "start": 744.079,
+        "end": 748.8,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 282,
+        "text": "عباره هنا انها تسعه مش عشان ما تلخبطش",
+        "start": 746.16,
+        "end": 751.04,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 283,
+        "text": "هنا فانا عندي هنا هي عباره هنا انها تسعه",
+        "start": 748.8,
+        "end": 754.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 284,
+        "text": "طيب الشكل اللي موجود قدامك ده هل ده شكل",
+        "start": 751.04,
+        "end": 756.04,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 285,
+        "text": "مالوف بالنسبه لك ما هو انا فوق في البسط",
+        "start": 754.16,
+        "end": 758.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 286,
+        "text": "ما عنديش اي حاجه فالشكل اللي موجود قدامي",
+        "start": 756.04,
+        "end": 761.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 287,
+        "text": "ده هو عباره ان هو انا عندي هنا رقم ناقص",
+        "start": 758.279,
+        "end": 763.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 288,
+        "text": "فانكشن او الفيابل بتاعي اللي هو الاكس او",
+        "start": 761.24,
+        "end": 766.199,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 289,
+        "text": "كان اليو او كان الام ايابل انت بتكامل",
+        "start": 763.88,
+        "end": 768.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 290,
+        "text": "بالنسبه له وهنا عندي نقص وموجود هنا تحت",
+        "start": 766.199,
+        "end": 770.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 291,
+        "text": "الروت فانا نوعا ما خلاص بقى فهمت اللعبه",
+        "start": 768.56,
+        "end": 773.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 292,
+        "text": "ان دي عباره هنا انها ايه؟ انها كانت ساين",
+        "start": 770.88,
+        "end": 775.959,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 293,
+        "text": "الانفرس للاكس بالشكل ده وانها كانت بيطلع",
+        "start": 773.16,
+        "end": 779.199,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 294,
+        "text": "لي انها الواحد على هنا الواحد ناقص الجزء",
+        "start": 775.959,
+        "end": 781.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 295,
+        "text": "اللي كان موجود هنا وهيبقى عندي هنا هو",
+        "start": 779.199,
+        "end": 784.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 296,
+        "text": "عباره ان هو السكوير انا برده عايز اوصل",
+        "start": 781.279,
+        "end": 788.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 297,
+        "text": "للشكل ده او عايز اوصل لتكامل او الداله",
+        "start": 784.68,
+        "end": 790.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 298,
+        "text": "اللي هو مديها لي عايز اخليها برده قريبه",
+        "start": 788.24,
+        "end": 793.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 299,
+        "text": "من الشكل ده بحيث برده اعرف اكاملها طيب",
+        "start": 790.68,
+        "end": 795.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 300,
+        "text": "لو انا حاولت بقى ان انا ابسط المقدار ده",
+        "start": 793.72,
+        "end": 798.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 301,
+        "text": "ممكن ابسطه ازاي زي ما احنا متعودين هو",
+        "start": 795.88,
+        "end": 800.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 302,
+        "text": "فين الرقم الثابت اللي عندي؟ اللي عندي",
+        "start": 798.12,
+        "end": 802.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 303,
+        "text": "هنا الاربعه باخدها كومن فاكتور زي ما انا",
+        "start": 800.24,
+        "end": 804.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 304,
+        "text": "متعود على طول هقوم مكامل بقى الجزء ده",
+        "start": 802.32,
+        "end": 806.5600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 305,
+        "text": "كده عندي هتبقى عندي عباره هنا انها دي",
+        "start": 804.44,
+        "end": 809.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 306,
+        "text": "اكس خد الاربعه كومن فاكتور هتبقى عندي",
+        "start": 806.56,
+        "end": 812.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 307,
+        "text": "هنا هي عباره هنا انها الاربعه هتبقى واحد",
+        "start": 809.16,
+        "end": 815.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 308,
+        "text": "ناقص التسعه اكس سكوير على الاربعه مش انا",
+        "start": 812.16,
+        "end": 817.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 309,
+        "text": "اخدتها كومن فاكتور فهتبقى عندي هي عباره",
+        "start": 815.56,
+        "end": 820.199,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 310,
+        "text": "هنا ت اكس سكوير على الاربعه بالصوره دي",
+        "start": 817.399,
+        "end": 822.16,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 311,
+        "text": "كده طيب ايه اللي اعمله بعد كده ما تاخد",
+        "start": 820.199,
+        "end": 824.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 312,
+        "text": "يا عم جذر الاربعه دي بره وخليها نخلص",
+        "start": 822.16,
+        "end": 826.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 313,
+        "text": "منها فهتبقى عندي في الاخر بعد ما ابسط",
+        "start": 824.0,
+        "end": 827.959,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 314,
+        "text": "بقى العمليه دي هتبقى تبقى في الاخر هي",
+        "start": 826.36,
+        "end": 831.1990000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 315,
+        "text": "عباره هنا انها 1 على ا ليه؟ لان جذر",
+        "start": 827.959,
+        "end": 833.7199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 316,
+        "text": "الاربعه او الجذر التربيعي للاربعه في",
+        "start": 831.199,
+        "end": 835.92,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 317,
+        "text": "الاخر هتساوي انها اثنين وطلعت الاثنين",
+        "start": 833.72,
+        "end": 838.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 318,
+        "text": "لان هي كونستنت طلعتها بره بعد كده هتبقى",
+        "start": 835.92,
+        "end": 841.3199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 319,
+        "text": "عندي هنا انها واحد على بقى هتبقى عندي",
+        "start": 838.72,
+        "end": 843.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 320,
+        "text": "هنا دي واحد فانت عارف ان الواحد دي اصلا",
+        "start": 841.32,
+        "end": 846.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 321,
+        "text": "هي عباره هنا انها واحد سكوير ناقص ايه",
+        "start": 843.519,
+        "end": 849.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 322,
+        "text": "ناقص الته في اكس سكوير على الاربعه",
+        "start": 846.32,
+        "end": 852.1600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 323,
+        "text": "بالشكل ده كده طب ما هو انت عارف برده ان",
+        "start": 849.48,
+        "end": 854.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 324,
+        "text": "انا عايز اوصل الشكل ده انها تكون الاكوير",
+        "start": 852.16,
+        "end": 857.079,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 325,
+        "text": "بره طب اعمل ايه خد لي المقدار ده كله خد",
+        "start": 854.36,
+        "end": 860.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 326,
+        "text": "له الجذر التكعيبي او عفوا الجذر التربيعي",
+        "start": 857.079,
+        "end": 862.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 327,
+        "text": "فهتبقى عندي دي عباره كام؟ لو انا اخدت",
+        "start": 860.44,
+        "end": 865.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 328,
+        "text": "الباعده الجذر التربيعي هتبقى 3 اكس على",
+        "start": 862.56,
+        "end": 867.1199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 329,
+        "text": "الاربعه لما اخد لها الجذر التربيعي هتبقى",
+        "start": 865.44,
+        "end": 869.0790000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 330,
+        "text": "عندي هي عباره هنا انها الاثنين وهتبقى",
+        "start": 867.12,
+        "end": 871.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 331,
+        "text": "عندي دي عباره هنا انها سكوير انا بس كل",
+        "start": 869.079,
+        "end": 873.8389999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 332,
+        "text": "اللي انا عملته زي ما انت خلاص متعود انا",
+        "start": 871.639,
+        "end": 876.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 333,
+        "text": "حاولت ان انا اوصل الصوره دي انها تكون",
+        "start": 873.839,
+        "end": 878.8800000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 334,
+        "text": "قريبه من الشكل ده وما تنساش ان انا كنت",
+        "start": 876.32,
+        "end": 881.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 335,
+        "text": "بعمل ايه كل ده انا كنت بعمل التكامل",
+        "start": 878.88,
+        "end": 883.68,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 336,
+        "text": "بالنسبه لدي اكس طب هل بقى ممكن ان انا",
+        "start": 881.36,
+        "end": 886.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 337,
+        "text": "احل المساله دي اه انا هتبقى عندي في",
+        "start": 883.68,
+        "end": 888.7199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 338,
+        "text": "الاخر هي عباره هنا انها نص او مش اه يعني",
+        "start": 886.0,
+        "end": 890.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 339,
+        "text": "هي ان شاء الله هنحلها يعني فتبقى عندي",
+        "start": 888.72,
+        "end": 894.0400000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 340,
+        "text": "هنا انها نص في ساين الانفرس لان الشكل ده",
+        "start": 890.56,
+        "end": 897.3199999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 341,
+        "text": "هو عباره عندي هنا ان هو بالنسبه التكامل",
+        "start": 894.04,
+        "end": 899.4399999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 342,
+        "text": "ده لو انا جيت كاملته فهو عباره ان هو",
+        "start": 897.32,
+        "end": 901.6800000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 343,
+        "text": "ساين الانفرس او الشكل ده هو كان بيديني",
+        "start": 899.44,
+        "end": 903.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 344,
+        "text": "ساين الانفرس فهتبقى عندي هنا انها ساين",
+        "start": 901.68,
+        "end": 906.4399999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 345,
+        "text": "الانفرس للزاويه اللي موجوده جوه ولازم",
+        "start": 903.639,
+        "end": 909.0790000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 346,
+        "text": "الزاويه دي تكون بره في تربيع اللي هي",
+        "start": 906.44,
+        "end": 911.0790000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 347,
+        "text": "الاثنين دي فهتبقى عندي هي عباره هنا انها",
+        "start": 909.079,
+        "end": 914.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 348,
+        "text": "كام 3 اكس على الاثنين معلش بقى ما تنساش",
+        "start": 911.079,
+        "end": 917.079,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 349,
+        "text": "ايه ما تنساش تقسم على معامل الاكس طب",
+        "start": 914.279,
+        "end": 919.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 350,
+        "text": "معامل اكس هنا كان بكام؟ معامل اكس هنا",
+        "start": 917.079,
+        "end": 922.04,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 351,
+        "text": "كان لاثه على الاثنين بالشكل ده الاثنين",
+        "start": 919.36,
+        "end": 924.0790000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 352,
+        "text": "لو طلعتها فوق هتبقى عندي هنا لو انا طلعت",
+        "start": 922.04,
+        "end": 925.5999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 353,
+        "text": "الاثنين فوق فالاثنين هتروح هنا مع",
+        "start": 924.079,
+        "end": 927.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 354,
+        "text": "الاثنين وهتبقى في الاخر الناتج اللي طلع",
+        "start": 925.6,
+        "end": 930.759,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 355,
+        "text": "لي من العمليه دي هيبقى عباره ان هو ساين",
+        "start": 927.88,
+        "end": 934.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 356,
+        "text": "الانفرس للثلاثه اكس على الاثنين وهيبقى",
+        "start": 930.759,
+        "end": 936.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 357,
+        "text": "عندي تحت هي عباره هنا انها واحد على 3",
+        "start": 934.279,
+        "end": 939.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 358,
+        "text": "وهتبقى عندي هنا انها زائد السي وهو ده",
+        "start": 936.519,
+        "end": 942.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 359,
+        "text": "ناتج التكامل او ناتج التكامل بتاعه",
+        "start": 939.48,
+        "end": 944.9590000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 360,
+        "text": "الفانكشن اللي هو كان مديها لي فوق طيب لو",
+        "start": 942.44,
+        "end": 947.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 361,
+        "text": "رحنا على المساله اللي بعدها فانا كان",
+        "start": 944.959,
+        "end": 950.6389999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 362,
+        "text": "عندي هنا تكامل مديني هنا الاكس على واحد",
+        "start": 947.519,
+        "end": 953.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 363,
+        "text": "زائد اكس سكوير لو انا ركزت هنا وخدت بالي",
+        "start": 950.639,
+        "end": 956.04,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 364,
+        "text": "مع الجزء اللي في المقام فكان عندي هنا ما",
+        "start": 953.639,
+        "end": 959.5600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 365,
+        "text": "فيش روت ف معنى كده ان ما في فمعنى ان ما",
+        "start": 956.04,
+        "end": 962.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 366,
+        "text": "فيش روت معناته ان انا مش هبقى قريب من",
+        "start": 959.56,
+        "end": 964.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 367,
+        "text": "الساين ولا حتى هبقى قريب من السيك انا",
+        "start": 962.399,
+        "end": 967.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 368,
+        "text": "بنسبه كبيره انا ل علاقه بالتان وكمان",
+        "start": 964.56,
+        "end": 969.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 369,
+        "text": "برده لو انا حبيت ان انا اشوف هي مشتقه",
+        "start": 967.279,
+        "end": 972.759,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 370,
+        "text": "التان انفرس للاكس كانت عباره عنها ايه",
+        "start": 969.88,
+        "end": 975.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 371,
+        "text": "فلو انا قمت مشتقه او جاي بالتفاضل بتاع",
+        "start": 972.759,
+        "end": 978.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 372,
+        "text": "الجزء ده كده فكان ده عباره ان هو الواحد",
+        "start": 975.72,
+        "end": 981.839,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 373,
+        "text": "على 1 + الاكس سكوير بالصوره دي فانا عندي",
+        "start": 978.6,
+        "end": 985.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 374,
+        "text": "الشكل ده كده هو نفس الجزء ده بالظبط فانا",
+        "start": 981.839,
+        "end": 986.9590000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 375,
+        "text": "لو جيت بقى هنا كملت اقول لك استنى استنى",
+        "start": 985.0,
+        "end": 989.639,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 376,
+        "text": "استنى انت بتعمل ايه انت عايز اصلا توصل",
+        "start": 986.959,
+        "end": 992.079,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 377,
+        "text": "الصوره دي عايز توصل الصوره دي بالشكل ده",
+        "start": 989.639,
+        "end": 994.199,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 378,
+        "text": "كده اه هقول لك ثانيه واحده هو انت سالت",
+        "start": 992.079,
+        "end": 996.199,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 379,
+        "text": "نفسك السؤال الاولاني ايه هو السؤال",
+        "start": 994.199,
+        "end": 999.5999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 380,
+        "text": "الاولاني انا اصلا كنت بوصل للجزء ده اللي",
+        "start": 996.199,
+        "end": 1002.5999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 381,
+        "text": "هو بتاع التان انفرس بعد ما اسال سؤال",
+        "start": 999.6,
+        "end": 1005.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 382,
+        "text": "اصلا قبله يعني كان في سؤال اصلا بيتسيل",
+        "start": 1002.6,
+        "end": 1007.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 383,
+        "text": "قبله ايه ان هل الجزء اللي موجود في",
+        "start": 1005.0,
+        "end": 1010.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 384,
+        "text": "المقام مشتقته موجوده فوق؟ اه ده مشتقته",
+        "start": 1007.48,
+        "end": 1012.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 385,
+        "text": "موجوده فوق انا عندي الاكس يا عم هو فين",
+        "start": 1010.44,
+        "end": 1014.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 386,
+        "text": "الجزء اللي موجود في المقام الجزء ده كله",
+        "start": 1012.24,
+        "end": 1016.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 387,
+        "text": "عباره ان هو الجزء اللي موجود في المقام",
+        "start": 1014.44,
+        "end": 1018.5600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 388,
+        "text": "الواد زئ اكس سكوير هل مشتقته موجوده فوق",
+        "start": 1016.0,
+        "end": 1020.56,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 389,
+        "text": "الواحد زئ اكس سكوير لو انت جيت تشتقها",
+        "start": 1018.56,
+        "end": 1022.5999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 390,
+        "text": "هيطلع لي انها اثنين اكس طب ما هي موجوده",
+        "start": 1020.56,
+        "end": 1024.9189999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 391,
+        "text": "فوق هتقول لي بس هي بس اكس فوق اقول لك يا",
+        "start": 1022.6,
+        "end": 1026.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 392,
+        "text": "عم بسيطه طالما جت على الكونستنت",
+        "start": 1024.919,
+        "end": 1028.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 393,
+        "text": "فالكونستنت ده بسيط يعني فاقوم قايل لك",
+        "start": 1026.559,
+        "end": 1031.3999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 394,
+        "text": "هنا انا عندي هنا هقوم ضارب هنا في اثنين",
+        "start": 1028.48,
+        "end": 1034.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 395,
+        "text": "وهقسم هنا على الاثنين ما عملتش ولا حاجه",
+        "start": 1031.4,
+        "end": 1036.3600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 396,
+        "text": "فبقت دلوقتي مشتقته فوق فانا عندي لما",
+        "start": 1034.0,
+        "end": 1038.439,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 397,
+        "text": "اكون الفانكشن موجوده في المقام اللي هو",
+        "start": 1036.36,
+        "end": 1040.7199999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 398,
+        "text": "الجزء ده كده ومشتقتها موجوده في البسط",
+        "start": 1038.439,
+        "end": 1043.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 399,
+        "text": "فدي عباره عن على طول انها ايه؟ انها لن",
+        "start": 1040.72,
+        "end": 1045.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 400,
+        "text": "فهيبقى تكامل الجزء ده عباره ان هو نص",
+        "start": 1043.039,
+        "end": 1048.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 401,
+        "text": "اللي هو النص ده كده في لين المقام بقى",
+        "start": 1045.039,
+        "end": 1050.08,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 402,
+        "text": "المقام عندي هنا كان بيساوي كام؟ المقام",
+        "start": 1048.12,
+        "end": 1052.4799999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 403,
+        "text": "عندي هنا كان بيساوي ان هو واحد زائد",
+        "start": 1050.08,
+        "end": 1055.1999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 404,
+        "text": "الاكس سكوير وعندي هنا زائد السي",
+        "start": 1052.48,
+        "end": 1058.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 405,
+        "text": "فالفانكشن دي او التكامل بتاع الداله دي",
+        "start": 1055.2,
+        "end": 1061.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 406,
+        "text": "في الاخر اداني لين ومالوش علاقه بالتان",
+        "start": 1058.0,
+        "end": 1064.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 407,
+        "text": "انفرس ولا اصلا بالدوال المثلثات",
+        "start": 1061.0,
+        "end": 1067.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 408,
+        "text": "العكسيه نروح بقى على السؤال اللي بعده",
+        "start": 1064.24,
+        "end": 1069.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 409,
+        "text": "وهنا كان مديني انا عندي هنا عباره هنا",
+        "start": 1067.039,
+        "end": 1073.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 410,
+        "text": "انها الواحد على اكس سكوير ناقص 4 اكس +",
+        "start": 1069.24,
+        "end": 1076.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 411,
+        "text": "13 وهنا انا طبعا بكامل بالنسبه للدي اكس",
+        "start": 1073.28,
+        "end": 1078.6789999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 412,
+        "text": "وكان طالب مني ان انا احسب التكامل ده لو",
+        "start": 1076.32,
+        "end": 1081.6789999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 413,
+        "text": "انا برض جيت وسالت نفسي السؤال وماتسرعتش",
+        "start": 1078.679,
+        "end": 1084.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 414,
+        "text": "هل الفانكشن اللي موجوده هنا معايا هل",
+        "start": 1081.679,
+        "end": 1087.0800000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 415,
+        "text": "الفانكشن دي مشتقتها موجوده فوق هلاحظ ان",
+        "start": 1084.4,
+        "end": 1089.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 416,
+        "text": "الفانكشن دي مشتقتها مش موجوده فوق ولا",
+        "start": 1087.08,
+        "end": 1092.3999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 417,
+        "text": "حتى في اين اكس ولا اكس ولا يحزنون يعني",
+        "start": 1089.24,
+        "end": 1094.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 418,
+        "text": "مافيش هنا اي حاجه فانا نوعا ما انا حاسس",
+        "start": 1092.4,
+        "end": 1099.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 419,
+        "text": "ان ليها علاقه بالحته بتاعه الانفرس تريك",
+        "start": 1094.76,
+        "end": 1102.1589999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 420,
+        "text": "فانكشن او الدوال المثلثيه العكسيه طب انا",
+        "start": 1099.24,
+        "end": 1104.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 421,
+        "text": "هنا ايه التريكايه اللي ممكن اعتمد عليها",
+        "start": 1102.159,
+        "end": 1107.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 422,
+        "text": "او ايه الخطوه اللي ممكن احاول ان انا",
+        "start": 1104.6,
+        "end": 1110.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 423,
+        "text": "ابسط المساله بتاعتي بحيث انها تساعدني في",
+        "start": 1107.48,
+        "end": 1113.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 424,
+        "text": "حل التكامل ده قال لك بص انا عايزك تركز",
+        "start": 1110.52,
+        "end": 1115.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 425,
+        "text": "لي على الحته دي كده اللي هي الاكس سكوير",
+        "start": 1113.24,
+        "end": 1118.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 426,
+        "text": "ناقص الاربعه عايزك تركز لي معاها انا",
+        "start": 1115.76,
+        "end": 1120.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 427,
+        "text": "عايز اخلي المقدار ده عباره ان هو حاجه",
+        "start": 1118.36,
+        "end": 1123.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 428,
+        "text": "سكوير بالشكل ده كده دي طريقه على فكره",
+        "start": 1120.72,
+        "end": 1124.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 429,
+        "text": "الكومبليتن سكوير انا بحاول ان انا بشرحها",
+        "start": 1123.28,
+        "end": 1127.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 430,
+        "text": "لك بالاول رغم ان انت اصلا لازم تكون",
+        "start": 1124.919,
+        "end": 1129.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 431,
+        "text": "عارفها بس انا بحاول ان انا اوصلها لك",
+        "start": 1127.36,
+        "end": 1132.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 432,
+        "text": "فانا عايز اخلي الجزء الحته دي اللي هي",
+        "start": 1129.919,
+        "end": 1134.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 433,
+        "text": "الاكس سكوير ناقص الاربعه اكس عايز اخليه",
+        "start": 1132.24,
+        "end": 1137.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 434,
+        "text": "هي داله موجوده جوه وعباره هنا انها في",
+        "start": 1134.2,
+        "end": 1139.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 435,
+        "text": "الاخر هي عباره هنا انها سكوير طب قال لك",
+        "start": 1137.159,
+        "end": 1141.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 436,
+        "text": "عشان تعمل بقى الكومبليتن سكوير بس خلي",
+        "start": 1139.039,
+        "end": 1143.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 437,
+        "text": "بالك انا بعمل كومبليتن سكوير لمين للجزء",
+        "start": 1141.48,
+        "end": 1147.1200000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 438,
+        "text": "ده بس سيبك من ال 13 انسى ال 13 خالص فقال",
+        "start": 1143.76,
+        "end": 1149.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 439,
+        "text": "لك بتعمل الكومبليتن سكوير ازاي انت عندك",
+        "start": 1147.12,
+        "end": 1151.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 440,
+        "text": "هنا دي عباره هنا انها تربيع وعندك هنا",
+        "start": 1149.28,
+        "end": 1153.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 441,
+        "text": "المعامل ده عباره عباره ان هو باور واحد",
+        "start": 1151.52,
+        "end": 1155.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 442,
+        "text": "فقال لك عشان تعمل كومبليتن سكوير للترم",
+        "start": 1153.2,
+        "end": 1157.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 443,
+        "text": "ده هتبقى ناقل نفس الاشاره دي بالظبط",
+        "start": 1155.2,
+        "end": 1160.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 444,
+        "text": "هتبقى عندي هنا انها تحت ناقص نفس الاشاره",
+        "start": 1157.28,
+        "end": 1163.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 445,
+        "text": "اللي هي النيجتيف بعد كده الاربعه اكس او",
+        "start": 1160.28,
+        "end": 1165.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 446,
+        "text": "المعامل اللي مع الاكس مش الاكس سكوير",
+        "start": 1163.36,
+        "end": 1167.6399999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 447,
+        "text": "المعامل اللي مع الاكس هتعمل فيه ايه",
+        "start": 1165.48,
+        "end": 1170.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 448,
+        "text": "هتقسمه على اثنين طب معامل الاكس هنا كان",
+        "start": 1167.64,
+        "end": 1172.5200000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 449,
+        "text": "بكام كان اربعه لما تقسمه على اثنين هيبقى",
+        "start": 1170.52,
+        "end": 1175.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 450,
+        "text": "عندك هنا اثنين فانت كده خلاص عملت",
+        "start": 1172.52,
+        "end": 1177.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 451,
+        "text": "الكومبليتن سكوير هو انا قلت لك انا بعمل",
+        "start": 1175.28,
+        "end": 1179.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 452,
+        "text": "كومبليتن سكوير لمين انا بعمل كومبليتن",
+        "start": 1177.32,
+        "end": 1181.4399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 453,
+        "text": "سكوير للجزء اللي متعمل له هايلايتن",
+        "start": 1179.32,
+        "end": 1184.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 454,
+        "text": "بالاصفر ده طب تعال كده حاول حاول مع نفسك",
+        "start": 1181.44,
+        "end": 1186.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 455,
+        "text": "كده فك لي المقدار ده هو في الاخر هيساوي",
+        "start": 1184.28,
+        "end": 1188.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 456,
+        "text": "كام؟ المقدار ده لو انا جيت فكيته في",
+        "start": 1186.44,
+        "end": 1190.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 457,
+        "text": "الاخر هيبقى عندي عباره عن هو اكس سكوير",
+        "start": 1188.559,
+        "end": 1193.6789999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 458,
+        "text": "ناقص الاربعه اكس بعد كده اهو ده نفس",
+        "start": 1190.72,
+        "end": 1195.679,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 459,
+        "text": "الجزء اللي موجود هنا بالظبط بس بعد كده",
+        "start": 1193.679,
+        "end": 1198.3200000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 460,
+        "text": "هيبقى عندي هنا زائد الاربعه اقول لك اهلا",
+        "start": 1195.679,
+        "end": 1200.3600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 461,
+        "text": "انت جبت الاربعه دي منين انا كان عندي هنا",
+        "start": 1198.32,
+        "end": 1202.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 462,
+        "text": "اكس سكوير ناقص الاربعه اكس انت طلعت",
+        "start": 1200.36,
+        "end": 1205.4399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 463,
+        "text": "الاربعه دي منين عشان كده هقوم جاي واقول",
+        "start": 1202.96,
+        "end": 1208.1200000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 464,
+        "text": "لك هنا في الخباسه كده في الخباسه بعد ما",
+        "start": 1205.44,
+        "end": 1211.3600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 465,
+        "text": "عملت اكس - ا سكوير عايزك بس تطرح لي من",
+        "start": 1208.12,
+        "end": 1214.08,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 466,
+        "text": "هنا الاربعه فبالتالي لما انت تيجي تفك",
+        "start": 1211.36,
+        "end": 1216.28,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 467,
+        "text": "المقدار ده وهيديك المقدار ده كده انا",
+        "start": 1214.08,
+        "end": 1217.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 468,
+        "text": "عايزك تقوم نزله هنا الناقص الاربعه",
+        "start": 1216.28,
+        "end": 1221.1589999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 469,
+        "text": "فهتقوم قايل هنا - ا وبالتالي لما انا اجي",
+        "start": 1217.96,
+        "end": 1223.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 470,
+        "text": "اطرح من هنا - ا فالنقص ا هتروح من ناقص",
+        "start": 1221.159,
+        "end": 1226.3600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 471,
+        "text": "اعه وفي الاخر هيساوي لي انها اكس سكوير",
+        "start": 1223.48,
+        "end": 1229.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 472,
+        "text": "ناقص الاربعه اكس فانا كده عرفت ان انا",
+        "start": 1226.36,
+        "end": 1231.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 473,
+        "text": "اعمل كومبليتن سكوير فلو انا جيت هنا",
+        "start": 1229.24,
+        "end": 1234.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 474,
+        "text": "وركزت او عملت الكومبليت سكوير للجزء ده",
+        "start": 1231.6,
+        "end": 1237.4399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 475,
+        "text": "مره ثانيه فهيبقى في الاخر هو بيساوي لي",
+        "start": 1234.32,
+        "end": 1239.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 476,
+        "text": "الحته دي كده انها الاكس ناقص الاثنين",
+        "start": 1237.44,
+        "end": 1243.1200000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 477,
+        "text": "سكوير ناقص الاربعه هو ده الكومبليت سكوير",
+        "start": 1239.72,
+        "end": 1245.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 478,
+        "text": "للحته دي كده كلها طيب لو انا بقى حاولت",
+        "start": 1243.12,
+        "end": 1247.8799999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 479,
+        "text": "ان انا اشوف المساله دي او حاولت ان انا",
+        "start": 1245.919,
+        "end": 1250.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 480,
+        "text": "رجعت لمساله التكامل بتاعتي تبقى عندي",
+        "start": 1247.88,
+        "end": 1252.1200000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 481,
+        "text": "عباره هنا انها واحد على الجزء ده في",
+        "start": 1250.0,
+        "end": 1253.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 482,
+        "text": "الاخر قلنا ان هو يساوي كام اللي هو الحته",
+        "start": 1252.12,
+        "end": 1255.2399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 483,
+        "text": "دي كده او خلينا احنا نعملها بالليزر اللي",
+        "start": 1253.72,
+        "end": 1257.4,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 484,
+        "text": "هو الحته دي كده هتساوي كام في الاخر",
+        "start": 1255.24,
+        "end": 1260.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 485,
+        "text": "فاحنا قلنا انها هتساوي انها الاكس ناقص",
+        "start": 1257.4,
+        "end": 1263.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 486,
+        "text": "الاثنين سكوير ناقص الاربعه ما انساش بقى",
+        "start": 1260.159,
+        "end": 1266.2800000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 487,
+        "text": "حته مهمه قوي الزائد 13 دي انا كل ده كنت",
+        "start": 1263.2,
+        "end": 1269.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 488,
+        "text": "مركز مع مين كنت مركز مع الحته دي دلوقتي",
+        "start": 1266.28,
+        "end": 1271.6399999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 489,
+        "text": "بقى انا رجعت تاني مساله التكامل ولقيت ان",
+        "start": 1269.0,
+        "end": 1274.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 490,
+        "text": "انا عندي هنا + 13 فقوم قايل هنا ايه انا",
+        "start": 1271.64,
+        "end": 1277.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 491,
+        "text": "عندي هنا + 13 فايه اللي هعمله بعد كده ان",
+        "start": 1274.039,
+        "end": 1280.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 492,
+        "text": "انا هبسط المقدار ده كده وهشوف ان هو في",
+        "start": 1277.72,
+        "end": 1282.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 493,
+        "text": "الاخر هيطلع لي بايه فلو انا قمت قيل",
+        "start": 1280.12,
+        "end": 1284.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 494,
+        "text": "التكامل الجزء ده تبقى عندي عباره هنا",
+        "start": 1282.52,
+        "end": 1287.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 495,
+        "text": "انها الواحد على الاكس ناقص الاثنين",
+        "start": 1284.32,
+        "end": 1290.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 496,
+        "text": "للاسكوير بعد كده 13 - 4 في الاخر دي",
+        "start": 1287.32,
+        "end": 1293.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 497,
+        "text": "هتساوي لي في الاخر انها + ت فانا كده",
+        "start": 1290.84,
+        "end": 1296.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 498,
+        "text": "نوعا ما قدرت ان انا اوصل لصوره مفهومه",
+        "start": 1293.799,
+        "end": 1299.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 499,
+        "text": "هنا قدامي الشكل اللي موجود هنا ده ان انا",
+        "start": 1296.36,
+        "end": 1302.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 500,
+        "text": "عندي تحت في المقام هي اكس ناقص ا سكوير",
+        "start": 1299.6,
+        "end": 1305.6789999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 501,
+        "text": "وعندي هنا في كونستنت الشكل ده كان مالوف",
+        "start": 1302.76,
+        "end": 1308.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 502,
+        "text": "بالنسبه لي في انهي فانكشن في الانفرس",
+        "start": 1305.679,
+        "end": 1310.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 503,
+        "text": "تريك فانكشن لان انا في المقام هنا ما",
+        "start": 1308.24,
+        "end": 1313.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 504,
+        "text": "عنديش ايابل فالشكل ده كان مالوف للفانكشن",
+        "start": 1310.159,
+        "end": 1317.679,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 505,
+        "text": "بتاعه اللي هي التان انفرس للاكس اللي كان",
+        "start": 1313.48,
+        "end": 1320.679,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 506,
+        "text": "بيبقى الاشتقاق بتاعها هو عباره ان هو",
+        "start": 1317.679,
+        "end": 1324.3600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 507,
+        "text": "الواحد على الواحد زائد الاكس سكوير عايز",
+        "start": 1320.679,
+        "end": 1326.6000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 508,
+        "text": "اوصل الشكل اللي موجود في المقام ده عايز",
+        "start": 1324.36,
+        "end": 1329.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 509,
+        "text": "اخليه قريب من الشكل اللي موجود هنا عندي",
+        "start": 1326.6,
+        "end": 1331.7199999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 510,
+        "text": "طب اقدر اعمل العمليه دي ازاي؟ زي ما احنا",
+        "start": 1329.6,
+        "end": 1335.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 511,
+        "text": "متعودين انا باخد الكومن فاكتور او باخد",
+        "start": 1331.72,
+        "end": 1337.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 512,
+        "text": "الرقم الكونستنت عندي اللي هو تسعه وباخده",
+        "start": 1335.0,
+        "end": 1339.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 513,
+        "text": "كومن فاكتور فهتبقى عندي هنا هي عباره لو",
+        "start": 1337.039,
+        "end": 1341.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 514,
+        "text": "انا اخدت ده كومن فاكتور هيبقى عندي ان",
+        "start": 1339.36,
+        "end": 1343.4799999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 515,
+        "text": "التكامل عباره هنا انها هاخد التسعه كومن",
+        "start": 1341.039,
+        "end": 1347.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 516,
+        "text": "فاكتور فهتبقى هي اكس ناقص الاثنين سكوير",
+        "start": 1343.48,
+        "end": 1350.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 517,
+        "text": "على التسعه بعد كده هو قال هي ايه هي زائد",
+        "start": 1347.48,
+        "end": 1353.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 518,
+        "text": "الواحد بالشكل ده وكان عندي هنا في الواحد",
+        "start": 1350.48,
+        "end": 1356.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 519,
+        "text": "او هي عباره هنا انها الدي اكس طيب لو انا",
+        "start": 1353.32,
+        "end": 1358.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 520,
+        "text": "بقى قمت حاولت ان انا برض ابسط الصوره",
+        "start": 1356.159,
+        "end": 1361.5590000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 521,
+        "text": "فهتطلع عندي هنا الواحد على التره وهتبقى",
+        "start": 1358.84,
+        "end": 1364.3999999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 522,
+        "text": "عندي هنا انها الدي اكس حاله هنا الاكس",
+        "start": 1361.559,
+        "end": 1367.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 523,
+        "text": "ناقص الاثنين كل ده هقوم قايل هنا على",
+        "start": 1364.4,
+        "end": 1369.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 524,
+        "text": "الثلاثه ليه انا هاخد بقى عايز اختصر",
+        "start": 1367.32,
+        "end": 1370.6399999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 525,
+        "text": "المساله على نفسي على طول هتبقى عندي هي",
+        "start": 1369.039,
+        "end": 1373.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 526,
+        "text": "عباره هنا انها السكوير وعندي هنا زائد",
+        "start": 1370.64,
+        "end": 1376.3200000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 527,
+        "text": "الواحد الواحد دي برض هي برض بتساوي",
+        "start": 1373.279,
+        "end": 1379.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 528,
+        "text": "الواحد سكوير لو انا بقى جيت وشفت التكامل",
+        "start": 1376.32,
+        "end": 1381.8799999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 529,
+        "text": "بتاع المساله دي فهتبقى عندي دي الفانكشن",
+        "start": 1379.6,
+        "end": 1384.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 530,
+        "text": "بتاعتي وعندي هنا زائد ومافيش اي روت فهي",
+        "start": 1381.88,
+        "end": 1387.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 531,
+        "text": "دي نفس التان انفرس وانا هنا وصلت لنفس",
+        "start": 1384.52,
+        "end": 1390.679,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 532,
+        "text": "الصوره دي كده فهتبقى عندي التكامل بتاع",
+        "start": 1387.64,
+        "end": 1393.0800000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 533,
+        "text": "الداله دي او الجزء ده كده لما انا اجي",
+        "start": 1390.679,
+        "end": 1395.6000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 534,
+        "text": "اكامله هتبقى عندي هي في الاخر هي بتساوي",
+        "start": 1393.08,
+        "end": 1398.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 535,
+        "text": "كام هي واحد على الت في دي هتبقى عندي",
+        "start": 1395.6,
+        "end": 1401.4399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 536,
+        "text": "انها تان الانفرس للجزء اللي موجود جوه",
+        "start": 1398.84,
+        "end": 1404.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 537,
+        "text": "الاكوير فهي هنا اكس ناقص 2ين على اللاه",
+        "start": 1401.44,
+        "end": 1407.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 538,
+        "text": "كل ده كده زائد السي وبالله عليك ما تنساش",
+        "start": 1404.84,
+        "end": 1411.1589999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 539,
+        "text": "تقسم على معامل الاكس اللي كان موجود جوه",
+        "start": 1407.919,
+        "end": 1413.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 540,
+        "text": "طب معامل الاكس كان عندي هنا بكام كان ان",
+        "start": 1411.159,
+        "end": 1416.0800000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 541,
+        "text": "هو واحد على 3 فهتبقى عندي دي عباره عن",
+        "start": 1413.2,
+        "end": 1419.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 542,
+        "text": "انها هنا واحد على الثلاه مقام المقام",
+        "start": 1416.08,
+        "end": 1421.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 543,
+        "text": "هيبقى فوق بسط فهطلعه فوق هتبقى عندي في",
+        "start": 1419.159,
+        "end": 1425.0390000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 544,
+        "text": "الاخر انها 3 على ت فدي هتبقى هنا لاه ف 3",
+        "start": 1421.559,
+        "end": 1427.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 545,
+        "text": "على ت في الاخر انها هتساوي انها 1/3ث",
+        "start": 1425.039,
+        "end": 1431.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 546,
+        "text": "لتان الانفرس للاكس ناقص الاثنين على",
+        "start": 1427.48,
+        "end": 1433.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 547,
+        "text": "اللاه وبعد كده ما نساش ان انا عندي هنا",
+        "start": 1431.48,
+        "end": 1437.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 548,
+        "text": "في كونستنت اللي هو السي وده هو كده ده هو",
+        "start": 1433.6,
+        "end": 1440.1999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 549,
+        "text": "حل المساله التكامل دي وفي الاخر طلعت لنا",
+        "start": 1437.0,
+        "end": 1442.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 550,
+        "text": "بالصوره دي كده طيب كل اللي احنا كنا",
+        "start": 1440.2,
+        "end": 1445.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 551,
+        "text": "اتكلمنا عنه في التكاملات اللي قبل كده",
+        "start": 1442.72,
+        "end": 1447.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 552,
+        "text": "كان التكامل للدوال العاديه وكان في الاخر",
+        "start": 1445.32,
+        "end": 1452.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 553,
+        "text": "النتيجه بيبقى فيها انفرس تريك فانكشن او",
+        "start": 1447.72,
+        "end": 1453.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 554,
+        "text": "بيبقى في النتيجه في الاخر بيبقى فيها",
+        "start": 1452.12,
+        "end": 1456.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 555,
+        "text": "داله مثلثيه عكسيه ماذا لو بقى لو كان",
+        "start": 1453.919,
+        "end": 1460.8400000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 556,
+        "text": "مديني تكامل الساين انفرس للاكس فانت زي",
+        "start": 1456.76,
+        "end": 1463.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 557,
+        "text": "ما انت متعود انت الجزء ده اصلا عندك انت",
+        "start": 1460.84,
+        "end": 1465.9189999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 558,
+        "text": "مش عارف التكامل بتاعك طب ممكن ان انا احل",
+        "start": 1463.48,
+        "end": 1467.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 559,
+        "text": "السؤال ده ازاي لو هو جاللي بقى ممكن ان",
+        "start": 1465.919,
+        "end": 1470.0800000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 560,
+        "text": "انا احله ازاي بكل بساطه انت ممكن تحله",
+        "start": 1467.84,
+        "end": 1472.9189999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 561,
+        "text": "بالانتجريشن باي بارتس ازاي برض انا عندي",
+        "start": 1470.08,
+        "end": 1475.1999999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 562,
+        "text": "اول حاجه هل انت تعرف التكامل بتاع الساين",
+        "start": 1472.919,
+        "end": 1477.5200000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 563,
+        "text": "انفرس والله ماارفهاش فهو قايل ان دي",
+        "start": 1475.2,
+        "end": 1480.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 564,
+        "text": "عباره انا بقى هقسمها وهحلها بالبارتس",
+        "start": 1477.52,
+        "end": 1482.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 565,
+        "text": "فتبقى عندي دي عباره هنا انها بارتس برض",
+        "start": 1480.48,
+        "end": 1483.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 566,
+        "text": "عشان تكون عارفه ان هحلها ازاي وهيبقى",
+        "start": 1482.0,
+        "end": 1485.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 567,
+        "text": "عندي في الجزء الدي اللي هو بعمل له",
+        "start": 1483.64,
+        "end": 1487.7990000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 568,
+        "text": "ديفرنشيشن والجزء اللي بعمل له انتجريشن",
+        "start": 1485.24,
+        "end": 1490.1200000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 569,
+        "text": "الجزء اللي بعمل له تكامل فمين الفانكشن",
+        "start": 1487.799,
+        "end": 1492.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 570,
+        "text": "اللي انا ما بعرفش اكاملها خليني اسال",
+        "start": 1490.12,
+        "end": 1493.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 571,
+        "text": "السؤال تاني مين الفانكشن اللي عاملاها",
+        "start": 1492.48,
+        "end": 1496.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 572,
+        "text": "الازمه وما بعرفش اكاملها خالص اللي هي",
+        "start": 1493.84,
+        "end": 1498.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 573,
+        "text": "الساين انفرس دي اللي انا ماعرفش اكاملها",
+        "start": 1496.159,
+        "end": 1500.3200000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 574,
+        "text": "خلاص يا عم حطها مع التفاضل طالما انت ما",
+        "start": 1498.279,
+        "end": 1502.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 575,
+        "text": "بتعرفش تكاملها فهتبقى عندي ان دي في",
+        "start": 1500.32,
+        "end": 1505.4399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 576,
+        "text": "الاخر ان انا هتبقى بتساوي انها ساين",
+        "start": 1502.64,
+        "end": 1509.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 577,
+        "text": "الانفرس للاكس وانا عندي هنا هي عباره ان",
+        "start": 1505.44,
+        "end": 1511.3200000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 578,
+        "text": "الفانكشن اللي موجوده هنا هي بس ساين",
+        "start": 1509.279,
+        "end": 1513.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 579,
+        "text": "الانفرس الاكس طب هيبقى احط ايه بقى في",
+        "start": 1511.32,
+        "end": 1516.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 580,
+        "text": "الانتجريشن هحط الدي اكس او احط الواحد",
+        "start": 1513.76,
+        "end": 1518.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 581,
+        "text": "اصلا ما هي الدي اكس هي اصلا بتساوي",
+        "start": 1516.36,
+        "end": 1520.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 582,
+        "text": "الواحد فانا عندي دي هتبقى عندي هنا",
+        "start": 1518.0,
+        "end": 1522.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 583,
+        "text": "الواحد هل بتعرف تكامل واحد اكيد بتعرف",
+        "start": 1520.279,
+        "end": 1524.679,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 584,
+        "text": "تكامل الواحد ده عباره ان هو كونستنت حاول",
+        "start": 1522.44,
+        "end": 1527.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 585,
+        "text": "بقى ان انت دلوقتي تشوف اشتقاق الساين",
+        "start": 1524.679,
+        "end": 1529.679,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 586,
+        "text": "انفرس دي اشتقاق الساين انفرس عباره هنا",
+        "start": 1527.279,
+        "end": 1532.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 587,
+        "text": "انها واحد على هنا الواحد ناقص الاكس",
+        "start": 1529.679,
+        "end": 1534.679,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 588,
+        "text": "سكوير او الزاويه اللي موجوده هنا دي",
+        "start": 1532.52,
+        "end": 1537.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 589,
+        "text": "سكوير طيب كامل بقى الواحد تكامل الواحد",
+        "start": 1534.679,
+        "end": 1540.3990000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 590,
+        "text": "هو عباره ان هو ايه؟ هو عباره ان هو الاكس",
+        "start": 1537.72,
+        "end": 1543.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 591,
+        "text": "اعمل بقى العمليه دي كده اللي هو الموجه",
+        "start": 1540.399,
+        "end": 1544.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 592,
+        "text": "دي معناتها ان هي ايه؟ معناتها ان هي",
+        "start": 1543.0,
+        "end": 1547.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 593,
+        "text": "تكامل وعندك الاشاره النيجتيف دي هي اصلا",
+        "start": 1544.6,
+        "end": 1551.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 594,
+        "text": "جايه من القانون فهيبقى ناتج تكامل الساين",
+        "start": 1547.72,
+        "end": 1555.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 595,
+        "text": "انفرس للاكس في الاخر هيساوي ايه؟ هيساوي",
+        "start": 1551.559,
+        "end": 1558.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 596,
+        "text": "ان هو عباره ان هو الاكس مضروبه في ساين",
+        "start": 1555.039,
+        "end": 1562.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 597,
+        "text": "انفرس للاكس بعد كده عندي هنا ناقص الجزء",
+        "start": 1558.84,
+        "end": 1563.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 598,
+        "text": "ده بقى اللي هو التكامل اللي هو ايه عندي",
+        "start": 1562.0,
+        "end": 1566.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 599,
+        "text": "اللي هو اكس على هنا واحد ناقص الاكس",
+        "start": 1563.84,
+        "end": 1569.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 600,
+        "text": "سكوير عايزك بعد كده او عايزك تركز لي بقى",
+        "start": 1566.279,
+        "end": 1572.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 601,
+        "text": "على الجزء ده كده وان انت تحسب التكامل",
+        "start": 1569.399,
+        "end": 1574.7199999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 602,
+        "text": "بتاعه طيب لو انت جيت ركزت على الفانكشن",
+        "start": 1572.279,
+        "end": 1576.6,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 603,
+        "text": "اللي موجوده هنا اللي هي ايه اللي هي",
+        "start": 1574.72,
+        "end": 1578.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 604,
+        "text": "موجوده مع الروت اللي هي الواحد ناقص",
+        "start": 1576.6,
+        "end": 1581.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 605,
+        "text": "الاكس سكوير هل مشتقتها موجوده في البسط",
+        "start": 1578.559,
+        "end": 1583.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 606,
+        "text": "اه مشتقتها هنا موجوده في البسط يبقى اذا",
+        "start": 1581.279,
+        "end": 1585.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 607,
+        "text": "انا هستخدم التكامل بالتعويض يعني انا",
+        "start": 1583.72,
+        "end": 1587.919,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 608,
+        "text": "هاجي على الصوره دي كده واحاول ان انا",
+        "start": 1585.84,
+        "end": 1590.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 609,
+        "text": "استخدم في التكامل بالتعويض معاه انا هزوم",
+        "start": 1587.919,
+        "end": 1593.1200000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 610,
+        "text": "على التكامل ده وانا خلاص انا خلصت الحته",
+        "start": 1590.72,
+        "end": 1595.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 611,
+        "text": "دي ماليش علاقه بيها بس انا عايز احل",
+        "start": 1593.12,
+        "end": 1597.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 612,
+        "text": "التكامل ده لو انا جيت وحليته هقوم قايل",
+        "start": 1595.159,
+        "end": 1600.0390000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 613,
+        "text": "بما ان انا خلاص هستخدم التعويض فافترض ان",
+        "start": 1597.84,
+        "end": 1602.1589999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 614,
+        "text": "اليو هي بتساوي الفانكشن دي فهتبقى عندي",
+        "start": 1600.039,
+        "end": 1604.52,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 615,
+        "text": "هقوم قايل ليت اليو هي بتساوي ايه خليني",
+        "start": 1602.159,
+        "end": 1606.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 616,
+        "text": "برده اعمل سبيس كده شويه ليت اليو ه",
+        "start": 1604.52,
+        "end": 1608.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 617,
+        "text": "بتساوي انها واحد ناقص الاكس سكوير طيب لو",
+        "start": 1606.24,
+        "end": 1610.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 618,
+        "text": "انا قمت جاي بقى وقمت قال انها الدي يو هي",
+        "start": 1608.84,
+        "end": 1613.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 619,
+        "text": "عباره هنا انها لو انا جيت اشتقيت الجزء",
+        "start": 1610.88,
+        "end": 1615.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 620,
+        "text": "ده تبقى عباره هنا انها ناقص الاثنين اكس",
+        "start": 1613.24,
+        "end": 1618.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 621,
+        "text": "مضروبه هنا في الدي اكس فالدي اكس نوعا ما",
+        "start": 1615.44,
+        "end": 1620.72,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 622,
+        "text": "هنا هتساوي كام هتساوي هنا انها الدي يو",
+        "start": 1618.559,
+        "end": 1623.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 623,
+        "text": "على ناقص الاثنين اكس بالشكل ده كده وانا",
+        "start": 1620.72,
+        "end": 1625.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 624,
+        "text": "كده جبت المعادله الاولانيه وجبت المعادله",
+        "start": 1623.36,
+        "end": 1627.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 625,
+        "text": "الثانيه اللي انا اعوض فيها بالنسبه لدي",
+        "start": 1625.88,
+        "end": 1630.7990000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 626,
+        "text": "اكس فلما انا اجي بقى احسب التكامل بتاع",
+        "start": 1627.799,
+        "end": 1633.1589999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 627,
+        "text": "الجزء ده فهيبقى عندي ان تكامل الجزء ده",
+        "start": 1630.799,
+        "end": 1635.1589999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 628,
+        "text": "هي عباره عن ان هو الاكس اللي هو الحته دي",
+        "start": 1633.159,
+        "end": 1638.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 629,
+        "text": "كده هي عباره عن ان هي الاكس على هنا اليو",
+        "start": 1635.159,
+        "end": 1641.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 630,
+        "text": "بس اليو دي كلها باور كام باور النص",
+        "start": 1638.0,
+        "end": 1643.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 631,
+        "text": "مضروبه هنا في دي اكس طب احنا قلنا الدي",
+        "start": 1641.159,
+        "end": 1644.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 632,
+        "text": "اكس هي بتساوي كام احنا لسه جايبين الدي",
+        "start": 1643.12,
+        "end": 1647.2399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 633,
+        "text": "اكس اهي فالدي اكس عندي هنا هي بتساوي هي",
+        "start": 1644.96,
+        "end": 1649.6000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 634,
+        "text": "عباره هنا انها الدي يو على نيجتيف",
+        "start": 1647.24,
+        "end": 1652.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 635,
+        "text": "الاثنين اكس طب ايه اللي انا ممكن اعمله",
+        "start": 1649.6,
+        "end": 1654.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 636,
+        "text": "بعد كده اللي ممكن اعمله بعد كده ان الاكس",
+        "start": 1652.0,
+        "end": 1656.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 637,
+        "text": "هنا هتروح مع الاكس هنا وهيبتبقى لي في",
+        "start": 1654.12,
+        "end": 1658.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 638,
+        "text": "الاخر ان هي عباره هنا انها ايه؟ ان هي",
+        "start": 1656.399,
+        "end": 1661.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 639,
+        "text": "عباره هنا انها ناقص النص في تكامل اليو",
+        "start": 1658.32,
+        "end": 1663.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 640,
+        "text": "باور ناقص النص بالشكل ده انا طلعت ده فوق",
+        "start": 1661.399,
+        "end": 1666.7199999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 641,
+        "text": "عشان بس ابسط العمليه عليا يعني وهتبقى كل",
+        "start": 1663.799,
+        "end": 1668.9189999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 642,
+        "text": "ده انا بكامله بالنسبه لدي يو العمليه دي",
+        "start": 1666.72,
+        "end": 1671.1200000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 643,
+        "text": "في الاخر هطلع لي هنا انها كام انها ناقص",
+        "start": 1668.919,
+        "end": 1673.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 644,
+        "text": "النص بعد كده هقوم مكامل الجزء ده هتبقى",
+        "start": 1671.12,
+        "end": 1675.4399999999998,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 645,
+        "text": "عندي عباره انها يو هزود على ده واحد",
+        "start": 1673.44,
+        "end": 1679.3600000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 646,
+        "text": "هتبقى ا 1 على ا او النص يعني واقسم على",
+        "start": 1675.44,
+        "end": 1680.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 647,
+        "text": "المعامل الجديد اللي هو الواحد على",
+        "start": 1679.36,
+        "end": 1683.12,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 648,
+        "text": "الاثنين الواحد على الاثنين هتروح هنا مع",
+        "start": 1680.799,
+        "end": 1685.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 649,
+        "text": "الواحد على الاثنين وهيبقى عندي هنا انها",
+        "start": 1683.12,
+        "end": 1687.1589999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 650,
+        "text": "زائد سي طب انا كانت عندي اصلا اليو كانت",
+        "start": 1685.039,
+        "end": 1689.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 651,
+        "text": "بتساوي كام؟ اليو كانت عباره هنا انها",
+        "start": 1687.159,
+        "end": 1691.7600000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 652,
+        "text": "اليو كانت عباره هنا انها الواحد ناقص",
+        "start": 1689.799,
+        "end": 1694.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 653,
+        "text": "الاكس سكوير وعندي هنا في اشاره نيجتيف",
+        "start": 1691.76,
+        "end": 1697.399,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 654,
+        "text": "بالشكل ده كده طب لو انا رجعت بقى لمساله",
+        "start": 1694.84,
+        "end": 1699.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 655,
+        "text": "التكامل بتاعتي انا بعد ما خلصت التكامل",
+        "start": 1697.399,
+        "end": 1701.84,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 656,
+        "text": "ده كده فالمساله بتاعتي كانت بتقول لي ايه",
+        "start": 1699.48,
+        "end": 1703.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 657,
+        "text": "او الناتج اللي كان طالع لي كان في الاخر",
+        "start": 1701.84,
+        "end": 1707.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 658,
+        "text": "بيقول لي ان هي عندي هنا انها بتساوي ان",
+        "start": 1703.96,
+        "end": 1709.76,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 659,
+        "text": "الجزء ده عباره ان هو الاكس في ساين",
+        "start": 1707.0,
+        "end": 1713.88,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 660,
+        "text": "الانفرس للاكس وعندي بعد كده ناقص والجزء",
+        "start": 1709.76,
+        "end": 1716.48,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 661,
+        "text": "اللي في التكامل ده اصلا طلع لي بناقص",
+        "start": 1713.88,
+        "end": 1718.7600000000002,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 662,
+        "text": "فالناقص هيروح هنا مع الناقص وهتبقى عندي",
+        "start": 1716.48,
+        "end": 1720.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 663,
+        "text": "هنا انها في الاخر موجب وفي الاخر العمليه",
+        "start": 1718.76,
+        "end": 1723.36,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 664,
+        "text": "دي هتبقى واحد ناقص الاكس سكوير بالشكل ده",
+        "start": 1720.96,
+        "end": 1729.159,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 665,
+        "text": "زائد السي فتكامل بقى تكامل الساين انفرس",
+        "start": 1723.36,
+        "end": 1732.559,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 666,
+        "text": "للاكس في الاخر طلع لي ايه طلع لي الصوره",
+        "start": 1729.159,
+        "end": 1735.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 667,
+        "text": "دي كده اللي هي اكس في ساين انفرس الاكس",
+        "start": 1732.559,
+        "end": 1738.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 668,
+        "text": "زائد الواحد على ا ناقص الواحد ناقص الاكس",
+        "start": 1735.279,
+        "end": 1741.519,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 669,
+        "text": "سكوير بالشكل ده كده انت ممكن بقى تجيب",
+        "start": 1738.799,
+        "end": 1744.279,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 670,
+        "text": "التكاملات بتاعه الدوال المثلثيه العكسيه",
+        "start": 1741.519,
+        "end": 1746.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 671,
+        "text": "للكوساين والتان وتبتدي ان انت تحلها بنفس",
+        "start": 1744.279,
+        "end": 1749.32,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 672,
+        "text": "الطريقه دي بالضبط بالانتجريشن باي بارتس",
+        "start": 1746.96,
+        "end": 1751.6000000000001,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 673,
+        "text": "لان انت اصلا ما تعرفش التكامل بتاعهم",
+        "start": 1749.32,
+        "end": 1754.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 674,
+        "text": "فانت ممكن تستخدم التكامل بالاجزاء في ان",
+        "start": 1751.6,
+        "end": 1757.9189999999999,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 675,
+        "text": "هو يساعدك في ان انت تجيب بقى لكل فانكشن",
+        "start": 1754.96,
+        "end": 1760.039,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 676,
+        "text": "للهيبربوليك كوساين والهيبربوليك سيك الى",
+        "start": 1757.919,
+        "end": 1762.2,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 677,
+        "text": "اخره يعني وبس ده كان شرح اشتقاق الدوال",
+        "start": 1760.039,
+        "end": 1764.799,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 678,
+        "text": "المثلثيه العكسيه شفنا الاثنين اشتقاق",
+        "start": 1762.2,
+        "end": 1766.96,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 679,
+        "text": "الدوال المثلثيه العكسيه نفسها زي ما احنا",
+        "start": 1764.799,
+        "end": 1770.24,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 680,
+        "text": "شفنا هنا في اخر مثال وشوفنا برده لو كان",
+        "start": 1766.96,
+        "end": 1772.64,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 681,
+        "text": "الناتج اللي هيطلع لك في الاخر كان في",
+        "start": 1770.24,
+        "end": 1775.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 682,
+        "text": "داله مثلثيه عكسيه اتمنى ان شرح الفيديو",
+        "start": 1772.64,
+        "end": 1778.0,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 683,
+        "text": "ده كان بسيط ومفيد وشكرا جدا على حضتكم",
+        "start": 1775.44,
+        "end": 1780.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    },
+    {
+        "chunk_id": 684,
+        "text": "وسلام",
+        "start": 1778.0,
+        "end": 1780.44,
+        "video_title": "Integration of Inverse Trig Functions"
+    }
+]

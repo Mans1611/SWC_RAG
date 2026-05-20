@@ -1,0 +1,5630 @@
+[
+    {
+        "chunk_id": 0,
+        "text": "السلام عليكم في الفيديو ده ان شاء الله",
+        "start": 0.199,
+        "end": 6.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 1,
+        "text": "هنكمل في حته الكونفرجنس للسيرس وهنتكلم",
+        "start": 2.48,
+        "end": 9.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 2,
+        "text": "عن حاجه اسمها الانجرال تست الاوبجكتف",
+        "start": 6.72,
+        "end": 12.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 3,
+        "text": "بتاع الفيديو ده هو ان انا اول حاجه اوريك",
+        "start": 9.48,
+        "end": 14.559000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 4,
+        "text": "القانون اللي احنا اخدناه المره اللي فاتت",
+        "start": 12.759,
+        "end": 17.8,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 5,
+        "text": "او الفورمولا بتاع لما انا كنت بديك",
+        "start": 14.559,
+        "end": 20.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 6,
+        "text": "الفورمولا بتاعه السيريز واقول لك اديها",
+        "start": 17.8,
+        "end": 24.8,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 7,
+        "text": "ليمت وشوف لي هي بتكونفيرج ولا بتدايفرج",
+        "start": 20.96,
+        "end": 26.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 8,
+        "text": "وكنت انت القانون ده اخدته وكنت قدرت ان",
+        "start": 24.8,
+        "end": 29.679000000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 9,
+        "text": "انت تعرف بيه السيريز دي بتكونفرج ولا",
+        "start": 26.84,
+        "end": 32.519999999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 10,
+        "text": "بالدايفرج هنكتشف بقى ان القانون ده للاسف",
+        "start": 29.679,
+        "end": 35.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 11,
+        "text": "هو فشل في بعض الحالات ان هو يعرف هل",
+        "start": 32.52,
+        "end": 37.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 12,
+        "text": "السيريز دي بتكونفرج ولا بتدايفرج وهنشوف",
+        "start": 35.68,
+        "end": 40.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 13,
+        "text": "بالمثال على كده الاوبجيكتيف اللي بعد كده",
+        "start": 37.84,
+        "end": 44.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 14,
+        "text": "ان انا بقى نلجا او نتجه للانتجرال تست",
+        "start": 40.48,
+        "end": 45.839999999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 15,
+        "text": "ونشوف ايه هو الانتجرال تست ده بيكون",
+        "start": 44.2,
+        "end": 48.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 16,
+        "text": "عباره عن ايه والانتجرال تست ده هو واحد",
+        "start": 45.84,
+        "end": 51.879000000000005,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 17,
+        "text": "من تستيه كتير او واحد من اختبارات تانيه",
+        "start": 48.64,
+        "end": 54.239000000000004,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 18,
+        "text": "كتير ماشي هو مش جزء من الاختبار يعني انا",
+        "start": 51.879,
+        "end": 56.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 19,
+        "text": "مش هروح للانتجرال تست بعد كده في تست",
+        "start": 54.239,
+        "end": 58.599999999999994,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 20,
+        "text": "بعده كده في تست بعده لا انت عندك اكتر من",
+        "start": 56.28,
+        "end": 61.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 21,
+        "text": "اوبشن لو انت عايز تعرف هل المتسلسله",
+        "start": 58.6,
+        "end": 65.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 22,
+        "text": "بتاعتك دي بتتقارب ولا بتتباعد انت عندك",
+        "start": 61.559,
+        "end": 67.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 23,
+        "text": "اكت من اوبشن واحد منهم بقى الانتجرال تست",
+        "start": 65.0,
+        "end": 70.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 24,
+        "text": "فانت ممكن لو حليتها بالانتجرال تست فخلاص",
+        "start": 67.56,
+        "end": 72.32000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 25,
+        "text": "كده انت قدرت تعرف هي بتكونفرج ولا",
+        "start": 70.56,
+        "end": 74.479,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 26,
+        "text": "بتدايفرج فاللي انا عايز اقوله ان هي مش",
+        "start": 72.32,
+        "end": 78.03999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 27,
+        "text": "جزء من امتحانات يعني هي مش بتمشي بشكل",
+        "start": 74.479,
+        "end": 80.03999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 28,
+        "text": "تتابعي الحاجه اللي بعد كده ان احنا بقى",
+        "start": 78.04,
+        "end": 83.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 29,
+        "text": "نحل ان شاء الله شويه مسائل على شويه",
+        "start": 80.04,
+        "end": 85.07900000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 30,
+        "text": "مسائل على السيريز ونقدر ان احنا نعرف هل",
+        "start": 83.159,
+        "end": 87.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 31,
+        "text": "هي بتكونفيرج ولا بتدايفرج باستخدام ايه",
+        "start": 85.079,
+        "end": 89.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 32,
+        "text": "باستخدام استخدام الانتجرال تست يعني ان",
+        "start": 87.28,
+        "end": 92.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 33,
+        "text": "شاء الله طيب دي مساله مديني هنا السيريز",
+        "start": 89.24,
+        "end": 95.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 34,
+        "text": "دي ماشي وهي عباره انها واحد على واحد على",
+        "start": 92.28,
+        "end": 98.479,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 35,
+        "text": "روت ان وزي ما احنا قلنا الجزء ده بالظبط",
+        "start": 95.88,
+        "end": 100.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 36,
+        "text": "هو عباره ان هو ايه هو عباره ان الحته دي",
+        "start": 98.479,
+        "end": 104.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 37,
+        "text": "هي عباره انها اي ان يعني فاحنا كنا",
+        "start": 100.56,
+        "end": 105.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 38,
+        "text": "القانون اللي اخدناه المره اللي فاتت كان",
+        "start": 104.399,
+        "end": 108.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 39,
+        "text": "بيقول ايه كان بيقول ان انا عندي الليمت",
+        "start": 105.84,
+        "end": 110.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 40,
+        "text": "لو كانت عندي هنا ان تؤول الى انفينتي",
+        "start": 108.159,
+        "end": 115.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 41,
+        "text": "للاي ان تمام لو هي كانت بتطلع لي 0 او لو",
+        "start": 110.799,
+        "end": 117.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 42,
+        "text": "هي دي كانت بتساوي ال0 فساعتها دي",
+        "start": 115.28,
+        "end": 121.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 43,
+        "text": "بتكونفرج غير كده غير كده ساعتها دي",
+        "start": 117.84,
+        "end": 123.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 44,
+        "text": "بتدايفرج سواء كانت غير كده هي بانفينتي",
+        "start": 121.2,
+        "end": 127.60000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 45,
+        "text": "او حتى باي رقم حتى لو كان نص او لاثه اي",
+        "start": 123.84,
+        "end": 131.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 46,
+        "text": "رقم عادي هي بالدايفرج اهم حاجه ان ليمت",
+        "start": 127.6,
+        "end": 134.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 47,
+        "text": "الاي ان دي او الجزء ده كده يكون بزيرو",
+        "start": 131.0,
+        "end": 137.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 48,
+        "text": "لما عند الانفينتي تمام فلو انا جيت بقى",
+        "start": 134.72,
+        "end": 140.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 49,
+        "text": "وكملت بالحته دي بالظبط لو انا قمت مثلا",
+        "start": 137.84,
+        "end": 142.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 50,
+        "text": "انا هاخد ليمت لو ان عندي كانت تؤول الى",
+        "start": 140.0,
+        "end": 146.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 51,
+        "text": "انفينتي على المساله دي على واحد على جذر",
+        "start": 142.959,
+        "end": 147.31900000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 52,
+        "text": "ال",
+        "start": 146.64,
+        "end": 150.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 53,
+        "text": "فهكتشف ان لو انا قمت معوض هنا بواحد على",
+        "start": 147.319,
+        "end": 153.51899999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 54,
+        "text": "روت الانفينتي فدي ساعتها هتديني انها",
+        "start": 150.72,
+        "end": 155.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 55,
+        "text": "واحد على انفينتي لان روت الانفينتي انا",
+        "start": 153.519,
+        "end": 158.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 56,
+        "text": "عندي في المقام انفينتي او عندي رقم كبير",
+        "start": 155.56,
+        "end": 160.92000000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 57,
+        "text": "جدا فلما اخد لي الروت هيديني رقم اصغر",
+        "start": 158.04,
+        "end": 163.239,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 58,
+        "text": "شويه بس برض ستيل الرقم ده كبير كل اما",
+        "start": 160.92,
+        "end": 165.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 59,
+        "text": "الارقام دي بتكبر كلما اللي هيطلع من",
+        "start": 163.239,
+        "end": 167.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 60,
+        "text": "الروت اللي هو الجزء ده برده هيبقى رقم",
+        "start": 165.48,
+        "end": 169.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 61,
+        "text": "كبير ففي الاخر هتطلع لي انها واحده على",
+        "start": 167.44,
+        "end": 171.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 62,
+        "text": "الانفينتي هتطلع لي انها بصفر وبالتالي",
+        "start": 169.319,
+        "end": 175.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 63,
+        "text": "هقدر ان انا اقوم قايل ان السيريز دي هي",
+        "start": 171.84,
+        "end": 178.64000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 64,
+        "text": "بتكونفرج بس للاسف اكتشفنا بعد كده ان",
+        "start": 175.28,
+        "end": 181.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 65,
+        "text": "الكلام ده غلط. الموضوع ده طلع غلط لان جه",
+        "start": 178.64,
+        "end": 184.83999999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 66,
+        "text": "راجل كده محترم وطيب الراجل ده كان بيحب",
+        "start": 181.2,
+        "end": 187.11999999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 67,
+        "text": "التكامل جدا يعني فحاب ان هو يرسم",
+        "start": 184.84,
+        "end": 190.4,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 68,
+        "text": "الفانكشن بتاعه واحد على روت اكس دي حاب",
+        "start": 187.12,
+        "end": 193.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 69,
+        "text": "ان هو يرسمها تمام وبرده رسم بشكل",
+        "start": 190.4,
+        "end": 195.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 70,
+        "text": "المربعات دي الجزء بتاع السيريس يعني دي",
+        "start": 193.44,
+        "end": 197.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 71,
+        "text": "هي عباره انها واحد ده عباره انها واحد",
+        "start": 195.84,
+        "end": 200.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 72,
+        "text": "على جذر الاثنين ده عباره عن انها واحد",
+        "start": 197.76,
+        "end": 202.92,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 73,
+        "text": "على جذر ال الجزء ده كده فدي اكنها هي",
+        "start": 200.08,
+        "end": 205.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 74,
+        "text": "السيرز وبرده خلي بالك ان هوخدها هنا",
+        "start": 202.92,
+        "end": 206.95899999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 75,
+        "text": "ديسكريت يعني ارقام عاديه يعني الجزء ده",
+        "start": 205.12,
+        "end": 209.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 76,
+        "text": "كله هو الحد الاول الجزء ده كده هو الحد",
+        "start": 206.959,
+        "end": 211.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 77,
+        "text": "الحد التاني وهكذا يعني فكك من الكلام ده",
+        "start": 209.08,
+        "end": 213.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 78,
+        "text": "كله ركز معايا بس في الحته اللي جايه دي",
+        "start": 211.28,
+        "end": 215.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 79,
+        "text": "الراجل قال لك ايه الراجل قال لك والله",
+        "start": 213.28,
+        "end": 219.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 80,
+        "text": "تعالى انا عايز اخد الفانكشن دي تمام اللي",
+        "start": 215.84,
+        "end": 221.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 81,
+        "text": "هي واحد على روت اكس انا عايز احسب لها",
+        "start": 219.36,
+        "end": 225.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 82,
+        "text": "التكامل بتاعها واحد على روت الاكس بالشكل",
+        "start": 221.72,
+        "end": 227.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 83,
+        "text": "ده كده وهاخد من بدايه الحد الاولاني اللي",
+        "start": 225.0,
+        "end": 231.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 84,
+        "text": "هو الجزء ده كده من واحد لحد الانفينتي",
+        "start": 227.72,
+        "end": 233.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 85,
+        "text": "واحنا عارفين ان التكامل بتاعي على دي اكس",
+        "start": 231.64,
+        "end": 235.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 86,
+        "text": "خلي بالك ان انا عندي هنا انها دي ان",
+        "start": 233.72,
+        "end": 238.4,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 87,
+        "text": "فخلينا نفترض هنا انها دي ان نفترض معلش",
+        "start": 235.319,
+        "end": 241.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 88,
+        "text": "ان الريابل عندي هنا بان تمام فهتبقى دي",
+        "start": 238.4,
+        "end": 243.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 89,
+        "text": "عندي هنا واحنا عارفين ان التكامل بيجيب",
+        "start": 241.04,
+        "end": 245.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 90,
+        "text": "لي الااريا اندر ذا كيرف يعني التكامل",
+        "start": 243.68,
+        "end": 247.59900000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 91,
+        "text": "بيجيب لي الجزء ده كده الاريا اندر ذا",
+        "start": 245.519,
+        "end": 249.48000000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 92,
+        "text": "كيرف الجزء ده كده لو احنا جينا نكامل",
+        "start": 247.599,
+        "end": 252.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 93,
+        "text": "المساله دي تبقى عندي هنا انها تكامل ال",
+        "start": 249.48,
+        "end": 255.39999999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 94,
+        "text": "ان باور نص في دي ان من واحد لحد",
+        "start": 252.04,
+        "end": 258.079,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 95,
+        "text": "الانفينتي لو انا جيت اكامله او ده هتبقى",
+        "start": 255.4,
+        "end": 260.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 96,
+        "text": "باور ناقص نص عفوا فلو انت جيت تكاملها",
+        "start": 258.079,
+        "end": 264.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 97,
+        "text": "هتبقى هي عباره انها ان باور نص وهتقسم",
+        "start": 260.919,
+        "end": 266.35999999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 98,
+        "text": "هنا على النص فهتبقى عندك هنا 2ين وهتعوض",
+        "start": 264.08,
+        "end": 268.59999999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 99,
+        "text": "هنا من فين من واحد لحد الانفينتي انا",
+        "start": 266.36,
+        "end": 271.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 100,
+        "text": "عايز اكامل لحد دي ما تكامل لحد الانفينتي",
+        "start": 268.6,
+        "end": 273.32000000000005,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 101,
+        "text": "لو انا بقى جيت وقمت شايف المساله دي",
+        "start": 271.12,
+        "end": 276.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 102,
+        "text": "هلاحظ انها عندي انها اين في الروت اللي",
+        "start": 273.32,
+        "end": 279.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 103,
+        "text": "هي ال ان وهعوض هنا بالحد بتاع الاولاني",
+        "start": 276.6,
+        "end": 282.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 104,
+        "text": "اللي هو انفينتي بعد كده هو قايل انها",
+        "start": 279.639,
+        "end": 285.28000000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 105,
+        "text": "ناقص اين في الحد الاولاني اللي هو روت",
+        "start": 282.68,
+        "end": 287.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 106,
+        "text": "الواحد ففي الاخر هتبقى انها كام هتبقى",
+        "start": 285.28,
+        "end": 290.75899999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 107,
+        "text": "انها واحد دي بقى بالظبط دي بقى بالظبط",
+        "start": 287.039,
+        "end": 293.8,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 108,
+        "text": "تديني كام الحته دي الحته دي بتديني انها",
+        "start": 290.759,
+        "end": 295.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 109,
+        "text": "روت الانفينتي احنا قلنا انها روت",
+        "start": 293.8,
+        "end": 297.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 110,
+        "text": "الانفينتي هتبقى اين في انفينتي بالشكل",
+        "start": 295.44,
+        "end": 299.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 111,
+        "text": "بالشكل ده كده ناقص اين فبالتالي دي هتطلع",
+        "start": 297.72,
+        "end": 302.88000000000005,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 112,
+        "text": "لي بانفينتي ايه معنى حته الانفينتي دي",
+        "start": 299.759,
+        "end": 304.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 113,
+        "text": "انا التكامل اصلا بتاع الحته دي بيجيب لي",
+        "start": 302.88,
+        "end": 306.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 114,
+        "text": "ايه انا التكامل بتاع الجزء ده اصلا كان",
+        "start": 304.68,
+        "end": 310.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 115,
+        "text": "بيجيب لي الاريا فبالنسبه لي الاريا بتاعه",
+        "start": 306.56,
+        "end": 313.479,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 116,
+        "text": "الحته دي كلها هي طلعت لي اصلا بانفينتي",
+        "start": 310.24,
+        "end": 316.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 117,
+        "text": "فكك بقى من حته الاريا دي وتعال ركز معايا",
+        "start": 313.479,
+        "end": 317.75899999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 118,
+        "text": "في الجزء اللي جاي ده اللي هو اللي احنا",
+        "start": 316.039,
+        "end": 321.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 119,
+        "text": "نبدا بقى ان احنا نعمل او هنسقط عليه حته",
+        "start": 317.759,
+        "end": 324.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 120,
+        "text": "السيريس انا دلوقتي عندي الحته بتاعه الم",
+        "start": 321.039,
+        "end": 327.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 121,
+        "text": "بتاع السيريس اللي هو واحد على جذر ال ان",
+        "start": 324.44,
+        "end": 330.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 122,
+        "text": "احنا قلنا ده هو الحد الاولاني ده هو الحد",
+        "start": 327.759,
+        "end": 332.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 123,
+        "text": "الثاني ده هو الحد الثالث ده هو الحد",
+        "start": 330.639,
+        "end": 335.28000000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 124,
+        "text": "الرابع الى اخره لحد بقى نكمل الانفينتي",
+        "start": 332.759,
+        "end": 337.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 125,
+        "text": "طب انت دلوقتي الاريا بتاعتك احنا قلنا ان",
+        "start": 335.28,
+        "end": 339.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 126,
+        "text": "التكامل هو بيجيب الااريا اندر ذا كيرف",
+        "start": 337.6,
+        "end": 342.28000000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 127,
+        "text": "اللي هو الجزء ده كده وعندك برض الحته",
+        "start": 339.52,
+        "end": 344.31899999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 128,
+        "text": "بتاعه البارشال سم اللي هي نفس الحته",
+        "start": 342.28,
+        "end": 347.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 129,
+        "text": "السودا دي كلها زائد الحته الخفيه اللي",
+        "start": 344.319,
+        "end": 351.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 130,
+        "text": "موجوده هنا دي الحته دي كلها زائد الحته",
+        "start": 347.44,
+        "end": 354.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 131,
+        "text": "الخفيه هنا دي فهتلاحظ هنا ان الاريا",
+        "start": 351.0,
+        "end": 357.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 132,
+        "text": "بتاعتك فممكن قلين هنا فير فور او نتيجه",
+        "start": 354.6,
+        "end": 359.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 133,
+        "text": "لذلك وبالمناسبه الرمز ده احنا كنا شرحناه",
+        "start": 357.56,
+        "end": 361.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 134,
+        "text": "ايه معنى الرمز ده قبل كده في الرموز",
+        "start": 359.68,
+        "end": 363.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 135,
+        "text": "الرياضيه كنا فيديو عملناه بسيط يعني ممكن",
+        "start": 361.52,
+        "end": 365.19899999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 136,
+        "text": "ان انت ترجع له عايز تراجع على بعض الرموز",
+        "start": 363.319,
+        "end": 367.84000000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 137,
+        "text": "الرياضيه يعني فبقول لك هنا ان الاريا",
+        "start": 365.199,
+        "end": 372.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 138,
+        "text": "بتاعتي هي اقل من الحته بتاعه البارشيال",
+        "start": 367.84,
+        "end": 374.4,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 139,
+        "text": "مم لان انا عندي البارشيال مم هو بيجيب لي",
+        "start": 372.12,
+        "end": 376.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 140,
+        "text": "المربع كله انما الااريا هي بتجيب لي",
+        "start": 374.4,
+        "end": 379.79999999999995,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 141,
+        "text": "الجزء اللي تحت الكيرف ده بالظبط لحد اخره",
+        "start": 376.72,
+        "end": 382.40000000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 142,
+        "text": "فبالتالي انا الاريا عندي لو انا عايز",
+        "start": 379.8,
+        "end": 384.96000000000004,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 143,
+        "text": "اسقطها هي الاريا عندي بتعبر عن ايه بتعبر",
+        "start": 382.4,
+        "end": 387.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 144,
+        "text": "عن التكامل هو انا متقال انها واحد على",
+        "start": 384.96,
+        "end": 390.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 145,
+        "text": "روت ال ان هي اقل من البارشيال مم هي",
+        "start": 387.52,
+        "end": 393.4,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 146,
+        "text": "بتقول لي ايه البارشيال مم هي عباره هنا",
+        "start": 390.88,
+        "end": 397.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 147,
+        "text": "انها واحد على الروت ان هنا من ان بتساوي",
+        "start": 393.4,
+        "end": 399.71999999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 148,
+        "text": "واحد لحد الانفينتي يطلع بقى واحد يقوم",
+        "start": 397.319,
+        "end": 401.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 149,
+        "text": "قال لي ايه يا عم ازاي انت بتقول لي",
+        "start": 399.72,
+        "end": 404.47900000000004,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 150,
+        "text": "دلوقتي ان الااريا بتاعه الحته دي كلها",
+        "start": 401.639,
+        "end": 406.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 151,
+        "text": "اقل من البارشيال سم اللي هو بجيب لك",
+        "start": 404.479,
+        "end": 409.75899999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 152,
+        "text": "المربع ككل ما هو انت ناسي هنا الحته دي",
+        "start": 406.56,
+        "end": 412.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 153,
+        "text": "اقول لك لا ده انا حدود التكامل بتاعتي",
+        "start": 409.759,
+        "end": 414.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 154,
+        "text": "كانت من فين لفين حدود التكامل بتاعتي",
+        "start": 412.319,
+        "end": 417.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 155,
+        "text": "كانت من واحد لحد الانفينتي انا ما اخدتش",
+        "start": 414.319,
+        "end": 419.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 156,
+        "text": "الصفر معايا عشان تيجي بعد كده تقول لي لا",
+        "start": 417.16,
+        "end": 422.03900000000004,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 157,
+        "text": "ده لسه في هنا جزء ناقص وممكن ان هو يعوض",
+        "start": 419.36,
+        "end": 424.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 158,
+        "text": "الجزء ده فمره تانيه معلش ليه عندي",
+        "start": 422.039,
+        "end": 427.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 159,
+        "text": "البارشيال مم ليه عندي البارشيال مم اكبر",
+        "start": 424.36,
+        "end": 431.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 160,
+        "text": "من الاريا نفسها بسبب الحته دي البارشيال",
+        "start": 427.56,
+        "end": 433.199,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 161,
+        "text": "سم بيجيبها الاريا ما بيجيبهاش لان",
+        "start": 431.319,
+        "end": 435.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 162,
+        "text": "الااريا بتجيب الااريا اندر ذا كيرف",
+        "start": 433.199,
+        "end": 438.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 163,
+        "text": "بالشكل ده كده فالبارشيال م اللي هو الجزء",
+        "start": 435.16,
+        "end": 441.52000000000004,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 164,
+        "text": "ده كده او السيريس يعني بتحسب لي الحته دي",
+        "start": 438.0,
+        "end": 444.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 165,
+        "text": "فانا من هنا اصلا طلع لي ان تكامل الجزء",
+        "start": 441.52,
+        "end": 445.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 166,
+        "text": "ده اصلا طلع لي بانفينتي",
+        "start": 444.24,
+        "end": 448.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 167,
+        "text": "وانا عارف ان السيريس نفسها اكبر من",
+        "start": 445.96,
+        "end": 452.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 168,
+        "text": "الاريا فده معناته ان السيريس بتاعتي اللي",
+        "start": 448.759,
+        "end": 455.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 169,
+        "text": "هي واحد على روت ان من ان بتساوي واحد لحد",
+        "start": 452.12,
+        "end": 457.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 170,
+        "text": "الانفينتي هي اصلا اكبر من انفينتي يبقى",
+        "start": 455.12,
+        "end": 459.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 171,
+        "text": "ده معناته ان الحته دي اصلا هي بتدايفرج",
+        "start": 457.52,
+        "end": 462.71999999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 172,
+        "text": "او البارشيال م بتاع الجزء ده اصلا هو",
+        "start": 459.919,
+        "end": 465.79999999999995,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 173,
+        "text": "بيدايفرج وبالتالي احنا كده اثبتنا ان",
+        "start": 462.72,
+        "end": 467.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 174,
+        "text": "التست اللي احنا عملناه فوق للفانكشن دي",
+        "start": 465.8,
+        "end": 469.599,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 175,
+        "text": "كده اللي هو كان في الاول بيقوللك انها",
+        "start": 467.72,
+        "end": 472.44000000000005,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 176,
+        "text": "بتكونفيرج اكتشفنا ان هو غلط وانها مش",
+        "start": 469.599,
+        "end": 475.87899999999996,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 177,
+        "text": "بتكونفرج انما هي المفروض انها بتض",
+        "start": 472.44,
+        "end": 479.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 178,
+        "text": "دايفرج فوصلنا هنا للانتيجرال تست طيب",
+        "start": 475.879,
+        "end": 481.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 179,
+        "text": "بالنسبه للقانون اللي احنا كنا اخدناه قبل",
+        "start": 479.36,
+        "end": 482.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 180,
+        "text": "كده اللي هو بتاع الليت لما احنا كنا",
+        "start": 481.0,
+        "end": 485.599,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 181,
+        "text": "عايزين نعرف هي السيريز دي بتكونفرجس ولا",
+        "start": 482.759,
+        "end": 488.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 182,
+        "text": "بتدايفرجس القانون ده بقى ايه الوضع بتاعه",
+        "start": 485.599,
+        "end": 490.8,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 183,
+        "text": "او ايه دلوقتي هل استخدمه ولا مش هستخدمه",
+        "start": 488.24,
+        "end": 494.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 184,
+        "text": "قال لك ان القانون ده لو هو طلع لك ان هي",
+        "start": 490.8,
+        "end": 496.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 185,
+        "text": "ما بتساويش الصفر فساعتها دي اكيد ان",
+        "start": 494.0,
+        "end": 499.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 186,
+        "text": "السيريز دي بتدايفرج انا ساعتها مش محتاج",
+        "start": 496.759,
+        "end": 502.599,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 187,
+        "text": "ان انا استخدم التست بس لو طلعت لي لو",
+        "start": 499.28,
+        "end": 504.79999999999995,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 188,
+        "text": "قانون الليمت ده طلع لي انها بتساوي ساوي",
+        "start": 502.599,
+        "end": 507.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 189,
+        "text": "صفر فساعتها انا بكون مش متاكد هل هي",
+        "start": 504.8,
+        "end": 510.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 190,
+        "text": "بتكونفرج ولا بتدايفرج فساعتها انا هعمل",
+        "start": 507.68,
+        "end": 514.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 191,
+        "text": "ايه ساعتها انا هستخدم اي تست من التستات",
+        "start": 510.919,
+        "end": 515.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 192,
+        "text": "اللي احنا ان شاء الله هناخدها قبل كده",
+        "start": 514.08,
+        "end": 518.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 193,
+        "text": "اللي واحد منهم اللي هو الانتجريشن تست",
+        "start": 515.56,
+        "end": 521.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 194,
+        "text": "يعني انت هتستخدم ساعتها تست واحد بس عشان",
+        "start": 518.12,
+        "end": 524.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 195,
+        "text": "تقدر تكشف عن السيرز دي هل هي بتكونفرج",
+        "start": 521.56,
+        "end": 527.5189999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 196,
+        "text": "ولا بتدايفرج الانتجرال تست بقى هو عندي",
+        "start": 524.48,
+        "end": 529.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 197,
+        "text": "بيقوللي ان انت بتعمل انتجريشن على الاي",
+        "start": 527.519,
+        "end": 531.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 198,
+        "text": "ان يعني هنا بدل اف اوف اكس هتبقى هي",
+        "start": 529.44,
+        "end": 533.6800000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 199,
+        "text": "عباره عن انها ايه هتبقى هي عباره عن انها",
+        "start": 531.32,
+        "end": 537.8000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 200,
+        "text": "اي ان بالشكل ده كده في دي ان تمام وهيبقى",
+        "start": 533.68,
+        "end": 540.4399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 201,
+        "text": "عندك حدود التكامل بتاعتك من واحد لحد بي",
+        "start": 537.8,
+        "end": 543.8389999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 202,
+        "text": "طب ايه هي بي دي بقى قال لك ان بي دي لان",
+        "start": 540.44,
+        "end": 545.8800000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 203,
+        "text": "انت عندك الابر ليمت اللي هي هتبقى هي",
+        "start": 543.839,
+        "end": 548.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 204,
+        "text": "الانفينتي بس انا عايز وانا بحسب الابر",
+        "start": 545.88,
+        "end": 552.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 205,
+        "text": "ليمت اديله ليمت ليه اديله ليمت لان انا",
+        "start": 548.839,
+        "end": 554.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 206,
+        "text": "انا ممكن وانا باجي احسب الانفينتي اتلخبط",
+        "start": 552.24,
+        "end": 557.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 207,
+        "text": "في الانفينتي يعني مثلا تطلع لي حاجه زي",
+        "start": 554.839,
+        "end": 560.7600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 208,
+        "text": "لين الانفينتي على انفينتي باور 5 او باور",
+        "start": 557.04,
+        "end": 563.3199999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 209,
+        "text": "6 فساعتها انا بكون هنا عايز ان انا اضمن",
+        "start": 560.76,
+        "end": 566.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 210,
+        "text": "ضمن ان انا هطلع افضل نتيجه ممكنه فهقوم",
+        "start": 563.32,
+        "end": 568.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 211,
+        "text": "قايل هنا ان انا لو كانت عندي هنا بي تؤول",
+        "start": 566.56,
+        "end": 571.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 212,
+        "text": "الى انفينتي طب ايه معنى بقى القانون ده",
+        "start": 568.88,
+        "end": 573.4399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 213,
+        "text": "عشان ما حدش يتلخبط ما بين الانتجريشن وما",
+        "start": 571.0,
+        "end": 576.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 214,
+        "text": "بين الليمت والحاجات دي كلها هات لي انت",
+        "start": 573.44,
+        "end": 579.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 215,
+        "text": "هات لي انت الجزء ده بيساوي كام واعتبر",
+        "start": 576.279,
+        "end": 582.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 216,
+        "text": "عادي جدا ان الحته دي بتاعه البي اعتبر ان",
+        "start": 579.48,
+        "end": 585.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 217,
+        "text": "هي اريابل عادي جدا الجزء اللي انت هتحسبه",
+        "start": 582.64,
+        "end": 588.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 218,
+        "text": "هنا من الانتجريشن عايز بقى هو ادي له",
+        "start": 585.64,
+        "end": 590.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 219,
+        "text": "الليمت لو كانت بي تؤول الى انفينتي خلينا",
+        "start": 588.0,
+        "end": 593.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 220,
+        "text": "احنا نشوف بمثال افضل بحيث ان الصوره دي",
+        "start": 590.88,
+        "end": 596.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 221,
+        "text": "توضح لنا لو انا كنت قايل ان انا عندي هنا",
+        "start": 593.44,
+        "end": 599.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 222,
+        "text": "سيرز ان على ان سكوير زائد واح وعايز اشوف",
+        "start": 596.16,
+        "end": 601.7199999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 223,
+        "text": "هي السيرس دي بتكونفرجز ولا بتدايفرجس فهو",
+        "start": 599.24,
+        "end": 604.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 224,
+        "text": "قايل ان انا اخد الليمت اول حاجه خليني",
+        "start": 601.72,
+        "end": 606.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 225,
+        "text": "اخد الجزء من القانون انا عايز اخد الجزء",
+        "start": 604.16,
+        "end": 608.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 226,
+        "text": "ده الاول خدها واحده واحده عايز ابسطها",
+        "start": 606.2,
+        "end": 610.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 227,
+        "text": "انا على نفسي فهم قال انا عندي هنا انا",
+        "start": 608.88,
+        "end": 613.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 228,
+        "text": "عندي ان بتبتدي من كام هنا عندي هنا من ان",
+        "start": 610.72,
+        "end": 615.9200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 229,
+        "text": "بتبتدي من واحد فهتبقى من واحد لحد",
+        "start": 613.399,
+        "end": 619.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 230,
+        "text": "الانفينتي لان على ان سكوير زائد الواحد",
+        "start": 615.92,
+        "end": 622.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 231,
+        "text": "بالشكل ده كده في دي ان التكامل ده انا",
+        "start": 619.36,
+        "end": 624.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 232,
+        "text": "عايزك ان انت تحله التكامل ده تكامل بسيط",
+        "start": 622.04,
+        "end": 627.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 233,
+        "text": "جدا ليه؟ لان انا عندي هنا الفانكشن",
+        "start": 624.279,
+        "end": 630.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 234,
+        "text": "بتاعتي اللي هي الجزء ده كده تكاملها او",
+        "start": 627.399,
+        "end": 633.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 235,
+        "text": "عفوا تفاضلها موجود فوق فانا ممكن انا",
+        "start": 630.16,
+        "end": 635.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 236,
+        "text": "احلها بالتعويض يعني لما تكون فانكشن",
+        "start": 633.04,
+        "end": 638.4399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 237,
+        "text": "والتفاضل بتاعها موجود يبقى دي ايه؟ تكامل",
+        "start": 635.519,
+        "end": 640.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 238,
+        "text": "بالتعويض وتكاملها اصلا انت ممكن ما تضطرش",
+        "start": 638.44,
+        "end": 643.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 239,
+        "text": "انك تعوض قوي لان المساله بسيطه يعني بس",
+        "start": 640.639,
+        "end": 645.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 240,
+        "text": "خلينا نفترض ان احنا يعني مش بيرفكت قوي",
+        "start": 643.48,
+        "end": 647.6800000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 241,
+        "text": "في التكامل فهقوم قايل ان انا عندي هنا",
+        "start": 645.839,
+        "end": 649.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 242,
+        "text": "اليو هي عباره عن انها ان سكوير زائد",
+        "start": 647.68,
+        "end": 651.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 243,
+        "text": "الواحد بعد كده هقوم قايل ان انا عندي هنا",
+        "start": 649.44,
+        "end": 653.9590000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 244,
+        "text": "عايز افاضي الجزء ده عشان انا ما ينفعش ان",
+        "start": 651.68,
+        "end": 656.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 245,
+        "text": "انا اكامل بالنسبه لدي ان فقوم قايل ان",
+        "start": 653.959,
+        "end": 658.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 246,
+        "text": "انا عندي هنا ان دي يو هي عباره هنا انها",
+        "start": 656.12,
+        "end": 661.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 247,
+        "text": "اين ان مضروبه هنا في دي ان اجي اعوض بقى",
+        "start": 658.399,
+        "end": 664.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 248,
+        "text": "في المساله بتاعتي وهنا الحد التكامل",
+        "start": 661.519,
+        "end": 666.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 249,
+        "text": "بتاعتي انا غلطت وعوضت هنا بالانفينتي بس",
+        "start": 664.56,
+        "end": 669.2399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 250,
+        "text": "انا عايز اعوض ببي افضل حاجه عادي ان انت",
+        "start": 666.399,
+        "end": 671.079,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 251,
+        "text": "تعوض بانفينتي بس انا عايز اعوض ببي عشان",
+        "start": 669.24,
+        "end": 674.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 252,
+        "text": "في الاخر ادي لها الليت وامشي بشكل منظم",
+        "start": 671.079,
+        "end": 675.7199999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 253,
+        "text": "يعني وكده فاقوم قايل ان انا عندي هنا",
+        "start": 674.12,
+        "end": 679.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 254,
+        "text": "التكامل من واحد لحد بي لان على ان سكوير",
+        "start": 675.72,
+        "end": 681.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 255,
+        "text": "زائد واح انا قمت قال انها بتساوي اليو في",
+        "start": 679.44,
+        "end": 684.0400000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 256,
+        "text": "دي ان انا عندي هنا انا خلاص انا هكامل",
+        "start": 681.76,
+        "end": 686.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 257,
+        "text": "بالنسبه ليو فانا اهو قايل ان انا عندي",
+        "start": 684.04,
+        "end": 688.1999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 258,
+        "text": "هنا دي ان هحطها في موضع القانون هقسم هنا",
+        "start": 686.0,
+        "end": 690.92,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 259,
+        "text": "على انين ان واقسم هنا على انين ان فهتبقى",
+        "start": 688.2,
+        "end": 693.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 260,
+        "text": "عندي ان دي ان بتساوي ايه دي ان هي عباره",
+        "start": 690.92,
+        "end": 696.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 261,
+        "text": "هنا انها الجزء ده ان هي دي يو على ان",
+        "start": 693.519,
+        "end": 698.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 262,
+        "text": "فقوم قايل ان دي ان هي عباره هنا انها دي",
+        "start": 696.04,
+        "end": 701.1999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 263,
+        "text": "يو على انين ان اقسم ال ان على ال ان",
+        "start": 698.399,
+        "end": 703.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 264,
+        "text": "هتطلع لي في الاخر ان هو التكامل من واحد",
+        "start": 701.2,
+        "end": 707.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 265,
+        "text": "لحد بي هتبقى عندي انها نص هطلع نص بره في",
+        "start": 703.32,
+        "end": 709.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 266,
+        "text": "الواحد على يو بالشكل ده كده بالنسبه لدي",
+        "start": 707.12,
+        "end": 711.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 267,
+        "text": "يو كامل بقى الجزء ده خلاص التكامل",
+        "start": 709.279,
+        "end": 713.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 268,
+        "text": "بالنسبه لي هيبقى تكامل بسيط جدا وعباره",
+        "start": 711.839,
+        "end": 717.6800000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 269,
+        "text": "ان هو نص في لين اليو عوض بقى بقيمه اليو",
+        "start": 713.6,
+        "end": 719.6800000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 270,
+        "text": "كانت عندك بكام قيمه اليو كانت عندي هي",
+        "start": 717.68,
+        "end": 722.5999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 271,
+        "text": "عباره انها نص في لين اليو اليو عندي هنا",
+        "start": 719.68,
+        "end": 725.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 272,
+        "text": "بكام اليو عندي هنا هي عباره هنا انها ان",
+        "start": 722.6,
+        "end": 727.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 273,
+        "text": "سكوير زائد الواحد بالشكل ده كده حدود",
+        "start": 725.04,
+        "end": 729.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 274,
+        "text": "التكامل بتاعتي هي من فين لفين حدود",
+        "start": 727.48,
+        "end": 733.1990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 275,
+        "text": "التكامل بتاعتي هي من واحد لحد بي شوف بقى",
+        "start": 729.76,
+        "end": 734.8,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 276,
+        "text": "المساله دي عندك هترس على ايه هتبقى عندي",
+        "start": 733.199,
+        "end": 738.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 277,
+        "text": "هنا انها نص في لين البي سكوير زائد",
+        "start": 734.8,
+        "end": 741.3599999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 278,
+        "text": "الواحد ده الابر ليمت بعد بعد كده هو قايل",
+        "start": 738.639,
+        "end": 744.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 279,
+        "text": "انها ناقص نص في لين الواحد سكوير زائد",
+        "start": 741.36,
+        "end": 747.9590000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 280,
+        "text": "واح هتبقى عندي في الاخر انها بتساوي انين",
+        "start": 744.839,
+        "end": 750.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 281,
+        "text": "كل الجزء ده بقى في الاخر يعني انا ده",
+        "start": 747.959,
+        "end": 752.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 282,
+        "text": "خلاص ده النتيجه اللي طلعت لي من التكامل",
+        "start": 750.24,
+        "end": 755.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 283,
+        "text": "ده طب انت وفقا للقانون انت عايز تقوم",
+        "start": 752.959,
+        "end": 758.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 284,
+        "text": "عامل ايه بعد كده انا عايز ان انا اقوم",
+        "start": 755.76,
+        "end": 760.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 285,
+        "text": "الحته دي كلها الجزء اللي طلع لي ده كده",
+        "start": 758.0,
+        "end": 763.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 286,
+        "text": "اللي هو بيساوي الجزء ده عايز بعد كده ان",
+        "start": 760.24,
+        "end": 766.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 287,
+        "text": "انا اقوم واخد هنا الليمت للجزء ده لو",
+        "start": 763.12,
+        "end": 768.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 288,
+        "text": "كانت بي الفرييابل اللي انا افترضته هنا",
+        "start": 766.04,
+        "end": 771.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 289,
+        "text": "تحت يؤول الى الانفينتي بالشكل كده فانا",
+        "start": 768.04,
+        "end": 773.3199999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 290,
+        "text": "عايز اخد الحته دي كلها عايز اخد لها",
+        "start": 771.16,
+        "end": 776.3199999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 291,
+        "text": "الليمت بتاعها والفرييابل هنا عندي هو",
+        "start": 773.32,
+        "end": 779.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 292,
+        "text": "البي طب اعمل الكلام ده كله ازاي عوض بكل",
+        "start": 776.32,
+        "end": 781.6800000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 293,
+        "text": "بساطه في الليمت بالمساله دي فتبقى عندي",
+        "start": 779.24,
+        "end": 784.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 294,
+        "text": "هنا انها نص اعوض بالبي احط مكانها",
+        "start": 781.68,
+        "end": 786.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 295,
+        "text": "انفينتي فتبقى عباره انها نص في لين",
+        "start": 784.16,
+        "end": 789.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 296,
+        "text": "الانفينتي سكوير بالشكل ده كده زائد",
+        "start": 786.68,
+        "end": 791.8389999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 297,
+        "text": "الواحد بعد كده هنا ناقص نص الليت طبعا",
+        "start": 789.0,
+        "end": 794.199,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 298,
+        "text": "على كونستنت لان الرقم ده كده كله يعتبر",
+        "start": 791.839,
+        "end": 796.1990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 299,
+        "text": "كونستنت لان الاتنين هو كونستنت فتبقى هي",
+        "start": 794.199,
+        "end": 798.92,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 300,
+        "text": "عباره هنا ان الاتنين بالشكل ده لين",
+        "start": 796.199,
+        "end": 801.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 301,
+        "text": "الانفينتي اصلا لين ان الانفينتي اصلا هي",
+        "start": 798.92,
+        "end": 804.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 302,
+        "text": "انفينتي فتخيل لما انا اديك بقى لين",
+        "start": 801.959,
+        "end": 806.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 303,
+        "text": "الانفينتي سكوير فهتبقى عندك هي في الاخر",
+        "start": 804.04,
+        "end": 809.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 304,
+        "text": "عباره هنا انها نص في الجزء ده بانفينتي",
+        "start": 806.399,
+        "end": 812.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 305,
+        "text": "كده هنا ناقص نص في لين الاتنين وانا مش",
+        "start": 809.56,
+        "end": 815.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 306,
+        "text": "مهتم بقى بالقيمه اللي هتطلع لي لان اصلا",
+        "start": 812.639,
+        "end": 817.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 307,
+        "text": "الحته دي كده بانفينتي وانفينتي ناقص رقم",
+        "start": 815.16,
+        "end": 820.8,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 308,
+        "text": "فهتبقى بانفينتي فالمساله دي بتدايفرج",
+        "start": 817.48,
+        "end": 823.1990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 309,
+        "text": "يعني المساله دي كده بالدايفرج او السيريز",
+        "start": 820.8,
+        "end": 825.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 310,
+        "text": "دي بتدايفرج بمعنى اصح المساله اللي بعد",
+        "start": 823.199,
+        "end": 828.4399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 311,
+        "text": "كده مديني هنا الاي ان عندي الروت زائعه",
+        "start": 825.76,
+        "end": 830.4399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 312,
+        "text": "على ان سكوير احولها لمساله مساله تكامل",
+        "start": 828.44,
+        "end": 832.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 313,
+        "text": "عادي بعد كده اشوف انا هعمل ايه فانا",
+        "start": 830.44,
+        "end": 835.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 314,
+        "text": "هحولها لمساله تكامل هتبقى عندي الحد عندي",
+        "start": 832.759,
+        "end": 838.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 315,
+        "text": "هنا اللور هي بواحد لان انا هنا بادئ هنا",
+        "start": 835.839,
+        "end": 842.2790000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 316,
+        "text": "بالواحد طيب بعد كده اقوم قايل هنا البي",
+        "start": 838.759,
+        "end": 844.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 317,
+        "text": "والروت بتاع ان خلينا ان احنا نقوم قايلين",
+        "start": 842.279,
+        "end": 847.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 318,
+        "text": "انها روت ان او هي عباره هنا انها ان باور",
+        "start": 844.399,
+        "end": 850.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 319,
+        "text": "نص وهقسمها هنا هي ان باور نص على ان",
+        "start": 847.36,
+        "end": 853.5600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 320,
+        "text": "سكوير لان انا عندي هنا المقام بترم واحد",
+        "start": 850.24,
+        "end": 856.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 321,
+        "text": "او حد واحد فهتبقى هي عباره انها هنا ان",
+        "start": 853.56,
+        "end": 860.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 322,
+        "text": "باور نص بالشكل ده كده نص على ان سكوير",
+        "start": 856.36,
+        "end": 862.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 323,
+        "text": "ففي الاخر هتبقى في الاخر انا عايز ابسطها",
+        "start": 860.399,
+        "end": 864.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 324,
+        "text": "على قد ما اقدر هتبقى هي عباره انها ان",
+        "start": 862.44,
+        "end": 867.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 325,
+        "text": "باور ناقص 3 على الاثنين بالشكل ده بعد",
+        "start": 864.279,
+        "end": 869.8389999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 326,
+        "text": "كده اقوم قايل انها زائد اربعه باور ان",
+        "start": 867.0,
+        "end": 871.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 327,
+        "text": "باور ناقص اين واقوم قايل انها في الاخر",
+        "start": 869.839,
+        "end": 874.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 328,
+        "text": "هتبقى في دي ان واكامل بقى المساله دي",
+        "start": 871.68,
+        "end": 876.4399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 329,
+        "text": "عادي انا هنا كل اللي انا عملته ان انا",
+        "start": 874.6,
+        "end": 878.5600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 330,
+        "text": "بسطت المقدار الجبري ده يعني كل اللي انا",
+        "start": 876.44,
+        "end": 880.9200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 331,
+        "text": "عملته هنا تقريبا هو جبر انا بسطت المقدار",
+        "start": 878.56,
+        "end": 883.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 332,
+        "text": "ده بحيث لما انا اكاملها تكون مساله بسيطه",
+        "start": 880.92,
+        "end": 886.079,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 333,
+        "text": "جدا وعبيطه يعني فانا عايز اكامل الجزء ده",
+        "start": 883.68,
+        "end": 889.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 334,
+        "text": "كده فتكامل ال nار ناقص 3 انت بتقوم زود",
+        "start": 886.079,
+        "end": 892.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 335,
+        "text": "عليه واحد فهتبقى ناقص نص هتزود على الجزء",
+        "start": 889.279,
+        "end": 894.4399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 336,
+        "text": "ده واحد وهتقسم على الباور الجديد اللي هو",
+        "start": 892.279,
+        "end": 896.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 337,
+        "text": "ناقص نص فهتبقى هي عباره ان هي كام هنا",
+        "start": 894.44,
+        "end": 900.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 338,
+        "text": "هتبقى هي بناقص اين بعد كده هو قايل زائد",
+        "start": 896.759,
+        "end": 903.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 339,
+        "text": "4 في ان سكوير زاود عليه واحد هتبقى ان",
+        "start": 900.759,
+        "end": 905.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 340,
+        "text": "باور ناقص واحد وهتقسم هنا على الناقص",
+        "start": 903.44,
+        "end": 908.2790000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 341,
+        "text": "واحد بالشكل ده كده عوض بالحدود بتاعتك",
+        "start": 905.6,
+        "end": 911.6800000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 342,
+        "text": "عندي هنا من واحد لحد البي وب وانا وانا",
+        "start": 908.279,
+        "end": 913.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 343,
+        "text": "بعوض هحاول برض على قد ما اقدر ان انا",
+        "start": 911.68,
+        "end": 916.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 344,
+        "text": "ابسط المقدار بتاعي فهتبقى عندي هنا انها",
+        "start": 913.959,
+        "end": 919.92,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 345,
+        "text": "ناقص ا ان باور ار ناقص نص هتبقى هي عباره",
+        "start": 916.959,
+        "end": 923.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 346,
+        "text": "هنا انها روت ال ان بالشكل ده كده بعد كده",
+        "start": 919.92,
+        "end": 925.5999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 347,
+        "text": "ا قايل انها زائد اربعه انا عندي هنا دي",
+        "start": 923.279,
+        "end": 927.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 348,
+        "text": "تعتبر ناقص فتبقى عندي هنا ناقص ا عشان",
+        "start": 925.6,
+        "end": 930.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 349,
+        "text": "انا هنا قسمت على الناقص واحد فهتبقى عندي",
+        "start": 927.959,
+        "end": 932.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 350,
+        "text": "هنا انها ناقص ا على هنا ان واعوض بحدود",
+        "start": 930.279,
+        "end": 935.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 351,
+        "text": "التكامل بتاعتك هي هنا من واحد لحد البي",
+        "start": 932.959,
+        "end": 937.5189999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 352,
+        "text": "بالشكل ده كده لما اعوض بقى بالحدود",
+        "start": 935.48,
+        "end": 939.9590000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 353,
+        "text": "بتاعتي هتبقى عندي هنا ناقص ا على روت",
+        "start": 937.519,
+        "end": 942.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 354,
+        "text": "البي بعد كده عندي هنا اربعه على البي",
+        "start": 939.959,
+        "end": 945.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 355,
+        "text": "بالشكل ده كده بعد كده كل ده هو الترم",
+        "start": 942.519,
+        "end": 947.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 356,
+        "text": "الابر او الترم الاولاني اللي فوق الترم",
+        "start": 945.399,
+        "end": 950.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 357,
+        "text": "اللي تحت هيبقى ناقص ا على الجزء ده كده",
+        "start": 947.519,
+        "end": 953.319,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 358,
+        "text": "وانا عندي هنا ماينص ما بينهم ناقص ا على",
+        "start": 950.68,
+        "end": 956.199,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 359,
+        "text": "روت الواحد هتبقى هي الواحد اصلا فهتبقى",
+        "start": 953.319,
+        "end": 959.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 360,
+        "text": "خلاص دي بواحد بعد كده ناقص ا على الواحد",
+        "start": 956.199,
+        "end": 961.959,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 361,
+        "text": "فتبقى هي عندي هنا باربعه لو انا بقى بعد",
+        "start": 959.0,
+        "end": 964.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 362,
+        "text": "ما عملت المساله دي حبيت ان انا اخد",
+        "start": 961.959,
+        "end": 967.1199999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 363,
+        "text": "الليمت للجزء ده لو كانت عندي البي اللي",
+        "start": 964.68,
+        "end": 970.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 364,
+        "text": "هو الفيابل ده لو بي دي كانت تؤول الى",
+        "start": 967.12,
+        "end": 972.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 365,
+        "text": "انفينتي فخلينا ان احنا نحل المساله دي",
+        "start": 970.16,
+        "end": 975.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 366,
+        "text": "ونشوف هي هنا في الليمت ده هتوصل لي لايه",
+        "start": 972.519,
+        "end": 978.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 367,
+        "text": "فاقوم قايل ان عندي هنا انها ناقص اين على",
+        "start": 975.639,
+        "end": 981.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 368,
+        "text": "هنا روت الانفينتي بالشكل ده كده بعد كده",
+        "start": 978.48,
+        "end": 984.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 369,
+        "text": "ناقص ا على الانفينتي بالشكل ده ده اللي",
+        "start": 981.88,
+        "end": 986.759,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 370,
+        "text": "هو الابر ليمت بعد كده هتبقى عندي هنا",
+        "start": 984.36,
+        "end": 990.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 371,
+        "text": "ناقص دي هتبقى ناق ا نا ا هتبقى ناص س",
+        "start": 986.759,
+        "end": 993.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 372,
+        "text": "بالشكل ده ناقص ا على روت الانفينتي دي في",
+        "start": 990.44,
+        "end": 995.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 373,
+        "text": "الاخر هطلع لي انها بصفر لان انا هنا عندي",
+        "start": 993.44,
+        "end": 998.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 374,
+        "text": "روت الانفينتي في الاخر هي بتطلع لي بعد",
+        "start": 995.6,
+        "end": 1000.5600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 375,
+        "text": "حتى ما بتطلع من الروت فانفينتي الرقم",
+        "start": 998.44,
+        "end": 1003.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 376,
+        "text": "كبير هتطلع لك برض رقم كبير ناق ا على",
+        "start": 1000.56,
+        "end": 1006.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 377,
+        "text": "انفينتي طبعا احنا عارفين ان الليمت لو",
+        "start": 1003.44,
+        "end": 1009.8000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 378,
+        "text": "كانت ان عندي ماشي تؤول الى انفينتي لواحد",
+        "start": 1006.56,
+        "end": 1012.6389999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 379,
+        "text": "على ان القانون ده دايما هو هيطلع لك بصفر",
+        "start": 1009.8,
+        "end": 1014.4799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 380,
+        "text": "فبالتالي دي كمان هتطلع لك بصفر انا كل",
+        "start": 1012.639,
+        "end": 1017.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 381,
+        "text": "اللي انا بعمله هنا ان انا باخد الليت",
+        "start": 1014.48,
+        "end": 1019.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 382,
+        "text": "للاطراف دي للجزء ده وباخد الليت لده",
+        "start": 1017.16,
+        "end": 1021.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 383,
+        "text": "وباخد الليمت لده تمام بالنسبه للكونستنت",
+        "start": 1019.24,
+        "end": 1024.199,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 384,
+        "text": "فهو هيتاني زي ما هو الكونستنت في الليمت",
+        "start": 1021.68,
+        "end": 1026.1599999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 385,
+        "text": "ما بيتاثرش يعني هو بيطلع زي ما هو زي",
+        "start": 1024.199,
+        "end": 1028.6000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 386,
+        "text": "التكامل فدي هتبقى عندي هنا في الاخر انها",
+        "start": 1026.16,
+        "end": 1031.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 387,
+        "text": "ناقص س فخلي بالك هنا برض ان انا كانت",
+        "start": 1028.6,
+        "end": 1033.1599999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 388,
+        "text": "عندي هنا ناقص بره فهتبقى دي ناقص مع ناقص",
+        "start": 1031.12,
+        "end": 1035.6399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 389,
+        "text": "هتبقى دي موجب ففي الاخر دي طلعت لي بصفر",
+        "start": 1033.16,
+        "end": 1038.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 390,
+        "text": "ودي طلعت لي بصفر ازاي زائد سته فالليمت",
+        "start": 1035.64,
+        "end": 1040.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 391,
+        "text": "بتاع المساله دي كده كلها بعد ما اخدت",
+        "start": 1038.0,
+        "end": 1042.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 392,
+        "text": "الليمت لو كانت بي تؤول الى انفينتي في",
+        "start": 1040.039,
+        "end": 1045.439,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 393,
+        "text": "الاخر هتطلع لي هنا انها بتساوي في الاخر",
+        "start": 1042.36,
+        "end": 1048.079,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 394,
+        "text": "سته وده معناته ان هي بما انها تؤول الى",
+        "start": 1045.439,
+        "end": 1050.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 395,
+        "text": "قيمه فده معناته ان هي",
+        "start": 1048.079,
+        "end": 1052.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 396,
+        "text": "بتكونفرج المساله اللي بعد كده بيقول لي",
+        "start": 1050.72,
+        "end": 1056.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 397,
+        "text": "لو انا عندي لين ال ان على ان باور لاه ا",
+        "start": 1052.72,
+        "end": 1058.6000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 398,
+        "text": "وعايز اعرف برض هي دي بتكونفرج ولا",
+        "start": 1056.48,
+        "end": 1061.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 399,
+        "text": "بتدايفرج فخليني ان انا احولها اول حاجه",
+        "start": 1058.6,
+        "end": 1064.3999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 400,
+        "text": "لمساله تكامل ونشوف هنفكر فيها ازاي فانا",
+        "start": 1061.44,
+        "end": 1066.3200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 401,
+        "text": "عندي هنا بما انها بقت لين",
+        "start": 1064.4,
+        "end": 1068.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 402,
+        "text": "ال ان على هنا ان باور لاه وهقوم قايل",
+        "start": 1066.32,
+        "end": 1070.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 403,
+        "text": "الحدود التكامل بتاعتي هي عندي هنا من ان",
+        "start": 1068.919,
+        "end": 1073.5590000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 404,
+        "text": "بتساوي واحد اللور ليمت عندي من هنا من",
+        "start": 1070.88,
+        "end": 1075.7600000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 405,
+        "text": "واحد لحد بي لان انا في الاخر انا هنا",
+        "start": 1073.559,
+        "end": 1077.6399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 406,
+        "text": "بعوض ببي لان انا في الاخر هديها الليت",
+        "start": 1075.76,
+        "end": 1079.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 407,
+        "text": "وانا عندي هنا ان بتساوي واحد بالشكل ده",
+        "start": 1077.64,
+        "end": 1081.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 408,
+        "text": "كده لو انا جيت فكرت في المساله دي وخلينا",
+        "start": 1079.799,
+        "end": 1084.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 409,
+        "text": "احنا نفكر فيها كده على جنب ان اغلب",
+        "start": 1081.96,
+        "end": 1086.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 410,
+        "text": "المسائل هنا او كل مسائل اصلا هنحلها",
+        "start": 1084.159,
+        "end": 1088.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 411,
+        "text": "بالانتجريشن فلو انا افترضت مثلا ان",
+        "start": 1086.24,
+        "end": 1090.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 412,
+        "text": "المساله دي والله انا ممكن احلها بالتعويض",
+        "start": 1088.679,
+        "end": 1093.3200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 413,
+        "text": "يعني هي مش هتحل بالتعويض بس يعني لو احنا",
+        "start": 1090.88,
+        "end": 1095.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 414,
+        "text": "افترضنا ان احنا هنحلها بالتعويض هتبقى",
+        "start": 1093.32,
+        "end": 1097.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 415,
+        "text": "بقى المساله عندي ازاي وانا هنا بكمل",
+        "start": 1095.24,
+        "end": 1100.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 416,
+        "text": "بالنسبه لدي ان ف لدي ان مش بدي يو فلو",
+        "start": 1097.24,
+        "end": 1102.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 417,
+        "text": "احنا قمنا قايلين ان انا عندي هنا افترض",
+        "start": 1100.6,
+        "end": 1105.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 418,
+        "text": "ان انا عندي ان يو هي عباره ان لين ال ان",
+        "start": 1102.64,
+        "end": 1109.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 419,
+        "text": "بالشكل ده كده وقمت قايل برض ان دي ان",
+        "start": 1105.559,
+        "end": 1112.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 420,
+        "text": "هتبقى هي عباره هنا انها دي يو على واحد",
+        "start": 1109.159,
+        "end": 1115.4,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 421,
+        "text": "على روت اللي هي مشتقه اللن ال ان فتبقى",
+        "start": 1112.159,
+        "end": 1117.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 422,
+        "text": "في الاخر هي عباره انها دي يو على واحد",
+        "start": 1115.4,
+        "end": 1119.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 423,
+        "text": "على ان فهتبقى في الاخر ان دي ان هي عباره",
+        "start": 1117.159,
+        "end": 1122.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 424,
+        "text": "هنا انها كام انها ان في الدي يو بالشكل",
+        "start": 1119.12,
+        "end": 1125.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 425,
+        "text": "ده كده تمام فخلينا ان احنا نرجع بقى في",
+        "start": 1122.0,
+        "end": 1128.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 426,
+        "text": "المساله ونعوض ونشوف هي هتوصل لايه هتبقى",
+        "start": 1125.039,
+        "end": 1130.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 427,
+        "text": "عندي التكامل بتاعي سيبك بقى من الحدود",
+        "start": 1128.36,
+        "end": 1133.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 428,
+        "text": "لين الن احنا قلنا خلاص انها هتبقى يو على",
+        "start": 1130.799,
+        "end": 1137.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 429,
+        "text": "ان باور لاه دي ان بما ان احنا خلاص هنغير",
+        "start": 1133.159,
+        "end": 1139.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 430,
+        "text": "الفيابلز اصلا بتاعه التكامل فتبقى عندي",
+        "start": 1137.039,
+        "end": 1141.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 431,
+        "text": "ان دي ان هي عباره هنا انها كام هي عباره",
+        "start": 1139.24,
+        "end": 1145.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 432,
+        "text": "هنا انها ان في دي يو بالشكل ده كده ان",
+        "start": 1141.48,
+        "end": 1147.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 433,
+        "text": "هنا هتطير مع الباور من هنا فهتبقى عندي",
+        "start": 1145.36,
+        "end": 1150.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 434,
+        "text": "دي في الاخر هي عباره انها ان سكوير هنا",
+        "start": 1147.84,
+        "end": 1153.28,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 435,
+        "text": "بقى المشكله ايه المشكله لان انا عايز",
+        "start": 1150.36,
+        "end": 1156.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 436,
+        "text": "اغير الفييابلز بتاعه التكامل كلها تمام",
+        "start": 1153.28,
+        "end": 1159.6399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 437,
+        "text": "اخليها باليو بس انا لسه ستيل عندي في ان",
+        "start": 1156.12,
+        "end": 1161.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 438,
+        "text": "سكوير فساعتها هنا ان انت تكمل بالتعويض",
+        "start": 1159.64,
+        "end": 1164.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 439,
+        "text": "ده في الاخر مش هتوصلك لحاجه انا هنا بس",
+        "start": 1161.88,
+        "end": 1166.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 440,
+        "text": "حبيت ان انا افكر معاك لو انت مثلا",
+        "start": 1164.679,
+        "end": 1169.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 441,
+        "text": "المساله دي جت لك في التكامل اصلا وانت",
+        "start": 1166.64,
+        "end": 1171.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 442,
+        "text": "فكرت فيها في التعويض فانت في الاخر هتوصل",
+        "start": 1169.52,
+        "end": 1172.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 443,
+        "text": "لايه طيب لو احنا بقى جينا نفكر في",
+        "start": 1171.24,
+        "end": 1175.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 444,
+        "text": "المساله دي بشكل افضل شويه احنا خلاص",
+        "start": 1172.96,
+        "end": 1178.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 445,
+        "text": "عرفنا ان التعويض مش هينفع المساله دي",
+        "start": 1175.2,
+        "end": 1180.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 446,
+        "text": "اصلا هتتحل بالانتجريشن باي بارتس ليه بقى",
+        "start": 1178.08,
+        "end": 1183.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 447,
+        "text": "لان انا عندي في الانتجريشن باي بارتس انا",
+        "start": 1180.919,
+        "end": 1185.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 448,
+        "text": "بقسم بقسمها ليه اجزاء بتبقى عندي واحده",
+        "start": 1183.08,
+        "end": 1188.6399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 449,
+        "text": "دي وواحده اي الدي بترمز للديفرنشيشن",
+        "start": 1185.919,
+        "end": 1191.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 450,
+        "text": "اناقسم عند المساله لاجزاء فواحده هكاملها",
+        "start": 1188.64,
+        "end": 1193.6000000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 451,
+        "text": "وواحده هفاضلها الحاجه اللي انا بعرف",
+        "start": 1191.36,
+        "end": 1195.4799999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 452,
+        "text": "اكاملها هكاملها والحاجه اللي انا بعرف",
+        "start": 1193.6,
+        "end": 1198.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 453,
+        "text": "افاضلها هفاضلها يعني ما فيش اعبط من كده",
+        "start": 1195.48,
+        "end": 1200.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 454,
+        "text": "مشكلتي بقى مع حاجه زي اللين انا اللين دي",
+        "start": 1198.159,
+        "end": 1203.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 455,
+        "text": "بعرف افاضلها بس ما بعرفش اكاملها فعشان",
+        "start": 1200.84,
+        "end": 1205.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 456,
+        "text": "كده احنا هنا برض بنراجع على التكامل",
+        "start": 1203.64,
+        "end": 1207.7990000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 457,
+        "text": "والتعويض فاقوم قايل ان اللن هنا حطها في",
+        "start": 1205.36,
+        "end": 1210.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 458,
+        "text": "الجزء اللي هعمل له ديفرنشيشن ليه لان انا",
+        "start": 1207.799,
+        "end": 1212.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 459,
+        "text": "ماعرفش اكملها او ماارفش قانون ثابت",
+        "start": 1210.0,
+        "end": 1214.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 460,
+        "text": "لتكامل لين",
+        "start": 1212.88,
+        "end": 1215.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 461,
+        "text": "وفاضل هنا بقى عندي ال ان باور 3 فقوم",
+        "start": 1214.039,
+        "end": 1217.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 462,
+        "text": "قايل ان انا عندي هنا هتبقى ان باور ناقص",
+        "start": 1215.96,
+        "end": 1219.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 463,
+        "text": "3 هي هنا موجوده في المقام انا هحطها هنا",
+        "start": 1217.88,
+        "end": 1222.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 464,
+        "text": "ان باور ناقص 3 ابتدي بقى ان انت طبق",
+        "start": 1219.88,
+        "end": 1224.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 465,
+        "text": "الانتجريشن باي بارتس او ابتدي ان انت",
+        "start": 1222.48,
+        "end": 1227.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 466,
+        "text": "تطبق بقى البارتس بتاعتك فاضل لين ال ان",
+        "start": 1224.12,
+        "end": 1229.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 467,
+        "text": "فهتبقى عندك عباره هنا انها كام واحد على",
+        "start": 1227.32,
+        "end": 1232.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 468,
+        "text": "ان كامل الجزء ده هتبقى عندك في الاخر",
+        "start": 1229.32,
+        "end": 1236.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 469,
+        "text": "انها ان باور ناقص انين على هنا ناقص اين",
+        "start": 1232.08,
+        "end": 1238.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 470,
+        "text": "فاحنا ممكن عشان الاشارات دي ما تتلخبطناش",
+        "start": 1236.52,
+        "end": 1240.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 471,
+        "text": "احنا ممكن نب قالين ان واحد على ان دي هي",
+        "start": 1238.159,
+        "end": 1243.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 472,
+        "text": "بتساوي ان بار عشان الدنيا تكون لز لذيذ",
+        "start": 1240.0,
+        "end": 1245.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 473,
+        "text": "يعني مع قانون بقى الانتجريشن باي بارتس",
+        "start": 1243.44,
+        "end": 1248.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 474,
+        "text": "ان انت بتقوم عامل ايه؟ بتقوم ضارب وسطين",
+        "start": 1245.679,
+        "end": 1250.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 475,
+        "text": "كده بالشكل ده كده بتضرب دي في اللي",
+        "start": 1248.679,
+        "end": 1252.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 476,
+        "text": "قدامها وبعد كده تقوم عامل الموجه دي",
+        "start": 1250.919,
+        "end": 1254.3200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 477,
+        "text": "الموجه دي معناتها ايه؟ معناتها ان انت",
+        "start": 1252.76,
+        "end": 1256.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 478,
+        "text": "هتكامل الجزء ده لما تضربهم في بعض فهتبقى",
+        "start": 1254.32,
+        "end": 1258.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 479,
+        "text": "عندك النتيجه بتاعتك هتبقى هي عباره عن",
+        "start": 1256.96,
+        "end": 1260.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 480,
+        "text": "ايه؟ هتبقى النتيجه بتاعتي هي عباره هنا",
+        "start": 1258.799,
+        "end": 1263.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 481,
+        "text": "انها ناقص النص اللي هو النص اللي موجود",
+        "start": 1260.88,
+        "end": 1266.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 482,
+        "text": "عندي هنا ده في ان باور ناقص اين مضروبه",
+        "start": 1263.6,
+        "end": 1270.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 483,
+        "text": "هنا في لين ال ان بالشكل ده كده بعد كده",
+        "start": 1266.96,
+        "end": 1272.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 484,
+        "text": "انا عندي هنا الموجه دي معناتها ان انا",
+        "start": 1270.159,
+        "end": 1274.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 485,
+        "text": "هكا كامل فالتكامل ده كده وانا عندي هنا",
+        "start": 1272.64,
+        "end": 1276.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 486,
+        "text": "دي الاشاره سالب الاشاره السالب دي جايه",
+        "start": 1274.72,
+        "end": 1278.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 487,
+        "text": "اصلا من القانون فبتبقى هنا ناقص وانا",
+        "start": 1276.76,
+        "end": 1282.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 488,
+        "text": "عندي هنا بره ناقص نص فهتبقى موجب نص ناقص",
+        "start": 1278.799,
+        "end": 1284.4,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 489,
+        "text": "مع ناقص هتروح وبعد كده هتبقى عندي هنا",
+        "start": 1282.32,
+        "end": 1287.4399999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 490,
+        "text": "انها ان باور ناقص 3 لان هم يضربوا بعض",
+        "start": 1284.4,
+        "end": 1289.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 491,
+        "text": "بالنسبه لدي ان انت طب تعرف تكامل الجزء",
+        "start": 1287.44,
+        "end": 1291.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 492,
+        "text": "ده بتعرف تكامله طبعا تبقى عندي هنا انها",
+        "start": 1289.12,
+        "end": 1297.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 493,
+        "text": "ناقص نص في لين ال n هنا ان سكوير هنا دي",
+        "start": 1291.679,
+        "end": 1300.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 494,
+        "text": "هتبقى ان بالشكل ده كده بعد كده هنا زائد",
+        "start": 1297.84,
+        "end": 1304.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 495,
+        "text": "نص بالشكل ده في ان باور ناقص 3 هتبقى هي",
+        "start": 1300.44,
+        "end": 1307.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 496,
+        "text": "عباره هنا انها ان باور ناقص ا على هنا -",
+        "start": 1304.24,
+        "end": 1309.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 497,
+        "text": "ا فاحنا ممكن ان احنا نبسط المساله دي",
+        "start": 1307.2,
+        "end": 1312.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 498,
+        "text": "هتبقى هي عباره هنا انها كام؟ انها ناقص",
+        "start": 1309.44,
+        "end": 1314.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 499,
+        "text": "تبقى هنا دي اول حاجه ان الاشاره دي تبقى",
+        "start": 1312.76,
+        "end": 1318.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 500,
+        "text": "ناقص و 2× 2 هتبقى هنا باربعه على ان",
+        "start": 1314.919,
+        "end": 1320.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 501,
+        "text": "سكوير بالشكل ده كده الحدود بتاعتي هتبقى",
+        "start": 1318.159,
+        "end": 1322.0800000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 502,
+        "text": "من فين لفين؟ الحدود بتاعتي هتبقى عندي",
+        "start": 1320.12,
+        "end": 1325.2399999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 503,
+        "text": "هنا من بي لحد هنا الواحد بالشكل ده انا",
+        "start": 1322.08,
+        "end": 1327.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 504,
+        "text": "هنا ممكن اختصر على نفسي وممكن اقوم قايل",
+        "start": 1325.24,
+        "end": 1329.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 505,
+        "text": "ان انا عندي هنا ان باور ناقص اين هتبقى",
+        "start": 1327.48,
+        "end": 1331.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 506,
+        "text": "عندي في الاخر هي عباره انها ان سكوير",
+        "start": 1329.88,
+        "end": 1333.7990000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 507,
+        "text": "بالشكل ده كده اعوض بقى بالحدود بتاعتي",
+        "start": 1331.52,
+        "end": 1337.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 508,
+        "text": "انا عندي هنا دي ناقص نص في لين البي على",
+        "start": 1333.799,
+        "end": 1342.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 509,
+        "text": "البي سكوير بعد كده هنا ناقص 1 على ا في 1",
+        "start": 1337.679,
+        "end": 1345.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 510,
+        "text": "على بي سكوير بالشكل ده كده ده هو الحد",
+        "start": 1342.24,
+        "end": 1347.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 511,
+        "text": "الاولاني ده كده هو الحد الاولاني الحد",
+        "start": 1345.159,
+        "end": 1351.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 512,
+        "text": "التاني بقى هتبقى عندي هنا ناقص 1 على ا",
+        "start": 1347.799,
+        "end": 1356.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 513,
+        "text": "في لين الواحد على هنا الواحد سكوير بعد",
+        "start": 1351.679,
+        "end": 1359.3200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 514,
+        "text": "كده هتبقى عندي هنا - 1 على ا في 1 على 1",
+        "start": 1356.2,
+        "end": 1361.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 515,
+        "text": "سكوير ففي الاخر دي هتبقى واحد او ممكن",
+        "start": 1359.32,
+        "end": 1364.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 516,
+        "text": "نوم قين ها ربع وخلاص يعني فيبقى ده هو",
+        "start": 1361.2,
+        "end": 1366.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 517,
+        "text": "الحدود بتاعتي انا هنا بقى عايز ايه عايز",
+        "start": 1364.159,
+        "end": 1369.5200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 518,
+        "text": "ان انا بعد ما جبت قيمه التكامل ده عايز",
+        "start": 1366.559,
+        "end": 1372.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 519,
+        "text": "ان انا اخد له ليمت لو كانت بي الفرييابل",
+        "start": 1369.52,
+        "end": 1374.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 520,
+        "text": "اللي عندي هنا ده لو كانت بي تؤول الى",
+        "start": 1372.44,
+        "end": 1377.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 521,
+        "text": "انفينتي لو انت بقى جيت في المساله دي",
+        "start": 1374.96,
+        "end": 1380.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 522,
+        "text": "وقمت انت قمت انت خلينا بس ننزل المساله",
+        "start": 1377.679,
+        "end": 1383.3200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 523,
+        "text": "دي تحت شويه كده وقمت انت هنا مدخل الليمت",
+        "start": 1380.12,
+        "end": 1385.6789999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 524,
+        "text": "دي هنا ومدخل الليمت دي هنا وانا مش",
+        "start": 1383.32,
+        "end": 1387.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 525,
+        "text": "هدخلها على الجزء ده اصلا لان انا كده",
+        "start": 1385.679,
+        "end": 1389.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 526,
+        "text": "هكون بضيع وقت ليه بضيع وقت لان دي اصلا",
+        "start": 1387.12,
+        "end": 1392.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 527,
+        "text": "دي كونستنت فانا هقوم قايل انها ناقص نص",
+        "start": 1389.36,
+        "end": 1396.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 528,
+        "text": "في ليمت لو كانت بي تؤول الى انفينتي للين",
+        "start": 1392.08,
+        "end": 1399.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 529,
+        "text": "البي على بي سكوير انا هنا دي الجزئيه",
+        "start": 1396.799,
+        "end": 1401.6399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 530,
+        "text": "اللي انا عايزها بعد كده هنا ناقص واح على",
+        "start": 1399.88,
+        "end": 1405.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 531,
+        "text": "ا في ليمت لو كانت بيؤول الى انفينتي",
+        "start": 1401.64,
+        "end": 1408.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 532,
+        "text": "للواحد على بي سكوير دي انا اصلا الجزئيه",
+        "start": 1405.36,
+        "end": 1411.3999999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 533,
+        "text": "دي اصلا انا عارف ان دي ليمت لو كانت بي",
+        "start": 1408.64,
+        "end": 1413.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 534,
+        "text": "تؤول لانفينتي لواحد على بي سكوير دي في",
+        "start": 1411.4,
+        "end": 1416.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 535,
+        "text": "الاخر هتساوي صفر بس دي بقى لين البي على",
+        "start": 1413.159,
+        "end": 1418.7600000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 536,
+        "text": "بي سكوير دي هعملها ازاي قال لك دي حاله",
+        "start": 1416.12,
+        "end": 1421.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 537,
+        "text": "من الحالات الانديترمنت ليه بقى دي حاله",
+        "start": 1418.76,
+        "end": 1423.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 538,
+        "text": "من الحالات الانديتيرمنت لان البي على بي",
+        "start": 1421.159,
+        "end": 1426.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 539,
+        "text": "سكوير هي تعتبر لو انت عوضت هنا بانفينتي",
+        "start": 1423.919,
+        "end": 1428.3200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 540,
+        "text": "فهتبقى هي عباره هنا انها انفينتي على",
+        "start": 1426.12,
+        "end": 1430.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 541,
+        "text": "انفينتي سكوير فدي حاله من الحالات",
+        "start": 1428.32,
+        "end": 1432.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 542,
+        "text": "الانديتيرمنت فقال لك في الكيس دي انت",
+        "start": 1430.6,
+        "end": 1434.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 543,
+        "text": "بتعمل ايه؟ قال لك في الكيس دي انت عشان",
+        "start": 1432.6,
+        "end": 1437.9599999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 544,
+        "text": "تعملها انت بتستخدم لوبيتالز رول ايه هي",
+        "start": 1434.559,
+        "end": 1440.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 545,
+        "text": "لوبيتالز رول قال لك ان انت ودي احنا كنا",
+        "start": 1437.96,
+        "end": 1442.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 546,
+        "text": "شرحناها قبل كده في فيديو قال لك ان انت",
+        "start": 1440.48,
+        "end": 1446.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 547,
+        "text": "بتشتق بما انها بسط ومقام فبتشتق البسط",
+        "start": 1442.88,
+        "end": 1448.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 548,
+        "text": "وبتشتق المقام طب هعملها دي ازاي هقوم",
+        "start": 1446.039,
+        "end": 1450.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 549,
+        "text": "قايل ان انا عندي لان البي مشتقتها هتبقى",
+        "start": 1448.64,
+        "end": 1454.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 550,
+        "text": "هي عباره هنا انها واحد على بيتق المقام",
+        "start": 1450.799,
+        "end": 1457.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 551,
+        "text": "بي سكوير هتبقى هي عباره هنا انها اين بي",
+        "start": 1454.12,
+        "end": 1459.9599999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 552,
+        "text": "بالشكل ده كده بعد ما انت خلاص عملت",
+        "start": 1457.48,
+        "end": 1462.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 553,
+        "text": "لوبيتال خد بقى ليمت لو كانت عندك هنا برض",
+        "start": 1459.96,
+        "end": 1466.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 554,
+        "text": "بي تؤول الى انفينتي بالشكل ده كده وانت",
+        "start": 1462.84,
+        "end": 1469.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 555,
+        "text": "عندك برض من قواعد الليمت بتاعتك من قواعد",
+        "start": 1466.2,
+        "end": 1472.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 556,
+        "text": "الليمت ان انت ممكن ان هو يتوزع برض على",
+        "start": 1469.559,
+        "end": 1476.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 557,
+        "text": "البسط وعلى المقام طب ليمت الواحد على بي",
+        "start": 1472.72,
+        "end": 1478.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 558,
+        "text": "لو كانت بي دي تؤول للانفينتي فيطلع لك ان",
+        "start": 1476.44,
+        "end": 1481.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 559,
+        "text": "البسط فوق عندك قوه بصفر بالشكل ده كده",
+        "start": 1478.919,
+        "end": 1484.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 560,
+        "text": "خلينا احنا نعوضها برده ليمت الاثنين بي",
+        "start": 1481.96,
+        "end": 1486.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 561,
+        "text": "لو كانت عندك هنا بي تؤول الى انفينتي",
+        "start": 1484.24,
+        "end": 1488.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 562,
+        "text": "فهتبقى عندك ان ليمت الاثنين بي هتبقى هي",
+        "start": 1486.559,
+        "end": 1491.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 563,
+        "text": "كمان بانفينتي فانا عندي هنا صفر على",
+        "start": 1488.88,
+        "end": 1493.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 564,
+        "text": "انفينتي ففي الاخر دي هتطلع لي بصفر",
+        "start": 1491.12,
+        "end": 1495.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 565,
+        "text": "اختصارا العمليه دي كلها هترس على في",
+        "start": 1493.159,
+        "end": 1497.3990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 566,
+        "text": "الاخر ان ليمت دي في الاخر هيطلع لي دي",
+        "start": 1495.6,
+        "end": 1499.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 567,
+        "text": "بصفر وليمت دي في الاخر اللي هو واحد على",
+        "start": 1497.399,
+        "end": 1501.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 568,
+        "text": "بي سكوير دي كمان هيطلع لي بصفر بعد كده",
+        "start": 1499.32,
+        "end": 1504.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 569,
+        "text": "يعني الجزء ده كده كله طلع لي بصفر عشان",
+        "start": 1501.6,
+        "end": 1506.6789999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 570,
+        "text": "كده احنا بنستخدم الليمت في القانون ده",
+        "start": 1504.279,
+        "end": 1508.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 571,
+        "text": "عشان لو طلعت لي كيس زي الكيس اللي احنا",
+        "start": 1506.679,
+        "end": 1511.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 572,
+        "text": "كنا قلنا عليها هنا في الحاله دي كده وفي",
+        "start": 1508.96,
+        "end": 1513.679,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 573,
+        "text": "الاخر هتبقى عندي هنا انها ناقص نص في لين",
+        "start": 1511.76,
+        "end": 1516.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 574,
+        "text": "الواحد لين الواحد دي اصلا هي بصفر فهتبقى",
+        "start": 1513.679,
+        "end": 1519.5590000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 575,
+        "text": "دي اصلا بصفر ناقص 1 على ا فتبقى عندي هنا",
+        "start": 1516.84,
+        "end": 1522.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 576,
+        "text": "دي ناقص واح على ا تمام فهتبقى ناقص مع",
+        "start": 1519.559,
+        "end": 1524.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 577,
+        "text": "الناقص هتبقى كام هتبقى موجب فانا اصلا دي",
+        "start": 1522.0,
+        "end": 1527.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 578,
+        "text": "هتطلع لي في الاخر انها بربع وده معناته",
+        "start": 1524.24,
+        "end": 1529.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 579,
+        "text": "ان الجزئيه دي اصلا بتكونفرج او السيريز",
+        "start": 1527.0,
+        "end": 1532.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 580,
+        "text": "دي اصلا بتكونفرج تمام السؤال الاخير اللي",
+        "start": 1529.919,
+        "end": 1535.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 581,
+        "text": "معايا هنا بيقول لي برض انا عايز واحد على",
+        "start": 1532.72,
+        "end": 1538.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 582,
+        "text": "ان سكوير زائد ان باور لاه وطالب مني هنا",
+        "start": 1535.76,
+        "end": 1540.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 583,
+        "text": "ان انا عايز اعرف هي السيرز دي بتكونفرج",
+        "start": 1538.799,
+        "end": 1544.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 584,
+        "text": "ولا بتدايفرج فبما ان احنا الاختبار",
+        "start": 1540.96,
+        "end": 1545.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 585,
+        "text": "الوحيد اللي احنا اخدناه هو الانتجرال",
+        "start": 1544.0,
+        "end": 1548.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 586,
+        "text": "فخلينا احنا برض نستخدمه يعني فحول",
+        "start": 1545.559,
+        "end": 1550.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 587,
+        "text": "المساله دي عندي هنا لانتجرال فتبقى عندي",
+        "start": 1548.36,
+        "end": 1552.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 588,
+        "text": "هنا هي من واحد وهنا واحد زي ما قلنا عشان",
+        "start": 1550.36,
+        "end": 1555.1999999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 589,
+        "text": "انا عندي ببتدي من الحد الاولاني لحد",
+        "start": 1552.88,
+        "end": 1559.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 590,
+        "text": "الانفينتي ل واحد خلينا هنا ان انا ابسط",
+        "start": 1555.2,
+        "end": 1561.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 591,
+        "text": "المساله بدل ما انها تكون ان سكوير زائد",
+        "start": 1559.24,
+        "end": 1564.3990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 592,
+        "text": "ان باور لاه هاخد ال ان سكوير كومن فاكتور",
+        "start": 1561.76,
+        "end": 1567.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 593,
+        "text": "تبقى عندي هي عباره انها ان سكوير مضروبه",
+        "start": 1564.399,
+        "end": 1569.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 594,
+        "text": "هنا في ان زائد واحد بالشكل",
+        "start": 1567.08,
+        "end": 1572.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 595,
+        "text": "وانا هنا بكامل بالنسبه لدي ان بالشكل ده",
+        "start": 1569.32,
+        "end": 1573.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 596,
+        "text": "طبعا المساله دي زي ما انتم عارفين يعني",
+        "start": 1572.24,
+        "end": 1576.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 597,
+        "text": "اول اما انت شفتها بالشكل ده كده فدي",
+        "start": 1573.799,
+        "end": 1579.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 598,
+        "text": "هتتحل بالبارشيال فراكشن وبما ان احنا كنا",
+        "start": 1576.0,
+        "end": 1582.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 599,
+        "text": "اخدنا البارشيال فراكشن قبل كده في يعني",
+        "start": 1579.96,
+        "end": 1585.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 600,
+        "text": "يفضل جدا ان انت ترجع للفيديو ده بحيث ان",
+        "start": 1582.6,
+        "end": 1588.6789999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 601,
+        "text": "انت تقدر ان انت تفهم طريقه حل المساله دي",
+        "start": 1585.44,
+        "end": 1591.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 602,
+        "text": "بالبارشيال فريكشن فاختصارا البارشيال",
+        "start": 1588.679,
+        "end": 1592.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 603,
+        "text": "فريكشن بتقول لك ان انا عندي هتبقى عباره",
+        "start": 1591.279,
+        "end": 1596.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 604,
+        "text": "عن هو اي على ان بعد كده هنا هتبقى زائد",
+        "start": 1592.88,
+        "end": 1599.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 605,
+        "text": "بي على ان سكوير انا هنا انا عندي الترمات",
+        "start": 1596.24,
+        "end": 1601.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 606,
+        "text": "دي مضروبه ببعض فانا بحاول ان انا افكها",
+        "start": 1599.159,
+        "end": 1604.0390000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 607,
+        "text": "يعني بدل ما انا اكامل بالنسبه للصوره دي",
+        "start": 1601.559,
+        "end": 1606.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 608,
+        "text": "انا عايز ان انا اكامل بالنسبه للصوره دي",
+        "start": 1604.039,
+        "end": 1609.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 609,
+        "text": "انها يكونوا مجموعين على بعض فالبارشيال",
+        "start": 1606.12,
+        "end": 1611.4799999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 610,
+        "text": "فراكشن للن سكوير هتبقى هي عباره عن انها",
+        "start": 1609.08,
+        "end": 1614.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 611,
+        "text": "اي على ان زائد بي على ان سكوير لان هي",
+        "start": 1611.48,
+        "end": 1616.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 612,
+        "text": "هنا سكوير بعد كده قايل هنا زائد الترم",
+        "start": 1614.0,
+        "end": 1618.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 613,
+        "text": "الثالث اللي هو ال ان زئد واح فتبقى عندي",
+        "start": 1616.76,
+        "end": 1621.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 614,
+        "text": "هي عباره عن انها سي على ان + بالشكل ده",
+        "start": 1618.76,
+        "end": 1626.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 615,
+        "text": "كده كل ده بيساوي الواحد على ال ان سكوير",
+        "start": 1621.84,
+        "end": 1629.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 616,
+        "text": "في ال ان زئ واحد بالشكل ده او ان احنا",
+        "start": 1626.84,
+        "end": 1630.9189999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 617,
+        "text": "ممكن نقوم قايلين على طول انها هي عباره",
+        "start": 1629.36,
+        "end": 1633.6399999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 618,
+        "text": "عن انها ايه ال ان سكوير زائد ان باور لاه",
+        "start": 1630.919,
+        "end": 1635.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 619,
+        "text": "ايه المطلوب مني اللي انا اعمله كل",
+        "start": 1633.64,
+        "end": 1639.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 620,
+        "text": "المطلوب مني اللي انا اعمله ان انا اجيب",
+        "start": 1635.919,
+        "end": 1642.8400000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 621,
+        "text": "قيمه السي اجيب قيمه البي واجيب قيمه الا",
+        "start": 1639.36,
+        "end": 1645.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 622,
+        "text": "a ده هو المطلوب مني انا اعمله بعد ما",
+        "start": 1642.84,
+        "end": 1648.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 623,
+        "text": "اعمل كل ده بس شرح للبارشال فراكشن بعد ان",
+        "start": 1645.039,
+        "end": 1650.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 624,
+        "text": "انا اعمل كل ده ابتدي ان انا اكامل بشكل",
+        "start": 1648.12,
+        "end": 1653.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 625,
+        "text": "عادي جدا هقوم شايف كل تيرم عندي زي الترم",
+        "start": 1650.559,
+        "end": 1656.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 626,
+        "text": "ده والترم ده والترم ده هقوم شايف هو ايه",
+        "start": 1653.76,
+        "end": 1659.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 627,
+        "text": "اللي ناقصه عشان يكون نفس المقام الترم ده",
+        "start": 1656.36,
+        "end": 1662.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 628,
+        "text": "بالظبط اللي هو خلينا ان احنا نبسطه اكتر",
+        "start": 1659.919,
+        "end": 1666.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 629,
+        "text": "اللي هو ان سكوير في 1 + ان بالشكل ده كده",
+        "start": 1662.32,
+        "end": 1668.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 630,
+        "text": "فانا قايل ان انا عندي هنا ال a تمام",
+        "start": 1666.2,
+        "end": 1672.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 631,
+        "text": "المقام بتاع الا a ال n اللي ناقص المقام",
+        "start": 1668.88,
+        "end": 1675.3990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 632,
+        "text": "بقى بتاعها بحيث انها تكون شبه المقام ده",
+        "start": 1672.039,
+        "end": 1678.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 633,
+        "text": "ناقصها انها تتضرب في ان واحده بس لان هي",
+        "start": 1675.399,
+        "end": 1680.7199999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 634,
+        "text": "اصلا اوريدي عندها ان بعد كده مضروبه كمان",
+        "start": 1678.12,
+        "end": 1683.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 635,
+        "text": "في واحد زائد ال n اروح للترم اللي بعدها",
+        "start": 1680.72,
+        "end": 1686.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 636,
+        "text": "اللي هو البي ايه اللي ناقصها عشان يكون",
+        "start": 1683.76,
+        "end": 1688.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 637,
+        "text": "المقام بتاع بتاعها نفس المقام ده هتقول",
+        "start": 1686.36,
+        "end": 1690.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 638,
+        "text": "لي انها هي عندها ال n سكوير ناقصها",
+        "start": 1688.32,
+        "end": 1694.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 639,
+        "text": "الواحد + ان فتبقى بي في الوا + ان بالشكل",
+        "start": 1690.519,
+        "end": 1696.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 640,
+        "text": "ده كده بعد كده اروح للسي اللي هو الترم",
+        "start": 1694.12,
+        "end": 1699.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 641,
+        "text": "اللي بعده ايه اللي ناقصه عشان يكون نفس",
+        "start": 1696.279,
+        "end": 1701.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 642,
+        "text": "المقام بتاعه نفس المقام ده هتقول لي هو",
+        "start": 1699.84,
+        "end": 1704.9599999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 643,
+        "text": "ناقصه السي مضروب هنا يكون في ان سكوير كل",
+        "start": 1701.96,
+        "end": 1707.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 644,
+        "text": "ده هيساوي بقى احنا كده خدنا كل اللي",
+        "start": 1704.96,
+        "end": 1709.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 645,
+        "text": "موجود هنا في البسط كل ده المفروض ان هو",
+        "start": 1707.96,
+        "end": 1712.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 646,
+        "text": "هيساوي اللي موجود هنا في البسط في الطرف",
+        "start": 1709.88,
+        "end": 1715.7990000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 647,
+        "text": "الثاني فيبقى عندي هنا هو بواحد زي ما انا",
+        "start": 1712.799,
+        "end": 1718.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 648,
+        "text": "قلت لك قبل كده كل اللي مطلوب مني ان انا",
+        "start": 1715.799,
+        "end": 1721.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 649,
+        "text": "اعمله ان انا اجيب قيمه ال A وقيمه البي",
+        "start": 1718.519,
+        "end": 1724.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 650,
+        "text": "واجيب قيمه السي بعد كده ارجع للمساله",
+        "start": 1721.84,
+        "end": 1726.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 651,
+        "text": "الاساسيه بتاعتي اللي هي دي وابتدي ان انا",
+        "start": 1724.48,
+        "end": 1729.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 652,
+        "text": "اكاملها بشكل عادي جدا فانت ساعتها هتفرض",
+        "start": 1726.559,
+        "end": 1731.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 653,
+        "text": "اي قيمه للن وعلى اساسها هتبتدي ان انت",
+        "start": 1729.24,
+        "end": 1734.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 654,
+        "text": "تجيب قيم الا a والبي والسي بشكل مبسط",
+        "start": 1731.76,
+        "end": 1737.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 655,
+        "text": "يعني فخليني لو انت قايل مثلا في البدايه",
+        "start": 1734.6,
+        "end": 1739.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 656,
+        "text": "خالص خلينا نفترض ان ليت مثلا ان خليها",
+        "start": 1737.039,
+        "end": 1742.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 657,
+        "text": "بناقص واحد بالشكل ده لو انا خليت ان",
+        "start": 1739.84,
+        "end": 1744.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 658,
+        "text": "بناقص واحد اللي هستفاده ان الترم ده",
+        "start": 1742.08,
+        "end": 1747.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 659,
+        "text": "هيطير والترم ده كمان هيطير فساعتها هتبقى",
+        "start": 1744.24,
+        "end": 1750.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 660,
+        "text": "عندي هنا ان ناقص تبقى واحد فساعتها هتبقى",
+        "start": 1747.36,
+        "end": 1753.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 661,
+        "text": "عندي هنا السي بتساوي هنا واحد فانا هنا",
+        "start": 1750.84,
+        "end": 1756.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 662,
+        "text": "اول قيمه طلعتها معايا نقص بعد كده قيمه",
+        "start": 1753.279,
+        "end": 1759.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 663,
+        "text": "البي وقيمه الا a بعد كده افرض قيمه تانيه",
+        "start": 1756.08,
+        "end": 1762.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 664,
+        "text": "بقى للن فخلينا نفترض مثلا ان ان عندي هنا",
+        "start": 1759.559,
+        "end": 1765.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 665,
+        "text": "هتبقى بصفر ايه اللي هستفاده من كده لو",
+        "start": 1762.24,
+        "end": 1766.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 666,
+        "text": "انا افترضت ان ان بصفر انا خلاص طلعت خيمه",
+        "start": 1765.039,
+        "end": 1768.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 667,
+        "text": "صي فانا عايز اطلع القيم الثانيه لو انا",
+        "start": 1766.919,
+        "end": 1771.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 668,
+        "text": "افترضت ان قيمه ال n عندي هنا بصفر الترم",
+        "start": 1768.72,
+        "end": 1773.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 669,
+        "text": "ده عندي هيروح والترم ده كمان عندي اللي",
+        "start": 1771.039,
+        "end": 1776.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 670,
+        "text": "هو الا a كمان هيروح لان هو هنا مضروب هنا",
+        "start": 1773.64,
+        "end": 1780.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 671,
+        "text": "في ال ان فساعتها هتبقى عندي ان بي في 1 +",
+        "start": 1776.159,
+        "end": 1783.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 672,
+        "text": "صفر هتبقى بي برده في الاخر انها بتساوي",
+        "start": 1780.48,
+        "end": 1785.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 673,
+        "text": "واحد فانا عندي هنا قيمه البي هي طلعت لي",
+        "start": 1783.159,
+        "end": 1788.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 674,
+        "text": "هي كمان بواحد ما عادش فاضل بقى غير قيمه",
+        "start": 1785.36,
+        "end": 1791.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 675,
+        "text": "الا a فساعتها افرض بقى اي قيمه للن خلينا",
+        "start": 1788.2,
+        "end": 1794.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 676,
+        "text": "مثلا نفترض ان ال ان دي خليها انها تكون",
+        "start": 1791.36,
+        "end": 1796.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 677,
+        "text": "بواحد عشان تكون قيمه بسيطه فهتبقى عندي",
+        "start": 1794.0,
+        "end": 1799.36,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 678,
+        "text": "هنا انها ايه مضروبه في واحد في 1 + هتبقى",
+        "start": 1796.32,
+        "end": 1801.9189999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 679,
+        "text": "عندي هنا في الاخر انها اثنين بعد كده هنا",
+        "start": 1799.36,
+        "end": 1804.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 680,
+        "text": "زائد البي خلاص ما عادتشريول انا خلاص بقت",
+        "start": 1801.919,
+        "end": 1806.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 681,
+        "text": "معايا القيمه بتاعت ها اللي هي واحد هتبقى",
+        "start": 1804.559,
+        "end": 1808.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 682,
+        "text": "عندي هنا واحد مضروبه هنا في 1 + فتبقى",
+        "start": 1806.48,
+        "end": 1811.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 683,
+        "text": "هنا اين فتبقى دي خلاص قيمتها باثنين بعد",
+        "start": 1808.88,
+        "end": 1814.8400000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 684,
+        "text": "كده قيمه السي السي عندي هي كمان بواحد",
+        "start": 1811.88,
+        "end": 1817.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 685,
+        "text": "مضروبه في واحد سكوير هتبقى دي كمان بواحد",
+        "start": 1814.84,
+        "end": 1820.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 686,
+        "text": "وكل ده في الاخر بيساوي هنا واحد حلل لي",
+        "start": 1817.36,
+        "end": 1822.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 687,
+        "text": "بقى المعادله دي الا a في الاخر هيطلع لي",
+        "start": 1820.24,
+        "end": 1824.799,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 688,
+        "text": "انها بناقص واحد بالشكل ده فانا كده خلاص",
+        "start": 1822.08,
+        "end": 1827.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 689,
+        "text": "طلعت قيمه ال a وطلعت قيمه البي وطلعت",
+        "start": 1824.799,
+        "end": 1830.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 690,
+        "text": "قيمه السي ارجع بقى للتكامل بتاعي اللي هي",
+        "start": 1827.48,
+        "end": 1832.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 691,
+        "text": "الصوره اللي احنا قلنا عليها اللي هي",
+        "start": 1830.96,
+        "end": 1835.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 692,
+        "text": "الصوره دي كده بالظبط وابتدي ان انا اعوض",
+        "start": 1832.2,
+        "end": 1838.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 693,
+        "text": "بقيم الا A والبي اللي انا جبتهم فانا كنت",
+        "start": 1835.08,
+        "end": 1840.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 694,
+        "text": "طلعت ان قيمه الا A عندي هنا هي بناقص",
+        "start": 1838.24,
+        "end": 1842.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 695,
+        "text": "واحد فتبقى عندي هنا ناقص واحد على الاكس",
+        "start": 1840.279,
+        "end": 1845.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 696,
+        "text": "بالشكل ده كده بعد كده البي واحد على اكس",
+        "start": 1842.44,
+        "end": 1848.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 697,
+        "text": "سكوير وهنا عندي هنا زائد بعد كده هنا",
+        "start": 1845.6,
+        "end": 1851.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 698,
+        "text": "زائد السي عندي هنا هي كمان بواحد فتبقى",
+        "start": 1848.559,
+        "end": 1854.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 699,
+        "text": "واحد على ال ان او ال ان زائد واحد هي هنا",
+        "start": 1851.159,
+        "end": 1857.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 700,
+        "text": "بدل ما هي اكس المفروض انها ب فهتبقى هنا",
+        "start": 1854.76,
+        "end": 1860.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 701,
+        "text": "هو غلط بسيط يعني بس هتبقى هنا ان بالشكل",
+        "start": 1857.519,
+        "end": 1862.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 702,
+        "text": "ده كده وعندي هنا ان سكوير وانا هنا بكامل",
+        "start": 1860.559,
+        "end": 1864.6789999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 703,
+        "text": "بالنسبه لدي ان فبدل ما المساله المساله",
+        "start": 1862.96,
+        "end": 1868.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 704,
+        "text": "عندي كانت بالشكل ده كده ماشي انا خليتها",
+        "start": 1864.679,
+        "end": 1870.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 705,
+        "text": "بقت بالشكل ده وساعتها ساعتها في الحاله",
+        "start": 1868.36,
+        "end": 1873.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 706,
+        "text": "دي انا اقدر ساعتها ان انا ابتدي ان انا",
+        "start": 1870.919,
+        "end": 1876.0800000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 707,
+        "text": "اكامل بشكل عادي جدا وهكامل هنا من واحد",
+        "start": 1873.32,
+        "end": 1879.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 708,
+        "text": "لحد البي لو انا بقى جيت وكملت الجزء ده",
+        "start": 1876.08,
+        "end": 1881.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 709,
+        "text": "فانا عندي هنا ناقص واحد على ان لو انا",
+        "start": 1879.32,
+        "end": 1884.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 710,
+        "text": "جيت كملتها فهتبقى هي في الاخر انها ناقص",
+        "start": 1881.32,
+        "end": 1888.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 711,
+        "text": "في لين ال الن بعد كده عندي هنا + واحد",
+        "start": 1884.12,
+        "end": 1891.1999999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 712,
+        "text": "على ان سكوير هتبقى التكامل بتاعها هو",
+        "start": 1888.24,
+        "end": 1893.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 713,
+        "text": "واحد على ان وعندي هنا ناقص واح فانا خلاص",
+        "start": 1891.2,
+        "end": 1895.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 714,
+        "text": "انا شلت الاشاره بتاعته بدل ما هو كان",
+        "start": 1893.48,
+        "end": 1898.3990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 715,
+        "text": "موجب خليت قسمت هنا قسمت هنا على الناقص",
+        "start": 1895.32,
+        "end": 1901.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 716,
+        "text": "واحد فهتبقى هنا نيجتيف يعني فهي بس تغيير",
+        "start": 1898.399,
+        "end": 1903.9599999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 717,
+        "text": "اشاره بعد كده هنا زائد تكامل الجزء ده",
+        "start": 1901.12,
+        "end": 1906.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 718,
+        "text": "هيبقى عباره ان هو كام هو عباره ان هو لين",
+        "start": 1903.96,
+        "end": 1909.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 719,
+        "text": "لان هو ان هنا وهنا الدرجه بتاعتها هي",
+        "start": 1906.639,
+        "end": 1911.6789999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 720,
+        "text": "بواحد فهتبقى هي لين ال ان زائد واحد",
+        "start": 1909.039,
+        "end": 1914.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 721,
+        "text": "بالشكل ده وعوض بالحدود بتاعتك من واحد",
+        "start": 1911.679,
+        "end": 1917.3600000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 722,
+        "text": "لحد الفريابل بي خليني ان انا ابسط",
+        "start": 1914.32,
+        "end": 1919.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 723,
+        "text": "المقدار ده وفي نفس الوقت برض اعوض فهو",
+        "start": 1917.36,
+        "end": 1922.12,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 724,
+        "text": "قايل ان انا الحد الاول عندي اللي هو البي",
+        "start": 1919.24,
+        "end": 1924.88,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 725,
+        "text": "هتبقى عندي هنا انها لين",
+        "start": 1922.12,
+        "end": 1927.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 726,
+        "text": "البي زائد الواحد انا بس غيرت الرتبه عشان",
+        "start": 1924.88,
+        "end": 1930.919,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 727,
+        "text": "الاشارات بس تكون يعني شكلها حلو بس ده بس",
+        "start": 1927.76,
+        "end": 1934.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 728,
+        "text": "انا مهتم بس بالشكل بعد كده هنا ناقص لين",
+        "start": 1930.919,
+        "end": 1937.6390000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 729,
+        "text": "البي بعد كده هنا ناقص الواحد على البي",
+        "start": 1934.48,
+        "end": 1941.32,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 730,
+        "text": "بالشكل ده كده ده هو الحد الاولاني الحد",
+        "start": 1937.639,
+        "end": 1944.6789999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 731,
+        "text": "التاني بقى اللي هو هيبقى هنا",
+        "start": 1941.32,
+        "end": 1948.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 732,
+        "text": "ناقص ا لين الواحد + هتبقى هنا اين بعد",
+        "start": 1944.679,
+        "end": 1951.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 733,
+        "text": "كده هنا ناقص لين الواحد وانا عارف ان لين",
+        "start": 1948.72,
+        "end": 1953.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 734,
+        "text": "الواحد دي في الاخر هتبقى بصفر بعد كده",
+        "start": 1951.279,
+        "end": 1957.039,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 735,
+        "text": "هنا عندي ا ناقص الواحد على الواحد على",
+        "start": 1953.039,
+        "end": 1959.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 736,
+        "text": "الواحد فهتبقى هي هنا بناقص واحد بالشكل",
+        "start": 1957.039,
+        "end": 1961.84,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 737,
+        "text": "ده كده ده بقى هو قيمه التكامل اللي انت",
+        "start": 1959.2,
+        "end": 1964.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 738,
+        "text": "كنت عمال تحسبه للمساله اللي فاتت انا جيت",
+        "start": 1961.84,
+        "end": 1966.8799999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 739,
+        "text": "قلت لك ان الانتجريشن تست بعد كل ده بيقوم",
+        "start": 1964.44,
+        "end": 1969.519,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 740,
+        "text": "واخد الليمت للمقدار ده لو كانت عندي هنا",
+        "start": 1966.88,
+        "end": 1973.159,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 741,
+        "text": "بي تؤول الى انفينتي للمقدار ده كله وانا",
+        "start": 1969.519,
+        "end": 1975.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 742,
+        "text": "وانت وانا وانا وانت عارفين ان المقدار ده",
+        "start": 1973.159,
+        "end": 1978.3200000000002,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 743,
+        "text": "كله كونستنت فالليمت مش هيفرق معاه قوي بس",
+        "start": 1975.72,
+        "end": 1980.6390000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 744,
+        "text": "خلينا ان احنا ناخد الليمت للجزء ده الاول",
+        "start": 1978.32,
+        "end": 1982.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 745,
+        "text": "او ان احنا ندخل الليمت على الجزء ده",
+        "start": 1980.639,
+        "end": 1985.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 746,
+        "text": "ونشوف الدنيا في هتمشي ازاي فانا قايل",
+        "start": 1982.96,
+        "end": 1988.08,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 747,
+        "text": "انها هتبقى ليمت لو كانت عندي هنا بي تؤول",
+        "start": 1985.639,
+        "end": 1990.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 748,
+        "text": "الى انفينتي وهنا دي مش صفر هنا دي",
+        "start": 1988.08,
+        "end": 1994.1589999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 749,
+        "text": "المفروض انها بانفينتي ليه لين البي زائد",
+        "start": 1990.0,
+        "end": 2000.0,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 750,
+        "text": "الواحد ناقص لين البي ناقص الواحد على",
+        "start": 1994.159,
+        "end": 2004.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 751,
+        "text": "بي بالشكل ده كده انت عندك اصلا الليت هو",
+        "start": 2000.0,
+        "end": 2006.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 752,
+        "text": "يتوزع بالشكل ده كده ويتوزع بالشكل ده كده",
+        "start": 2004.2,
+        "end": 2008.559,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 753,
+        "text": "ويتوزع بالشكل ده كده المساله دي اصلا",
+        "start": 2006.639,
+        "end": 2010.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 754,
+        "text": "ممكن تحل ببساطه بس انا عايز ابسطها لك",
+        "start": 2008.559,
+        "end": 2012.72,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 755,
+        "text": "على قد ما تقدر بحيث ان انت تفهم افهم",
+        "start": 2010.6,
+        "end": 2015.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 756,
+        "text": "الصوره كلها فلو انا اخدت الليمت لو كانت",
+        "start": 2012.72,
+        "end": 2017.96,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 757,
+        "text": "بي تؤول الى انفينتي للمقدار الاولاني ان",
+        "start": 2015.48,
+        "end": 2022.1200000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 758,
+        "text": "هو لين البي زائد الواحد بعد كده هنا ناقص",
+        "start": 2017.96,
+        "end": 2025.3990000000001,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 759,
+        "text": "برضو هنا دي ليمت بالشكل ده كده انا بس",
+        "start": 2022.12,
+        "end": 2028.639,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 760,
+        "text": "عملت لها سبيلين غلط لليمت لو لين البي",
+        "start": 2025.399,
+        "end": 2029.9189999999999,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 761,
+        "text": "بعد كده هنا",
+        "start": 2028.639,
+        "end": 2033.6,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 762,
+        "text": "ناقص لو بي تؤول الى انفينتي لواحد على",
+        "start": 2029.919,
+        "end": 2036.279,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 763,
+        "text": "البي طيب انت عندك هنا الليت للمقدار ده",
+        "start": 2033.6,
+        "end": 2038.1999999999998,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 764,
+        "text": "لو انا عوضت هنا بانفينتي هتبقى لين",
+        "start": 2036.279,
+        "end": 2040.399,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 765,
+        "text": "الانفينتي زائد الواحد فدي هتطلع لي هنا",
+        "start": 2038.2,
+        "end": 2044.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 766,
+        "text": "بانفينتي ناقص ليمت لو لين الانفينتي هو",
+        "start": 2040.399,
+        "end": 2048.2,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 767,
+        "text": "كمان فليمت لين الانفينتي لو لين هي",
+        "start": 2044.76,
+        "end": 2050.76,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 768,
+        "text": "راحفينتي فدي كمان هي كمان بانفينتي بعد",
+        "start": 2048.2,
+        "end": 2053.6389999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 769,
+        "text": "كده ناقص انت عارف انمت المقدار ده دايما",
+        "start": 2050.76,
+        "end": 2056.079,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 770,
+        "text": "لو كانت واحد على بي لو بي تؤول للانفينتي",
+        "start": 2053.639,
+        "end": 2059.52,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 771,
+        "text": "فالمقدار ده بيكون بصفر فواحد على على",
+        "start": 2056.079,
+        "end": 2062.3590000000004,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 772,
+        "text": "الانفينتي فدي هتطلع لي هنا بصفر فانت هنا",
+        "start": 2059.52,
+        "end": 2064.24,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 773,
+        "text": "بما ان هنا طلعت لك انفينتي وهنا كمان",
+        "start": 2062.359,
+        "end": 2066.879,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 774,
+        "text": "طلعت لك انفينتي فانت ممكن على طول تقول",
+        "start": 2064.24,
+        "end": 2069.879,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 775,
+        "text": "المساله دي بالدايفرج خلي بالك بقى ان انت",
+        "start": 2066.879,
+        "end": 2072.2799999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 776,
+        "text": "عندك دي انفينتي وهنا في ما بينهم اشاره",
+        "start": 2069.879,
+        "end": 2074.5989999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 777,
+        "text": "نيجتيف فانا هنا بقول لك انفينتي ناقص",
+        "start": 2072.28,
+        "end": 2077.9190000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 778,
+        "text": "انفينتي فدي هتبقى بصفر فدي هتبقى بصفر",
+        "start": 2074.599,
+        "end": 2080.119,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 779,
+        "text": "فالاثنين دول هيكنسلوا بعض وانت عندك كان",
+        "start": 2077.919,
+        "end": 2083.359,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 780,
+        "text": "الترم ده كله كان بالصفر وخد بالك برده",
+        "start": 2080.119,
+        "end": 2086.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 781,
+        "text": "اكت واكتر ان انا كل ده انا كنت مركز على",
+        "start": 2083.359,
+        "end": 2089.44,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 782,
+        "text": "الابر ليمت لان انا كنت باخد له الليمت ك",
+        "start": 2086.839,
+        "end": 2092.04,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 783,
+        "text": "انا باخد له النهايه وخلي بالك ان انت",
+        "start": 2089.44,
+        "end": 2094.7200000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 784,
+        "text": "عندك لسه في تيرم بره اللي هو بتاع",
+        "start": 2092.04,
+        "end": 2097.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 785,
+        "text": "الجزئيه دي فهتبقى عندك المساله ان هي",
+        "start": 2094.72,
+        "end": 2100.8799999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 786,
+        "text": "بتدايفرج ليه بتدايفرج لان من اخر من",
+        "start": 2097.48,
+        "end": 2103.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 787,
+        "text": "الاخر خالص بالبردي الترم ده كله طلع لي",
+        "start": 2100.88,
+        "end": 2105.7200000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 788,
+        "text": "بصفر لما انا اخدت له الليمت فهيبقى عندي",
+        "start": 2103.16,
+        "end": 2108.3199999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 789,
+        "text": "حل المساله في الاخر ان بما ان ده خلاص هو",
+        "start": 2105.72,
+        "end": 2111.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 790,
+        "text": "طلع لي بصفر فهتبقى الناقص هتخش جوه هتبقى",
+        "start": 2108.32,
+        "end": 2114.92,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 791,
+        "text": "ا ناقص لين الاثنين بالشكل ده كده بعد كده",
+        "start": 2111.56,
+        "end": 2117.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 792,
+        "text": "هتبقى ناقص مع ناقص هتبقى زائد الواحد فهو",
+        "start": 2114.92,
+        "end": 2120.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 793,
+        "text": "ده هو حل المساله بتاعتي او هو حل التكامل",
+        "start": 2117.839,
+        "end": 2123.0789999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 794,
+        "text": "بتاعي وهنا طلع لي قيمه التكامل بالشكل ده",
+        "start": 2120.64,
+        "end": 2125.64,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 795,
+        "text": "كده فده معناته ان المساله دي كده بالشكل",
+        "start": 2123.079,
+        "end": 2128.48,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 796,
+        "text": "ده بالشكل ده كده هي بيت كونفرت فدي",
+        "start": 2125.64,
+        "end": 2130.7999999999997,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 797,
+        "text": "معناتها ان هي دي بيت كون كونفرج بالشكل",
+        "start": 2128.48,
+        "end": 2134.56,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 798,
+        "text": "ده كده وبس هو ده كان شرح الكونفرجنس",
+        "start": 2130.8,
+        "end": 2137.4,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 799,
+        "text": "والدافرجنس للسيرز باستخدام الانتجريشن",
+        "start": 2134.56,
+        "end": 2141.839,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 800,
+        "text": "تست ان شاء الله في تستات غير الانتجريشن",
+        "start": 2137.4,
+        "end": 2145.1600000000003,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 801,
+        "text": "وان شاء الله برضو هنحاول ان احنا نشرحها",
+        "start": 2141.839,
+        "end": 2147.68,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 802,
+        "text": "اتمنى ان شرح الفيديو ده كان بسيط ومفيد",
+        "start": 2145.16,
+        "end": 2151.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    },
+    {
+        "chunk_id": 803,
+        "text": "شكرا جدا وقتكم والسلام",
+        "start": 2147.68,
+        "end": 2151.16,
+        "video_title": "شرح اختبار التكامل للمتسلسلات | Integration Test for Series"
+    }
+]
