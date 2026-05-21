@@ -53,9 +53,9 @@ class DataExtraction:
         full_output_dir = os.path.join(os.getcwd(),output_dir)
         os.makedirs(full_output_dir,exist_ok=True)
         downloaded_ids = self.already_downloaded(full_output_dir)
-        print('--------------------'*10)
+        print('------------'*10)
         print((downloaded_ids))
-        print('--------------------'*10)
+        print('------------'*10)
         
         with open(f"{self.output_file_name}.json",'r',encoding='utf-8') as f : 
             videos_metadata = json.load(f)

@@ -4,11 +4,12 @@ from src.DataExtraction import DataExtraction
 from src.Embedding import Embedding
 from src.LLM import LLM
 
-llm = LLM()
+# llm = LLM()
 
+explore = DataExtraction()
+explore.extract_subtitle()
 
+# question  = "عرفني كدا على معامل التكامل"
+# embedding = Embedding()
 
-question  = "عرفني كدا على معامل التكامل"
-embedding = Embedding()
-
-print(llm.generate(user_question=question))
+# print(llm.generate(user_question=question))

@@ -20,7 +20,7 @@ class Embedding:
         self.video_collection = self.client.get_or_create_collection(
             name="vide_title"
         )
-
+    
         self.reranker = CrossEncoder("BAAI/bge-reranker-base")
         self.extractor = DataExtraction()
         self.chunking = Chunking()
@@ -185,15 +185,43 @@ class Embedding:
             })
         retrieved_chunks = sorted(retrieved_chunks,key = lambda x : x['score'])   
         return retrieved_chunks
-         
-    def retrieve(self,question,top_k=3):
+    def retrieve_chunks_inside_video(self,query,video_id,top_k=5):
+
+        query_embedding = self.embedding_model.encode(
+            query,
+            normalize_embeddings=True
+        ).tolist()
+
+        results = self.chunk_collection.query(
+            query_embeddings=[query_embedding],
+
+            n_results=top_k,
+
+            where={
+                "video_id": video_id
+            }
+        )
+
+        return results     
+    def retrieve(self,question,top_k=3,video_id=None):
         
         embed_query = self.embedding_model.encode(question).tolist()
-        
-        results = self.collection.query(
-            query_embeddings=[embed_query],
-            n_results=top_k
-        )
+        results = None
+        if video_id :
+            results = self.collection.query(
+                query_embeddings=[embed_query],
+                n_results=top_k,
+                where={
+                "video_id": video_id
+            }
+            )
+        else : 
+            results = self.collection.query(
+                query_embeddings=[embed_query],
+                n_results=top_k
+            )
+        print(f'------------- results ({__name__})-----------------------')
+        print(results)
         documents = results["documents"][0]
         metadatas = results["metadatas"][0]
         distances = results["distances"][0]
@@ -219,3 +247,7 @@ class Embedding:
         final_sorted_chunks = sorted(retrieved_chunks, key=lambda x: x["rerank_score"], reverse=True)
         
         return final_sorted_chunks
+    
+if __name__ == '__main__' : 
+    embedding = Embedding()
+    print(embedding.retrieve_video_title("عرفني على المعادلات التفاضلية "))

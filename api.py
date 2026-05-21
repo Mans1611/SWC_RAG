@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from src.routers.llm_router import llm_router
+from src.routers.evaluator_router import evaluator_router
 from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 origins = [
@@ -14,3 +15,4 @@ app.add_middleware(
 )
 
 app.include_router(llm_router)
+app.include_router(evaluator_router)
