@@ -22,7 +22,15 @@ type Chat = {
   createdAt: number;
 };
 
-const API_URL = 'http://localhost:8000/generete/';
+const API_URL = 'http://localhost:7000/generete/';
+const CHAT_SESSIONS_KEY = 'youtube-rag-chat-sessions';
+
+const rememberChatSession = (chat: Chat) => {
+  const stored = sessionStorage.getItem(CHAT_SESSIONS_KEY);
+  const sessions = stored ? JSON.parse(stored) as Record<string, string> : {};
+  sessions[chat.id] = chat.id;
+  sessionStorage.setItem(CHAT_SESSIONS_KEY, JSON.stringify(sessions));
+};
 
 function App() {
   const [chats, setChats] = useState<Chat[]>([]);
@@ -46,6 +54,7 @@ function App() {
     };
     setChats((previous) => [newChat, ...previous]);
     setActiveChatId(id);
+    rememberChatSession(newChat);
     setError(null);
   };
 
@@ -67,6 +76,7 @@ function App() {
       };
       setChats((previous) => [chat!, ...previous]);
       setActiveChatId(id);
+      rememberChatSession(chat);
     }
 
     const userMessage: Message = {
@@ -86,15 +96,14 @@ function App() {
       const response = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ user_question: trimmed }),
+        body: JSON.stringify({ user_question: trimmed, session_id: chat.id }),
       });
 
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
 
-      let data = (await response.json()) ;
-      data = JSON.parse(data)
+      const data: ApiResponse = await response.json();
       const assistantMessage: Message = {
         role: 'assistant',
         text: data.llm_output,

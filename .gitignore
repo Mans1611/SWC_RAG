@@ -4,7 +4,14 @@ __pycache__/
 build/
 dist/
 wheels/
+merged_subs/
+swc_subs/
+vectordb/
 *.egg-info
+
+# Generated metadata
+swc_videos_metadata.json
+swc_videos_metadata_playlist.json
 
 # Virtual environments
 .venv

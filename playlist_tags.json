@@ -1,0 +1,330 @@
+[
+    {
+        "playlist_name": "المعادلات التفاضلية | Differntial Equations",
+        "tags": [
+            "معادلة تفاضلية",
+            "differential equation",
+            "حل معادلة",
+            "solving differential equations",
+            "تطبيقات فيزيائية",
+            "physical applications",
+            "دوال متغيرة",
+            "variable functions",
+            "قيم أولية",
+            "initial conditions",
+            "شروط حدود",
+            "boundary conditions"
+        ]
+    },
+    {
+        "playlist_name": "الاشتقاق الجزئي | Partial Derivative",
+        "tags": [
+            "مشتقة جزئية",
+            "partial derivative",
+            "دوال متعددة المتغيرات",
+            "multivariable functions",
+            "تدرج",
+            "gradient",
+            "تفاضل جزئي",
+            "partial differentiation",
+            "مصفوفة جاكوبيان",
+            "Jacobian matrix",
+            "هيسيان",
+            "Hessian"
+        ]
+    },
+    {
+        "playlist_name": "تطبيقات على التكامل | Applications On Integration",
+        "tags": [
+            "تطبيقات التكامل",
+            "integration applications",
+            "حساب المساحة",
+            "area calculation",
+            "حساب الحجم",
+            "volume calculation",
+            "مركز الكتلة",
+            "center of mass",
+            "طول القوس",
+            "arc length",
+            "سطح الدوران",
+            "surface of revolution"
+        ]
+    },
+    {
+        "playlist_name": "Algebra I الجبر",
+        "tags": [
+            "جبر",
+            "algebra",
+            "معادلات جبرية",
+            "algebraic equations",
+            "كثيرات الحدود",
+            "polynomials",
+            "عوامل",
+            "factors",
+            "جذور",
+            "roots",
+            "الصيغة التربيعية",
+            "quadratic formula",
+            "متباينات",
+            "inequalities"
+        ]
+    },
+    {
+        "playlist_name": "Linear Algebra | الجبر الخطي",
+        "tags": [
+            "جبر خطي",
+            "linear algebra",
+            "مصفوفات",
+            "matrices",
+            "محددات",
+            "determinants",
+            "أنظمة خطية",
+            "linear systems",
+            "متجهات",
+            "vectors",
+            "قيم ذاتية",
+            "eigenvalues",
+            "متجهات ذاتية",
+            "eigenvectors",
+            "تحويلات خطية",
+            "linear transformations"
+        ]
+    },
+    {
+        "playlist_name": "المعادلات التفاضلية من الرتبة الثانية | Second Order Differntial Equations",
+        "tags": [
+            "معادلة تفاضلية من الرتبة الثانية",
+            "second order differential equation",
+            "معادلات خطية",
+            "linear equations",
+            "معادلات غير متجانسة",
+            "nonhomogeneous equations",
+            "طريقة المعاملات غير المحددة",
+            "method of undetermined coefficients",
+            "تغيير المعاملات",
+            "variation of parameters",
+            "حل عام",
+            "general solution"
+        ]
+    },
+    {
+        "playlist_name": "System Design",
+        "tags": [
+            "تصميم النظام",
+            "system design",
+            "معمارية النظام",
+            "system architecture",
+            "قابلية التوسع",
+            "scalability",
+            "الأداء",
+            "performance",
+            "قاعدة البيانات",
+            "database",
+            "الخوادم",
+            "servers",
+            "التوازي",
+            "concurrency"
+        ]
+    },
+    {
+        "playlist_name": "الدوال الزائدية | Hyperbolic Functions",
+        "tags": [
+            "دالة زائدية",
+            "hyperbolic function",
+            "sinh",
+            "cosh",
+            "tanh",
+            "خصائص زائدية",
+            "hyperbolic properties",
+            "تطبيقات هندسية",
+            "geometric applications",
+            "هويات زائدية",
+            "hyperbolic identities",
+            "معاكس زائدي",
+            "inverse hyperbolic"
+        ]
+    },
+    {
+        "playlist_name": "النهايات |  Limits",
+        "tags": [
+            "نهاية",
+            "limit",
+            "الاستمرارية",
+            "continuity",
+            "حساب النهايات",
+            "limit calculation",
+            "نهايات لانهائية",
+            "infinite limits",
+            "نهايات الدوال",
+            "function limits",
+            "القواعد الجبرية",
+            "algebraic rules",
+            "قاعدة لوبيتال",
+            "L'Hôpital's rule"
+        ]
+    },
+    {
+        "playlist_name": "التكامل المتعدد | Multiple Integration",
+        "tags": [
+            "تكامل متعدد",
+            "multiple integration",
+            "تكامل مزدوج",
+            "double integral",
+            "تكامل ثلاثي",
+            "triple integral",
+            "احداثيات قطبية",
+            "polar coordinates",
+            "احداثيات اسطوانية",
+            "cylindrical coordinates",
+            "احداثيات كروية",
+            "spherical coordinates"
+        ]
+    },
+    {
+        "playlist_name": "INTEGRATION I التكامل",
+        "tags": [
+            "تكامل",
+            "integration",
+            "المشتقة العكسية",
+            "antiderivative",
+            "التكامل المحدود",
+            "definite integral",
+            "التكامل غير المحدود",
+            "indefinite integral",
+            "طرق التكامل",
+            "integration methods",
+            "التكامل بالأجزاء",
+            "integration by parts",
+            "الاستبدال",
+            "substitution",
+            "الكسور الجزئية",
+            "partial fractions"
+        ]
+    },
+    {
+        "playlist_name": "DIFFERENTIATION I التفاضل",
+        "tags": [
+            "تفاضل",
+            "differentiation",
+            "مشتقة",
+            "derivative",
+            "قواعد الاشتقاق",
+            "differentiation rules",
+            "قاعدة الضرب",
+            "product rule",
+            "قاعدة السلسلة",
+            "chain rule",
+            "قاعدة القسمة",
+            "quotient rule",
+            "اشتقاق ضمني",
+            "implicit differentiation",
+            "معدل التغير",
+            "rate of change"
+        ]
+    },
+    {
+        "playlist_name": "Chemistry Basics I أساسيات الكمياء",
+        "tags": [
+            "كيمياء",
+            "chemistry",
+            "عناصر",
+            "elements",
+            "جزيئات",
+            "molecules",
+            "تفاعلات كيميائية",
+            "chemical reactions",
+            "حمض وقاعدة",
+            "acid and base",
+            "الجدول الدوري",
+            "periodic table",
+            "الترابط الكيميائي",
+            "chemical bonding",
+            "التوازن",
+            "equilibrium"
+        ]
+    },
+    {
+        "playlist_name": "Problem Solving",
+        "tags": [
+            "حل المشاكل",
+            "problem solving",
+            "استراتيجيات",
+            "strategies",
+            "منطق",
+            "logic",
+            "تحليل",
+            "analysis",
+            "تفكير نقدي",
+            "critical thinking",
+            "خطوات الحل",
+            "solution steps",
+            "أمثلة عملية",
+            "practical examples"
+        ]
+    },
+    {
+        "playlist_name": "Sequences & Series | المتتاليات و المتسلسلات",
+        "tags": [
+            "متتالية",
+            "sequence",
+            "متسلسلة",
+            "series",
+            "متتالية حسابية",
+            "arithmetic sequence",
+            "متسلسلة حسابية",
+            "arithmetic series",
+            "متتالية هندسية",
+            "geometric sequence",
+            "متسلسلة هندسية",
+            "geometric series",
+            "التقارب",
+            "convergence",
+            "الاختبارات",
+            "tests",
+            "متسلسلات قوة",
+            "power series"
+        ]
+    },
+    {
+        "playlist_name": "تطبيقات على التفاضل | Applications On Differentiation",
+        "tags": [
+            "تطبيقات التفاضل",
+            "differentiation applications",
+            "القيم القصوى",
+            "extreme values",
+            "اختبار المشتقة الأولى",
+            "first derivative test",
+            "اختبار المشتقة الثانية",
+            "second derivative test",
+            "التقعر",
+            "concavity",
+            "نقاط الانعطاف",
+            "inflection points",
+            "معدلات مرتبطة",
+            "related rates",
+            "المسائل الحسينية",
+            "optimization problems"
+        ]
+    },
+    {
+        "playlist_name": "MATRICES I المصفوفات",
+        "tags": [
+            "مصفوفة",
+            "matrix",
+            "صفوف وأعمدة",
+            "rows and columns",
+            "العمليات على المصفوفات",
+            "matrix operations",
+            "جمع المصفوفات",
+            "matrix addition",
+            "ضرب المصفوفات",
+            "matrix multiplication",
+            "محدد المصفوفة",
+            "matrix determinant",
+            "معكوس المصفوفة",
+            "matrix inverse",
+            "مصفوفة موسعة",
+            "augmented matrix"
+        ]
+    }
+]

@@ -2,10 +2,24 @@ from fastapi import FastAPI
 from src.routers.llm_router import llm_router
 from src.routers.evaluator_router import evaluator_router
 from fastapi.middleware.cors import CORSMiddleware
-app = FastAPI()
+from contextlib import asynccontextmanager
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+
+    print("Loading embedding model...")
+    print("Model loaded!")
+
+    yield
+
+    print("Shutting down...")
+    
+app = FastAPI(lifespan=lifespan)
 origins = [
     "http://localhost:5173",
 ]
+
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,            # List of allowed origins
